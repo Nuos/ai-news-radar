@@ -16,7 +16,7 @@
 
 <br>
 
-[在线示例](https://learnprompt.github.io/ai-news-radar/) · [安装](#安装) · [安装后第一句话](#安装后第一句话) · [快速录入信息源](#快速录入信息源) · [伯乐会选什么](#伯乐Skill会选什么) · [工作原理](#工作原理)
+[在线示例](https://nuos.github.io/ai-news-radar/) · [安装](#安装) · [安装后第一句话](#安装后第一句话) · [快速录入信息源](#快速录入信息源) · [伯乐会选什么](#伯乐Skill会选什么) · [工作原理](#工作原理)
 
 </div>
 
@@ -48,7 +48,7 @@ AI News Radar原本是给自己用的AI日报网站，专门覆盖那些平时�
 
 你可以先看公开版：
 
-https://learnprompt.github.io/ai-news-radar/
+https://nuos.github.io/ai-news-radar/
 
 这个页面会持续更新AI、开发者、官方博客、技术聚合站和公开日报类来源。
 
@@ -61,13 +61,13 @@ https://learnprompt.github.io/ai-news-radar/
 如果你只是想看日报，不需要安装，直接打开在线页面即可：
 
 ```text
-https://learnprompt.github.io/ai-news-radar/
+https://nuos.github.io/ai-news-radar/
 ```
 
 如果你想做自己的版本：
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
+git clone https://github.com/Nuos/ai-news-radar.git
 cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
@@ -438,11 +438,11 @@ It only helps AI News Radar find sources worth tracking.
 
 **Live demo:**
 
-https://learnprompt.github.io/ai-news-radar/
+https://nuos.github.io/ai-news-radar/
 
 **Repository:**
 
-https://github.com/LearnPrompt/ai-news-radar
+https://github.com/Nuos/ai-news-radar
 
 ### Quick prompt after install
 
