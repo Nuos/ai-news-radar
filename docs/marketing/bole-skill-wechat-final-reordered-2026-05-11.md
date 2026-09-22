@@ -158,7 +158,7 @@ RSS不是没用，RSS太有用了。
 
 公开页面在这里。
 
-https://learnprompt.github.io/ai-news-radar/
+https://nuos.github.io/ai-news-radar/
 
 这个阶段当然有意义。
 
@@ -308,11 +308,11 @@ AI热点站很多。
 
 如果你只是想看结果，可以直接打开AI News Radar。
 
-https://learnprompt.github.io/ai-news-radar/
+https://nuos.github.io/ai-news-radar/
 
 如果你想自己改，可以fork仓库。
 
-https://github.com/LearnPrompt/ai-news-radar
+https://github.com/Nuos/ai-news-radar
 
 如果你已经有一堆自己的RSS、Newsletter、GitHub项目、X账号、飞书资料，最简单的方法是把下面这句话丢给你的Agent。
 
@@ -363,5 +363,5 @@ AI已经让获取信息的成本越来越低。
 - AI HOT：https://aihot.virxact.com/
 - AI HOT Agent接入：https://aihot.virxact.com/agent
 - Follow Builders：https://github.com/zarazhangrui/follow-builders
-- AI News Radar公开页：https://learnprompt.github.io/ai-news-radar/
-- AI News Radar仓库：https://github.com/LearnPrompt/ai-news-radar
+- AI News Radar公开页：https://nuos.github.io/ai-news-radar/
+- AI News Radar仓库：https://github.com/Nuos/ai-news-radar
