@@ -22,7 +22,7 @@ npx skills add Nuos/ai-news-radar -s ai-radar -g
 
 装完对Agent说一句：`今天AI圈有什么？`
 
-**在线站** → [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/)（数据源/备用：[nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/)）
+**在线站** → [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/) · [Nuos · X/Twitter](https://x.com/_nUOs_)
 
 [English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
@@ -43,12 +43,6 @@ npx skills add Nuos/ai-news-radar -s ai-radar -g
 **③ fork 拥有自己的筛子** → fork本仓库，信源换成你自己的 OPML，口味改 `personas/` 下的 markdown 文件，数据长在你自己的 GitHub Pages 上。跳到[fork 指南](#fork-指南五步拥有自己的雷达)。
 
 三层是一条路：让Agent读报 → 自己看报 → 自己办报。
-
----
-
-## 姊妹站 · 一条流水线
-
-雷达管跟踪，上下游各有一站。先去 [**AI MAP** 热点图谱](https://aimap.carlwow.com) 一张图看最近 7 天谁在升温（每 12 小时刷新），锁定目标后回雷达深挖信源；看到想上手的热点，去 [**GoodCase** 用例库](https://goodcase.carlwow.com) 直接查现成案例和 Prompt。发现 → 跟踪 → 使用，三站一条路。
 
 ---
 
@@ -415,12 +409,10 @@ X API演示配置见 `docs/guides/x-api-demo-config.md`；
 
 <div align="center">
 
-**更多好用 Skill · More Skills** → [learnprompt.pro/skills](https://learnprompt.pro/skills/)
+**Nuos · 项目与联系**
 
-[鲁班·Skill打磨](https://github.com/Nuos/luban-skill) · [庖丁·博主蒸馏](https://github.com/Nuos/paoding-skill) · [蔡伦·对话造纸](https://github.com/Nuos/cailun-skill) · [阿福·LLM Todo](https://github.com/Nuos/afu-llm-todo) · [愚公·Loop工程](https://github.com/Nuos/loop-engineering) · [搭子·结对开发](https://github.com/Nuos/partner-skill) · [AI雷达·零API资讯](https://github.com/Nuos/ai-news-radar)
+[在线雷达](https://nuos.github.io/ai-news-radar/) · [GitHub 仓库](https://github.com/Nuos/ai-news-radar) · [X / Twitter](https://x.com/_nUOs_)
 
-[淘金小镇·ClawHub日榜](https://github.com/Nuos/skillrush-town) · [Irasutoya·正文配图](https://github.com/Nuos/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/Nuos/humanize-ppt) · [CC Harness·六件套](https://github.com/Nuos/cc-harness-skills) · [微信读书教练](https://github.com/Nuos/carl-weread) · [X Article发布](https://github.com/Nuos/x-article-publisher-skill)
-
-<sub>**LearnPrompt 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
+<sub>本分支由 Nuos 维护；原项目作者 LearnPrompt 及贡献者的署名、版权与 MIT 许可保留。</sub>
 
 </div>
