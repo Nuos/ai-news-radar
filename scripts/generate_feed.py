@@ -2,7 +2,7 @@
 """Generate an RSS 2.0 feed from the curated daily brief.
 
 Output lands at data/feed.xml so the workflow's ``git add data/`` publishes it
-with every hourly snapshot. Public URL: https://news.learnprompt.pro/data/feed.xml
+with every hourly snapshot. Public URL: https://nuos.github.io/ai-news-radar/data/feed.xml
 
 Feed content is the curated layer (daily-brief clusters, persona-reviewed);
 falls back to top AI-scored items from latest-24h.json when the brief is
@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-SITE = "https://news.learnprompt.pro"
+SITE = "https://nuos.github.io/ai-news-radar"
 FEED_PATH = "data/feed.xml"
 MAX_ITEMS = 20
 

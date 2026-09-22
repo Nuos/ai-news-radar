@@ -14,7 +14,7 @@ description: |
 第一件事：确定数据源地址。所有请求都基于这一行——
 
 ```bash
-BASE_URL=https://news.Nuos.pro/data
+BASE_URL=https://nuos.github.io/ai-news-radar/data
 ```
 
 **fork / 自部署用户只需要改这一行**，换成 `https://<用户名>.github.io/ai-news-radar/data`。GitHub Pages 是数据的 canonical 源，不要换成其他镜像域名。第一次发现用户有自己的部署时问一次，之后记住。
@@ -245,7 +245,7 @@ EOF
 
 ## 失败模式
 
-- **Pages 404 / 网络失败**：换 raw 地址重试一次：`https://raw.githubusercontent.com/LearnPrompt/ai-news-radar/master/data/latest-24h.json`。还不行就如实告知，不要编造新闻。
+- **Pages 404 / 网络失败**：换 raw 地址重试一次：`https://raw.githubusercontent.com/Nuos/ai-news-radar/master/data/latest-24h.json`。还不行就如实告知，不要编造新闻。
 - **数据过期**：见"新鲜度检查"。照常回答 + 显著标注 + 建议维护者排查。
 - **top3-personas.json 为空**：降级模式，如实说明三口味点评需要上游配 LLM Key，退回普通简报。
 - **某类别为空**（如当天没有论文）：如实说"过去24小时雷达里没有论文类条目"，不要拿别的类别凑数。

@@ -1,3 +1,7 @@
+<!-- nuos-deployment:start -->
+> **Nuos 自托管配置**：[打开本站](https://nuos.github.io/ai-news-radar/) · [运行记录](https://github.com/Nuos/ai-news-radar/actions/workflows/update-news.yml) · [部署说明](docs/NUOS_DEPLOYMENT.md)。本分支按每小时第 17 分（UTC）更新，使用公开信源，无 API Key 也可运行。未启用付费源或邮箱；下方保留上游项目说明。
+<!-- nuos-deployment:end -->
+
 <div align="center">
 
 # AI News Radar
