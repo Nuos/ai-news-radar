@@ -6,19 +6,19 @@
 
 **It finds the thoroughbreds among your sources, merges scattered updates into story timelines, then reviews each day's headlines from three distinct personas.**
 
-[![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![Live](https://img.shields.io/badge/Live-news.learnprompt.pro-green?style=flat-square)](https://news.learnprompt.pro)
-[![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
+[![GitHub stars](https://img.shields.io/github/stars/Nuos/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/Nuos/ai-news-radar/stargazers)
+[![Live](https://img.shields.io/badge/Live-nuos.github.io-green?style=flat-square)](https://nuos.github.io/ai-news-radar/)
+[![Actions](https://img.shields.io/github/actions/workflow/status/Nuos/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/Nuos/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20Scout-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
 ```bash
-npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+npx skills add Nuos/ai-news-radar -s ai-radar -g
 ```
 
 Then ask your agent: `What happened in AI today?`
 
-**Live site** → [news.learnprompt.pro](https://news.learnprompt.pro) (data source / fallback: [learnprompt.github.io/ai-news-radar](https://learnprompt.github.io/ai-news-radar/))
+**Live site** → [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/) (data source / fallback: [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/))
 
 [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
@@ -34,7 +34,7 @@ Then ask your agent: `What happened in AI today?`
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② Read the site directly** → open [news.learnprompt.pro](https://news.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review. When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
+**② Read the site directly** → open [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review. When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
 
 **③ Fork and own your own filter** → fork this repo, swap in your own OPML sources, edit a markdown file under `personas/` to change the taste, and the data grows on your own GitHub Pages. Jump to the [fork guide](#fork-guide-your-own-radar-in-five-steps).
 
@@ -217,7 +217,7 @@ If `daily-brief.json` is not available yet, the page falls back to candidate Sco
 
 ## Fork guide: your own radar in five steps
 
-1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar).
+1. **Fork** [Nuos/ai-news-radar](https://github.com/Nuos/ai-news-radar).
 2. **Enable Actions**: GitHub pauses workflows on forks by default — enable them on the Actions tab, and `update-news.yml` runs every 30 minutes.
 3. **(Optional) Add `DEEPSEEK_API_KEY`**: Settings → Secrets and variables → Actions. This unlocks persona reviews, title enhancement, real pipeline-generated review lines for curated items, and more reliable Chinese title translation (refusal text and degenerate output fall back to the original title automatically). Without it everything still runs — rule-based scores, original titles, and Google Translate take over, and the review block simply doesn't render. The default model is `deepseek-v4-flash`; set a repo Variable `DEEPSEEK_MODEL` if you want a different one. Add `TITLE_ENHANCE_MAX_PER_RUN` too if you want to cap how many titles get rewritten per run (defaults to 30).
 4. **Enable GitHub Pages**: Settings → Pages, serve the master branch root. Your radar is live minutes later.
@@ -232,7 +232,7 @@ Readers do not need to install anything. Open the live site directly.
 To fork and customize your own version locally:
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
+git clone https://github.com/Nuos/ai-news-radar.git
 cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
@@ -316,7 +316,7 @@ The single-account / single-newsletter demo is in `docs/guides/rileybrown-alphas
 | v0.8 | Same story — whose take do you trust? | Three-persona reviews, TOP3 side-by-side, persona-as-markdown-file (editable, PR-able), Vercel public site |
 | v0.9 | Three views coexist — how do they read as one news feed? | Single-layer IA (category tabs × curated/all × timeline), mobile/classic dual view, real pipeline-generated reviews, title enhancement, source-quality hardening, same-event multi-source expansion, data-source switching, aggregator sub-source classification |
 
-See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the full history.
+See [Releases](https://github.com/Nuos/ai-news-radar/releases) for the full history.
 
 ## Acknowledgements
 
@@ -334,10 +334,10 @@ See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the fu
 
 **更多好用 Skill · More Skills** → [learnprompt.pro/skills](https://learnprompt.pro/skills/)
 
-[鲁班·Skill打磨](https://github.com/LearnPrompt/luban-skill) · [庖丁·博主蒸馏](https://github.com/LearnPrompt/paoding-skill) · [蔡伦·对话造纸](https://github.com/LearnPrompt/cailun-skill) · [阿福·LLM Todo](https://github.com/LearnPrompt/afu-llm-todo) · [愚公·Loop工程](https://github.com/LearnPrompt/loop-engineering) · [搭子·结对开发](https://github.com/LearnPrompt/partner-skill) · [AI雷达·零API资讯](https://github.com/LearnPrompt/ai-news-radar)
+[鲁班·Skill打磨](https://github.com/Nuos/luban-skill) · [庖丁·博主蒸馏](https://github.com/Nuos/paoding-skill) · [蔡伦·对话造纸](https://github.com/Nuos/cailun-skill) · [阿福·LLM Todo](https://github.com/Nuos/afu-llm-todo) · [愚公·Loop工程](https://github.com/Nuos/loop-engineering) · [搭子·结对开发](https://github.com/Nuos/partner-skill) · [AI雷达·零API资讯](https://github.com/Nuos/ai-news-radar)
 
-[淘金小镇·ClawHub日榜](https://github.com/LearnPrompt/skillrush-town) · [Irasutoya·正文配图](https://github.com/LearnPrompt/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/LearnPrompt/humanize-ppt) · [CC Harness·六件套](https://github.com/LearnPrompt/cc-harness-skills) · [微信读书教练](https://github.com/LearnPrompt/carl-weread) · [X Article发布](https://github.com/LearnPrompt/x-article-publisher-skill)
+[淘金小镇·ClawHub日榜](https://github.com/Nuos/skillrush-town) · [Irasutoya·正文配图](https://github.com/Nuos/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/Nuos/humanize-ppt) · [CC Harness·六件套](https://github.com/Nuos/cc-harness-skills) · [微信读书教练](https://github.com/Nuos/carl-weread) · [X Article发布](https://github.com/Nuos/x-article-publisher-skill)
 
-<sub>**[LearnPrompt](https://github.com/LearnPrompt) 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
+<sub>**LearnPrompt 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
 
 </div>
