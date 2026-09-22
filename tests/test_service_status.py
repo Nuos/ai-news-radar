@@ -1,5 +1,7 @@
 from datetime import datetime, timezone
 from pathlib import Path
+import re
+from urllib.parse import urlsplit
 
 from scripts.update_news import (
     build_openai_service_status_payload,
@@ -100,13 +102,27 @@ def test_invalid_api_response_is_not_reported_as_healthy():
     assert result["ok"] is False
 
 
-def test_both_pages_load_existing_shared_assets_and_preserve_domain():
+def test_both_pages_load_existing_shared_assets_and_consistent_site_metadata():
     root = Path(__file__).resolve().parents[1]
+    canonical_hosts = set()
     for name, prefix in (("index.html", "./"), ("classic/index.html", "../")):
         source = (root / name).read_text()
         assert source.count('id="serviceStatusPanel"') == 1
         assert f'{prefix}assets/service-status.js?v=20260909' in source
         assert f'{prefix}assets/service-status.css?v=20260909' in source
-        assert 'https://news.learnprompt.pro/' in source
         assert '1625517181-jpg' not in source
-    assert (root / 'CNAME').read_text().strip() == 'news.learnprompt.pro'
+        canonical = re.search(r'<link\s+rel="canonical"\s+href="([^"]+)"', source)
+        social = re.search(r'<meta\s+property="og:url"\s+content="([^"]+)"', source)
+        assert canonical and social
+        assert canonical.group(1) == social.group(1)
+        parsed = urlsplit(canonical.group(1))
+        assert parsed.scheme == 'https' and parsed.hostname
+        canonical_hosts.add(parsed.hostname)
+    assert len(canonical_hosts) == 1
+    # Custom-domain sites and GitHub project Pages are both valid deployments.
+    # The fork setup tests separately verify the Nuos URL migration.
+    cname = root / 'CNAME'
+    if cname.exists():
+        assert cname.read_text().strip() in canonical_hosts
+    else:
+        assert (root / '.nojekyll').exists()
