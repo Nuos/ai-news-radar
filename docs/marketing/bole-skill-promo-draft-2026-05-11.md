@@ -178,7 +178,7 @@ AI时代最不缺的就是信息源。官方博客、RSS、OPML、GitHub生成fe
 
 我现在做的AI News Radar，公开版你可以直接打开看。
 
-https://learnprompt.github.io/ai-news-radar/
+https://nuos.github.io/ai-news-radar/
 
 它会持续更新AI、开发者、官方博客、技术聚合站和公开日报类来源。普通用户不用安装，打开网页就能看。
 
@@ -222,7 +222,7 @@ Newsletter如果有公开归档，就优先读公开归档；如果是私人邮�
 
 仓库在这里。
 
-https://github.com/LearnPrompt/ai-news-radar
+https://github.com/Nuos/ai-news-radar
 
 你可以fork它，也可以本地跑。
 
