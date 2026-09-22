@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 14:27:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 15:25:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants</title>
@@ -40,20 +40,20 @@
 <pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
 </item>
 <item>
+<title>Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …</title>
+<link>https://x.com/arena/status/2102416020678008986</link>
+<guid isPermaLink="true">https://x.com/arena/status/2102416020678008986</guid>
+<description>通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 15:13:34 +0000</pubDate>
+</item>
+<item>
 <title>办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元</title>
 <link>https://www.aibase.com/news/31276</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31276</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 11:22:11 +0000</pubDate>
-</item>
-<item>
-<title>Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…</title>
-<link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
-<guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
-<description>Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。（X：Kimi.ai (@Kimi_Moonshot)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W38</title>
@@ -64,12 +64,28 @@
 <pubDate>Tue, 22 Sep 2026 07:16:08 +0000</pubDate>
 </item>
 <item>
-<title>Grok 4.7 现已上线 GitHub Copilot / Grok 4.7 is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</guid>
+<title>Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…</title>
+<link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
+<guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
+<description>Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。（X：Kimi.ai (@Kimi_Moonshot)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
+</item>
+<item>
+<title>LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API / LiteParse Updates： September 2026</title>
+<link>https://www.llamaindex.ai/blog/liteparse-updates-september-2026</link>
+<guid isPermaLink="true">https://www.llamaindex.ai/blog/liteparse-updates-september-2026</guid>
+<description>LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。（LlamaIndex：产品、工程与评测）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 14:38:40 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Enterprise 新增凭证清单导出功能 / GitHub Enterprise adds credential inventory exports</title>
+<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 14:54:12 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
 </item>
 <item>
 <title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…</title>
@@ -128,14 +144,6 @@
 <pubDate>Tue, 22 Sep 2026 09:57:56 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Enterprise 新增凭证清单导出功能 / GitHub Enterprise adds credential inventory exports</title>
-<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
-</item>
-<item>
 <title>SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半</title>
 <link>https://www.aibase.com/news/31268</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31268</guid>
@@ -155,14 +163,6 @@
 <title>月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面</title>
 <link>https://www.aibase.com/news/31269</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31269</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 09:57:56 +0000</pubDate>
-</item>
-<item>
-<title>比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上</title>
-<link>https://www.aibase.com/news/31275</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31275</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 09:57:56 +0000</pubDate>
