@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:22:15.402947Z",
+  "generated_at": "2026-09-22T20:24:53.149702Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.9065,
-      "importance": 0.9065,
-      "importance_score": 0.9065,
+      "score": 0.9038,
+      "importance": 0.9038,
+      "importance_score": 0.9038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9804,
+        "recency": 0.9657,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.9017,
-      "importance": 0.9017,
-      "importance_score": 0.9017,
+      "score": 0.8991,
+      "importance": 0.8991,
+      "importance_score": 0.8991,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9648,
+        "recency": 0.9504,
         "story_heat": 0.5
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -331,15 +331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9688,
+        "recency": 0.9543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -366,7 +366,202 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_a809a02e7e68",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "Better prompt caching for GPT-6",
+          "title_zh": null,
+          "title_en": "Better prompt caching for GPT-6",
+          "title_original": "Better prompt caching for GPT-6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "Better prompt caching for GPT-6",
+          "title_zh": null,
+          "title_en": "Better prompt caching for GPT-6",
+          "title_original": "Better prompt caching for GPT-6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.868,
+      "importance": 0.868,
+      "importance_score": 0.868,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T20:24:53.149702Z",
+      "latest_at": "2026-09-22T20:24:53.149702Z",
+      "primary_item": {
+        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+        "title": "Better prompt caching for GPT-6",
+        "title_zh": null,
+        "title_en": "Better prompt caching for GPT-6",
+        "title_original": "Better prompt caching for GPT-6",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_f9845f56532f",
+      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "primary_url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
+          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+          "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
+          "recommend_reason_zh": null,
+          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:03:38Z"
+        },
+        {
+          "id": "1bf731cb1fb7c5bdd2934309d71f758cffd88a4a",
+          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+          "title_en": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_original": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-22T19:03:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
+          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+          "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
+          "recommend_reason_zh": null,
+          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:03:38Z"
+        },
+        {
+          "id": "1bf731cb1fb7c5bdd2934309d71f758cffd88a4a",
+          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+          "title_en": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "title_original": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-22T19:03:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T19:03:38Z",
+      "latest_at": "2026-09-22T19:03:38Z",
+      "primary_item": {
+        "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
+        "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+        "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+        "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+        "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+        "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
+        "recommend_reason_zh": null,
+        "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -443,15 +638,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -478,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -526,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.756,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -609,15 +804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.756,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -692,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9664,
+        "recency": 0.9519,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,7 +922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -804,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9469,
         "story_heat": 0.25
       },
       "category": "official",
@@ -839,7 +1034,501 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_cb40729325c2",
+      "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+      "primary_url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
+          "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+          "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+          "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+          "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:59:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
+          "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+          "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+          "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+          "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:59:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9797,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T18:59:35Z",
+      "latest_at": "2026-09-22T18:59:35Z",
+      "primary_item": {
+        "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
+        "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+        "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+        "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+        "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+        "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_366b9b129591",
+      "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+      "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:20:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:20:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9704,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T18:20:06Z",
+      "latest_at": "2026-09-22T18:20:06Z",
+      "primary_item": {
+        "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+        "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+        "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_9bf1a94971e8",
+      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "primary_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
+          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+          "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
+          "title_en": "Transformers now runs llama.cpp quants",
+          "title_original": "Transformers now runs llama.cpp quants",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
+          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+          "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
+          "title_en": "Transformers now runs llama.cpp quants",
+          "title_original": "Transformers now runs llama.cpp quants",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7447,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
+        "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+        "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
+        "title_en": "Transformers now runs llama.cpp quants",
+        "title_original": "Transformers now runs llama.cpp quants",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_cd9dba942535",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+      "url": "https://x.com/mark_k/status/2102437510731219218",
+      "primary_url": "https://x.com/mark_k/status/2102437510731219218",
+      "source": "@mark_k",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f954331306c3da6009c3265f549120d3121642d6",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mark_k/status/2102437510731219218",
+          "source": "@mark_k",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "@mark_k"
+      ],
+      "items": [
+        {
+          "id": "f954331306c3da6009c3265f549120d3121642d6",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mark_k/status/2102437510731219218",
+          "source": "@mark_k",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9471,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:38:58Z",
+      "latest_at": "2026-09-22T16:38:58Z",
+      "primary_item": {
+        "id": "f954331306c3da6009c3265f549120d3121642d6",
+        "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+        "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+        "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+        "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+        "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/mark_k/status/2102437510731219218",
+        "source": "@mark_k",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_6fb704b5b9b3",
+      "title": "Codex CLI 0.156.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
+          "title": "Codex CLI 0.156.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.156.0",
+          "title_original": "Codex CLI 0.156.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
+          "title": "Codex CLI 0.156.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.156.0",
+          "title_original": "Codex CLI 0.156.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7447,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
+        "title": "Codex CLI 0.156.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.156.0",
+        "title_original": "Codex CLI 0.156.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
+      }
+    },
+    {
+      "story_id": "story_1ac6861cd270",
+      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_en": null,
+          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_en": null,
+          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T19:29:49.288000Z",
+      "latest_at": "2026-09-22T19:29:49.288000Z",
+      "primary_item": {
+        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "title_en": null,
+        "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -945,15 +1634,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.9193,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -980,254 +1669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_366b9b129591",
-      "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-      "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
-          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:20:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
-          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:20:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9852,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:20:06Z",
-      "latest_at": "2026-09-22T18:20:06Z",
-      "primary_item": {
-        "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
-        "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-        "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
-        "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-        "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
-        "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_9bf1a94971e8",
-      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "primary_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-          "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-          "title_en": "Transformers now runs llama.cpp quants",
-          "title_original": "Transformers now runs llama.cpp quants",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-          "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-          "title_en": "Transformers now runs llama.cpp quants",
-          "title_original": "Transformers now runs llama.cpp quants",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.756,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-        "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-        "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-        "title_en": "Transformers now runs llama.cpp quants",
-        "title_original": "Transformers now runs llama.cpp quants",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_cd9dba942535",
-      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-      "url": "https://x.com/mark_k/status/2102437510731219218",
-      "primary_url": "https://x.com/mark_k/status/2102437510731219218",
-      "source": "@mark_k",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f954331306c3da6009c3265f549120d3121642d6",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mark_k/status/2102437510731219218",
-          "source": "@mark_k",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "@mark_k"
-      ],
-      "items": [
-        {
-          "id": "f954331306c3da6009c3265f549120d3121642d6",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mark_k/status/2102437510731219218",
-          "source": "@mark_k",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9615,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:38:58Z",
-      "latest_at": "2026-09-22T16:38:58Z",
-      "primary_item": {
-        "id": "f954331306c3da6009c3265f549120d3121642d6",
-        "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-        "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-        "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-        "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/mark_k/status/2102437510731219218",
-        "source": "@mark_k",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -1275,15 +1717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1309,7 +1751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -1357,15 +1799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,7 +1833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     },
     {
@@ -1439,15 +1881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9843,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1473,419 +1915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_d73345def75c",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "primary_url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-          "title": "Priorities and principles for effective third party assessments",
-          "title_zh": null,
-          "title_en": "Priorities and principles for effective third party assessments",
-          "title_original": "Priorities and principles for effective third party assessments",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-          "title": "Priorities and principles for effective third party assessments",
-          "title_zh": null,
-          "title_en": "Priorities and principles for effective third party assessments",
-          "title_original": "Priorities and principles for effective third party assessments",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.756,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-        "title": "Priorities and principles for effective third party assessments",
-        "title_zh": null,
-        "title_en": "Priorities and principles for effective third party assessments",
-        "title_original": "Priorities and principles for effective third party assessments",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_4caf795cfc4f",
-      "title": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50% / GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-      "url": "https://x.com/arena/status/2102470066784854177",
-      "primary_url": "https://x.com/arena/status/2102470066784854177",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98af602b4c628a44de40bf1c2b1c4fcb19139920",
-          "title": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50% / GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-          "title_zh": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-          "title_original": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-          "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102470066784854177",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:48:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "98af602b4c628a44de40bf1c2b1c4fcb19139920",
-          "title": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50% / GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-          "title_zh": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-          "title_original": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-          "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102470066784854177",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:48:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9919,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:48:20Z",
-      "latest_at": "2026-09-22T18:48:20Z",
-      "primary_item": {
-        "id": "98af602b4c628a44de40bf1c2b1c4fcb19139920",
-        "title": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50% / GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-        "title_zh": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%",
-        "title_en": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-        "title_original": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-        "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102470066784854177",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_44d4da167a65",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-      "url": "https://x.com/gdb/status/2102470107826159755",
-      "primary_url": "https://x.com/gdb/status/2102470107826159755",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47a8bad6dd7e8a7b4b689c2c3e75d6deb899319e",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-          "title_original": "GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-          "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，两款模型基于 GPT-6 Astra 的技术成果，以更快、更便宜的形式支持大规模工作，覆盖专业工作、事实性、编码、computer use 和对齐等能力。通过提升 caching 和推理效率，两款模型的 API 价格较 GPT-5.6 促销定价低 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102470107826159755",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:48:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "47a8bad6dd7e8a7b4b689c2c3e75d6deb899319e",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-          "title_original": "GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-          "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，两款模型基于 GPT-6 Astra 的技术成果，以更快、更便宜的形式支持大规模工作，覆盖专业工作、事实性、编码、computer use 和对齐等能力。通过提升 caching 和推理效率，两款模型的 API 价格较 GPT-5.6 促销定价低 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102470107826159755",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:48:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9919,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:48:30Z",
-      "latest_at": "2026-09-22T18:48:30Z",
-      "primary_item": {
-        "id": "47a8bad6dd7e8a7b4b689c2c3e75d6deb899319e",
-        "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-        "title_en": "GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-        "title_original": "GPT-6 Sol and Luna - faster， more affordable models with the advances behind Astra's SOTA performanc…",
-        "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，两款模型基于 GPT-6 Astra 的技术成果，以更快、更便宜的形式支持大规模工作，覆盖专业工作、事实性、编码、computer use 和对齐等能力。通过提升 caching 和推理效率，两款模型的 API 价格较 GPT-5.6 促销定价低 50%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2102470107826159755",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_f1545268658e",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-      "url": "https://x.com/sama/status/2102464201335984392",
-      "primary_url": "https://x.com/sama/status/2102464201335984392",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e88a485535a69f331d23133204af51b26e002bc8",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2102464201335984392",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:25:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "e88a485535a69f331d23133204af51b26e002bc8",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2102464201335984392",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9863,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:25:02Z",
-      "latest_at": "2026-09-22T18:25:02Z",
-      "primary_item": {
-        "id": "e88a485535a69f331d23133204af51b26e002bc8",
-        "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
-        "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-        "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-        "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2102464201335984392",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
-      }
-    },
-    {
-      "story_id": "story_a2908ae72b38",
-      "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "primary_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-          "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
-          "title_en": "Deprecation notice: All-platform CodeQL bundle",
-          "title_original": "Deprecation notice: All-platform CodeQL bundle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T09:21:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-          "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
-          "title_en": "Deprecation notice: All-platform CodeQL bundle",
-          "title_original": "Deprecation notice: All-platform CodeQL bundle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T09:21:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8653,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:21:03Z",
-      "latest_at": "2026-09-22T09:21:03Z",
-      "primary_item": {
-        "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-        "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-        "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
-        "title_en": "Deprecation notice: All-platform CodeQL bundle",
-        "title_original": "Deprecation notice: All-platform CodeQL bundle",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T19:41:48.513435Z"
+        "scored_at": "2026-09-22T20:48:48.363366Z"
       }
     }
   ]
