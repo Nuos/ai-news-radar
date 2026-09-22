@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 17:23:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 18:31:36 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5</title>
@@ -14,6 +14,30 @@
 <description>Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index</title>
+<link>https://artificialanalysis.ai/articles/claude-opus-5-5</link>
+<guid isPermaLink="true">https://artificialanalysis.ai/articles/claude-opus-5-5</guid>
+<description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。（Artificial Analysis 完整文章（网页））</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 17:41:36 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Sol and Luna in Codex and ChatGPT Work</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>英国 AISI 和 EvalEval 如何使基准结果可重复 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible</title>
@@ -32,20 +56,28 @@
 <pubDate>Tue, 22 Sep 2026 16:38:14 +0000</pubDate>
 </item>
 <item>
-<title>弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle</title>
-<link>https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 09:21:03 +0000</pubDate>
-</item>
-<item>
 <title>Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day</title>
 <link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
 <guid isPermaLink="true">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</guid>
 <description>Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。（Hacker News：AI 热帖）</description>
 <category>多源热议</category>
 <pubDate>Tue, 22 Sep 2026 14:35:15 +0000</pubDate>
+</item>
+<item>
+<title>Priorities and principles for effective third party assessments</title>
+<link>https://openai.com/index/priorities-principles-third-party-assessments</link>
+<guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…</title>
+<link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102462962758033624</guid>
+<description>Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 18:20:06 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…</title>
@@ -64,20 +96,20 @@
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…</title>
-<link>https://x.com/ArtificialAnlys/status/2102438210798514391</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102438210798514391</guid>
-<description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 16:41:45 +0000</pubDate>
-</item>
-<item>
-<title>全新仓库 pull requests 页面正式发布 / Refreshed repository pull requests page generally available</title>
-<link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
+<title>弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle</title>
+<link>https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 09:21:03 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…</title>
+<link>https://x.com/arena/status/2102454952576868638</link>
+<guid isPermaLink="true">https://x.com/arena/status/2102454952576868638</guid>
+<description>Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 17:48:17 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5 / Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…</title>
@@ -94,14 +126,6 @@
 <description>Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。（X：Boris Cherny (@bcherny)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 16:45:10 +0000</pubDate>
-</item>
-<item>
-<title>Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …</title>
-<link>https://x.com/arena/status/2102416020678008986</link>
-<guid isPermaLink="true">https://x.com/arena/status/2102416020678008986</guid>
-<description>通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 15:13:34 +0000</pubDate>
 </item>
 <item>
 <title>oMLX 创作者兼维护者 Jun Kim 加入 Hugging Face，助力 MLX 社区发展 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
@@ -128,44 +152,20 @@
 <pubDate>Tue, 22 Sep 2026 11:22:11 +0000</pubDate>
 </item>
 <item>
+<title>全新仓库 pull requests 页面正式发布 / Refreshed repository pull requests page generally available</title>
+<link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
+</item>
+<item>
 <title>何夕2077 AI 深度信号周报 2026 W38</title>
 <link>https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38</link>
 <guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38</guid>
 <description>Daily Digest</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 07:16:08 +0000</pubDate>
-</item>
-<item>
-<title>Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…</title>
-<link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
-<guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
-<description>Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。（X：Kimi.ai (@Kimi_Moonshot)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
-</item>
-<item>
-<title>LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API / LiteParse Updates： September 2026</title>
-<link>https://www.llamaindex.ai/blog/liteparse-updates-september-2026</link>
-<guid isPermaLink="true">https://www.llamaindex.ai/blog/liteparse-updates-september-2026</guid>
-<description>LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。（LlamaIndex：产品、工程与评测）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 14:38:40 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Enterprise 新增凭证清单导出功能 / GitHub Enterprise adds credential inventory exports</title>
-<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
-</item>
-<item>
-<title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…</title>
-<link>https://x.com/rohanpaul_ai/status/2102128625126605059</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102128625126605059</guid>
-<description>不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 20:11:34 +0000</pubDate>
 </item>
 </channel>
 </rss>
