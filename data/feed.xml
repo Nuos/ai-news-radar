@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 20:24:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:22:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna</title>
@@ -24,6 +24,14 @@
 <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
 </item>
 <item>
+<title>五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon</title>
+<link>https://www.bloomberg.com/graphics/2026-iran-school-attack</link>
+<guid isPermaLink="true">https://www.bloomberg.com/graphics/2026-iran-school-attack</guid>
+<description>五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Tue, 22 Sep 2026 20:00:35 +0000</pubDate>
+</item>
+<item>
 <title>Claude Opus 5.5 is now available in GitHub Copilot</title>
 <link>https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</guid>
@@ -32,20 +40,12 @@
 <pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
 </item>
 <item>
-<title>Better prompt caching for GPT-6</title>
+<title>OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6</title>
 <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
 <guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 20:24:53 +0000</pubDate>
-</item>
-<item>
-<title>五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children</title>
-<link>https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</link>
-<guid isPermaLink="true">https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</guid>
-<description>据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index</title>
@@ -86,6 +86,14 @@
 <description>Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。（Claude Code：GitHub Releases（RSS））</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 16:38:14 +0000</pubDate>
+</item>
+<item>
+<title>五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children</title>
+<link>https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</link>
+<guid isPermaLink="true">https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</guid>
+<description>据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5</title>
@@ -136,12 +144,12 @@
 <pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
 </item>
 <item>
-<title>Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day</title>
-<link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
-<guid isPermaLink="true">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</guid>
-<description>Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Tue, 22 Sep 2026 14:35:15 +0000</pubDate>
+<title>Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…</title>
+<link>https://x.com/rohanpaul_ai/status/2102491250515681384</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102491250515681384</guid>
+<description>Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 20:12:31 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…</title>
@@ -158,14 +166,6 @@
 <description>OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。（X：Sherwin Wu（@sherwinwu））</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 18:19:24 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …</title>
-<link>https://x.com/ChatGPT/status/2102462020339613966</link>
-<guid isPermaLink="true">https://x.com/ChatGPT/status/2102462020339613966</guid>
-<description>OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。（X：ChatGPT (@ChatGPT)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 18:16:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
