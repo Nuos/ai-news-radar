@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Nuos 的 GitHub 项目主页：浏览项目简介、访问代码仓库，打开 AI News Radar 在线雷达。">
+  <meta name="theme-color" content="#17676b">
+  <meta name="color-scheme" content="light">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Nuos · GitHub 项目主页">
+  <meta property="og:description" content="项目简介、代码仓库与在线入口。">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Nuos · GitHub 项目主页</title>
+  <style>
+    :root{--bg:#f7f8f6;--surface:#fff;--text:#1d2b2d;--muted:#626f70;--line:#dce4e1;--accent:#17676b;--soft:#eaf3f0;--radius:18px}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:var(--bg);color:var(--text);font:16px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline;text-underline-offset:4px}
+    a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-offset:5px}
+    button{font:inherit}
+    .wrap{max-width:1120px;margin:auto;padding:0 32px}
+    .skip{position:absolute;top:-90px;left:16px;z-index:5;background:var(--surface);padding:12px 20px;border:1px solid var(--accent)}
+    .skip:focus{top:12px}
+    .header{display:flex;align-items:center;justify-content:space-between;gap:20px;min-height:104px;border-bottom:1px solid var(--line)}
+    .identity{display:flex;gap:13px;align-items:center;color:var(--text)}
+    .identity:hover{text-decoration:none}
+    .monogram{display:grid;place-items:center;width:40px;height:40px;border-radius:12px;background:var(--accent);color:#fff;font-size:24px;font-weight:700}
+    .identity strong{font-size:22px;letter-spacing:-.6px}
+    .identity small{display:block;color:var(--muted);font-size:11px;letter-spacing:1.3px;line-height:1.2}
+    .header nav{display:flex;align-items:center;gap:25px;font-size:14px;font-weight:600}
+    .header nav a{color:var(--text)}
+    .hero{padding:65px 0 48px}
+    .eyebrow{display:flex;gap:11px;align-items:center;color:var(--accent);font-size:12px;font-weight:650;letter-spacing:1.8px;margin:0 0 20px}
+    .eyebrow:before{content:"";display:block;width:25px;height:2px;background:var(--accent)}
+    h1{font-size:clamp(34px,5.4vw,58px);line-height:1.2;letter-spacing:-1.8px;margin:0 0 20px;font-weight:720}
+    .hero p:last-child{max-width:650px;font-size:17px;color:var(--muted);margin:0}
+    .section-head{display:flex;align-items:baseline;justify-content:space-between;gap:18px;margin-bottom:20px}
+    h2{font-size:21px;letter-spacing:-.5px;margin:0}
+    .section-head>a{font-size:13px;white-space:nowrap}
+    .featured{display:grid;grid-template-columns:1.2fr 1fr;gap:20px}
+    .card{border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);padding:30px;display:flex;flex-direction:column;min-width:0}
+    .card.primary{background:linear-gradient(130deg,#eaf3f0 0%,#f4f8f5 100%);border-color:#ccdeda}
+    .kicker{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px;margin:0 0 22px}
+    .primary .kicker{color:var(--accent)}
+    .dot{width:6px;height:6px;display:inline-block;flex-shrink:0;background:var(--accent);border-radius:50%}
+    h3{font-size:25px;letter-spacing:-.5px;line-height:1.4;margin:0 0 5px;overflow-wrap:anywhere}
+    .subtitle{font-size:13px;color:var(--accent);margin:0 0 18px}
+    .description{font-size:15px;color:var(--muted);margin:0 0 22px;overflow-wrap:anywhere}
+    .tags{display:flex;gap:7px;flex-wrap:wrap;margin:0 0 26px;list-style:none;padding:0}
+    .tags li{font-size:11px;line-height:1.6;border:1px solid #d7e2df;color:#496362;padding:3px 8px;border-radius:5px}
+    .card-actions{display:flex;align-items:center;gap:22px;margin-top:auto;font-size:13px;font-weight:600;flex-wrap:wrap}
+    .button{display:inline-flex;align-items:center;justify-content:center;gap:20px;min-height:43px;padding:9px 18px;border-radius:8px;background:var(--accent);color:#fff}
+    .button:hover{background:#12575b;text-decoration:none}
+    .recent{margin-top:46px}
+    .section-tools{display:flex;gap:15px;align-items:center}
+    .refresh{border:1px solid var(--line);color:var(--accent);background:transparent;border-radius:7px;font-size:12px;min-height:35px;padding:5px 13px;cursor:pointer}
+    .refresh:hover{background:var(--soft)}
+    .refresh:disabled{opacity:.55;cursor:wait}
+    .status{color:var(--muted);font-size:12px;margin:-8px 0 19px;min-height:21px}
+    .repo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+    .repo-card{border:1px solid var(--line);border-radius:13px;background:var(--surface);padding:23px 22px;display:flex;flex-direction:column;min-width:0}
+    .repo-card h3{font-size:17px;letter-spacing:0;margin:9px 0 12px}
+    .repo-card h3 a{color:var(--text)}
+    .repo-type{font-size:11px;color:var(--muted)}
+    .repo-description{font-size:13px;color:var(--muted);overflow-wrap:anywhere;white-space:pre-wrap;margin:0 0 20px}
+    .repo-meta{display:flex;justify-content:space-between;align-items:center;gap:10px;color:var(--muted);font-size:11px;margin-top:auto;padding-top:14px;border-top:1px solid #edf0ed;flex-wrap:wrap}
+    .empty{padding:22px 26px;background:var(--surface);border:1px dashed #cdd9d4;border-radius:12px;color:var(--muted);font-size:14px}
+    .empty p{margin:0 0 8px}
+    .empty a{font-size:13px;font-weight:600}
+    footer{margin-top:56px;padding:24px 0 30px;border-top:1px solid var(--line);display:flex;align-items:flex-start;justify-content:space-between;gap:25px;color:var(--muted);font-size:12px}
+    footer p{margin:0;max-width:670px}
+    footer strong{color:var(--text);font-weight:600}
+    footer a{white-space:nowrap}
+    [hidden]{display:none!important}
+    @media(max-width:800px){.repo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.card{padding:25px}.hero{padding-top:48px}}
+    @media(max-width:600px){.wrap{padding:0 22px}.header{min-height:87px;gap:12px}.header nav{gap:17px;font-size:12px}.identity strong{font-size:20px}.monogram{width:34px;height:34px;font-size:20px}.identity{gap:9px}.hero{padding:43px 0 32px}.hero p:last-child{font-size:15px}h1{letter-spacing:-1px}h2{font-size:19px}.featured,.repo-grid{grid-template-columns:1fr}.card{padding:25px}.recent{margin-top:34px}.section-head{gap:10px}.section-head>a{font-size:12px}.section-tools{gap:8px}footer{margin-top:40px;flex-direction:column;gap:12px}.kicker{margin-bottom:17px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">跳到项目内容</a>
+  <div class="wrap">
+    <header class="header">
+      <a class="identity" href="https://github.com/Nuos" target="_blank" rel="noopener noreferrer" aria-label="Nuos 的 GitHub 主页">
+        <span class="monogram" aria-hidden="true">N</span>
+        <span><strong>Nuos</strong><small>PROJECT INDEX</small></span>
+      </a>
+      <nav aria-label="个人链接">
+        <a href="https://github.com/Nuos" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        <a href="https://x.com/_nUOs_" target="_blank" rel="noopener noreferrer">X / Twitter ↗</a>
+      </nav>
+    </header>
+    <main id="main">
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">NUOS / GITHUB</p>
+        <h1 id="page-title">GitHub 项目主页</h1>
+        <p>项目简介、代码仓库与在线入口。<br>在这里浏览 Nuos 的公开项目，找到想进一步了解的内容。</p>
+      </section>
+      <section aria-labelledby="featured-title">
+        <div class="section-head">
+          <h2 id="featured-title">项目入口</h2>
+          <a href="https://github.com/Nuos?tab=repositories" target="_blank" rel="noopener noreferrer">查看全部 GitHub 仓库 ↗</a>
+        </div>
+        <div class="featured">
+          <article class="card primary">
+            <p class="kicker"><span class="dot" aria-hidden="true"></span>在线应用 · 基于上游项目部署</p>
+            <h3>AI News Radar</h3>
+            <p class="subtitle">24 小时 AI 更新雷达</p>
+            <p class="description">汇集 AI、模型与开发者工具动态，提供信息去重、故事线合并、来源状态和 RSS 订阅。打开网页即可浏览，也可在 GitHub 查看代码与部署说明。</p>
+            <ul class="tags" aria-label="项目功能"><li>AI 资讯</li><li>GitHub Actions</li><li>RSS 订阅</li></ul>
+            <div class="card-actions">
+              <a class="button" href="https://nuos.github.io/ai-news-radar/">打开雷达 <span aria-hidden="true">→</span></a>
+              <a href="https://github.com/Nuos/ai-news-radar#readme" target="_blank" rel="noopener noreferrer">查看 README ↗</a>
+            </div>
+          </article>
+          <article class="card">
+            <p class="kicker">视频制作 · 项目资料</p>
+            <h3>OpenMontage</h3>
+            <p class="subtitle">面向 AI Agent 的视频制作流程</p>
+            <p class="description">围绕研究、脚本、素材生成、剪辑与最终合成组织视频制作流程。项目 README 提供工作方式、示例和使用说明。</p>
+            <ul class="tags" aria-label="项目主题"><li>Agent 工作流</li><li>视频制作</li><li>Python</li></ul>
+            <div class="card-actions">
+              <a href="https://github.com/Nuos/OpenMontage" target="_blank" rel="noopener noreferrer">查看仓库 ↗</a>
+              <a href="https://github.com/Nuos/OpenMontage#readme" target="_blank" rel="noopener noreferrer">阅读简介 ↗</a>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section class="recent" aria-labelledby="recent-title">
+        <div class="section-head">
+          <h2 id="recent-title">最近更新的公开项目</h2>
+          <div class="section-tools"><button class="refresh" id="refresh" type="button" hidden>刷新项目</button></div>
+        </div>
+        <p class="status" id="status" role="status" aria-live="polite">项目列表来自 GitHub 的公开仓库信息。</p>
+        <div class="repo-grid" id="repositories"></div>
+        <div class="empty" id="fallback">
+          <p>下方列表可自动读取公开仓库简介；上方项目入口始终可用。</p>
+          <a href="https://github.com/Nuos?tab=repositories" target="_blank" rel="noopener noreferrer">在 GitHub 浏览完整项目列表 ↗</a>
+        </div>
+        <noscript><p class="status">当前浏览器未启用 JavaScript，可使用上方项目入口或直接查看 GitHub 仓库列表。</p></noscript>
+      </section>
+    </main>
+    <footer>
+      <p><strong>Nuos · 项目与探索</strong><br>简介来自项目 README 与 GitHub 公开信息；项目归属与许可请以各仓库说明为准。</p>
+      <a href="https://x.com/_nUOs_" target="_blank" rel="noopener noreferrer">联系 Nuos ↗</a>
+    </footer>
+  </div>
+  <script>
+    (() => {
+      'use strict';
+      const OWNER = 'Nuos';
+      const API = 'https://api.github.com/users/Nuos/repos?type=owner&sort=updated&direction=desc&per_page=12';
+      const EXCLUDED = new Set(['nuos.github.io', 'ai-news-radar', 'openmontage']);
+      const grid = document.getElementById('repositories');
+      const status = document.getElementById('status');
+      const fallback = document.getElementById('fallback');
+      const refresh = document.getElementById('refresh');
+      const dateFormat = new Intl.DateTimeFormat('zh-CN', {year:'numeric',month:'2-digit',day:'2-digit'});
+      let loaded = false;
+      function element(tag, className, text) {
+        const node = document.createElement(tag);
+        if (className) node.className = className;
+        if (text !== undefined) node.textContent = text;
+        return node;
+      }
+      function validRepo(repo) {
+        return repo && repo.private === false && !repo.archived && !repo.disabled &&
+          typeof repo.name === 'string' && /^[a-zA-Z0-9_.-]{1,100}$/.test(repo.name) &&
+          repo.owner && typeof repo.owner.login === 'string' &&
+          repo.owner.login.toLowerCase() === OWNER.toLowerCase() &&
+          !EXCLUDED.has(repo.name.toLowerCase());
+      }
+      function card(repo) {
+        const node = element('article', 'repo-card');
+        node.append(element('span', 'repo-type', repo.fork ? 'Fork · 派生仓库' : 'GitHub 仓库'));
+        const heading = element('h3');
+        const link = element('a', '', repo.name);
+        link.href = 'https://github.com/' + OWNER + '/' + encodeURIComponent(repo.name);
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        heading.append(link);
+        node.append(heading);
+        const description = typeof repo.description === 'string' && repo.description.trim()
+          ? repo.description.trim().slice(0,400)
+          : '该仓库尚未填写简介，请打开仓库阅读 README。';
+        node.append(element('p', 'repo-description', description));
+        const meta = element('div', 'repo-meta');
+        meta.append(element('span', '', typeof repo.language === 'string' ? repo.language.slice(0,40) : '项目资料'));
+        const date = typeof repo.updated_at === 'string' ? new Date(repo.updated_at) : new Date(NaN);
+        if (Number.isFinite(date.getTime())) {
+          const time = element('time', '', '更新 ' + dateFormat.format(date));
+          time.dateTime = date.toISOString();
+          meta.append(time);
+        }
+        node.append(meta);
+        return node;
+      }
+      async function load() {
+        refresh.disabled = true;
+        refresh.textContent = '读取中…';
+        status.textContent = '正在读取 GitHub 公开项目…';
+        const controller = new AbortController();
+        const timer = window.setTimeout(() => controller.abort(), 8000);
+        try {
+          // Anonymous GET only: never send a token, account cookie or private data.
+          const response = await fetch(API, {
+            signal:controller.signal, credentials:'omit',
+            headers:{Accept:'application/vnd.github+json'}
+          });
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          const data = await response.json();
+          if (!Array.isArray(data)) throw new Error('Invalid repository list');
+          const repos = data.filter(validRepo).slice(0,6);
+          const fragment = document.createDocumentFragment();
+          repos.forEach(repo => fragment.append(card(repo)));
+          grid.replaceChildren(fragment);
+          loaded = repos.length > 0;
+          fallback.hidden = loaded;
+          status.textContent = loaded
+            ? '从 GitHub 最近更新的 12 个仓库中展示 ' + repos.length + ' 项，已排除上方项目及归档仓库；这不是完整清单。'
+            : '本次没有可补充展示的项目；可在 GitHub 查看完整列表。';
+        } catch (error) {
+          fallback.hidden = loaded;
+          status.textContent = loaded
+            ? '本次刷新未成功，保留上次读取的项目；请稍后重试。'
+            : '暂时无法读取 GitHub 项目列表（网络或访问限额），上方项目入口仍可使用。';
+        } finally {
+          window.clearTimeout(timer);
+          refresh.disabled = false;
+          refresh.textContent = '刷新项目';
+        }
+      }
+      refresh.hidden = false;
+      refresh.addEventListener('click', load);
+      load();
+    })();
+  </script>
+</body>
+</html>
