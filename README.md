@@ -10,19 +10,19 @@
 
 **先帮你从一堆信源里选出千里马，再把分散消息合并成故事线，最后用三种口味替你锐评每日头条。**
 
-[![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![Live](https://img.shields.io/badge/Live-news.learnprompt.pro-green?style=flat-square)](https://news.learnprompt.pro)
-[![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
+[![GitHub stars](https://img.shields.io/github/stars/Nuos/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/Nuos/ai-news-radar/stargazers)
+[![Live](https://img.shields.io/badge/Live-nuos.github.io-green?style=flat-square)](https://nuos.github.io/ai-news-radar/)
+[![Actions](https://img.shields.io/github/actions/workflow/status/Nuos/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/Nuos/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20%E4%BC%AF%E4%B9%90-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
 ```bash
-npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+npx skills add Nuos/ai-news-radar -s ai-radar -g
 ```
 
 装完对Agent说一句：`今天AI圈有什么？`
 
-**在线站** → [news.learnprompt.pro](https://news.learnprompt.pro)（数据源/备用：[learnprompt.github.io/ai-news-radar](https://learnprompt.github.io/ai-news-radar/)）
+**在线站** → [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/)（数据源/备用：[nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/)）
 
 [English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
@@ -38,7 +38,7 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② 直接看网页** → 打开 [news.learnprompt.pro](https://news.learnprompt.pro)。默认是手机版视图，右上角「视角」开关能切到经典版（旧版桌面界面，路径 `/classic/`），也可以直接用 `?view=mobile` / `?view=classic` / `?view=auto` 指定，两个视图读同一份 `data/` 目录数据。v0.9 起是单层信息架构：顶部「全部/模型/产品/开发者/行业/论文/社区/自媒体」栏目 tab + 「精选/全量」全局开关，主列表按时间倒序、按日分组，「当前热点」榜不设固定条数单独看当下最热。每条精选卡片自带一句话「推荐理由」；同一事件被多家信源报道时会折叠成「多源 N」标签，点开看每家独立标题。
+**② 直接看网页** → 打开 [nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/)。默认是手机版视图，右上角「视角」开关能切到经典版（旧版桌面界面，路径 `/classic/`），也可以直接用 `?view=mobile` / `?view=classic` / `?view=auto` 指定，两个视图读同一份 `data/` 目录数据。v0.9 起是单层信息架构：顶部「全部/模型/产品/开发者/行业/论文/社区/自媒体」栏目 tab + 「精选/全量」全局开关，主列表按时间倒序、按日分组，「当前热点」榜不设固定条数单独看当下最热。每条精选卡片自带一句话「推荐理由」；同一事件被多家信源报道时会折叠成「多源 N」标签，点开看每家独立标题。
 
 **③ fork 拥有自己的筛子** → fork本仓库，信源换成你自己的 OPML，口味改 `personas/` 下的 markdown 文件，数据长在你自己的 GitHub Pages 上。跳到[fork 指南](#fork-指南五步拥有自己的雷达)。
 
@@ -221,7 +221,7 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 
 ## Fork 指南：五步拥有自己的雷达
 
-1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)。
+1. **Fork** [Nuos/ai-news-radar](https://github.com/Nuos/ai-news-radar)。
 2. **开 Actions**：fork 后 GitHub 默认暂停 workflow，去 Actions 页点一下启用，`update-news.yml` 每30分钟自动跑。
 3. **（可选）配 `DEEPSEEK_API_KEY`**：Settings → Secrets and variables → Actions 加一个 secret，就能获得 persona 锐评、标题增强、精选条目的真实推荐理由，以及更可靠的中文标题翻译（拒答文案和退化输出会自动回退原标题）。不配也全流程能跑，自动降级成规则分、原始标题加谷歌翻译，推荐理由区块直接不显示。默认模型是 `deepseek-v4-flash`，需要换模型可以另配一个 Variable `DEEPSEEK_MODEL` 覆盖。想控制每次运行改写多少条标题，可以再配一个 `TITLE_ENHANCE_MAX_PER_RUN`（不配默认 30）。
 4. **开 GitHub Pages**：Settings → Pages，选 master 分支根目录。几分钟后你的雷达就活了。
@@ -236,7 +236,7 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 想fork改造新版本，可以本地运行：
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
+git clone https://github.com/Nuos/ai-news-radar.git
 cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
@@ -399,7 +399,7 @@ X API演示配置见 `docs/guides/x-api-demo-config.md`；
 | v0.8 | 同一条新闻，该听谁的？ | 三口味 persona 锐评、TOP3 三味并排、口味即 markdown 文件（可改可PR）、Vercel 公网站 |
 | v0.9 | 三个视图并存，怎么看着像一条新闻线？ | 单层信息架构（栏目 tab×精选全量×时间轴）、手机版/经典版双视图、推荐理由真实生成、标题增强、源质量加固、同一事件多源展开、数据同源切换、聚合源子来源分类 |
 
-历次改动见 [Releases](https://github.com/LearnPrompt/ai-news-radar/releases)。
+历次改动见 [Releases](https://github.com/Nuos/ai-news-radar/releases)。
 
 ## 致谢
 
@@ -417,10 +417,10 @@ X API演示配置见 `docs/guides/x-api-demo-config.md`；
 
 **更多好用 Skill · More Skills** → [learnprompt.pro/skills](https://learnprompt.pro/skills/)
 
-[鲁班·Skill打磨](https://github.com/LearnPrompt/luban-skill) · [庖丁·博主蒸馏](https://github.com/LearnPrompt/paoding-skill) · [蔡伦·对话造纸](https://github.com/LearnPrompt/cailun-skill) · [阿福·LLM Todo](https://github.com/LearnPrompt/afu-llm-todo) · [愚公·Loop工程](https://github.com/LearnPrompt/loop-engineering) · [搭子·结对开发](https://github.com/LearnPrompt/partner-skill) · [AI雷达·零API资讯](https://github.com/LearnPrompt/ai-news-radar)
+[鲁班·Skill打磨](https://github.com/Nuos/luban-skill) · [庖丁·博主蒸馏](https://github.com/Nuos/paoding-skill) · [蔡伦·对话造纸](https://github.com/Nuos/cailun-skill) · [阿福·LLM Todo](https://github.com/Nuos/afu-llm-todo) · [愚公·Loop工程](https://github.com/Nuos/loop-engineering) · [搭子·结对开发](https://github.com/Nuos/partner-skill) · [AI雷达·零API资讯](https://github.com/Nuos/ai-news-radar)
 
-[淘金小镇·ClawHub日榜](https://github.com/LearnPrompt/skillrush-town) · [Irasutoya·正文配图](https://github.com/LearnPrompt/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/LearnPrompt/humanize-ppt) · [CC Harness·六件套](https://github.com/LearnPrompt/cc-harness-skills) · [微信读书教练](https://github.com/LearnPrompt/carl-weread) · [X Article发布](https://github.com/LearnPrompt/x-article-publisher-skill)
+[淘金小镇·ClawHub日榜](https://github.com/Nuos/skillrush-town) · [Irasutoya·正文配图](https://github.com/Nuos/carl-irasutoya-illustrations) · [Humanize PPT·演讲系统](https://github.com/Nuos/humanize-ppt) · [CC Harness·六件套](https://github.com/Nuos/cc-harness-skills) · [微信读书教练](https://github.com/Nuos/carl-weread) · [X Article发布](https://github.com/Nuos/x-article-publisher-skill)
 
-<sub>**[LearnPrompt](https://github.com/LearnPrompt) 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
+<sub>**LearnPrompt 出品** · 公众号「卡尔的AI沃茨」 · [X @aiwarts](https://x.com/aiwarts)</sub>
 
 </div>
