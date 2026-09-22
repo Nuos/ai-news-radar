@@ -5,7 +5,7 @@
 > 对Agent说一句"今天AI圈有什么"，10秒拿到一份带原文链接的中文AI简报。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../LICENSE)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar-blueviolet)](https://github.com/LearnPrompt/ai-news-radar)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar-blueviolet)](https://github.com/Nuos/ai-news-radar)
 [![Zero API](https://img.shields.io/badge/API-Zero-green)](#为什么是零api)
 
 ![ai-radar demo](assets/demo.gif)
@@ -27,14 +27,14 @@
 一份按"模型发布 / 产品更新 / 开发者工具 / 值得注意"分组的中文简报：
 
 - 每条带原文链接和信源名，官方一手源优先；
-- 数据来自 [AI News Radar](https://github.com/LearnPrompt/ai-news-radar) 公开管道：150+ 信源、AI相关性过滤、信源分层；
+- 数据来自 [AI News Radar](https://github.com/Nuos/ai-news-radar) 公开管道：150+ 信源、AI相关性过滤、信源分层；
 - v0.8 起简报自带 persona 点评：默认实用派口味，说一句"毒舌一点"还能看毒舌评论员和较真党对每日 TOP3 的三味并排锐评；
 - 简报永远标注数据时间——数据过期会直说，不装新鲜。
 
 ## 快速开始
 
 ```bash
-npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+npx skills add Nuos/ai-news-radar -s ai-radar -g
 ```
 
 装完直接说：
@@ -74,7 +74,7 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 这正是它和兄弟Skill的分工：**ai-radar 管读，[伯乐Skill](../ai-news-radar/README.md) 管选。**
 
-1. fork [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)；
+1. fork [Nuos/ai-news-radar](https://github.com/Nuos/ai-news-radar)；
 2. 信源：用伯乐Skill判断和录入（RSS/OPML/公开feed/静态页/AgentMail）；口味：改 `personas/` 下的一个 markdown 文件；
 3. 把 ai-radar SKILL.md 顶部的 `BASE_URL` 一行指向你自己的 Pages。
 
@@ -118,10 +118,10 @@ bash skills/radar/assets/demo.sh
 
 ## English
 
-**ai-radar** answers "What happened in AI today?" by reading the public static JSON that [AI News Radar](https://github.com/LearnPrompt/ai-news-radar) publishes on GitHub Pages every 30 minutes. Zero API, zero key, zero server — and because the whole data pipeline is forkable, the skill can never be bricked by someone else's service going down.
+**ai-radar** answers "What happened in AI today?" by reading the public static JSON that [AI News Radar](https://github.com/Nuos/ai-news-radar) publishes on GitHub Pages every 30 minutes. Zero API, zero key, zero server — and because the whole data pipeline is forkable, the skill can never be bricked by someone else's service going down.
 
 ```bash
-npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+npx skills add Nuos/ai-news-radar -s ai-radar -g
 ```
 
 Then ask your agent: `What happened in AI today?`
