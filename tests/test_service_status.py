@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 from pathlib import Path
 import re
-from urllib.parse import urlsplit
+from urllib.parse import urljoin, urlsplit
 
 from scripts.update_news import (
     build_openai_service_status_payload,
@@ -105,11 +105,11 @@ def test_invalid_api_response_is_not_reported_as_healthy():
 def test_both_pages_load_existing_shared_assets_and_consistent_site_metadata():
     root = Path(__file__).resolve().parents[1]
     canonical_hosts = set()
-    for name, prefix in (("index.html", "./"), ("classic/index.html", "../")):
+    for name in ("index.html", "classic/index.html"):
         source = (root / name).read_text()
         assert source.count('id="serviceStatusPanel"') == 1
-        assert f'{prefix}assets/service-status.js?v=20260909' in source
-        assert f'{prefix}assets/service-status.css?v=20260909' in source
+        assert './assets/service-status.js?v=20260909' in source
+        assert './assets/service-status.css?v=20260909' in source
         assert '1625517181-jpg' not in source
         canonical = re.search(r'<link\s+rel="canonical"\s+href="([^"]+)"', source)
         social = re.search(r'<meta\s+property="og:url"\s+content="([^"]+)"', source)
@@ -118,6 +118,13 @@ def test_both_pages_load_existing_shared_assets_and_consistent_site_metadata():
         parsed = urlsplit(canonical.group(1))
         assert parsed.scheme == 'https' and parsed.hostname
         canonical_hosts.add(parsed.hostname)
+        # Resolve URLs with the actual <base>; double ../ breaks project Pages.
+        page_url = 'https://example.org/ai-news-radar/' + name
+        base_match = re.search(r'<base\s+href="([^"]+)"', source)
+        base_url = urljoin(page_url, base_match.group(1)) if base_match else page_url
+        for suffix in ('js', 'css'):
+            assert urljoin(base_url, f'./assets/service-status.{suffix}') == f'https://example.org/ai-news-radar/assets/service-status.{suffix}'
+            assert (root / f'assets/service-status.{suffix}').is_file()
     assert len(canonical_hosts) == 1
     # Custom-domain sites and GitHub project Pages are both valid deployments.
     # The fork setup tests separately verify the Nuos URL migration.
