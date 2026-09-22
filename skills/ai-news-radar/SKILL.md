@@ -214,6 +214,6 @@ WaytoAGI block, search, site filter, and source counts still work.
 After pushing source changes, trigger and watch the workflow:
 
 ```bash
-gh workflow run update-news.yml --repo LearnPrompt/ai-news-radar --ref master
-gh run list --repo LearnPrompt/ai-news-radar --limit 5
+gh workflow run update-news.yml --repo Nuos/ai-news-radar --ref master
+gh run list --repo Nuos/ai-news-radar --limit 5
 ```
