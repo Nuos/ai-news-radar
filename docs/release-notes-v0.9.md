@@ -17,7 +17,7 @@ v0.7、v0.8 各自加了一个板块：伯乐精选、AI信号流、热点榜、
 - 精选/全量全局开关：精选读故事合并后的高价值池，全量读广义 AI 相关的原始池，两种模式共用同一套时间轴模板
 - 主列表按时间倒序 + 按日分组，不再有独立的"故事线"或"信号流"板块
 - 双视图：根目录默认手机版，右上角「视角」开关切到 `/classic/` 经典桌面版，`?view=` 参数可直接指定，两套皮肤读同一份 `data/`
-- 正式域名：[news.learnprompt.pro](https://news.learnprompt.pro)（GitHub Pages 自定义域名 + Cloudflare）
+- 本分支站点：[nuos.github.io/ai-news-radar](https://nuos.github.io/ai-news-radar/)（GitHub Pages）
 
 **热点与点评**
 - 当前热点榜不设固定条数，只要满足多信源热度阈值就上榜
