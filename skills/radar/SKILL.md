@@ -255,7 +255,7 @@ EOF
 
 本 Skill 只读数据。如果用户说"我想加个源/换个点评口味/做自己的雷达"：
 
-1. fork `https://github.com/LearnPrompt/ai-news-radar`；
+1. fork `https://github.com/Nuos/ai-news-radar`；
 2. 信源：用仓库里的**伯乐Skill**（`skills/ai-news-radar/`）录入和判断信源、部署 GitHub Pages；口味：改 `personas/` 目录下的 markdown 文件；
 3. 回到本 Skill，把顶部 `BASE_URL` 那一行指向自己的 Pages。
 
