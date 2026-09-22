@@ -22,7 +22,7 @@ Sleep 500ms
 Enter
 Sleep 9s
 
-Type "# 零API · 零Key · fork即拥有 → github.com/LearnPrompt/ai-news-radar"
+Type "# 零API · 零Key · fork即拥有 → github.com/Nuos/ai-news-radar"
 Sleep 4s
 Enter
 Sleep 2s
