@@ -102,7 +102,7 @@ AI预处理可以帮你读得更快，但如果它把来源感磨掉了，反而
 
 公开页面在这里。
 
-learnprompt.github.io/ai-news-radar/
+nuos.github.io/ai-news-radar/
 
 我自己也确实用了两个月。
 
@@ -208,7 +208,7 @@ Newsletter如果有公开归档，就优先读公开归档。如果是私人邮�
 
 仓库在这里。
 
-github.com/LearnPrompt/ai-news-radar
+github.com/Nuos/ai-news-radar
 
 你可以fork它，也可以本地跑。
 
