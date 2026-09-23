@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-23T18:31:00.878363Z",
+  "generated_at": "2026-09-23T19:23:33.525617Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_4b75c8247471",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": null,
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": null,
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8682,
+      "importance": 0.8682,
+      "importance_score": 0.8682,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:41:40Z",
+      "latest_at": "2026-09-23T18:41:40Z",
+      "primary_item": {
+        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_zh": null,
+        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T19:55:40.581388Z"
+      }
+    },
     {
       "story_id": "story_ef9959cf1c4e",
       "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8691,
-      "importance": 0.8691,
-      "importance_score": 0.8691,
+      "score": 0.867,
+      "importance": 0.867,
+      "importance_score": 0.867,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9563,
+        "recency": 0.9443,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,234 +196,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
-      "story_id": "story_7725937fd90b",
-      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-      "primary_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_2f7e483f74c2",
+      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "840d4f3401e4b09406d07030fb1332ef14b1c19e",
-          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-          "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-          "title_original": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-          "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
+          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News：AI 热帖",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T19:03:38Z"
+          "published_at": "2026-09-23T18:27:25.203000Z"
         },
         {
-          "id": "ce374acfbe8c9d185837e69ec0eaf6a62b585516",
-          "title": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
-          "title_zh": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
-          "title_en": null,
-          "title_original": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": null,
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T20:00:35.186000Z"
-        },
-        {
-          "id": "e47aefc3cbc3d482e36f116f201b4763eb73a4ff",
-          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-          "title_en": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_original": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "4f9de03283c7093cc0d098b8b40af4687dbfdc44",
-          "title": "五角大楼称过度依赖人工智能导致伊朗学校遭受导弹袭击 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_zh": "五角大楼称过度依赖人工智能导致伊朗学校遭受导弹袭击",
-          "title_en": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_original": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49806430",
+          "url": "https://news.ycombinator.com/item?id=49820134",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "60fb0b301f3b9ad523a4bfda55f6afd72b266ea3",
-          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-          "title_en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_original": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "0efeedec2c255249b90add4ec6cbab71d9e31f73",
-          "title": "五角大楼称过度依赖人工智能导致导弹袭击伊朗学校 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_zh": "五角大楼称过度依赖人工智能导致导弹袭击伊朗学校",
-          "title_en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_original": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49806430",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T19:03:38Z"
+          "published_at": "2026-09-23T18:06:47Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "hackernews",
-        "www.bloomberg.com"
+        "Anthropic：Newsroom（网页）",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "840d4f3401e4b09406d07030fb1332ef14b1c19e",
-          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-          "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-          "title_original": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-          "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
+          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News：AI 热帖",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T19:03:38Z"
+          "published_at": "2026-09-23T18:27:25.203000Z"
         },
         {
-          "id": "ce374acfbe8c9d185837e69ec0eaf6a62b585516",
-          "title": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
-          "title_zh": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
-          "title_en": null,
-          "title_original": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+          "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": null,
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T20:00:35.186000Z"
-        },
-        {
-          "id": "e47aefc3cbc3d482e36f116f201b4763eb73a4ff",
-          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-          "title_en": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_original": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "4f9de03283c7093cc0d098b8b40af4687dbfdc44",
-          "title": "五角大楼称过度依赖人工智能导致伊朗学校遭受导弹袭击 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_zh": "五角大楼称过度依赖人工智能导致伊朗学校遭受导弹袭击",
-          "title_en": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "title_original": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49806430",
+          "url": "https://news.ycombinator.com/item?id=49820134",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "60fb0b301f3b9ad523a4bfda55f6afd72b266ea3",
-          "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-          "title_en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_original": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "0efeedec2c255249b90add4ec6cbab71d9e31f73",
-          "title": "五角大楼称过度依赖人工智能导致导弹袭击伊朗学校 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_zh": "五角大楼称过度依赖人工智能导致导弹袭击伊朗学校",
-          "title_en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "title_original": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49806430",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T19:03:38Z"
+          "published_at": "2026-09-23T18:06:47Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8579,
-      "importance": 0.8579,
-      "importance_score": 0.8579,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
+        "editorial": 0.79,
+        "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 1.0
+        "recency": 0.9866,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T19:03:38Z",
-      "latest_at": "2026-09-22T20:00:35.186000Z",
+      "earliest_at": "2026-09-23T18:06:47Z",
+      "latest_at": "2026-09-23T18:27:25.203000Z",
       "primary_item": {
-        "id": "840d4f3401e4b09406d07030fb1332ef14b1c19e",
-        "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-        "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-        "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-        "title_original": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-        "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+        "id": "03eab593bf7beec778b286861141f10a5c7253f9",
+        "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+        "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
         "recommend_reason_zh": null,
-        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-        "source": "Hacker News：AI 热帖",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -405,8 +373,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:31:00.878363Z",
-      "latest_at": "2026-09-23T18:31:00.878363Z",
+      "earliest_at": "2026-09-23T19:23:33.525617Z",
+      "latest_at": "2026-09-23T19:23:33.525617Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -423,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -471,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9997,
+        "recency": 0.9871,
         "story_heat": 0.0
       },
       "category": "official",
@@ -506,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -554,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9507,
+        "recency": 0.9388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,90 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
-      }
-    },
-    {
-      "story_id": "story_e8d7d86b4448",
-      "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
-          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
-          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9272,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T13:17:01Z",
-      "latest_at": "2026-09-23T13:17:01Z",
-      "primary_item": {
-        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-        "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
-        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -720,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9926,
+        "recency": 0.9801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -755,89 +640,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
-      }
-    },
-    {
-      "story_id": "story_c883bb1ffd3a",
-      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9991,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:27:25.203000Z",
-      "latest_at": "2026-09-23T18:27:25.203000Z",
-      "primary_item": {
-        "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-        "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-        "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -885,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7654,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -920,30 +723,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
-      "story_id": "story_bcc37401aaaf",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "story_id": "story_cff02d2a853b",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "primary_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
+          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
+          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -952,31 +755,31 @@
       ],
       "items": [
         {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
+          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
+          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9643,
+        "ai_relevance": 0.98,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -985,17 +788,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T16:00:00Z",
-      "latest_at": "2026-09-23T16:00:00Z",
+      "earliest_at": "2026-09-23T12:00:00Z",
+      "latest_at": "2026-09-23T12:00:00Z",
       "primary_item": {
-        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-        "title": "Two years of OpenAI Academy",
+        "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
         "title_zh": null,
-        "title_en": "Two years of OpenAI Academy",
-        "title_original": "Two years of OpenAI Academy",
+        "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1003,7 +806,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
+      }
+    },
+    {
+      "story_id": "story_e8d7d86b4448",
+      "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9156,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:17:01Z",
+      "latest_at": "2026-09-23T13:17:01Z",
+      "primary_item": {
+        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+        "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
+        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1051,15 +937,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9645,
+        "recency": 0.9524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1086,7 +972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1134,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9681,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1168,7 +1054,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
+      }
+    },
+    {
+      "story_id": "story_f97ab024b748",
+      "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+      "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3a27f2bbca8585cf51d57d6bbc6bcb59122b430a",
+          "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_zh": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+          "title_en": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_original": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T18:46:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "3a27f2bbca8585cf51d57d6bbc6bcb59122b430a",
+          "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_zh": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+          "title_en": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_original": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T18:46:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9912,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:46:48Z",
+      "latest_at": "2026-09-23T18:46:48Z",
+      "primary_item": {
+        "id": "3a27f2bbca8585cf51d57d6bbc6bcb59122b430a",
+        "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+        "title_zh": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+        "title_en": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+        "title_original": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+        "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T19:55:40.581388Z"
+      }
+    },
+    {
+      "story_id": "story_bcc37401aaaf",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9522,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T16:00:00Z",
+      "latest_at": "2026-09-23T16:00:00Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "title_zh": null,
+        "title_en": "Two years of OpenAI Academy",
+        "title_original": "Two years of OpenAI Academy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1216,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7906,
+        "recency": 0.7807,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1251,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1299,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,90 +1384,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
-      }
-    },
-    {
-      "story_id": "story_ee51f7ca8c9e",
-      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
-          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
-          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9234,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T13:00:00Z",
-      "latest_at": "2026-09-23T13:00:00Z",
-      "primary_item": {
-        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
-        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-        "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-        "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-        "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1493,15 +1461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7629,
+        "recency": 0.7533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1528,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1576,15 +1544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1610,7 +1578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1658,15 +1626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1692,7 +1660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     },
     {
@@ -1740,15 +1708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8264,
+        "recency": 0.816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1774,119 +1742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
-      }
-    },
-    {
-      "story_id": "story_f9845f56532f",
-      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-      "primary_url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
-          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-          "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-          "recommend_reason_zh": null,
-          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "1bf731cb1fb7c5bdd2934309d71f758cffd88a4a",
-          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-          "title_en": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_original": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-22T19:03:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
-          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-          "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-          "recommend_reason_zh": null,
-          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:03:38Z"
-        },
-        {
-          "id": "1bf731cb1fb7c5bdd2934309d71f758cffd88a4a",
-          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-          "title_en": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "title_original": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-22T19:03:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T19:03:38Z",
-      "latest_at": "2026-09-22T19:03:38Z",
-      "primary_item": {
-        "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
-        "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-        "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-        "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-        "title_original": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-        "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-        "recommend_reason_zh": null,
-        "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T19:02:06.256136Z"
+        "scored_at": "2026-09-23T19:55:40.581388Z"
       }
     }
   ]
