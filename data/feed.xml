@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 12:36:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 13:26:19 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon</title>
@@ -32,6 +32,14 @@
 <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
 </item>
 <item>
+<title>**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-diarization</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 13:17:01 +0000</pubDate>
+</item>
+<item>
 <title>Codex CLI 0.156.1</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
@@ -53,7 +61,7 @@
 <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 12:36:42 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains</title>
@@ -112,20 +120,20 @@
 <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖</title>
-<link>https://www.aibase.com/news/31313</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31313</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 10:26:55 +0000</pubDate>
-</item>
-<item>
 <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…</title>
 <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102462962758033624</guid>
 <description>Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 18:20:06 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖</title>
+<link>https://www.aibase.com/news/31313</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31313</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 10:26:55 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot</title>
@@ -158,14 +166,6 @@
 <description>Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 20:12:31 +0000</pubDate>
-</item>
-<item>
-<title>Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS &amp; Realtime are fully upgraded， joined by two new models： TTS-Next fo…</title>
-<link>https://x.com/Alibaba_Qwen/status/2102687258990026993</link>
-<guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102687258990026993</guid>
-<description>Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。（X：通义千问 / Qwen (@Alibaba_Qwen)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 09:11:23 +0000</pubDate>
 </item>
 </channel>
 </rss>
