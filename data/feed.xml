@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 02:34:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 03:30:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon</title>
@@ -30,6 +30,14 @@
 <description>Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.156.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 应用程序中的 OpenTelemetry / OpenTelemetry in the GitHub Copilot app</title>
@@ -128,12 +136,12 @@
 <pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌</title>
-<link>https://www.aibase.com/news/31291</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31291</guid>
+<title>Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心</title>
+<link>https://www.aibase.com/news/31294</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31294</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 02:34:10 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 03:30:32 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…</title>
@@ -158,14 +166,6 @@
 <description>OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。（X：OpenRouter (@OpenRouter)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 18:23:35 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…</title>
-<link>https://x.com/sherwinwu/status/2102462783707344907</link>
-<guid isPermaLink="true">https://x.com/sherwinwu/status/2102462783707344907</guid>
-<description>OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。（X：Sherwin Wu（@sherwinwu））</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 18:19:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
