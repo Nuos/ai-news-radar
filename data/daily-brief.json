@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:22:47.347262Z",
+  "generated_at": "2026-09-24T20:28:01.675559Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8529,
-      "importance": 0.8529,
-      "importance_score": 0.8529,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9272,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9708,
+        "recency": 0.9557,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
+      }
+    },
+    {
+      "story_id": "story_edc9f4dfe188",
+      "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
+          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
+          "title_zh": "当聊天是错误的 UI 时",
+          "title_en": "When chat is the wrong UI",
+          "title_original": "When chat is the wrong UI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
+          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
+          "title_zh": "当聊天是错误的 UI 时",
+          "title_en": "When chat is the wrong UI",
+          "title_original": "When chat is the wrong UI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9933,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T20:00:00Z",
+      "latest_at": "2026-09-24T20:00:00Z",
+      "primary_item": {
+        "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
+        "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
+        "title_zh": "当聊天是错误的 UI 时",
+        "title_en": "When chat is the wrong UI",
+        "title_original": "When chat is the wrong UI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -301,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9571,
+        "recency": 0.9422,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,90 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
-      }
-    },
-    {
-      "story_id": "story_66517b370dff",
-      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "primary_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9865,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T18:26:12Z",
-      "latest_at": "2026-09-24T18:26:12Z",
-      "primary_item": {
-        "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-        "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-        "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8989,
+        "recency": 0.8849,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,177 +502,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
-      "story_id": "story_acfff9ac525d",
-      "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-      "primary_url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_66517b370dff",
+      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "primary_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
-          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
-          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
-          "title_en": "How we made claude.ai 3x faster in two weeks",
-          "title_original": "How we made claude.ai 3x faster in two weeks",
-          "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T19:23:40Z"
-        },
-        {
-          "id": "9aea7332b1e0e13e51fec4551703ad48897eabaa",
-          "title": "只要克劳德能对某件事进行测量，就能让它变得更快",
-          "title_zh": "只要克劳德能对某件事进行测量，就能让它变得更快",
-          "title_en": null,
-          "title_original": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
+          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
+          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T21:34:38.801000Z"
-        },
-        {
-          "id": "860b4588e074aa4b626d661254f341d858698dcc",
-          "title": "我们如何在两周内使 claude.ai 速度提高 3 倍 / How we made claude.ai 3x faster in two weeks",
-          "title_zh": "我们如何在两周内使 claude.ai 速度提高 3 倍",
-          "title_en": "How we made claude.ai 3x faster in two weeks",
-          "title_original": "How we made claude.ai 3x faster in two weeks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49821196",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T19:23:40Z"
-        },
-        {
-          "id": "f3d2476a1ecbec09bf97d72669874f1d72aebe4d",
-          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / Once Claude can measure something, it can make it faster",
-          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
-          "title_en": "Once Claude can measure something, it can make it faster",
-          "title_original": "Once Claude can measure something, it can make it faster",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T19:23:40Z"
+          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T18:26:12Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "claude.dev",
-        "hackernews"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
-          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
-          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
-          "title_en": "How we made claude.ai 3x faster in two weeks",
-          "title_original": "How we made claude.ai 3x faster in two weeks",
-          "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T19:23:40Z"
-        },
-        {
-          "id": "9aea7332b1e0e13e51fec4551703ad48897eabaa",
-          "title": "只要克劳德能对某件事进行测量，就能让它变得更快",
-          "title_zh": "只要克劳德能对某件事进行测量，就能让它变得更快",
-          "title_en": null,
-          "title_original": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
+          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
+          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T21:34:38.801000Z"
-        },
-        {
-          "id": "860b4588e074aa4b626d661254f341d858698dcc",
-          "title": "我们如何在两周内使 claude.ai 速度提高 3 倍 / How we made claude.ai 3x faster in two weeks",
-          "title_zh": "我们如何在两周内使 claude.ai 速度提高 3 倍",
-          "title_en": "How we made claude.ai 3x faster in two weeks",
-          "title_original": "How we made claude.ai 3x faster in two weeks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49821196",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T19:23:40Z"
-        },
-        {
-          "id": "f3d2476a1ecbec09bf97d72669874f1d72aebe4d",
-          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / Once Claude can measure something, it can make it faster",
-          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
-          "title_en": "Once Claude can measure something, it can make it faster",
-          "title_original": "Once Claude can measure something, it can make it faster",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T19:23:40Z"
+          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T18:26:12Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7073,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9711,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T19:23:40Z",
-      "latest_at": "2026-09-23T21:34:38.801000Z",
+      "earliest_at": "2026-09-24T18:26:12Z",
+      "latest_at": "2026-09-24T18:26:12Z",
       "primary_item": {
-        "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
-        "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
-        "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
-        "title_en": "How we made claude.ai 3x faster in two weeks",
-        "title_original": "How we made claude.ai 3x faster in two weeks",
-        "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+        "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
+        "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
+        "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -720,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7284,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -755,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -803,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -885,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.9111,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -967,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1001,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1107,15 +1020,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7441,
+        "recency": 0.7325,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1142,7 +1055,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1190,15 +1103,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7214,
+        "recency": 0.7102,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1225,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1273,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1307,7 +1220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1355,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1389,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1437,21 +1350,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-24T02:46:25Z",
       "latest_at": "2026-09-24T02:46:25Z",
@@ -1471,7 +1383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1519,15 +1431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1552,7 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1600,15 +1512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1633,7 +1545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1681,15 +1593,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,7 +1626,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1762,15 +1674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7559,
+        "recency": 0.7441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1795,7 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     },
     {
@@ -1843,15 +1755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7284,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1876,7 +1788,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T19:23:37.901908Z"
+        "scored_at": "2026-09-24T20:28:50.131871Z"
       }
     }
   ]
