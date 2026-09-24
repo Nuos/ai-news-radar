@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 18:30:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:22:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark</title>
@@ -24,7 +24,7 @@
 <pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
 </item>
 <item>
-<title>Introducing Gemini 3.8 Live with Live Avatar</title>
+<title>隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar</title>
 <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</guid>
 <description>Google DeepMind</description>
@@ -32,7 +32,7 @@
 <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
 </item>
 <item>
-<title>AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
+<title>GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
 <link>https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</link>
 <guid isPermaLink="true">https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</guid>
 <description>GitHub AI &amp; ML</description>
@@ -78,14 +78,6 @@
 <description>据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 24 Sep 2026 14:01:05 +0000</pubDate>
-</item>
-<item>
-<title>如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
-<link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
 </item>
 <item>
 <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga</title>
@@ -152,20 +144,28 @@
 <pubDate>Thu, 24 Sep 2026 01:12:13 +0000</pubDate>
 </item>
 <item>
-<title>Claude Marketplace 上线，可发现工具、智能体与服务伙伴 / You can now discover tools， agents and expert partners on Claude Marketplace. Use it to： - Add conn…</title>
-<link>https://x.com/claudeai/status/2102840851538080172</link>
-<guid isPermaLink="true">https://x.com/claudeai/status/2102840851538080172</guid>
-<description>Claude 官方宣布推出 Claude Marketplace，用户可在其中发现工具、智能体和专家伙伴。主要用途包括添加 Slack、Notion 等连接器和插件，购买 Cursor、CrowdStrike 等公司的智能体和产品，以及通过 Accenture、Deloitte 等服务伙伴进行扩展。（X：Claude (@claudeai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 19:21:42 +0000</pubDate>
-</item>
-<item>
 <title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / "I think the answer is we have to shut the labs down" - Jensen Huang</title>
 <link>https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</link>
 <guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
 <description>Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
+</item>
+<item>
+<title>OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It</title>
+<link>https://openrouter.ai/blog/insights/kimi-k3-open-source</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/insights/kimi-k3-open-source</guid>
+<description>OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。（OpenRouter：Announcements（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…</title>
+<link>https://x.com/natolambert/status/2102872133244183038</link>
+<guid isPermaLink="true">https://x.com/natolambert/status/2102872133244183038</guid>
+<description>澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。（X：Nathan Lambert (@natolambert)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 21:26:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
