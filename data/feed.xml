@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 12:37:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 13:26:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
@@ -46,6 +46,14 @@
 <description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
+</item>
+<item>
+<title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law</title>
+<link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</guid>
+<description>澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 12:54:19 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks</title>
@@ -94,14 +102,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 15:00:57 +0000</pubDate>
-</item>
-<item>
-<title>**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-diarization</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 13:17:01 +0000</pubDate>
 </item>
 <item>
 <title>Two years of OpenAI Academy</title>
@@ -160,12 +160,12 @@
 <pubDate>Thu, 24 Sep 2026 01:12:13 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…</title>
-<link>https://x.com/rohanpaul_ai/status/2102832068157984990</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102832068157984990</guid>
-<description>Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / "I think the answer is we have to shut the labs down" - Jensen Huang</title>
+<link>https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</link>
+<guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
+<description>Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 18:46:48 +0000</pubDate>
+<pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
