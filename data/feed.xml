@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 20:28:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 21:24:11 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark</title>
@@ -22,6 +22,14 @@
 <description>安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
+</item>
+<item>
+<title>Require proof of presence for high-impact actions</title>
+<link>https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 24 Sep 2026 20:28:33 +0000</pubDate>
 </item>
 <item>
 <title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
@@ -56,14 +64,6 @@
 <pubDate>Thu, 24 Sep 2026 18:26:12 +0000</pubDate>
 </item>
 <item>
-<title>请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews</title>
-<link>https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 21:25:58 +0000</pubDate>
-</item>
-<item>
 <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law</title>
 <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</guid>
@@ -88,20 +88,12 @@
 <pubDate>Thu, 24 Sep 2026 09:32:14 +0000</pubDate>
 </item>
 <item>
-<title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
-<link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
-<guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
-<description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
-</item>
-<item>
-<title>Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions</title>
-<link>https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions</guid>
+<title>请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews</title>
+<link>https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 20:46:07 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 21:25:58 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
@@ -118,6 +110,14 @@
 <description>Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。（X：Claude Devs (@ClaudeDevs)）</description>
 <category>官方更新</category>
 <pubDate>Thu, 24 Sep 2026 01:57:36 +0000</pubDate>
+</item>
+<item>
+<title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
+<link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
+<guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
+<description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…</title>
