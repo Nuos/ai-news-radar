@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:28:39.432361Z",
+  "generated_at": "2026-09-24T15:27:03.438737Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8651,
-      "importance": 0.8651,
-      "importance_score": 0.8651,
+      "score": 0.8626,
+      "importance": 0.8626,
+      "importance_score": 0.8626,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9953,
+        "recency": 0.9814,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9649,
+        "recency": 0.9514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7385,
         "story_heat": 0.5
       },
       "category": "official",
@@ -307,120 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
-      }
-    },
-    {
-      "story_id": "story_ef9959cf1c4e",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "primary_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-          "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-          "title_en": "Gemini 3.8 text-to-speech says hello",
-          "title_original": "Gemini 3.8 text-to-speech says hello",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:25:14Z"
-        },
-        {
-          "id": "9811fef985a6515daae09535331196c75370e63d",
-          "title": "Gemini 3.8 文字转语音说你好 / Gemini 3.8 text-to-speech says hello",
-          "title_zh": "Gemini 3.8 文字转语音说你好",
-          "title_en": "Gemini 3.8 text-to-speech says hello",
-          "title_original": "Gemini 3.8 text-to-speech says hello",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49817615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T15:29:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-          "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-          "title_en": "Gemini 3.8 text-to-speech says hello",
-          "title_original": "Gemini 3.8 text-to-speech says hello",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:25:14Z"
-        },
-        {
-          "id": "9811fef985a6515daae09535331196c75370e63d",
-          "title": "Gemini 3.8 文字转语音说你好 / Gemini 3.8 text-to-speech says hello",
-          "title_zh": "Gemini 3.8 文字转语音说你好",
-          "title_en": "Gemini 3.8 text-to-speech says hello",
-          "title_original": "Gemini 3.8 text-to-speech says hello",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49817615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T15:29:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7168,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T15:25:14Z",
-      "latest_at": "2026-09-23T15:29:23Z",
-      "primary_item": {
-        "id": "893ea26945a167f32462040ced977e07c6e6fb19",
-        "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-        "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-        "title_en": "Gemini 3.8 text-to-speech says hello",
-        "title_original": "Gemini 3.8 text-to-speech says hello",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -526,15 +413,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7987,
+        "recency": 0.7875,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -561,89 +448,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
-      }
-    },
-    {
-      "story_id": "story_072908c15f30",
-      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.89,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9776,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T12:54:19Z",
-      "latest_at": "2026-09-24T12:54:19Z",
-      "primary_item": {
-        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -778,15 +583,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7485,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -813,7 +618,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
+      }
+    },
+    {
+      "story_id": "story_072908c15f30",
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.89,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9639,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T12:54:19Z",
+      "latest_at": "2026-09-24T12:54:19Z",
+      "primary_item": {
+        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:43:17.173476Z"
+      }
+    },
+    {
+      "story_id": "story_b82d1f01a1b3",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T14:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T14:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T14:01:05Z",
+      "latest_at": "2026-09-24T14:01:05Z",
+      "primary_item": {
+        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+        "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -861,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7818,
+        "recency": 0.7709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,7 +865,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -944,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7494,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -979,7 +948,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1027,15 +996,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.744,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1062,7 +1031,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1110,15 +1079,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7515,
+        "recency": 0.741,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1145,337 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
-      }
-    },
-    {
-      "story_id": "story_1c02ab45228c",
-      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T09:32:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
-      ],
-      "items": [
-        {
-          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T09:32:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9311,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T09:32:14Z",
-      "latest_at": "2026-09-24T09:32:14Z",
-      "primary_item": {
-        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-        "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-        "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-        "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
-      }
-    },
-    {
-      "story_id": "story_4784460ec311",
-      "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7126,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T15:00:57Z",
-      "latest_at": "2026-09-23T15:00:57Z",
-      "primary_item": {
-        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
-        "title_en": "Local sandboxing in the GitHub Copilot app",
-        "title_original": "Local sandboxing in the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
-      }
-    },
-    {
-      "story_id": "story_bcc37401aaaf",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7228,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T16:00:00Z",
-      "latest_at": "2026-09-23T16:00:00Z",
-      "primary_item": {
-        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-        "title": "Two years of OpenAI Academy",
-        "title_zh": null,
-        "title_en": "Two years of OpenAI Academy",
-        "title_original": "Two years of OpenAI Academy",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/two-years-of-openai-academy",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
-      }
-    },
-    {
-      "story_id": "story_1a73e228157c",
-      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-      "primary_url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
-          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:57:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
-          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:57:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8346,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T01:57:36Z",
-      "latest_at": "2026-09-24T01:57:36Z",
-      "primary_item": {
-        "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
-        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1523,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.723,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1558,7 +1197,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
+      }
+    },
+    {
+      "story_id": "story_1c02ab45228c",
+      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+      ],
+      "items": [
+        {
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9181,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T09:32:14Z",
+      "latest_at": "2026-09-24T09:32:14Z",
+      "primary_item": {
+        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+        "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:43:17.173476Z"
+      }
+    },
+    {
+      "story_id": "story_e8c6ef86f111",
+      "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+          "title_zh": "Node 20 在 GitHub Actions 中不再可用",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T20:46:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+          "title_zh": "Node 20 在 GitHub Actions 中不再可用",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T20:46:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7635,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T20:46:07Z",
+      "latest_at": "2026-09-23T20:46:07Z",
+      "primary_item": {
+        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+        "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+        "title_zh": "Node 20 在 GitHub Actions 中不再可用",
+        "title_en": "Node 20 is no longer available in GitHub Actions",
+        "title_original": "Node 20 is no longer available in GitHub Actions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:43:17.173476Z"
+      }
+    },
+    {
+      "story_id": "story_bcc37401aaaf",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7127,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T16:00:00Z",
+      "latest_at": "2026-09-23T16:00:00Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "title_zh": null,
+        "title_en": "Two years of OpenAI Academy",
+        "title_original": "Two years of OpenAI Academy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:43:17.173476Z"
+      }
+    },
+    {
+      "story_id": "story_1a73e228157c",
+      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "primary_url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:57:36Z",
+      "latest_at": "2026-09-24T01:57:36Z",
+      "primary_item": {
+        "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1606,15 +1575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7349,
+        "recency": 0.7247,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1640,7 +1609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1688,15 +1657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8445,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1722,7 +1691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1770,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1804,7 +1773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     },
     {
@@ -1852,15 +1821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8256,
+        "recency": 0.814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1886,7 +1855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T14:29:32.842995Z"
+        "scored_at": "2026-09-24T15:43:17.173476Z"
       }
     }
   ]
