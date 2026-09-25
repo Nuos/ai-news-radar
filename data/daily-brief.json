@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:25:06.251518Z",
+  "generated_at": "2026-09-25T12:37:00.419196Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9786,
+        "recency": 0.9618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.848,
+        "recency": 0.8334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7355,
+        "recency": 0.7229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,177 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
-      }
-    },
-    {
-      "story_id": "story_aae1244e06d2",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
-        },
-        {
-          "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
-          "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49829387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T11:54:38Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "medium.com"
-      ],
-      "items": [
-        {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
-        },
-        {
-          "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
-          "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49829387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T11:54:38Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T11:54:38Z",
-      "latest_at": "2026-09-24T17:19:34.716000Z",
-      "primary_item": {
-        "id": "c74455d54f10d39149f3f83e221935d572452878",
-        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_en": null,
-        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-        "recommend_reason_zh": null,
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -467,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7592,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -550,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8004,
+        "recency": 0.7867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +415,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
+      }
+    },
+    {
+      "story_id": "story_f0b280c7fe21",
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T11:00:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T11:00:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T11:00:28Z",
+      "latest_at": "2026-09-25T11:00:28Z",
+      "primary_item": {
+        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+        "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -633,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8884,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,90 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
-      }
-    },
-    {
-      "story_id": "story_d5568a9a87d3",
-      "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "primary_url": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "48e7e143951a807062656727fb44afb909b365f9",
-          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
-          "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ringg",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "48e7e143951a807062656727fb44afb909b365f9",
-          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
-          "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ringg",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T12:00:00Z",
-      "latest_at": "2026-09-24T12:00:00Z",
-      "primary_item": {
-        "id": "48e7e143951a807062656727fb44afb909b365f9",
-        "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
-        "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ringg",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -799,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -833,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -881,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7825,
+        "recency": 0.7691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -916,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -964,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7225,
+        "recency": 0.7101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1046,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7342,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,7 +909,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
+      }
+    },
+    {
+      "story_id": "story_e0fa10f7de75",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_en": null,
+          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "medium.com"
+      ],
+      "items": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_en": null,
+          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7569,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T17:19:34.716000Z",
+      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "primary_item": {
+        "id": "c74455d54f10d39149f3f83e221935d572452878",
+        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_en": null,
+        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+        "recommend_reason_zh": null,
+        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T12:37:48.255885Z"
+      }
+    },
+    {
+      "story_id": "story_ff8c712f94de",
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+      "url": "https://x.com/satyanadella/status/2103455884366188544",
+      "primary_url": "https://x.com/satyanadella/status/2103455884366188544",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T12:05:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T12:05:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T12:05:37Z",
+      "latest_at": "2026-09-25T12:05:37Z",
+      "primary_item": {
+        "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+        "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2103455884366188544",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1128,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8059,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1163,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1211,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,7 +1267,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1320,15 +1343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
+      "score": 0.5895,
+      "importance": 0.5895,
+      "importance_score": 0.5895,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8003,
+        "recency": 0.7866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1459,15 +1482,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5538,
+      "importance": 0.5538,
+      "importance_score": 0.5538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.9057,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1492,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1598,15 +1621,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5507,
+      "importance": 0.5507,
+      "importance_score": 0.5507,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.904,
+        "recency": 0.8885,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1631,7 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1708,15 +1731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9912,
+        "recency": 0.9742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1741,146 +1764,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
-      }
-    },
-    {
-      "story_id": "story_1a51bf4375c4",
-      "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "primary_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "778ae0e2a65505fe7ee48f8d0d79ed0ae9e1748c",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": null,
-          "title_original": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T22:20:31.390000Z"
-        },
-        {
-          "id": "3c744db9823fe980e204728710352632c794e084",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_original": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T12:23:41Z"
-        },
-        {
-          "id": "073c305ecb757759a9bb0323fbec419206f8b0f7",
-          "title": "“这就是人工智能”阿尔法一代最大的侮辱告诉我们什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_zh": "“这就是人工智能”阿尔法一代最大的侮辱告诉我们什么",
-          "title_en": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_original": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49829650",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T12:23:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "778ae0e2a65505fe7ee48f8d0d79ed0ae9e1748c",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": null,
-          "title_original": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T22:20:31.390000Z"
-        },
-        {
-          "id": "3c744db9823fe980e204728710352632c794e084",
-          "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-          "title_en": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_original": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T12:23:41Z"
-        },
-        {
-          "id": "073c305ecb757759a9bb0323fbec419206f8b0f7",
-          "title": "“这就是人工智能”阿尔法一代最大的侮辱告诉我们什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_zh": "“这就是人工智能”阿尔法一代最大的侮辱告诉我们什么",
-          "title_en": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "title_original": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49829650",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T12:23:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8279,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T12:23:41Z",
-      "latest_at": "2026-09-24T22:20:31.390000Z",
-      "primary_item": {
-        "id": "778ae0e2a65505fe7ee48f8d0d79ed0ae9e1748c",
-        "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-        "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-        "title_en": null,
-        "title_original": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     },
     {
@@ -1986,15 +1870,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7554,
+        "recency": 0.7424,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2019,7 +1903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T11:25:54.424572Z"
+        "scored_at": "2026-09-25T12:37:48.255885Z"
       }
     }
   ]
