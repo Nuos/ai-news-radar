@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 25 Sep 2026 14:28:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 15:26:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support</title>
@@ -88,6 +88,14 @@
 <pubDate>Fri, 25 Sep 2026 12:05:37 +0000</pubDate>
 </item>
 <item>
+<title>GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS</title>
+<link>https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css</link>
+<guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css</guid>
+<description>GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。（GitHub Blog）</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions</title>
 <link>https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</guid>
@@ -104,14 +112,6 @@
 <pubDate>Thu, 24 Sep 2026 19:59:26 +0000</pubDate>
 </item>
 <item>
-<title>一家补习公司建议家长省下这笔钱，并“改用人工智能”</title>
-<link>https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r</link>
-<guid isPermaLink="true">https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r</guid>
-<description>www.afr.com</description>
-<category>多源热议</category>
-<pubDate>Fri, 25 Sep 2026 05:45:21 +0000</pubDate>
-</item>
-<item>
 <title>利用大型语言模型追溯炼金术知识并破译17世纪的信件</title>
 <link>https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</link>
 <guid isPermaLink="true">https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</guid>
@@ -126,14 +126,6 @@
 <description>Hacker News</description>
 <category>值得关注</category>
 <pubDate>Fri, 25 Sep 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>在伯克利，人工智能安全基本上是一个性 cult 组织</title>
-<link>https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in</link>
-<guid isPermaLink="true">https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in</guid>
-<description>www.verysane.ai</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 02:34:35 +0000</pubDate>
 </item>
 <item>
 <title>显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer</title>
