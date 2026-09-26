@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 21:23:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 22:23:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.157.1</title>
@@ -32,20 +32,20 @@
 <pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
 </item>
 <item>
-<title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
-<link>https://www.ithome.com/1/007/444.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
-<description>Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its "most capable models" after agents exploit loopholes and leak data</title>
 <link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</guid>
 <description>OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
+</item>
+<item>
+<title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
+<link>https://www.ithome.com/1/007/444.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
+<description>Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
 </item>
 <item>
 <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
@@ -70,6 +70,14 @@
 <description>Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。（X：Ethan Mollick (@emollick)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
+</item>
+<item>
+<title>Copilot 电脑品牌已不复存在</title>
+<link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
+<guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
+<description>www.windowscentral.com</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 21:55:10 +0000</pubDate>
 </item>
 <item>
 <title>在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情</title>
@@ -126,14 +134,6 @@
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
 <pubDate>Fri, 25 Sep 2026 22:51:44 +0000</pubDate>
-</item>
-<item>
-<title>The Copilot+ PC brand is dead</title>
-<link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
-<guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sat, 26 Sep 2026 09:55:38 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: A Claude Code skill to analyze your chess games</title>
