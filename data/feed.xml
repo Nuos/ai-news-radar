@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 04:28:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 05:25:15 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
@@ -32,7 +32,7 @@
 <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+<title>Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex</title>
 <link>https://openai.com/index/proaction</link>
 <guid isPermaLink="true">https://openai.com/index/proaction</guid>
 <description>OpenAI News</description>
@@ -40,7 +40,7 @@
 <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise managed settings in-product validator</title>
+<title>企业管理的设置产品内验证器 / Enterprise managed settings in-product validator</title>
 <link>https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</guid>
 <description>GitHub Changelog</description>
@@ -64,7 +64,7 @@
 <pubDate>Fri, 25 Sep 2026 18:36:52 +0000</pubDate>
 </item>
 <item>
-<title>Usage metrics API adds pull request review stages</title>
+<title>使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages</title>
 <link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
 <description>GitHub Changelog</description>
@@ -78,6 +78,14 @@
 <description>Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
+</item>
+<item>
+<title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…</title>
+<link>https://x.com/emollick/status/2103709671865602100</link>
+<guid isPermaLink="true">https://x.com/emollick/status/2103709671865602100</guid>
+<description>Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。（X：Ethan Mollick (@emollick)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
 </item>
 <item>
 <title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： "We're attacking third-party HF using le…</title>
@@ -158,14 +166,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
-</item>
-<item>
-<title>Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…</title>
-<link>https://x.com/arena/status/2103572481206538439</link>
-<guid isPermaLink="true">https://x.com/arena/status/2103572481206538439</guid>
-<description>Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 19:48:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
