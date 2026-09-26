@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 17:22:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 18:29:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
@@ -24,14 +24,6 @@
 <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
-<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex</title>
 <link>https://openai.com/index/proaction</link>
 <guid isPermaLink="true">https://openai.com/index/proaction</guid>
@@ -46,14 +38,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
-</item>
-<item>
-<title>Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops</title>
-<link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
-<description>物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。（Anthropic：Research（发表成果 · 网页））</description>
-<category>多源热议</category>
-<pubDate>Fri, 25 Sep 2026 20:17:37 +0000</pubDate>
 </item>
 <item>
 <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
@@ -72,12 +56,20 @@
 <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
 </item>
 <item>
-<title>代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory</title>
-<link>https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory</guid>
+<title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…</title>
+<link>https://x.com/arena/status/2103893011164017018</link>
+<guid isPermaLink="true">https://x.com/arena/status/2103893011164017018</guid>
+<description>Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 17:02:36 +0000</pubDate>
+</item>
+<item>
+<title>使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages</title>
+<link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 17:25:50 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 21:09:40 +0000</pubDate>
 </item>
 <item>
 <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…</title>
@@ -96,22 +88,6 @@
 <pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
 </item>
 <item>
-<title>Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…</title>
-<link>https://x.com/ClaudeDevs/status/2103548467729887677</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2103548467729887677</guid>
-<description>Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。（X：Claude Devs (@ClaudeDevs)）</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 18:13:31 +0000</pubDate>
-</item>
-<item>
-<title>使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages</title>
-<link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 21:09:40 +0000</pubDate>
-</item>
-<item>
 <title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…</title>
 <link>https://x.com/sama/status/2103567198690349362</link>
 <guid isPermaLink="true">https://x.com/sama/status/2103567198690349362</guid>
@@ -126,14 +102,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 19:05:03 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Actions API 和 UI 中查询结果的更改 / Changes to query results in the GitHub Actions API and UI</title>
-<link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
 </item>
 <item>
 <title>没有AI的一个月</title>
@@ -152,12 +120,12 @@
 <pubDate>Sat, 26 Sep 2026 13:01:20 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: A Claude Code skill to analyze your chess games</title>
-<link>https://github.com/brumar/chess-postmortem-skills</link>
-<guid isPermaLink="true">https://github.com/brumar/chess-postmortem-skills</guid>
+<title>Make Claude your assistant in excalidraw</title>
+<link>https://tangled.org/yanndegat.tngl.sh/drawgent</link>
+<guid isPermaLink="true">https://tangled.org/yanndegat.tngl.sh/drawgent</guid>
 <description>Hacker News</description>
 <category>值得关注</category>
-<pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
+<pubDate>Sat, 26 Sep 2026 15:56:34 +0000</pubDate>
 </item>
 <item>
 <title>CEO of Mistral: AI is software. It can be controlled</title>
@@ -166,6 +134,38 @@
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Sat, 26 Sep 2026 12:52:04 +0000</pubDate>
+</item>
+<item>
+<title>太AI了；没看</title>
+<link>https://www.tai-dr.com</link>
+<guid isPermaLink="true">https://www.tai-dr.com</guid>
+<description>www.tai-dr.com</description>
+<category>多源热议</category>
+<pubDate>Fri, 25 Sep 2026 23:44:26 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: A Claude Code skill to analyze your chess games</title>
+<link>https://github.com/brumar/chess-postmortem-skills</link>
+<guid isPermaLink="true">https://github.com/brumar/chess-postmortem-skills</guid>
+<description>Hacker News</description>
+<category>值得关注</category>
+<pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
+</item>
+<item>
+<title>告诉 HN：Codex 已关闭 / Tell HN: Codex Is Down</title>
+<link>https://news.ycombinator.com/item?id=49851032</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49851032</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Fri, 25 Sep 2026 22:51:44 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI bots meddled with multiple US Government agency sites</title>
+<link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cw62jje658dlo</guid>
+<description>Hacker News</description>
+<category>值得关注</category>
+<pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
