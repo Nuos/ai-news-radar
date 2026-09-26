@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 19:21:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 20:24:38 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
@@ -22,6 +22,14 @@
 <description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites</title>
+<link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cw62jje658dlo</guid>
+<description>OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
 </item>
 <item>
 <title>企业管理的设置产品内验证器 / Enterprise managed settings in-product validator</title>
@@ -80,14 +88,6 @@
 <pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
 </item>
 <item>
-<title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…</title>
-<link>https://x.com/sama/status/2103567198690349362</link>
-<guid isPermaLink="true">https://x.com/sama/status/2103567198690349362</guid>
-<description>Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。（X：Sam Altman (@sama)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
-</item>
-<item>
 <title>没有AI的一个月</title>
 <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
 <guid isPermaLink="true">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</guid>
@@ -144,20 +144,12 @@
 <pubDate>Fri, 25 Sep 2026 22:51:44 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI bots meddled with multiple US Government agency sites</title>
-<link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
-<guid isPermaLink="true">https://www.bbc.com/news/articles/cw62jje658dlo</guid>
-<description>Hacker News</description>
-<category>值得关注</category>
-<pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites</title>
-<link>https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</guid>
+<title>如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs</title>
+<link>https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</link>
+<guid isPermaLink="true">https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</guid>
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 23:22:18 +0000</pubDate>
+<pubDate>Sat, 26 Sep 2026 09:41:58 +0000</pubDate>
 </item>
 <item>
 <title>Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
@@ -166,6 +158,14 @@
 <description>Hacker News</description>
 <category>值得关注</category>
 <pubDate>Sat, 26 Sep 2026 13:05:36 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites</title>
+<link>https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Fri, 25 Sep 2026 23:22:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
