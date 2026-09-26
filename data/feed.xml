@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 16:26:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 17:22:14 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
@@ -54,6 +54,14 @@
 <description>物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。（Anthropic：Research（发表成果 · 网页））</description>
 <category>多源热议</category>
 <pubDate>Fri, 25 Sep 2026 20:17:37 +0000</pubDate>
+</item>
+<item>
+<title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
+<link>https://www.ithome.com/1/007/444.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
+<description>Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its "most capable models" after agents exploit loopholes and leak data</title>
@@ -112,30 +120,6 @@
 <pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …</title>
-<link>https://x.com/OpenAI/status/2103587050347995581</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2103587050347995581</guid>
-<description>OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。（X：OpenAI (@OpenAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 20:46:50 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21</title>
-<link>https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
-</item>
-<item>
-<title>Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams</title>
-<link>https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 16:33:42 +0000</pubDate>
-</item>
-<item>
 <title>代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available</title>
 <link>https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more</guid>
@@ -152,20 +136,36 @@
 <pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
 </item>
 <item>
-<title>特斯拉的擎天柱机器人正在经历成长的阵痛 / Tesla&amp;#8217;s Optimus robot is going through growing pains</title>
-<link>https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 17:01:36 +0000</pubDate>
-</item>
-<item>
 <title>没有AI的一个月</title>
 <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
 <guid isPermaLink="true">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</guid>
 <description>blog.bustikiller.com</description>
 <category>多源热议</category>
 <pubDate>Sat, 26 Sep 2026 13:48:03 +0000</pubDate>
+</item>
+<item>
+<title>一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型</title>
+<link>http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</link>
+<guid isPermaLink="true">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</guid>
+<description>allanrbo.blogspot.com</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 13:01:20 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: A Claude Code skill to analyze your chess games</title>
+<link>https://github.com/brumar/chess-postmortem-skills</link>
+<guid isPermaLink="true">https://github.com/brumar/chess-postmortem-skills</guid>
+<description>Hacker News</description>
+<category>值得关注</category>
+<pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
+</item>
+<item>
+<title>CEO of Mistral: AI is software. It can be controlled</title>
+<link>https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html</link>
+<guid isPermaLink="true">https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sat, 26 Sep 2026 12:52:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
