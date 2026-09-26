@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 00:57:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 01:33:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
@@ -14,6 +14,14 @@
 <description>一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.157.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
@@ -158,14 +166,6 @@
 <description>Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 19:48:56 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…</title>
-<link>https://x.com/AnthropicAI/status/2103541577083719888</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
-<description>Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
