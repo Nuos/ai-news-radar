@@ -1,178 +1,8 @@
 {
-  "generated_at": "2026-09-26T20:24:38.856465Z",
+  "generated_at": "2026-09-26T21:23:45.059307Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_5b20c5b40350",
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "swarmtraces.org"
-      ],
-      "items": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7447,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:27Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
-      "primary_item": {
-        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_en": null,
-        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
-      }
-    },
     {
       "story_id": "story_1b2804dac47a",
       "title": "Codex CLI 0.157.1",
@@ -218,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7447,
+        "recency": 0.7342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -330,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9124,
+        "recency": 0.8995,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -365,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -413,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7385,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -496,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -530,7 +360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -578,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8494,
+        "recency": 0.8374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,7 +442,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
+      }
+    },
+    {
+      "story_id": "story_21d746909977",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "swarmtraces.org"
+      ],
+      "items": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7342,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T23:59:47.248000Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "recommend_reason_zh": null,
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -660,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,90 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
-      }
-    },
-    {
-      "story_id": "story_d32b9e9d97fb",
-      "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7148,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:40Z",
-      "latest_at": "2026-09-25T21:09:40Z",
-      "primary_item": {
-        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-        "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-        "title_zh": "使用指标 API 添加了拉取请求审核阶段",
-        "title_en": "Usage metrics API adds pull request review stages",
-        "title_original": "Usage metrics API adds pull request review stages",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -825,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -858,88 +717,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
-      "story_id": "story_5bff6ef02926",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "source_name": "AI HOT",
+      "story_id": "story_16720037ed48",
+      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "discourse.haskell.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": null,
+          "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
+        "Hacker News · 24h最热",
+        "discourse.haskell.org",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": null,
+          "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7124,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9853,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-25T20:55:22Z",
-      "latest_at": "2026-09-25T20:55:22Z",
+      "earliest_at": "2026-09-26T09:41:58Z",
+      "latest_at": "2026-09-26T20:22:03.489000Z",
       "primary_item": {
-        "id": "b2755019347db8d310898ae0261ef557c5468804",
-        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+        "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "title_en": null,
+        "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-        "source": "X：Yuchen Jin (@Yuchenj_UW)",
-        "source_name": "AI HOT"
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "discourse.haskell.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -1045,15 +962,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.909,
+        "recency": 0.8961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1078,11 +995,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
-      "story_id": "story_82fc2b5e21b8",
+      "story_id": "story_71b9a4da6817",
       "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
       "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "primary_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
@@ -1104,20 +1021,6 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
           "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
           "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "title_zh": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
@@ -1130,11 +1033,25 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-26T04:20:58Z"
+        },
+        {
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
+          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T04:20:58Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "allanrbo.blogspot.com",
         "hackernews"
       ],
@@ -1154,20 +1071,6 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
           "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
           "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "title_zh": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
@@ -1180,19 +1083,33 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-26T04:20:58Z"
+        },
+        {
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
+          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T04:20:58Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5526,
-      "importance": 0.5526,
-      "importance_score": 0.5526,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8988,
+        "recency": 0.8861,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1217,44 +1134,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
-      "story_id": "story_4951b7266680",
-      "title": "Make Claude your assistant in excalidraw",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "story_id": "story_20112bdf4907",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "url": "https://arxiv.org/abs/2609.22978",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T18:22:41Z"
         },
         {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857729",
+          "url": "https://news.ycombinator.com/item?id=49859112",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
       "source_count": 2,
@@ -1264,62 +1181,62 @@
       ],
       "items": [
         {
-          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "url": "https://arxiv.org/abs/2609.22978",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T18:22:41Z"
         },
         {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857729",
+          "url": "https://news.ycombinator.com/item?id=49859112",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9375,
+        "recency": 0.9574,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:56:34Z",
-      "latest_at": "2026-09-26T15:56:34Z",
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T18:22:41Z",
       "primary_item": {
-        "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-        "title": "Make Claude your assistant in excalidraw",
+        "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+        "title": "DeepSeek Elastic Compute (DSec)",
         "title_zh": null,
-        "title_en": "Make Claude your assistant in excalidraw",
-        "title_original": "Make Claude your assistant in excalidraw",
+        "title_en": "DeepSeek Elastic Compute (DSec)",
+        "title_original": "DeepSeek Elastic Compute (DSec)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "url": "https://arxiv.org/abs/2609.22978",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1327,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -1404,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8968,
+        "recency": 0.8841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1437,183 +1354,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
-      "story_id": "story_bb0c28549e24",
-      "title": "太AI了；没看",
-      "url": "https://www.tai-dr.com",
-      "primary_url": "https://www.tai-dr.com",
-      "source": "www.tai-dr.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "727ddd64d5b5919fd2651a1a1c3472aa64cb5905",
-          "title": "太AI了；没看",
-          "title_zh": "太AI了；没看",
-          "title_en": null,
-          "title_original": "太AI了；没看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "www.tai-dr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.250000Z"
-        },
-        {
-          "id": "418dd1d6a8d3082ab8bee43846977dd355e9db07",
-          "title": "太AI了；没看 / Too AI; Didn't Read",
-          "title_zh": "太AI了；没看",
-          "title_en": "Too AI; Didn't Read",
-          "title_original": "Too AI; Didn't Read",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T20:37:56Z"
-        },
-        {
-          "id": "dfdf98a0d1a43ff2a44bacafcda6dab4ba299406",
-          "title": "太人工智能了；没读过 / Too AI; Didn't Read",
-          "title_zh": "太人工智能了；没读过",
-          "title_en": "Too AI; Didn't Read",
-          "title_original": "Too AI; Didn't Read",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849625",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T20:37:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.tai-dr.com"
-      ],
-      "items": [
-        {
-          "id": "727ddd64d5b5919fd2651a1a1c3472aa64cb5905",
-          "title": "太AI了；没看",
-          "title_zh": "太AI了；没看",
-          "title_en": null,
-          "title_original": "太AI了；没看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "www.tai-dr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.250000Z"
-        },
-        {
-          "id": "418dd1d6a8d3082ab8bee43846977dd355e9db07",
-          "title": "太AI了；没看 / Too AI; Didn't Read",
-          "title_zh": "太AI了；没看",
-          "title_en": "Too AI; Didn't Read",
-          "title_original": "Too AI; Didn't Read",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tai-dr.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T20:37:56Z"
-        },
-        {
-          "id": "dfdf98a0d1a43ff2a44bacafcda6dab4ba299406",
-          "title": "太人工智能了；没读过 / Too AI; Didn't Read",
-          "title_zh": "太人工智能了；没读过",
-          "title_en": "Too AI; Didn't Read",
-          "title_original": "Too AI; Didn't Read",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849625",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T20:37:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7419,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T20:37:56Z",
-      "latest_at": "2026-09-25T23:44:26.250000Z",
-      "primary_item": {
-        "id": "727ddd64d5b5919fd2651a1a1c3472aa64cb5905",
-        "title": "太AI了；没看",
-        "title_zh": "太AI了；没看",
-        "title_en": null,
-        "title_original": "太AI了；没看",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tai-dr.com",
-        "source": "www.tai-dr.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
-      }
-    },
-    {
-      "story_id": "story_2d4d3338bea1",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
+      "story_id": "story_4951b7266680",
+      "title": "Make Claude your assistant in excalidraw",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Make Claude your assistant in excalidraw",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T15:56:34Z"
         },
         {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "Make Claude your assistant in excalidraw",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857528",
+          "url": "https://news.ycombinator.com/item?id=49857729",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T15:56:34Z"
         }
       ],
       "source_count": 2,
@@ -1623,62 +1401,62 @@
       ],
       "items": [
         {
-          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Make Claude your assistant in excalidraw",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T15:56:34Z"
         },
         {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "Make Claude your assistant in excalidraw",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857528",
+          "url": "https://news.ycombinator.com/item?id=49857729",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T15:56:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9326,
+        "recency": 0.9243,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:34:53Z",
-      "latest_at": "2026-09-26T15:34:53Z",
+      "earliest_at": "2026-09-26T15:56:34Z",
+      "latest_at": "2026-09-26T15:56:34Z",
       "primary_item": {
-        "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+        "title": "Make Claude your assistant in excalidraw",
         "title_zh": null,
-        "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-        "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+        "title_en": "Make Claude your assistant in excalidraw",
+        "title_original": "Make Claude your assistant in excalidraw",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1686,7 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -1763,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7326,
+        "recency": 0.7222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1796,44 +1574,44 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
-      "story_id": "story_16720037ed48",
-      "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "story_id": "story_100d2be86f26",
+      "title": "The Copilot+ PC brand is dead",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
-          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
-          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
-          "title_en": "How to keep enjoying programming in a world of LLMs",
-          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "The Copilot+ PC brand is dead",
+          "title_zh": null,
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-26T09:41:58Z"
+          "published_at": "2026-09-26T09:55:38Z"
         },
         {
-          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
-          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
-          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
-          "title_en": "How to keep enjoying programming in a world of LLMs",
-          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "The Copilot+ PC brand is dead",
+          "title_zh": null,
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49854875",
+          "url": "https://news.ycombinator.com/item?id=49854945",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T09:41:58Z"
+          "published_at": "2026-09-26T09:55:38Z"
         }
       ],
       "source_count": 2,
@@ -1843,62 +1621,62 @@
       ],
       "items": [
         {
-          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
-          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
-          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
-          "title_en": "How to keep enjoying programming in a world of LLMs",
-          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "The Copilot+ PC brand is dead",
+          "title_zh": null,
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-26T09:41:58Z"
+          "published_at": "2026-09-26T09:55:38Z"
         },
         {
-          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
-          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
-          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
-          "title_en": "How to keep enjoying programming in a world of LLMs",
-          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "The Copilot+ PC brand is dead",
+          "title_zh": null,
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49854875",
+          "url": "https://news.ycombinator.com/item?id=49854945",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T09:41:58Z"
+          "published_at": "2026-09-26T09:55:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8567,
+        "recency": 0.8474,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T09:41:58Z",
-      "latest_at": "2026-09-26T09:41:58Z",
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T09:55:38Z",
       "primary_item": {
-        "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
-        "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
-        "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
-        "title_en": "How to keep enjoying programming in a world of LLMs",
-        "title_original": "How to keep enjoying programming in a world of LLMs",
+        "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+        "title": "The Copilot+ PC brand is dead",
+        "title_zh": null,
+        "title_en": "The Copilot+ PC brand is dead",
+        "title_original": "The Copilot+ PC brand is dead",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -1906,44 +1684,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
-      "story_id": "story_e5053502e78a",
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "primary_url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "story_id": "story_2d4d3338bea1",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
           "title_zh": null,
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T13:05:36Z"
+          "published_at": "2026-09-26T15:34:53Z"
         },
         {
-          "id": "a1b407d175206aca71a67696688a7971ee1649c0",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
           "title_zh": null,
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856149",
+          "url": "https://news.ycombinator.com/item?id=49857528",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T13:05:36Z"
+          "published_at": "2026-09-26T15:34:53Z"
         }
       ],
       "source_count": 2,
@@ -1953,62 +1731,62 @@
       ],
       "items": [
         {
-          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
           "title_zh": null,
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T13:05:36Z"
+          "published_at": "2026-09-26T15:34:53Z"
         },
         {
-          "id": "a1b407d175206aca71a67696688a7971ee1649c0",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
           "title_zh": null,
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856149",
+          "url": "https://news.ycombinator.com/item?id=49857528",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T13:05:36Z"
+          "published_at": "2026-09-26T15:34:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8997,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T13:05:36Z",
-      "latest_at": "2026-09-26T13:05:36Z",
+      "earliest_at": "2026-09-26T15:34:53Z",
+      "latest_at": "2026-09-26T15:34:53Z",
       "primary_item": {
-        "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
-        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
         "title_zh": null,
-        "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "title_en": "Show HN: A Claude Code skill to analyze your chess games",
+        "title_original": "Show HN: A Claude Code skill to analyze your chess games",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -2016,7 +1794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     },
     {
@@ -2093,15 +1871,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4986,
-      "importance": 0.4986,
-      "importance_score": 0.4986,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.738,
+        "recency": 0.7276,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2126,7 +1904,227 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:41:44.281619Z"
+        "scored_at": "2026-09-26T21:40:51.581762Z"
+      }
+    },
+    {
+      "story_id": "story_e5053502e78a",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "primary_url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": null,
+          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T13:05:36Z"
+        },
+        {
+          "id": "a1b407d175206aca71a67696688a7971ee1649c0",
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": null,
+          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49856149",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T13:05:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": null,
+          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T13:05:36Z"
+        },
+        {
+          "id": "a1b407d175206aca71a67696688a7971ee1649c0",
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": null,
+          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49856149",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T13:05:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T13:05:36Z",
+      "latest_at": "2026-09-26T13:05:36Z",
+      "primary_item": {
+        "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
+        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "title_zh": null,
+        "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:40:51.581762Z"
+      }
+    },
+    {
+      "story_id": "story_c857b57932d9",
+      "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "primary_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T05:36:46Z"
+        },
+        {
+          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49853522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T05:36:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T05:36:46Z"
+        },
+        {
+          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49853522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T05:36:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T05:36:46Z",
+      "latest_at": "2026-09-26T05:36:46Z",
+      "primary_item": {
+        "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+        "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+        "title_zh": "AI代购值得信赖吗？",
+        "title_en": "Can AI Shopping Agents Be Trusted?",
+        "title_original": "Can AI Shopping Agents Be Trusted?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:40:51.581762Z"
       }
     }
   ]
