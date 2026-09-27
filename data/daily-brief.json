@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:31:42.908328Z",
+  "generated_at": "2026-09-27T09:26:42.365600Z",
   "window_hours": 24,
   "total_items": 17,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.766,
+        "recency": 0.7559,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -223,89 +223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
-      }
-    },
-    {
-      "story_id": "story_29b2d1a4de1e",
-      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "primary_url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
-          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-          "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T09:06:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
-          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-          "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T09:06:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T09:06:36Z",
-      "latest_at": "2026-09-26T09:06:36Z",
-      "primary_item": {
-        "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
-        "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-        "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -353,15 +271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7996,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -386,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -434,15 +352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9585,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -468,7 +386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -516,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -549,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -597,15 +515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7847,
+        "recency": 0.7744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -631,7 +549,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -708,15 +626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5909,
-      "importance": 0.5909,
-      "importance_score": 0.5909,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7943,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -847,15 +765,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8711,
+        "recency": 0.8597,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -880,7 +798,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -986,15 +904,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.858,
+        "recency": 0.8467,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1019,7 +937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -1125,15 +1043,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8389,
+        "recency": 0.8279,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1158,7 +1076,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
+      }
+    },
+    {
+      "story_id": "story_f7a9ca52c4e3",
+      "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "524f4c6d09664cd7e0220326e141cf6360876a2c",
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
+          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
+          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "524f4c6d09664cd7e0220326e141cf6360876a2c",
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
+          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
+          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T06:19:33Z",
+      "latest_at": "2026-09-27T06:19:33Z",
+      "primary_item": {
+        "id": "524f4c6d09664cd7e0220326e141cf6360876a2c",
+        "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
+        "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -1264,15 +1292,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.763,
+        "recency": 0.753,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1297,117 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
-      }
-    },
-    {
-      "story_id": "story_2ea38bddd997",
-      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "url": "https://swarmcha.se/posts/openai-unctad",
-      "primary_url": "https://swarmcha.se/posts/openai-unctad",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": null,
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmcha.se/posts/openai-unctad",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T01:08:07Z"
-        },
-        {
-          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": null,
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49862299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T01:08:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": null,
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmcha.se/posts/openai-unctad",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T01:08:07Z"
-        },
-        {
-          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": null,
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49862299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T01:08:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8987,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T01:08:07Z",
-      "latest_at": "2026-09-27T01:08:07Z",
-      "primary_item": {
-        "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "title_zh": null,
-        "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://swarmcha.se/posts/openai-unctad",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -1484,15 +1402,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7829,
+        "recency": 0.7726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,7 +1435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -1594,15 +1512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
+      "score": 0.5,
+      "importance": 0.5,
+      "importance_score": 0.5,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7553,
+        "recency": 0.7454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1624,47 +1542,47 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
-      "story_id": "story_4951b7266680",
-      "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "story_id": "story_2ea38bddd997",
+      "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "primary_url": "https://swarmcha.se/posts/openai-unctad",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
-          "title_zh": "让 Claude 成为 exlidraw 的助手",
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "url": "https://swarmcha.se/posts/openai-unctad",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-27T01:08:07Z"
         },
         {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
-          "title_zh": "让 Claude 成为 exlidraw 的助手",
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857729",
+          "url": "https://news.ycombinator.com/item?id=49862299",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-27T01:08:07Z"
         }
       ],
       "source_count": 2,
@@ -1674,62 +1592,62 @@
       ],
       "items": [
         {
-          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
-          "title_zh": "让 Claude 成为 exlidraw 的助手",
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "url": "https://swarmcha.se/posts/openai-unctad",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-27T01:08:07Z"
         },
         {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
-          "title_zh": "让 Claude 成为 exlidraw 的助手",
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857729",
+          "url": "https://news.ycombinator.com/item?id=49862299",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-27T01:08:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.787,
+        "recency": 0.8869,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:56:34Z",
-      "latest_at": "2026-09-26T15:56:34Z",
+      "earliest_at": "2026-09-27T01:08:07Z",
+      "latest_at": "2026-09-27T01:08:07Z",
       "primary_item": {
-        "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-        "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
-        "title_zh": "让 Claude 成为 exlidraw 的助手",
-        "title_en": "Make Claude your assistant in excalidraw",
-        "title_original": "Make Claude your assistant in excalidraw",
+        "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+        "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+        "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+        "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "url": "https://swarmcha.se/posts/openai-unctad",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1737,7 +1655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     },
     {
@@ -1814,15 +1732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7528,
+        "recency": 0.7429,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1844,10 +1762,120 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T09:27:45.203488Z"
+      }
+    },
+    {
+      "story_id": "story_4951b7266680",
+      "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+          "title_zh": "让 Claude 成为 exlidraw 的助手",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+          "title_zh": "让 Claude 成为 exlidraw 的助手",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+          "title_zh": "让 Claude 成为 exlidraw 的助手",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+          "title_zh": "让 Claude 成为 exlidraw 的助手",
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7767,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T15:56:34Z",
+      "latest_at": "2026-09-26T15:56:34Z",
+      "primary_item": {
+        "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+        "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+        "title_zh": "让 Claude 成为 exlidraw 的助手",
+        "title_en": "Make Claude your assistant in excalidraw",
+        "title_original": "Make Claude your assistant in excalidraw",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T08:39:58.955999Z"
+        "scored_at": "2026-09-27T09:27:45.203488Z"
       }
     }
   ]
