@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:33:39.095360Z",
+  "generated_at": "2026-09-28T05:30:13.509062Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7589,
+        "recency": 0.7486,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -227,7 +227,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
+      }
+    },
+    {
+      "story_id": "story_b098fec2a3ee",
+      "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_en": null,
+          "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_en": null,
+          "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:30:13.509062Z",
+      "latest_at": "2026-09-28T05:30:13.509062Z",
+      "primary_item": {
+        "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+        "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "title_en": null,
+        "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T05:37:02.935441Z"
+      }
+    },
+    {
+      "story_id": "story_b4f33cbe099c",
+      "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+      "url": "https://mimo.xiaomi.com/go/desktop",
+      "primary_url": "https://mimo.xiaomi.com/go/desktop",
+      "source": "小米 MiMo：官网发布与博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+          "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+          "title_zh": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+          "title_en": "MiMo Desktop",
+          "title_original": "MiMo Desktop",
+          "summary": "小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record & Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。",
+          "recommend_reason_zh": null,
+          "url": "https://mimo.xiaomi.com/go/desktop",
+          "source": "小米 MiMo：官网发布与博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "小米 MiMo：官网发布与博客"
+      ],
+      "items": [
+        {
+          "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+          "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+          "title_zh": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+          "title_en": "MiMo Desktop",
+          "title_original": "MiMo Desktop",
+          "summary": "小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record & Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。",
+          "recommend_reason_zh": null,
+          "url": "https://mimo.xiaomi.com/go/desktop",
+          "source": "小米 MiMo：官网发布与博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:30:13.509062Z",
+      "latest_at": "2026-09-28T05:30:13.509062Z",
+      "primary_item": {
+        "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+        "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+        "title_zh": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+        "title_en": "MiMo Desktop",
+        "title_original": "MiMo Desktop",
+        "summary": "小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record & Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。",
+        "recommend_reason_zh": null,
+        "url": "https://mimo.xiaomi.com/go/desktop",
+        "source": "小米 MiMo：官网发布与博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -275,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -357,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -391,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -439,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7177,
+        "recency": 0.708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -472,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -520,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -554,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -602,15 +766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -684,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -766,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,7 +964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -848,15 +1012,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,7 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -988,15 +1152,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9666,
+        "recency": 0.9535,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1021,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1127,15 +1291,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.9214,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1160,7 +1324,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1208,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1348,15 +1512,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5474,
-      "importance": 0.5474,
-      "importance_score": 0.5474,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8698,
+        "recency": 0.8581,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1381,7 +1545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1487,15 +1651,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8567,
+        "recency": 0.8451,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1520,7 +1684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1626,15 +1790,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8512,
+        "recency": 0.8397,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1659,7 +1823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1736,15 +1900,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9833,
+        "recency": 0.9701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1769,7 +1933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1817,15 +1981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1851,7 +2015,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     },
     {
@@ -1928,15 +2092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9745,
+        "recency": 0.9613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1961,199 +2125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
-      }
-    },
-    {
-      "story_id": "story_390d51e1d5fb",
-      "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-      "url": "https://www.aibase.com/news/31373",
-      "primary_url": "https://www.aibase.com/news/31373",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
-          "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "title_zh": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "title_en": null,
-          "title_original": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T02:43:51.241499Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
-          "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "title_zh": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "title_en": null,
-          "title_original": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T02:43:51.241499Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T02:43:51.241499Z",
-      "latest_at": "2026-09-28T02:43:51.241499Z",
-      "primary_item": {
-        "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
-        "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-        "title_zh": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-        "title_en": null,
-        "title_original": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31373",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
-      }
-    },
-    {
-      "story_id": "story_339de42e7adf",
-      "title": "Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer",
-      "url": "https://pandax1.com",
-      "primary_url": "https://pandax1.com",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "3e8b12ab47e369914042efa3b3299adbf694335d",
-          "title": "Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer",
-          "title_zh": "Show HN：熊猫，世界上第一台个人人工智能计算机",
-          "title_en": "Show HN: Panda, the world's first personal AI computer",
-          "title_original": "Show HN: Panda, the world's first personal AI computer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pandax1.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T01:35:14Z"
-        },
-        {
-          "id": "28a3631aa8a2ce3f46a1efdf956d49405640fa73",
-          "title": "Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer",
-          "title_zh": "Show HN：熊猫，世界上第一台个人人工智能计算机",
-          "title_en": "Show HN: Panda, the world's first personal AI computer",
-          "title_original": "Show HN: Panda, the world's first personal AI computer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49872550",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:35:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3e8b12ab47e369914042efa3b3299adbf694335d",
-          "title": "Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer",
-          "title_zh": "Show HN：熊猫，世界上第一台个人人工智能计算机",
-          "title_en": "Show HN: Panda, the world's first personal AI computer",
-          "title_original": "Show HN: Panda, the world's first personal AI computer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pandax1.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T01:35:14Z"
-        },
-        {
-          "id": "28a3631aa8a2ce3f46a1efdf956d49405640fa73",
-          "title": "Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer",
-          "title_zh": "Show HN：熊猫，世界上第一台个人人工智能计算机",
-          "title_en": "Show HN: Panda, the world's first personal AI computer",
-          "title_original": "Show HN: Panda, the world's first personal AI computer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49872550",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:35:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.958,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-28T01:35:14Z",
-      "latest_at": "2026-09-28T01:35:14Z",
-      "primary_item": {
-        "id": "3e8b12ab47e369914042efa3b3299adbf694335d",
-        "title": "Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer",
-        "title_zh": "Show HN：熊猫，世界上第一台个人人工智能计算机",
-        "title_en": "Show HN: Panda, the world's first personal AI computer",
-        "title_original": "Show HN: Panda, the world's first personal AI computer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://pandax1.com",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T04:39:56.240146Z"
+        "scored_at": "2026-09-28T05:37:02.935441Z"
       }
     }
   ]

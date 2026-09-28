@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 04:33:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 05:30:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
@@ -14,6 +14,22 @@
 <description>Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Sun, 27 Sep 2026 09:27:15 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5</title>
+<link>https://api-docs.deepseek.com/zh-cn/updates</link>
+<guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates</guid>
+<description>DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。（DeepSeek：API 更新日志）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
+</item>
+<item>
+<title>小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop</title>
+<link>https://mimo.xiaomi.com/go/desktop</link>
+<guid isPermaLink="true">https://mimo.xiaomi.com/go/desktop</guid>
+<description>小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record &amp; Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。（小米 MiMo：官网发布与博客）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
 </item>
 <item>
 <title>千问APP支持中国移动算力套餐，用户可在工作助理中启用</title>
@@ -150,22 +166,6 @@
 <description>Hacker News</description>
 <category>值得关注</category>
 <pubDate>Mon, 28 Sep 2026 02:46:27 +0000</pubDate>
-</item>
-<item>
-<title>自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论</title>
-<link>https://www.aibase.com/news/31373</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31373</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 02:43:51 +0000</pubDate>
-</item>
-<item>
-<title>Show HN：熊猫，世界上第一台个人人工智能计算机 / Show HN: Panda, the world's first personal AI computer</title>
-<link>https://pandax1.com</link>
-<guid isPermaLink="true">https://pandax1.com</guid>
-<description>Hacker News</description>
-<category>值得关注</category>
-<pubDate>Mon, 28 Sep 2026 01:35:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
