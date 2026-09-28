@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:28:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 16:31:17 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
@@ -88,6 +88,14 @@
 <pubDate>Mon, 28 Sep 2026 07:22:33 +0000</pubDate>
 </item>
 <item>
+<title>Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁 / Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...</title>
+<link>https://x.com/AravSrinivas/status/2104597362475708781</link>
+<guid isPermaLink="true">https://x.com/AravSrinivas/status/2104597362475708781</guid>
+<description>Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 15:41:27 +0000</pubDate>
+</item>
+<item>
 <title>小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop</title>
 <link>https://mimo.xiaomi.com/go/desktop</link>
 <guid isPermaLink="true">https://mimo.xiaomi.com/go/desktop</guid>
@@ -104,14 +112,6 @@
 <pubDate>Mon, 28 Sep 2026 10:30:02 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</title>
-<link>https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</guid>
-<description>NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
-<category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
 <link>https://www.ithome.com/1/007/767.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
@@ -126,14 +126,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 10:30:02 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell</title>
-<link>https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</guid>
-<description>NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
-<category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
@@ -166,6 +158,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
+</item>
+<item>
+<title>人工智能中的“快思”与“慢思”：元认知的作用（2021）</title>
+<link>https://arxiv.org/abs/2110.01834</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
+<description>arxiv.org</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 10:06:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
