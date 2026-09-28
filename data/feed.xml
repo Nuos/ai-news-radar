@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 06:55:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 07:44:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.</title>
+<link>https://x.com/rohanpaul_ai/status/2104465759619715116</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104465759619715116</guid>
+<description>澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 06:58:30 +0000</pubDate>
+</item>
 <item>
 <title>DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5</title>
 <link>https://api-docs.deepseek.com/zh-cn/updates</link>
@@ -14,6 +22,14 @@
 <description>DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。（DeepSeek：API 更新日志）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
+</item>
+<item>
+<title>Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40% / Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens</title>
+<link>https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</guid>
+<description>Fireworks AI 推出 Ember-1，这是基于 Moonshot AI 开源权重 Kimi K3 进行后训练的专用模型。该模型通过优化内部推理过程，在保持任务准确率的同时将生成的推理 Token 减少了约 40%。与单纯降低推理努力程度不同，Ember-1 保留了有用的自我反思并削减了冗余循环。基准测试显示，其在 Terminal Bench 2.1 和 DeepSWE 1.1 上表现优于 K3 Max，且在生产环境 A/B 测试中实现了显著的成本节约。目前仅通过 Fireworks Serverless API 以研究预览形式提供，未开放权重。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 07:22:33 +0000</pubDate>
 </item>
 <item>
 <title>小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop</title>
@@ -104,7 +120,7 @@
 <pubDate>Mon, 28 Sep 2026 05:36:13 +0000</pubDate>
 </item>
 <item>
-<title>Thinking Fast and Slow in AI: The Role of Metacognition</title>
+<title>人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition</title>
 <link>https://arxiv.org/abs/2110.01834</link>
 <guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
 <description>Hacker News</description>
@@ -150,22 +166,6 @@
 <description>eoinhiggins.substack.com</description>
 <category>多源热议</category>
 <pubDate>Sun, 27 Sep 2026 17:51:03 +0000</pubDate>
-</item>
-<item>
-<title>揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding "Do not guess" cut made-up claims from 71% to 20%</title>
-<link>https://earnanhonestdollar.com/bench</link>
-<guid isPermaLink="true">https://earnanhonestdollar.com/bench</guid>
-<description>Hacker News · 24h最热</description>
-<category>多源热议</category>
-<pubDate>Sun, 27 Sep 2026 17:24:17 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft drops Copilot+ branding from its new laptops</title>
-<link>https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</link>
-<guid isPermaLink="true">https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</guid>
-<description>Hacker News</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 02:46:27 +0000</pubDate>
 </item>
 </channel>
 </rss>
