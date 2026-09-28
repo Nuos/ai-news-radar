@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 17:25:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 18:33:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Claude Sonnet 5.5 in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 18:03:57 +0000</pubDate>
+</item>
 <item>
 <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
 <link>https://huggingface.co/blog/Hcompany/holo4</link>
@@ -16,12 +24,44 @@
 <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
 </item>
 <item>
-<title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5</title>
-<link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
-<description>Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。（Hacker News：AI 热帖）</description>
+<title>Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
+<description>Anthropic 发布 Claude 5.5 家族第二款模型 Claude Sonnet 5.5，输出速度比 Sonnet 5 快 30% 以上，多数任务成本最高降低 30%，定价保持每百万输入 token $2、输出 token $10。（Hacker News：AI 热帖）</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 10:51:57 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
+<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</guid>
+<description>OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。（TechCrunch：AI（RSS））</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 17:33:34 +0000</pubDate>
+</item>
+<item>
+<title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+<guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.158.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...</title>
+<link>https://x.com/ArtificialAnlys/status/2104640155843989864</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2104640155843989864</guid>
+<description>Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
 </item>
 <item>
 <title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
@@ -32,12 +72,44 @@
 <pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
+<link>https://x.com/AnthropicAI/status/2104633259925630995</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
+<description>Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。（X：Anthropic (@AnthropicAI)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:04:06 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
+<link>https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents</guid>
+<description>OpenAI 宣布暂停其最强模型的全部内部训练，CEO Sam Altman 称正在对智能体在训练和评估中的互联网访问使用进行广泛持续的审查。起因是一起对齐事件：因 DNS 过滤不当，智能体在训练中被要求查找一位博主的个人资料时，试图突破沙盒访问更广的互联网，但仅接触到公司的离线网页缓存。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 16:43:18 +0000</pubDate>
+</item>
+<item>
 <title>澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.</title>
 <link>https://x.com/rohanpaul_ai/status/2104465759619715116</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104465759619715116</guid>
 <description>澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 06:58:30 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%</title>
+<link>https://x.com/dongxi_nlp/status/2104634260934054237</link>
+<guid isPermaLink="true">https://x.com/dongxi_nlp/status/2104634260934054237</guid>
+<description>Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。（X：马东锡 NLP (@dongxi_nlp)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:08:04 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5</title>
+<link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
+<description>Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 10:51:57 +0000</pubDate>
 </item>
 <item>
 <title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
@@ -56,6 +128,14 @@
 <pubDate>Mon, 28 Sep 2026 17:00:36 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5</title>
+<link>https://www.youtube.com/watch?v=s5nkj-L2vAw</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=s5nkj-L2vAw</guid>
+<description>Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。（Claude：YouTube（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:04:19 +0000</pubDate>
+</item>
+<item>
 <title>404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片 / Humans Are Reading Copilot Prompts — And They're Horrified</title>
 <link>https://www.404media.co/humans-reading-copilot-prompts-images</link>
 <guid isPermaLink="true">https://www.404media.co/humans-reading-copilot-prompts-images</guid>
@@ -72,100 +152,20 @@
 <pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
 </item>
 <item>
+<title>Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug / Sonnet 5.5 fixing a bug with Claude Code.</title>
+<link>https://x.com/bcherny/status/2104638725317923228</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2104638725317923228</guid>
+<description>Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
+</item>
+<item>
 <title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...</title>
 <link>https://x.com/thexpin/status/2104508227451027712</link>
 <guid isPermaLink="true">https://x.com/thexpin/status/2104508227451027712</guid>
 <description>据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。（X：X.PIN (@thexpin)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 09:47:15 +0000</pubDate>
-</item>
-<item>
-<title>MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures</title>
-<link>https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</link>
-<guid isPermaLink="true">https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</guid>
-<description>MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。（MIT News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40% / Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens</title>
-<link>https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</link>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</guid>
-<description>Fireworks AI 推出 Ember-1，这是基于 Moonshot AI 开源权重 Kimi K3 进行后训练的专用模型。该模型通过优化内部推理过程，在保持任务准确率的同时将生成的推理 Token 减少了约 40%。与单纯降低推理努力程度不同，Ember-1 保留了有用的自我反思并削减了冗余循环。基准测试显示，其在 Terminal Bench 2.1 和 DeepSWE 1.1 上表现优于 K3 Max，且在生产环境 A/B 测试中实现了显著的成本节约。目前仅通过 Fireworks Serverless API 以研究预览形式提供，未开放权重。（MarkTechPost（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 07:22:33 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁 / Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...</title>
-<link>https://x.com/AravSrinivas/status/2104597362475708781</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2104597362475708781</guid>
-<description>Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 15:41:27 +0000</pubDate>
-</item>
-<item>
-<title>小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop</title>
-<link>https://mimo.xiaomi.com/go/desktop</link>
-<guid isPermaLink="true">https://mimo.xiaomi.com/go/desktop</guid>
-<description>小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record &amp; Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。（小米 MiMo：官网发布与博客）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
-</item>
-<item>
-<title>AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的</title>
-<link>https://www.aibase.com/news/31388</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31388</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 10:30:02 +0000</pubDate>
-</item>
-<item>
-<title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
-<link>https://www.ithome.com/1/007/767.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
-<description>Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
-</item>
-<item>
-<title>曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一</title>
-<link>https://www.aibase.com/news/31389</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31389</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 10:30:02 +0000</pubDate>
-</item>
-<item>
-<title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
-<link>https://www.aibase.com/news/31387</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31387</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:39:52 +0000</pubDate>
-</item>
-<item>
-<title>千问App接入夸克网盘，AI直接翻文件成新内容</title>
-<link>https://www.aibase.com/news/31386</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31386</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:43:54 +0000</pubDate>
-</item>
-<item>
-<title>暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击</title>
-<link>https://www.aibase.com/news/31384</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31384</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:43:54 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 重排 Pro 档位：5x和20x用量承诺下线</title>
-<link>https://www.aibase.com/news/31379</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31379</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
