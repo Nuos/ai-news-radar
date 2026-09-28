@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 09:39:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 10:30:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Holo4：为多面手计算机使用代理提供支持 / Holo4: powering generalist computer-use agents</title>
+<link>https://huggingface.co/blog/Hcompany/holo4</link>
+<guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo4</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+</item>
 <item>
 <title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
 <link>https://x.com/JensenHuang/status/2104499465055023424</link>
@@ -24,12 +32,28 @@
 <pubDate>Mon, 28 Sep 2026 06:58:30 +0000</pubDate>
 </item>
 <item>
+<title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
+<link>https://www.ithome.com/1/007/937.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/937.htm</guid>
+<description>英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
+</item>
+<item>
 <title>DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5</title>
 <link>https://api-docs.deepseek.com/zh-cn/updates</link>
 <guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates</guid>
 <description>DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。（DeepSeek：API 更新日志）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
+</item>
+<item>
+<title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...</title>
+<link>https://x.com/thexpin/status/2104508227451027712</link>
+<guid isPermaLink="true">https://x.com/thexpin/status/2104508227451027712</guid>
+<description>据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。（X：X.PIN (@thexpin)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:47:15 +0000</pubDate>
 </item>
 <item>
 <title>MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures</title>
@@ -56,20 +80,12 @@
 <pubDate>Mon, 28 Sep 2026 05:30:13 +0000</pubDate>
 </item>
 <item>
-<title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
-<link>https://www.ithome.com/1/007/767.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
-<description>Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
-</item>
-<item>
-<title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
-<link>https://www.aibase.com/news/31387</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31387</guid>
+<title>AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的</title>
+<link>https://www.aibase.com/news/31388</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31388</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:39:52 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 10:30:02 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</title>
@@ -80,12 +96,20 @@
 <pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>千问App接入夸克网盘，AI直接翻文件成新内容</title>
-<link>https://www.aibase.com/news/31386</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31386</guid>
+<title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
+<link>https://www.ithome.com/1/007/767.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
+<description>Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
+</item>
+<item>
+<title>曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一</title>
+<link>https://www.aibase.com/news/31389</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31389</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:43:54 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 10:30:02 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell</title>
@@ -94,6 +118,22 @@
 <description>NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
 <category>行业动态</category>
 <pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
+<link>https://www.aibase.com/news/31387</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31387</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:39:52 +0000</pubDate>
+</item>
+<item>
+<title>千问App接入夸克网盘，AI直接翻文件成新内容</title>
+<link>https://www.aibase.com/news/31386</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31386</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 08:43:54 +0000</pubDate>
 </item>
 <item>
 <title>暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击</title>
@@ -112,57 +152,17 @@
 <pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
 </item>
 <item>
+<title>人工智能中的“快思”与“慢思”：元认知的作用（2021）</title>
+<link>https://arxiv.org/abs/2110.01834</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
+<description>arxiv.org</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 10:06:14 +0000</pubDate>
+</item>
+<item>
 <title>​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测</title>
 <link>https://www.aibase.com/news/31383</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31383</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
-</item>
-<item>
-<title>​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0</title>
-<link>https://www.aibase.com/news/31378</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31378</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
-</item>
-<item>
-<title>智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路</title>
-<link>https://www.aibase.com/news/31377</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31377</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
-</item>
-<item>
-<title>随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”</title>
-<link>https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</guid>
-<description>www.nytimes.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 05:36:13 +0000</pubDate>
-</item>
-<item>
-<title>人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition</title>
-<link>https://arxiv.org/abs/2110.01834</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
-<description>Hacker News</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 03:23:53 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: TinyAIArena：观看AI代理之间的激战</title>
-<link>https://tinyaiarena.com</link>
-<guid isPermaLink="true">https://tinyaiarena.com</guid>
-<description>tinyaiarena.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 02:12:19 +0000</pubDate>
-</item>
-<item>
-<title>英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别</title>
-<link>https://www.aibase.com/news/31382</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31382</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 06:55:36 +0000</pubDate>
