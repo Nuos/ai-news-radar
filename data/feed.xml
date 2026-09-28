@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 20:26:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 21:24:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Claude Sonnet 5.5 in GitHub Copilot</title>
@@ -112,6 +112,22 @@
 <pubDate>Mon, 28 Sep 2026 18:02:10 +0000</pubDate>
 </item>
 <item>
+<title>Are you a Codex Original?</title>
+<link>https://openai.com/form/codex-originals</link>
+<guid isPermaLink="true">https://openai.com/form/codex-originals</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05 / GPT-6 Luna (Max) by @OpenAI is #23 in Agent Arena with +1.6% net improvement across 8K real-world agentic sessions from our global commun...</title>
+<link>https://x.com/arena/status/2104673568776990762</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104673568776990762</guid>
+<description>Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 20:44:16 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
 <link>https://x.com/AnthropicAI/status/2104633259925630995</link>
 <guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
@@ -136,36 +152,20 @@
 <pubDate>Mon, 28 Sep 2026 10:51:57 +0000</pubDate>
 </item>
 <item>
+<title>AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion</title>
+<link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion</guid>
+<description>AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 20:39:33 +0000</pubDate>
+</item>
+<item>
 <title>UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026</title>
 <link>https://rdi.berkeley.edu/blog/trustworthy-benchmarks</link>
 <guid isPermaLink="true">https://rdi.berkeley.edu/blog/trustworthy-benchmarks</guid>
 <description>UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。（Berkeley RDI：Blog（AI 安全与评测））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 19:24:04 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%</title>
-<link>https://x.com/dongxi_nlp/status/2104634260934054237</link>
-<guid isPermaLink="true">https://x.com/dongxi_nlp/status/2104634260934054237</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。（X：马东锡 NLP (@dongxi_nlp)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:08:04 +0000</pubDate>
-</item>
-<item>
-<title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
-<link>https://www.ithome.com/1/007/937.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/937.htm</guid>
-<description>英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
-</item>
-<item>
-<title>Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...</title>
-<link>https://x.com/arena/status/2104617283679379704</link>
-<guid isPermaLink="true">https://x.com/arena/status/2104617283679379704</guid>
-<description>Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 17:00:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
