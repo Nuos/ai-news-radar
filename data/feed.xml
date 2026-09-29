@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 11:26:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 12:40:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
@@ -14,6 +14,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 01:00:00 +0000</pubDate>
+</item>
+<item>
+<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
+<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
+<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
+<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 中的Claude十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot</title>
@@ -46,14 +54,6 @@
 <description>Claude Sonnet 5.5 发布，官方同步发布构建指南。指南涵盖在 Sonnet 5.5 与 Opus 5.5 之间做选择、从 Sonnet 5 迁移并调整 effort、以及在 Claude Code 中使用，详见 https://claude.dev/blog/building-with-claude-sonnet-5-5/。（X：Claude Devs (@ClaudeDevs)）</description>
 <category>官方更新</category>
 <pubDate>Mon, 28 Sep 2026 21:40:50 +0000</pubDate>
-</item>
-<item>
-<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
-<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
-<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 09:03:41 +0000</pubDate>
 </item>
 <item>
 <title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.</title>
@@ -120,20 +120,20 @@
 <pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
 </item>
 <item>
-<title>安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家</title>
-<link>https://www.aibase.com/news/31419</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31419</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 10:29:27 +0000</pubDate>
-</item>
-<item>
 <title>AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion</title>
 <link>https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</guid>
 <description>AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 21:31:35 +0000</pubDate>
+</item>
+<item>
+<title>安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家</title>
+<link>https://www.aibase.com/news/31419</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31419</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 10:29:27 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
