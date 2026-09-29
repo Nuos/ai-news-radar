@@ -5,10 +5,10 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 01:40:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 02:36:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>How we will do better for Australia</title>
+<title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
 <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
 <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
 <description>OpenAI News</description>
@@ -64,6 +64,14 @@
 <pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
 </item>
 <item>
+<title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.</title>
+<link>https://x.com/rohanpaul_ai/status/2104758396474057192</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104758396474057192</guid>
+<description>路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 02:21:20 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元</title>
 <link>https://www.ithome.com/1/008/082.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/008/082.htm</guid>
@@ -78,6 +86,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 28 Sep 2026 19:22:46 +0000</pubDate>
+</item>
+<item>
+<title>GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent</title>
+<link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent</link>
+<guid isPermaLink="true">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent</guid>
+<description>GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。（GitHub Blog）</description>
+<category>多源热议</category>
+<pubDate>Tue, 29 Sep 2026 00:55:47 +0000</pubDate>
 </item>
 <item>
 <title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...</title>
@@ -102,14 +118,6 @@
 <description>AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 21:31:35 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.</title>
-<link>https://x.com/rohanpaul_ai/status/2104649406536683789</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104649406536683789</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 19:08:15 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
@@ -158,14 +166,6 @@
 <description>Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 18:02:10 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5，更快更便宜并成为 claude.ai 免费层默认模型 / Claude Sonnet 5.5</title>
-<link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5</guid>
-<description>Anthropic 发布 Claude Sonnet 5.5，官方称其运行快 30% 以上，多数工作成本最多低 30%，定价与 Sonnet 5 相同但在各项基准上表现更好。（Simon Willison 博客）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
