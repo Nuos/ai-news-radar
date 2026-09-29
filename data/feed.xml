@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 23:25:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 01:04:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>GitHub Copilot 中的Claude十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot</title>
@@ -14,6 +14,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 28 Sep 2026 18:03:57 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
+<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</guid>
+<description>OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。（TechCrunch：AI（RSS））</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 23:56:18 +0000</pubDate>
 </item>
 <item>
 <title>观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</title>
@@ -48,14 +56,6 @@
 <pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.158.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support</title>
 <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
 <guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
@@ -64,15 +64,15 @@
 <pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
-<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</guid>
-<description>OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。（TechCrunch：AI（RSS））</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 17:33:34 +0000</pubDate>
+<title>Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元</title>
+<link>https://www.ithome.com/1/008/082.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/008/082.htm</guid>
+<description>据路透社看到的 Anthropic IPO 招股书，公司 2025 年净亏损 420 亿美元，营收增长 12 倍接近 46 亿美元，并计划未来一年投入 5,180 亿美元用于云服务与算力基础设施，上市后估值有望突破 2 万亿美元。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 23:40:42 +0000</pubDate>
 </item>
 <item>
-<title>Self-hosted runner version enforcement date has moved</title>
+<title>自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved</title>
 <link>https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved</guid>
 <description>GitHub Changelog</description>
@@ -110,14 +110,6 @@
 <description>Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 19:08:15 +0000</pubDate>
-</item>
-<item>
-<title>AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家</title>
-<link>https://www.ithome.com/1/008/076.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/008/076.htm</guid>
-<description>AMD 于当地时间 9 月 28 日宣布以全股票交易收购李飞飞等人 2024 年联合创办的 World Labs，交易价值约 82 亿美元，李飞飞将加入 AMD 出任执行副总裁兼首席科学家，向苏姿丰汇报。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 23:09:29 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
@@ -166,6 +158,14 @@
 <description>Anthropic 发布 Claude Sonnet 5.5，官方称其运行快 30% 以上，多数工作成本最多低 30%，定价与 Sonnet 5 相同但在各项基准上表现更好。（Simon Willison 博客）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
+</item>
+<item>
+<title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05 / GPT-6 Luna (Max) by @OpenAI is #23 in Agent Arena with +1.6% net improvement across 8K real-world agentic sessions from our global commun...</title>
+<link>https://x.com/arena/status/2104673568776990762</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104673568776990762</guid>
+<description>Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 20:44:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
