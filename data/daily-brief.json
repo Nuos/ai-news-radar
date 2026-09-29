@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-29T12:40:16.428185Z",
+  "generated_at": "2026-09-29T13:32:25.774726Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a2df1f649cab",
+      "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+          "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+          "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8669,
+      "importance": 0.8669,
+      "importance_score": 0.8669,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T13:07:00Z",
+      "latest_at": "2026-09-29T13:07:00Z",
+      "primary_item": {
+        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+        "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+        "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T13:33:23.197362Z"
+      }
+    },
     {
       "story_id": "story_c49bc1306894",
       "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8449,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -124,8 +207,8 @@
         },
         {
           "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
-          "title": "AI companies leak data to advertisers [pdf]",
-          "title_zh": null,
+          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
           "title_en": "AI companies leak data to advertisers [pdf]",
           "title_original": "AI companies leak data to advertisers [pdf]",
           "summary": null,
@@ -174,8 +257,8 @@
         },
         {
           "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
-          "title": "AI companies leak data to advertisers [pdf]",
-          "title_zh": null,
+          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
           "title_en": "AI companies leak data to advertisers [pdf]",
           "title_original": "AI companies leak data to advertisers [pdf]",
           "summary": null,
@@ -189,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9492,
+        "recency": 0.9374,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -272,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7644,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -442,15 +525,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7544,
+        "recency": 0.7449,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -477,7 +560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -525,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7748,
+        "recency": 0.7651,
         "story_heat": 0.0
       },
       "category": "official",
@@ -560,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -608,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -642,7 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -690,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.8509,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -772,15 +855,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7748,
+        "recency": 0.7651,
         "story_heat": 0.0
       },
       "category": "official",
@@ -807,7 +890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -855,15 +938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,7 +972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -937,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9408,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,7 +1054,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1019,15 +1102,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.779,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1054,7 +1137,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1095,8 +1178,8 @@
         },
         {
           "id": "0e39b6b90af3e9ad24b491ee69b08957951a8540",
-          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-          "title_zh": null,
+          "title": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞",
           "title_en": "We found 24 Android vulnerabilities using our open source AI security agent",
           "title_original": "We found 24 Android vulnerabilities using our open source AI security agent",
           "summary": null,
@@ -1145,8 +1228,8 @@
         },
         {
           "id": "0e39b6b90af3e9ad24b491ee69b08957951a8540",
-          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-          "title_zh": null,
+          "title": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞",
           "title_en": "We found 24 Android vulnerabilities using our open source AI security agent",
           "title_original": "We found 24 Android vulnerabilities using our open source AI security agent",
           "summary": null,
@@ -1160,15 +1243,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7748,
+        "recency": 0.7651,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1195,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1243,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1277,7 +1360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1354,15 +1437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1389,7 +1472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1437,15 +1520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8036,
+        "recency": 0.7935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1471,7 +1554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1519,15 +1602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1553,7 +1636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1601,15 +1684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7497,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1635,7 +1718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1683,15 +1766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7875,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1717,7 +1800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     },
     {
@@ -1765,15 +1848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7695,
+        "recency": 0.7599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1799,119 +1882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
-      }
-    },
-    {
-      "story_id": "story_4b30fe489b94",
-      "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-      "url": "https://x.com/trq212/status/2104660926373023830",
-      "primary_url": "https://x.com/trq212/status/2104660926373023830",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-          "title_zh": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "title_en": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-          "title_original": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-          "summary": "Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
-        },
-        {
-          "id": "2ce42eb3a75206e2cbb555e61385df53cfaba4b9",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "title_zh": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "title_en": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "title_original": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T19:54:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thariq",
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-          "title_zh": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "title_en": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-          "title_original": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-          "summary": "Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
-        },
-        {
-          "id": "2ce42eb3a75206e2cbb555e61385df53cfaba4b9",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "title_zh": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "title_en": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "title_original": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T19:54:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7849,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:54:02Z",
-      "latest_at": "2026-09-28T19:54:02Z",
-      "primary_item": {
-        "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-        "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-        "title_zh": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-        "title_en": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-        "title_original": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
-        "summary": "Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/trq212/status/2104660926373023830",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:10:47.170917Z"
+        "scored_at": "2026-09-29T13:33:23.197362Z"
       }
     }
   ]
