@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T19:25:49.394362Z",
+  "generated_at": "2026-09-29T20:29:33.976561Z",
   "ok": true,
   "active_count": 2,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
       "title_zh": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "status": "investigating",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-09-29T17:52:52Z",
-      "updated_at": "2026-09-29T19:08:39Z",
-      "message": "We’re still investigating elevated errors affecting ChatGPT, Codex, and the API including the Agents API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.",
+      "updated_at": "2026-09-29T19:39:36Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
     },
