@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T18:33:29.034949Z",
+  "generated_at": "2026-09-29T19:25:49.394362Z",
   "ok": true,
   "active_count": 2,
   "providers": [
@@ -21,20 +21,20 @@
       "status": "investigating",
       "impact": "minor",
       "started_at": "2026-09-29T17:52:52Z",
-      "updated_at": "2026-09-29T18:24:17Z",
-      "message": "We’re investigating elevated errors affecting ChatGPT, Codex, and the API including the Agents API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.",
+      "updated_at": "2026-09-29T19:08:39Z",
+      "message": "We’re still investigating elevated errors affecting ChatGPT, Codex, and the API including the Agents API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
     },
     {
       "id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
       "provider": "OpenAI",
-      "title": "Support chat unavailable",
-      "title_zh": "Support chat unavailable",
+      "title": "Support available via email",
+      "title_zh": "Support available via email",
       "status": "investigating",
       "impact": "none",
       "started_at": "2026-09-29T17:49:05Z",
-      "updated_at": "2026-09-29T17:55:17Z",
+      "updated_at": "2026-09-29T18:50:38Z",
       "message": "Our Help Center is available, but support chat remains unavailable. If you need assistance, you can browse the Help Center or email [[redacted-email]](mailto:[redacted-email] \"[redacted-email]\").",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
