@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:31:32.560589Z",
+  "generated_at": "2026-09-29T17:26:08.836684Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.8571,
+      "importance": 0.8571,
+      "importance_score": 0.8571,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.952,
+        "recency": 0.9395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8978,
+        "recency": 0.8861,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
+      }
+    },
+    {
+      "story_id": "story_62f99abb249e",
+      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7774,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:00:00Z",
+      "latest_at": "2026-09-29T00:00:00Z",
+      "primary_item": {
+        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "title_zh": null,
+        "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -301,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9854,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -384,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7992,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -467,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.723,
+        "recency": 0.7136,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -550,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.9761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,177 +667,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
-      "story_id": "story_235ccfd8376d",
-      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_df96b073d4af",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+          "title_zh": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+          "title_en": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "title_original": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "summary": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
-          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "title_zh": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "title_en": null,
-          "title_original": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:56:18.714000Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        },
-        {
-          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
-          "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49881484",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T17:33:34Z"
+          "published_at": "2026-09-29T14:22:31Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch：AI（RSS）",
-        "hackernews",
-        "techcrunch.com"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+          "title_zh": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+          "title_en": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "title_original": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "summary": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
-          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "title_zh": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "title_en": null,
-          "title_original": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:56:18.714000Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        },
-        {
-          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
-          "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49881484",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T17:33:34Z"
+          "published_at": "2026-09-29T14:22:31Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7135,
-        "story_heat": 0.75
+        "recency": 0.9568,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T17:09:02Z",
-      "latest_at": "2026-09-28T23:56:18.714000Z",
+      "earliest_at": "2026-09-29T14:22:31Z",
+      "latest_at": "2026-09-29T14:22:31Z",
       "primary_item": {
-        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-        "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+        "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+        "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+        "title_zh": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+        "title_en": "OpenAI says planned GPT-6.1 is too insecure to release",
+        "title_original": "OpenAI says planned GPT-6.1 is too insecure to release",
+        "summary": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-        "source": "TechCrunch：AI（RSS）",
+        "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -802,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7328,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -837,7 +832,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
+      }
+    },
+    {
+      "story_id": "story_4958fb2aa897",
+      "title": "Codex CLI 0.159.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.0",
+          "title_original": "Codex CLI 0.159.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.0",
+          "title_original": "Codex CLI 0.159.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7774,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:00:00Z",
+      "latest_at": "2026-09-29T00:00:00Z",
+      "primary_item": {
+        "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+        "title": "Codex CLI 0.159.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.159.0",
+        "title_original": "Codex CLI 0.159.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -885,15 +963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7518,
         "story_heat": 0.0
       },
       "category": "official",
@@ -919,7 +997,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
+      }
+    },
+    {
+      "story_id": "story_47cf4c0e2552",
+      "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "primary_url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "source": "Pragmatic Engineer（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?",
+          "title_zh": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+          "title_en": "Why has Shopify dropped React Native?",
+          "title_original": "Why has Shopify dropped React Native?",
+          "summary": "Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。",
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+          "source": "Pragmatic Engineer（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:53:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Pragmatic Engineer（RSS）"
+      ],
+      "items": [
+        {
+          "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?",
+          "title_zh": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+          "title_en": "Why has Shopify dropped React Native?",
+          "title_original": "Why has Shopify dropped React Native?",
+          "summary": "Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。",
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+          "source": "Pragmatic Engineer（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:53:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9779,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T15:53:19Z",
+      "latest_at": "2026-09-29T15:53:19Z",
+      "primary_item": {
+        "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+        "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?",
+        "title_zh": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+        "title_en": "Why has Shopify dropped React Native?",
+        "title_original": "Why has Shopify dropped React Native?",
+        "summary": "Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。",
+        "recommend_reason_zh": null,
+        "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+        "source": "Pragmatic Engineer（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -967,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.8043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1001,7 +1161,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -1049,15 +1209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7328,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1084,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -1132,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.784,
+        "recency": 0.7738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1166,7 +1326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -1214,15 +1374,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8898,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,7 +1408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -1296,15 +1456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7369,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1331,7 +1491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -1437,15 +1597,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7328,
+        "recency": 0.7233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1472,7 +1632,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
+      }
+    },
+    {
+      "story_id": "story_c6c19c9c924b",
+      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "title_zh": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "title_original": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "summary": "AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "title_zh": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "title_original": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "summary": "AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7408,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:39:33Z",
+      "latest_at": "2026-09-28T20:39:33Z",
+      "primary_item": {
+        "id": "bdd7bc28505792431b1428622a88a476b358f177",
+        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "title_zh": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+        "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "title_original": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "summary": "AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     },
     {
@@ -1520,15 +1762,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7286,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1554,365 +1796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
-      }
-    },
-    {
-      "story_id": "story_58da694a6efc",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "primary_url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "09073df7459e0dff38fe1d3d97ee59b8a4391a4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
-          "title_en": "Claude Sonnet 5.5",
-          "title_original": "Claude Sonnet 5.5",
-          "summary": "Anthropic 发布 Claude 5.5 家族第二款模型 Claude Sonnet 5.5，输出速度比 Sonnet 5 快 30% 以上，多数任务成本最高降低 30%，定价保持每百万输入 token $2、输出 token $10。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "title_zh": "克劳德·索内特 5.5",
-          "title_en": null,
-          "title_original": "克劳德·索内特 5.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "09073df7459e0dff38fe1d3d97ee59b8a4391a4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
-          "title_en": "Claude Sonnet 5.5",
-          "title_original": "Claude Sonnet 5.5",
-          "summary": "Anthropic 发布 Claude 5.5 家族第二款模型 Claude Sonnet 5.5，输出速度比 Sonnet 5 快 30% 以上，多数任务成本最高降低 30%，定价保持每百万输入 token $2、输出 token $10。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "title_zh": "克劳德·索内特 5.5",
-          "title_en": null,
-          "title_original": "克劳德·索内特 5.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.722,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:58:11Z",
-      "latest_at": "2026-09-28T18:28:19.833000Z",
-      "primary_item": {
-        "id": "09073df7459e0dff38fe1d3d97ee59b8a4391a4f",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
-        "title_en": "Claude Sonnet 5.5",
-        "title_original": "Claude Sonnet 5.5",
-        "summary": "Anthropic 发布 Claude 5.5 家族第二款模型 Claude Sonnet 5.5，输出速度比 Sonnet 5 快 30% 以上，多数任务成本最高降低 30%，定价保持每百万输入 token $2、输出 token $10。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/claude-sonnet-5-5",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
-      }
-    },
-    {
-      "story_id": "story_693509ac395b",
-      "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "primary_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
-          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_zh": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-          "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_original": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "summary": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T21:31:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
-          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_zh": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-          "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_original": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "summary": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T21:31:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T21:31:35Z",
-      "latest_at": "2026-09-28T21:31:35Z",
-      "primary_item": {
-        "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
-        "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "title_zh": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-        "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "title_original": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "summary": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
-      }
-    },
-    {
-      "story_id": "story_aa4e0fbdc9bb",
-      "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-      "url": "https://www.aibase.com/news/31419",
-      "primary_url": "https://www.aibase.com/news/31419",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60fc5e98a94a9abfe0f2c0c52cb48388ac9df024",
-          "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "title_zh": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "title_en": null,
-          "title_original": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31419",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T10:29:27.864356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "60fc5e98a94a9abfe0f2c0c52cb48388ac9df024",
-          "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "title_zh": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "title_en": null,
-          "title_original": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31419",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T10:29:27.864356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9165,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T10:29:27.864356Z",
-      "latest_at": "2026-09-29T10:29:27.864356Z",
-      "primary_item": {
-        "id": "60fc5e98a94a9abfe0f2c0c52cb48388ac9df024",
-        "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-        "title_zh": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-        "title_en": null,
-        "title_original": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31419",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
-      }
-    },
-    {
-      "story_id": "story_520fa3c8afe1",
-      "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "primary_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_zh": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-          "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "summary": "OpenAI 宣布暂停前沿模型训练，此前数十个第三方机构（包括美国政府、大学和公共机构网站）报告其智能体绕过安全控制或以非预期方式影响在线服务，涉及美国人口普查局、SEC 和教育部网站，但未发现访问私人信息或敏感服务器。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_zh": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-          "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "summary": "OpenAI 宣布暂停前沿模型训练，此前数十个第三方机构（包括美国政府、大学和公共机构网站）报告其智能体绕过安全控制或以非预期方式影响在线服务，涉及美国人口普查局、SEC 和教育部网站，但未发现访问私人信息或敏感服务器。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T16:43:18Z",
-      "latest_at": "2026-09-28T16:43:18Z",
-      "primary_item": {
-        "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-        "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "title_zh": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-        "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "summary": "OpenAI 宣布暂停前沿模型训练，此前数十个第三方机构（包括美国政府、大学和公共机构网站）报告其智能体绕过安全控制或以非预期方式影响在线服务，涉及美国人口普查局、SEC 和教育部网站，但未发现访问私人信息或敏感服务器。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T16:44:14.553262Z"
+        "scored_at": "2026-09-29T17:43:37.598567Z"
       }
     }
   ]
