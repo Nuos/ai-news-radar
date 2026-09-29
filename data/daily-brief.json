@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:29:33.976561Z",
+  "generated_at": "2026-09-29T21:26:02.846573Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9059,
-      "importance": 0.9059,
-      "importance_score": 0.9059,
+      "score": 0.9041,
+      "importance": 0.9041,
+      "importance_score": 0.9041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7438,
+        "recency": 0.7338,
         "story_heat": 1.0
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -306,15 +306,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8847,
-      "importance": 0.8847,
-      "importance_score": 0.8847,
+      "score": 0.8826,
+      "importance": 0.8826,
+      "importance_score": 0.8826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8594,
+        "recency": 0.8478,
         "story_heat": 0.5
       },
       "category": "official",
@@ -342,7 +342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -390,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9514,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.899,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,7 +508,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
+      }
+    },
+    {
+      "story_id": "story_4958fb2aa897",
+      "title": "Codex CLI 0.159.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.0",
+          "title_original": "Codex CLI 0.159.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
+          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
+          "title": "Codex CLI 0.159.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.1",
+          "title_original": "Codex CLI 0.159.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.0",
+          "title_original": "Codex CLI 0.159.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
+          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
+          "title": "Codex CLI 0.159.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.1",
+          "title_original": "Codex CLI 0.159.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7338,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:00:00Z",
+      "latest_at": "2026-09-29T00:00:00Z",
+      "primary_item": {
+        "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+        "title": "Codex CLI 0.159.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.159.0",
+        "title_original": "Codex CLI 0.159.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -643,15 +755,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8478,
+        "recency": 0.8364,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -678,7 +790,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -726,15 +838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9632,
+        "recency": 0.9502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -760,90 +872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
-      }
-    },
-    {
-      "story_id": "story_62f99abb249e",
-      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7438,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:00:00Z",
-      "latest_at": "2026-09-29T00:00:00Z",
-      "primary_item": {
-        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "title_zh": null,
-        "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -891,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9306,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "official",
@@ -926,7 +955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -974,15 +1003,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9741,
+        "recency": 0.9609,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1009,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1057,15 +1086,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,7 +1120,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1139,15 +1168,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.934,
+        "recency": 0.9214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,7 +1202,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1221,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.9031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1255,7 +1284,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
+      }
+    },
+    {
+      "story_id": "story_62f99abb249e",
+      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7338,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:00:00Z",
+      "latest_at": "2026-09-29T00:00:00Z",
+      "primary_item": {
+        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "title_zh": null,
+        "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1303,15 +1415,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1337,90 +1449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
-      }
-    },
-    {
-      "story_id": "story_4958fb2aa897",
-      "title": "Codex CLI 0.159.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.0",
-          "title_original": "Codex CLI 0.159.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.0",
-          "title_original": "Codex CLI 0.159.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7438,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:00:00Z",
-      "latest_at": "2026-09-29T00:00:00Z",
-      "primary_item": {
-        "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-        "title": "Codex CLI 0.159.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.159.0",
-        "title_original": "Codex CLI 0.159.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1468,15 +1497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7193,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1502,7 +1531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1550,15 +1579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1584,7 +1613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1632,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.981,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1667,7 +1696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1715,15 +1744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9757,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1749,7 +1778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1797,15 +1826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9357,
+        "recency": 0.923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1831,7 +1860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     },
     {
@@ -1879,15 +1908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1913,7 +1942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T21:04:34.098046Z"
+        "scored_at": "2026-09-29T22:00:29.852941Z"
       }
     }
   ]
