@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T21:26:02.846573Z",
+  "generated_at": "2026-09-29T22:26:38.940868Z",
   "ok": true,
   "active_count": 2,
   "providers": [
@@ -21,7 +21,7 @@
       "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-09-29T17:52:52Z",
-      "updated_at": "2026-09-29T21:09:11Z",
+      "updated_at": "2026-09-29T22:03:22Z",
       "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
@@ -31,11 +31,11 @@
       "provider": "OpenAI",
       "title": "Support available via email",
       "title_zh": "Support available via email",
-      "status": "investigating",
+      "status": "monitoring",
       "impact": "none",
       "started_at": "2026-09-29T17:49:05Z",
-      "updated_at": "2026-09-29T18:50:38Z",
-      "message": "Our Help Center is available, but support chat remains unavailable. If you need assistance, you can browse the Help Center or email [[redacted-email]](mailto:[redacted-email] \"[redacted-email]\").",
+      "updated_at": "2026-09-29T21:50:57Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
     }
