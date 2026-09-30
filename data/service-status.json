@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T01:05:42.808152Z",
+  "generated_at": "2026-09-30T02:40:07.744054Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M3R1T4FCR1337FBBYY9K2RPB",
+      "provider": "OpenAI",
+      "title": "Elevated errors in ChatGPT Space Pages",
+      "title_zh": "ChatGPT Space Pages 错误率升高",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-09-30T02:20:32Z",
+      "updated_at": "2026-09-30T02:20:32Z",
+      "message": "We have identified that users may experience errors creating or interacting with Pages, including failures when using Page tools or connecting to live Page sessions. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
+    }
+  ]
 }
