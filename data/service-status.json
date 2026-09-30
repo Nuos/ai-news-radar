@@ -1,43 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T22:26:38.940868Z",
+  "generated_at": "2026-09-29T23:24:41.729981Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 0,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 0
     }
   ],
-  "incidents": [
-    {
-      "id": "01M3Q4RK1SM4EMK445GGPG7C0N",
-      "provider": "OpenAI",
-      "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "title_zh": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "status": "monitoring",
-      "impact": "minor",
-      "started_at": "2026-09-29T17:52:52Z",
-      "updated_at": "2026-09-29T22:03:22Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
-    },
-    {
-      "id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
-      "provider": "OpenAI",
-      "title": "Support available via email",
-      "title_zh": "Support available via email",
-      "status": "monitoring",
-      "impact": "none",
-      "started_at": "2026-09-29T17:49:05Z",
-      "updated_at": "2026-09-29T21:50:57Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
-    }
-  ]
+  "incidents": []
 }
