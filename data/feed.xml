@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 08:37:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 09:30:49 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots</title>
@@ -38,14 +38,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
-</item>
-<item>
-<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
-<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
-<description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
@@ -158,6 +150,14 @@
 <description>英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 19:24:12 +0000</pubDate>
+</item>
+<item>
+<title>PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞 / Hijacking Copilot Cowork's AI Gateway to Bypass Sandboxing and Exfiltrate Files</title>
+<link>https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files</link>
+<guid isPermaLink="true">https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files</guid>
+<description>PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。（PromptArmor：Threat Intelligence）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.</title>
