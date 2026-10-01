@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 07:37:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 08:37:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -104,20 +104,20 @@
 <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
 </item>
 <item>
+<title>Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available</title>
+<link>https://modal.com/blog/modal-clusters-generally-available</link>
+<guid isPermaLink="true">https://modal.com/blog/modal-clusters-generally-available</guid>
+<description>Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。（Modal 官方工程博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 08:37:45 +0000</pubDate>
+</item>
+<item>
 <title>GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team</title>
 <link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
-</item>
-<item>
-<title>OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing</title>
-<link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</guid>
-<description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
@@ -128,12 +128,12 @@
 <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
 </item>
 <item>
-<title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
-<link>https://www.aibase.com/news/31442</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31442</guid>
-<description>AIbase</description>
+<title>OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing</title>
+<link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</guid>
+<description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 10:29:03 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7</title>
