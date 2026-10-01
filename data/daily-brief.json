@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:39:56.428302Z",
+  "generated_at": "2026-10-01T13:31:08.319001Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7864,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7981,
+        "recency": 0.7884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
+      }
+    },
+    {
+      "story_id": "story_9d8a37b506d5",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "primary_url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_zh": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "title_en": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_original": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:05:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_zh": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "title_en": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_original": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:05:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9797,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T12:05:49Z",
+      "latest_at": "2026-10-01T12:05:49Z",
+      "primary_item": {
+        "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+        "title_zh": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+        "title_en": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+        "title_original": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+        "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -214,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7263,
+        "recency": 0.7174,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -297,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7319,
+        "recency": 0.7229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -409,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.881,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -492,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8044,
+        "recency": 0.7946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -574,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,89 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
-      }
-    },
-    {
-      "story_id": "story_68bad53a3f25",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7456,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T16:20:04Z",
-      "latest_at": "2026-09-30T16:20:04Z",
-      "primary_item": {
-        "id": "642e8da577619291348e2e74443467b30fe57f10",
-        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -738,21 +738,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7902,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T20:21:32Z",
       "latest_at": "2026-09-30T20:21:32Z",
@@ -772,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -820,15 +819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7724,
+        "recency": 0.763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -901,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.9318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -982,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7507,
+        "recency": 0.7415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1017,7 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -1065,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,88 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
-      }
-    },
-    {
-      "story_id": "story_c8f0f2084692",
-      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-      "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "primary_url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-          "title_zh": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-          "title_en": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-          "title_original": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-          "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:41:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-          "title_zh": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-          "title_en": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-          "title_original": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-          "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:41:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T12:41:30Z",
-      "latest_at": "2026-09-30T12:41:30Z",
-      "primary_item": {
-        "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-        "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-        "title_zh": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-        "title_en": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-        "title_original": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
-        "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -1227,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,90 +1178,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
-      "story_id": "story_a919a86617b9",
-      "title": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_68bad53a3f25",
+      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7",
-          "title_zh": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束",
-          "title_en": "X25519-only TLS ends for GHE.com on October 7",
-          "title_original": "X25519-only TLS ends for GHE.com on October 7",
-          "summary": null,
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T16:20:04Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7",
-          "title_zh": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束",
-          "title_en": "X25519-only TLS ends for GHE.com on October 7",
-          "title_original": "X25519-only TLS ends for GHE.com on October 7",
-          "summary": null,
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T16:20:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7157,
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T13:30:24Z",
-      "latest_at": "2026-09-30T13:30:24Z",
+      "earliest_at": "2026-09-30T16:20:04Z",
+      "latest_at": "2026-09-30T16:20:04Z",
       "primary_item": {
-        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-        "title": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7",
-        "title_zh": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束",
-        "title_en": "X25519-only TLS ends for GHE.com on October 7",
-        "title_original": "X25519-only TLS ends for GHE.com on October 7",
-        "summary": null,
+        "id": "642e8da577619291348e2e74443467b30fe57f10",
+        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -1391,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1424,88 +1341,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
-      }
-    },
-    {
-      "story_id": "story_9b1abafadbef",
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "primary_url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T18:42:04Z",
-      "latest_at": "2026-09-30T18:42:04Z",
-      "primary_item": {
-        "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105367591174995999",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -1553,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1586,7 +1422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     },
     {
@@ -1662,15 +1498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5909,
-      "importance": 0.5909,
-      "importance_score": 0.5909,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.794,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1695,7 +1531,226 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T12:55:46.483182Z"
+        "scored_at": "2026-10-01T13:49:14.004128Z"
+      }
+    },
+    {
+      "story_id": "story_568f43e2f5cc",
+      "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "01e424ab20cb1c1295762fa41f8773f0aa992da3",
+          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
+          "title_en": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "title_original": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T17:15:49Z"
+        },
+        {
+          "id": "68ef997187d28a52b7e3f4fd1c74ee97d5a49b50",
+          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here’s what AI leaders are saying about Trump’s new safety plan",
+          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
+          "title_en": "Here’s what AI leaders are saying about Trump’s new safety plan",
+          "title_original": "Here’s what AI leaders are saying about Trump’s new safety plan",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-30T17:15:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "01e424ab20cb1c1295762fa41f8773f0aa992da3",
+          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
+          "title_en": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "title_original": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T17:15:49Z"
+        },
+        {
+          "id": "68ef997187d28a52b7e3f4fd1c74ee97d5a49b50",
+          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here’s what AI leaders are saying about Trump’s new safety plan",
+          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
+          "title_en": "Here’s what AI leaders are saying about Trump’s new safety plan",
+          "title_original": "Here’s what AI leaders are saying about Trump’s new safety plan",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-30T17:15:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.7464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-30T17:15:49Z",
+      "latest_at": "2026-09-30T17:15:49Z",
+      "primary_item": {
+        "id": "01e424ab20cb1c1295762fa41f8773f0aa992da3",
+        "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+        "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
+        "title_en": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+        "title_original": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T13:49:14.004128Z"
+      }
+    },
+    {
+      "story_id": "story_91de62452fe7",
+      "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "primary_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9554,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T10:21:36Z",
+      "latest_at": "2026-10-01T10:21:36Z",
+      "primary_item": {
+        "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+        "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+        "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T13:49:14.004128Z"
       }
     }
   ]
