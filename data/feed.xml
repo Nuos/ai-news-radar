@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 17:26:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 18:34:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
@@ -14,6 +14,22 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
+</item>
+<item>
+<title>The eternal complement</title>
+<link>https://openai.com/index/the-eternal-complement</link>
+<guid isPermaLink="true">https://openai.com/index/the-eternal-complement</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Actions retention now covers checks, runs, and statuses</title>
+<link>https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 17:59:54 +0000</pubDate>
 </item>
 <item>
 <title>How Albertsons Companies is reimagining retail from the inside out</title>
@@ -32,14 +48,6 @@
 <pubDate>Thu, 01 Oct 2026 16:49:05 +0000</pubDate>
 </item>
 <item>
-<title>Scheduled code scanning skips inactive repositories</title>
-<link>https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 16:49:15 +0000</pubDate>
-</item>
-<item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
 <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</guid>
@@ -48,12 +56,20 @@
 <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
 <item>
-<title>New dashboard experience now the default</title>
-<link>https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</guid>
+<title>Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:</title>
+<link>https://x.com/ClaudeDevs/status/2105721434807083061</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2105721434807083061</guid>
+<description>Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。（X：Claude Devs (@ClaudeDevs)）</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 18:08:07 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled code scanning skips inactive repositories</title>
+<link>https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 16:14:56 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 16:49:15 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
@@ -72,6 +88,22 @@
 <pubDate>Thu, 01 Oct 2026 16:51:02 +0000</pubDate>
 </item>
 <item>
+<title>LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness</title>
+<link>https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</link>
+<guid isPermaLink="true">https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</guid>
+<description>LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。（LangChain：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 17:01:32 +0000</pubDate>
+</item>
+<item>
+<title>New dashboard experience now the default</title>
+<link>https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 16:14:56 +0000</pubDate>
+</item>
+<item>
 <title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
 <link>https://x.com/thsottiaux/status/2105519215092584786</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
@@ -80,20 +112,20 @@
 <pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
 </item>
 <item>
-<title>GitHub 异步合并 API 正式可用 / GitHub async merge API generally available</title>
-<link>https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 14:00:51 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
 <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</link>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</guid>
 <description>OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。（MarkTechPost（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods</title>
+<link>https://claude.dev/blog/getting-started-with-claude-code-mods</link>
+<guid isPermaLink="true">https://claude.dev/blog/getting-started-with-claude-code-mods</guid>
+<description>这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。（Anthropic：Claude.dev 开发者博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
@@ -128,44 +160,12 @@
 <pubDate>Thu, 01 Oct 2026 10:54:12 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...</title>
-<link>https://x.com/arena/status/2105411271525052418</link>
-<guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
-<description>Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 21:35:38 +0000</pubDate>
-</item>
-<item>
-<title>Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0</title>
-<link>https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0</guid>
+<title>GitHub 异步合并 API 正式可用 / GitHub async merge API generally available</title>
+<link>https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 13:01:31 +0000</pubDate>
-</item>
-<item>
-<title>选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing</title>
-<link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
-</item>
-<item>
-<title>Google announces Gemini 4 and says it&amp;#8217;s so capable that only &amp;#8216;trusted cyber defenders&amp;#8217; can have it right now</title>
-<link>https://www.theverge.com/tech/1002980/google-gemini-4-argon</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1002980/google-gemini-4-argon</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Wed, 30 Sep 2026 20:41:41 +0000</pubDate>
-</item>
-<item>
-<title>美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查</title>
-<link>https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</link>
-<guid isPermaLink="true">https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</guid>
-<description>www.cnbc.com</description>
-<category>多源热议</category>
-<pubDate>Thu, 01 Oct 2026 15:42:33 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 14:00:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
