@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-01T14:30:57.827803Z",
+  "generated_at": "2026-10-01T15:28:44.506552Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a97a1140e735",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9935,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T15:29:45.648250Z"
+      }
+    },
     {
       "story_id": "story_9cc7967eae69",
       "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9928,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
-      }
-    },
-    {
-      "story_id": "story_e79047166a33",
-      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-          "title_zh": "Actions Runner 控制器版本 0.15.0",
-          "title_en": "Actions Runner Controller release 0.15.0",
-          "title_original": "Actions Runner Controller release 0.15.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T13:01:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-          "title_zh": "Actions Runner 控制器版本 0.15.0",
-          "title_en": "Actions Runner Controller release 0.15.0",
-          "title_original": "Actions Runner Controller release 0.15.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T13:01:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9787,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T13:01:31Z",
-      "latest_at": "2026-10-01T13:01:31Z",
-      "primary_item": {
-        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-        "title_zh": "Actions Runner 控制器版本 0.15.0",
-        "title_en": "Actions Runner Controller release 0.15.0",
-        "title_original": "Actions Runner Controller release 0.15.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7657,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
+      }
+    },
+    {
+      "story_id": "story_e79047166a33",
+      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "title_zh": "Actions Runner 控制器版本 0.15.0",
+          "title_en": "Actions Runner Controller release 0.15.0",
+          "title_original": "Actions Runner Controller release 0.15.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T13:01:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "title_zh": "Actions Runner 控制器版本 0.15.0",
+          "title_en": "Actions Runner Controller release 0.15.0",
+          "title_original": "Actions Runner Controller release 0.15.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T13:01:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9652,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T13:01:31Z",
+      "latest_at": "2026-10-01T13:01:31Z",
+      "primary_item": {
+        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+        "title_zh": "Actions Runner 控制器版本 0.15.0",
+        "title_en": "Actions Runner Controller release 0.15.0",
+        "title_original": "Actions Runner Controller release 0.15.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9657,
+        "recency": 0.9523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,90 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
-      }
-    },
-    {
-      "story_id": "story_0d7ed6e47e0a",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7126,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T15:03:07Z",
-      "latest_at": "2026-09-30T15:03:07Z",
-      "primary_item": {
-        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-        "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-        "title_en": "Introducing SynthID Bio",
-        "title_original": "Introducing SynthID Bio",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-synthid-bio",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -491,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8684,
+        "recency": 0.8564,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -526,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7832,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -655,15 +655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7783,
+        "recency": 0.7675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -736,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7694,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -817,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7521,
+        "recency": 0.7417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -898,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7771,
+        "recency": 0.7664,
         "story_heat": 0.0
       },
       "category": "official",
@@ -933,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -981,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9185,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +1014,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -1062,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9492,
+        "recency": 0.9361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1095,88 +1095,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
-      }
-    },
-    {
-      "story_id": "story_964372c367be",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "title_en": "Confidence Thresholds for Model Escalation Routing",
-          "title_original": "Confidence Thresholds for Model Escalation Routing",
-          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "title_en": "Confidence Thresholds for Model Escalation Routing",
-          "title_original": "Confidence Thresholds for Model Escalation Routing",
-          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8109,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
-        "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-        "title_en": "Confidence Thresholds for Model Escalation Routing",
-        "title_original": "Confidence Thresholds for Model Escalation Routing",
-        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -1224,15 +1143,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7259,
+        "recency": 0.7159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1257,90 +1176,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
-      }
-    },
-    {
-      "story_id": "story_a67dcb1766e6",
-      "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-          "title_zh": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-          "title_zh": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7072,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
-      "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-        "title_zh": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
-        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -1388,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7309,
+        "recency": 0.7208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1423,7 +1259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
@@ -1499,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5871,
-      "importance": 0.5871,
-      "importance_score": 0.5871,
+      "score": 0.5852,
+      "importance": 0.5852,
+      "importance_score": 0.5852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7731,
+        "recency": 0.7624,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1532,21 +1368,35 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
       "story_id": "story_6f6508ae55fd",
-      "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
       "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
       "primary_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
       "sources": [
         {
+          "id": "a71ad219a49b1b4022bf271d2381c61d825e4557",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "title_zh": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "title_en": null,
+          "title_original": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:10:06.125000Z"
+        },
+        {
           "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
-          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-          "title_zh": "Meta 使用人工智能数据中心可避免数十亿联邦税",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "title_zh": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
           "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
           "title_original": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
           "summary": null,
@@ -1570,6 +1420,270 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-01T13:05:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "a71ad219a49b1b4022bf271d2381c61d825e4557",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "title_zh": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "title_en": null,
+          "title_original": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:10:06.125000Z"
+        },
+        {
+          "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "title_zh": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "title_original": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:05:51Z"
+        },
+        {
+          "id": "a164494fe55c6b0f1243f39360b992a60f43698c",
+          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "title_zh": "Meta 使用人工智能数据中心可避免数十亿联邦税",
+          "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "title_original": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49921118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:05:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9955,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T13:05:51Z",
+      "latest_at": "2026-10-01T15:10:06.125000Z",
+      "primary_item": {
+        "id": "a71ad219a49b1b4022bf271d2381c61d825e4557",
+        "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+        "title_zh": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+        "title_en": null,
+        "title_original": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T15:29:45.648250Z"
+      }
+    },
+    {
+      "story_id": "story_91de62452fe7",
+      "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "primary_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "source": "news.synopsys.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_en": null,
+          "title_original": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "news.synopsys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T14:54:06.176000Z"
+        },
+        {
+          "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "news.synopsys.com"
+      ],
+      "items": [
+        {
+          "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_en": null,
+          "title_original": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "news.synopsys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T14:54:06.176000Z"
+        },
+        {
+          "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9917,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T10:21:36Z",
+      "latest_at": "2026-10-01T14:54:06.176000Z",
+      "primary_item": {
+        "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+        "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+        "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+        "title_en": null,
+        "title_original": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "source": "news.synopsys.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T15:29:45.648250Z"
+      }
+    },
+    {
+      "story_id": "story_17c7fb1b1d6b",
+      "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "primary_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49921050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:00:55Z"
         }
       ],
       "source_count": 2,
@@ -1579,62 +1693,62 @@
       ],
       "items": [
         {
-          "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
-          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-          "title_zh": "Meta 使用人工智能数据中心可避免数十亿联邦税",
-          "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-          "title_original": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-01T13:05:51Z"
+          "published_at": "2026-10-01T13:00:55Z"
         },
         {
-          "id": "a164494fe55c6b0f1243f39360b992a60f43698c",
-          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-          "title_zh": "Meta 使用人工智能数据中心可避免数十亿联邦税",
-          "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-          "title_original": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49921118",
+          "url": "https://news.ycombinator.com/item?id=49921050",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-01T13:05:51Z"
+          "published_at": "2026-10-01T13:00:55Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9797,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-01T13:05:51Z",
-      "latest_at": "2026-10-01T13:05:51Z",
+      "earliest_at": "2026-10-01T13:00:55Z",
+      "latest_at": "2026-10-01T13:00:55Z",
       "primary_item": {
-        "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
-        "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-        "title_zh": "Meta 使用人工智能数据中心可避免数十亿联邦税",
-        "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-        "title_original": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+        "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
+        "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+        "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1642,116 +1756,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     },
     {
-      "story_id": "story_568f43e2f5cc",
-      "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_4844171e1abb",
+      "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "primary_url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "01e424ab20cb1c1295762fa41f8773f0aa992da3",
-          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
-          "title_en": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-          "title_original": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
+          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
+          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T17:15:49Z"
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T13:01:02Z"
         },
         {
-          "id": "68ef997187d28a52b7e3f4fd1c74ee97d5a49b50",
-          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here’s what AI leaders are saying about Trump’s new safety plan",
-          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
-          "title_en": "Here’s what AI leaders are saying about Trump’s new safety plan",
-          "title_original": "Here’s what AI leaders are saying about Trump’s new safety plan",
+          "id": "7787227f77146b9b49b7c6c201e155f52b590e4b",
+          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
+          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T17:15:49Z"
+          "url": "https://news.ycombinator.com/item?id=49921051",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:01:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "01e424ab20cb1c1295762fa41f8773f0aa992da3",
-          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
-          "title_en": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-          "title_original": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+          "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
+          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
+          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T17:15:49Z"
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T13:01:02Z"
         },
         {
-          "id": "68ef997187d28a52b7e3f4fd1c74ee97d5a49b50",
-          "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here’s what AI leaders are saying about Trump’s new safety plan",
-          "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
-          "title_en": "Here’s what AI leaders are saying about Trump’s new safety plan",
-          "title_original": "Here’s what AI leaders are saying about Trump’s new safety plan",
+          "id": "7787227f77146b9b49b7c6c201e155f52b590e4b",
+          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
+          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T17:15:49Z"
+          "url": "https://news.ycombinator.com/item?id=49921051",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:01:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7357,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9651,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-30T17:15:49Z",
-      "latest_at": "2026-09-30T17:15:49Z",
+      "earliest_at": "2026-10-01T13:01:02Z",
+      "latest_at": "2026-10-01T13:01:02Z",
       "primary_item": {
-        "id": "01e424ab20cb1c1295762fa41f8773f0aa992da3",
-        "title": "以下是人工智能领导人对特朗普新安全计划的评价 / Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-        "title_zh": "以下是人工智能领导人对特朗普新安全计划的评价",
-        "title_en": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
-        "title_original": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+        "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
+        "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+        "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
+        "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+        "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:31:56.571443Z"
+        "scored_at": "2026-10-01T15:29:45.648250Z"
       }
     }
   ]
