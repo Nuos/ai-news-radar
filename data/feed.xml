@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 09:32:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 10:28:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -46,14 +46,6 @@
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
-</item>
-<item>
-<title>帮助小型企业将人工智能发挥作用 / Helping small businesses put AI to work</title>
-<link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
-<guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
@@ -166,6 +158,14 @@
 <description>Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 00:09:22 +0000</pubDate>
+</item>
+<item>
+<title>OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI</title>
+<link>https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</guid>
+<description>OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。（OpenRouter：Announcements（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
