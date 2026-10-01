@@ -5,8 +5,24 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 13:31:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 14:30:57 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>GitHub 异步合并 API 正式可用 / GitHub async merge API generally available</title>
+<link>https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 14:00:51 +0000</pubDate>
+</item>
+<item>
+<title>Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0</title>
+<link>https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 13:01:31 +0000</pubDate>
+</item>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
 <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</link>
@@ -16,28 +32,12 @@
 <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
 <item>
-<title>选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing</title>
-<link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
 <link>https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure</guid>
 <description>OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
-</item>
-<item>
-<title>VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 14:31:19 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
@@ -88,20 +88,20 @@
 <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
 </item>
 <item>
+<title>选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing</title>
+<link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
+</item>
+<item>
 <title>Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available</title>
 <link>https://modal.com/blog/modal-clusters-generally-available</link>
 <guid isPermaLink="true">https://modal.com/blog/modal-clusters-generally-available</guid>
 <description>Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。（Modal 官方工程博客（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 08:37:45 +0000</pubDate>
-</item>
-<item>
-<title>GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team</title>
-<link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
 </item>
 <item>
 <title>Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm</title>
@@ -128,20 +128,20 @@
 <pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models</title>
-<link>https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</guid>
-<description>OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<title>VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 14:31:19 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI</title>
-<link>https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</guid>
-<description>OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<title>GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team</title>
+<link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
 </item>
 <item>
 <title>Google announces Gemini 4 and says it&amp;#8217;s so capable that only &amp;#8216;trusted cyber defenders&amp;#8217; can have it right now</title>
@@ -152,20 +152,20 @@
 <pubDate>Wed, 30 Sep 2026 20:41:41 +0000</pubDate>
 </item>
 <item>
+<title>Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes</title>
+<link>https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Thu, 01 Oct 2026 13:05:51 +0000</pubDate>
+</item>
+<item>
 <title>以下是人工智能领导人对特朗普新安全计划的评价 / Here&amp;#8217;s what AI leaders are saying about Trump&amp;#8217;s new safety plan</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</guid>
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Wed, 30 Sep 2026 17:15:49 +0000</pubDate>
-</item>
-<item>
-<title>GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</title>
-<link>https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</link>
-<guid isPermaLink="true">https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Thu, 01 Oct 2026 10:21:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
