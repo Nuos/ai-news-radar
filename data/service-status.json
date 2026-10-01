@@ -1,31 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T19:25:22.262399Z",
+  "generated_at": "2026-10-01T20:30:30.527755Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 1
     }
   ],
   "incidents": [
-    {
-      "id": "01M3WCKTAN41RZ01SBRRTY4AYM",
-      "provider": "OpenAI",
-      "title": "Issues with login, signup, and ads",
-      "title_zh": "login, signup, and ads 出现问题",
-      "status": "identified",
-      "impact": "major",
-      "started_at": "2026-10-01T18:46:17Z",
-      "updated_at": "2026-10-01T19:17:04Z",
-      "message": "We have identified that users are experiencing login issues for the impacted services. We are working on implementing a mitigation.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM"
-    },
     {
       "id": "01M3R1T4FCR1337FBBYY9K2RPB",
       "provider": "OpenAI",
