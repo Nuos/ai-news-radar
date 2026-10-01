@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:28:44.506552Z",
+  "generated_at": "2026-10-01T16:28:44.577188Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9935,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
+      }
+    },
+    {
+      "story_id": "story_8116becccb3e",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "primary_url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": null,
+          "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": null,
+          "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9931,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:00:00Z",
+      "latest_at": "2026-10-01T16:00:00Z",
+      "primary_item": {
+        "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "title_zh": null,
+        "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+        "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9791,
+        "recency": 0.965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7551,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9652,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -491,15 +574,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -526,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -574,15 +657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7724,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -655,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7675,
+        "recency": 0.7565,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -736,15 +819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7587,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -817,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7417,
+        "recency": 0.731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -898,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7664,
+        "recency": 0.7554,
         "story_heat": 0.0
       },
       "category": "official",
@@ -933,7 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -981,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -1062,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.9226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1095,88 +1178,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
-      "story_id": "story_68bad53a3f25",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_c187de4bd3b6",
+      "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估 / Building a more secure environment for evaluating dangerous capabilities",
+      "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+      "primary_url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+      "source": "英国 AI Security Institute：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+          "id": "1080d0cb5a92cef8930847a93324e82db26056ee",
+          "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估 / Building a more secure environment for evaluating dangerous capabilities",
+          "title_zh": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+          "title_en": "Building a more secure environment for evaluating dangerous capabilities",
+          "title_original": "Building a more secure environment for evaluating dangerous capabilities",
+          "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通过静态分析、动态分析和受控逃逸试验用 AI 测试自身安全。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+          "source": "英国 AI Security Institute：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
+          "published_at": "2026-09-30T23:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "英国 AI Security Institute：Blog（网页）"
       ],
       "items": [
         {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+          "id": "1080d0cb5a92cef8930847a93324e82db26056ee",
+          "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估 / Building a more secure environment for evaluating dangerous capabilities",
+          "title_zh": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+          "title_en": "Building a more secure environment for evaluating dangerous capabilities",
+          "title_original": "Building a more secure environment for evaluating dangerous capabilities",
+          "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通过静态分析、动态分析和受控逃逸试验用 AI 测试自身安全。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+          "source": "英国 AI Security Institute：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
+          "published_at": "2026-09-30T23:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7159,
+        "recency": 0.7769,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T16:20:04Z",
-      "latest_at": "2026-09-30T16:20:04Z",
+      "earliest_at": "2026-09-30T23:00:00Z",
+      "latest_at": "2026-09-30T23:00:00Z",
       "primary_item": {
-        "id": "642e8da577619291348e2e74443467b30fe57f10",
-        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+        "id": "1080d0cb5a92cef8930847a93324e82db26056ee",
+        "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估 / Building a more secure environment for evaluating dangerous capabilities",
+        "title_zh": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+        "title_en": "Building a more secure environment for evaluating dangerous capabilities",
+        "title_original": "Building a more secure environment for evaluating dangerous capabilities",
+        "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通过静态分析、动态分析和受控逃逸试验用 AI 测试自身安全。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+        "source": "英国 AI Security Institute：Blog（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -1224,15 +1307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7208,
+        "recency": 0.7105,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1259,7 +1342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -1335,15 +1418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.5832,
+      "importance": 0.5832,
+      "importance_score": 0.5832,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7624,
+        "recency": 0.7515,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,7 +1451,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
+      }
+    },
+    {
+      "story_id": "story_17c7fb1b1d6b",
+      "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "primary_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "www.cnbc.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2d80d6ae81cb2a03ca0575f918da8a52dbc76d82",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_en": null,
+          "title_original": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:42:33.319000Z"
+        },
+        {
+          "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49921050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:00:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.cnbc.com"
+      ],
+      "items": [
+        {
+          "id": "2d80d6ae81cb2a03ca0575f918da8a52dbc76d82",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_en": null,
+          "title_original": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:42:33.319000Z"
+        },
+        {
+          "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49921050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:00:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9889,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T13:00:55Z",
+      "latest_at": "2026-10-01T15:42:33.319000Z",
+      "primary_item": {
+        "id": "2d80d6ae81cb2a03ca0575f918da8a52dbc76d82",
+        "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+        "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+        "title_en": null,
+        "title_original": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "source": "www.cnbc.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -1474,15 +1696,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9955,
+        "recency": 0.9813,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1507,7 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     },
     {
@@ -1613,15 +1835,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9917,
+        "recency": 0.9775,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1646,227 +1868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
-      }
-    },
-    {
-      "story_id": "story_17c7fb1b1d6b",
-      "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "primary_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
-          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
-          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-01T13:00:55Z"
-        },
-        {
-          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
-          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
-          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49921050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-01T13:00:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
-          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
-          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-01T13:00:55Z"
-        },
-        {
-          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
-          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
-          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49921050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-01T13:00:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.965,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-01T13:00:55Z",
-      "latest_at": "2026-10-01T13:00:55Z",
-      "primary_item": {
-        "id": "d06c446e6cda300f6db9c50b05d6e0d2714fd96b",
-        "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
-        "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
-      }
-    },
-    {
-      "story_id": "story_4844171e1abb",
-      "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-      "primary_url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
-          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
-          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-01T13:01:02Z"
-        },
-        {
-          "id": "7787227f77146b9b49b7c6c201e155f52b590e4b",
-          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
-          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49921051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-01T13:01:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
-          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
-          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-01T13:01:02Z"
-        },
-        {
-          "id": "7787227f77146b9b49b7c6c201e155f52b590e4b",
-          "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
-          "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49921051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-01T13:01:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9651,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-01T13:01:02Z",
-      "latest_at": "2026-10-01T13:01:02Z",
-      "primary_item": {
-        "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
-        "title": "人工智能主权财富基金不是进步的——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-        "title_zh": "人工智能主权财富基金不是进步的——而是技术帝国主义",
-        "title_en": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-        "title_original": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T15:29:45.648250Z"
+        "scored_at": "2026-10-01T16:42:17.004551Z"
       }
     }
   ]
