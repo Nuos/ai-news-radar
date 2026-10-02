@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 09:30:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:27:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents</title>
@@ -112,20 +112,20 @@
 <pubDate>Thu, 01 Oct 2026 20:37:38 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
-<link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast</guid>
-<description>GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 23:44:13 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
 <link>https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure</guid>
 <description>OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
+<link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast</link>
+<guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast</guid>
+<description>GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。（NVIDIA Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 23:44:13 +0000</pubDate>
 </item>
 <item>
 <title>Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update</title>
@@ -160,12 +160,12 @@
 <pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
 </item>
 <item>
-<title>LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness</title>
-<link>https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</guid>
-<description>LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。（LangChain：Blog（RSS））</description>
+<title>Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards</title>
+<link>https://x.com/ArtificialAnlys/status/2105790682376065463</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105790682376065463</guid>
+<description>Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 17:01:32 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 22:43:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
