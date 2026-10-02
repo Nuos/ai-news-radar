@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 17:26:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 18:32:57 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -104,14 +104,6 @@
 <pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
 </item>
 <item>
-<title>Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:</title>
-<link>https://x.com/ClaudeDevs/status/2105721434807083061</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2105721434807083061</guid>
-<description>Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。（X：Claude Devs (@ClaudeDevs)）</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 18:08:07 +0000</pubDate>
-</item>
-<item>
 <title>Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀</title>
 <link>https://x.com/GoogleAI/status/2106049984164463069</link>
 <guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
@@ -152,20 +144,28 @@
 <pubDate>Fri, 02 Oct 2026 00:44:40 +0000</pubDate>
 </item>
 <item>
-<title>FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter</title>
-<link>https://x.com/OpenRouter/status/2105759062835220852</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2105759062835220852</guid>
-<description>Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。（X：OpenRouter (@OpenRouter)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 20:37:38 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use</title>
 <link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
+</item>
+<item>
+<title>VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases</title>
+<link>https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
+</item>
+<item>
+<title>私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports</title>
+<link>https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
