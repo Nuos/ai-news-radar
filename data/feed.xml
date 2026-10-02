@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 19:24:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 20:26:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -72,6 +72,14 @@
 <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
 </item>
 <item>
+<title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
+<link>https://x.com/AIatMeta/status/2106099776035152231</link>
+<guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
+<description>Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。（X：AI at Meta (@AIatMeta)）</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
+</item>
+<item>
 <title>Chatham scales its capital markets expertise with OpenAI</title>
 <link>https://openai.com/index/chatham-financial</link>
 <guid isPermaLink="true">https://openai.com/index/chatham-financial</guid>
@@ -86,6 +94,14 @@
 <description>Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。（Google Research：Blog（网页））</description>
 <category>官方更新</category>
 <pubDate>Fri, 02 Oct 2026 16:29:28 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!</title>
+<link>https://x.com/arena/status/2106109027923140928</link>
+<guid isPermaLink="true">https://x.com/arena/status/2106109027923140928</guid>
+<description>Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
 </item>
 <item>
 <title>Repository security advisory comments API in public preview</title>
@@ -144,28 +160,12 @@
 <pubDate>Fri, 02 Oct 2026 13:00:39 +0000</pubDate>
 </item>
 <item>
-<title>Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大 / This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...</title>
-<link>https://x.com/ArtificialAnlys/status/2105814318294114720</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105814318294114720</guid>
-<description>Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<title>Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿 / Claude Sonnet 5.5 by @AnthropicAI just landed at #3 in the Agent Arena. This model has a median cost per task of $2.74, and a +12.5% net ...</title>
+<link>https://x.com/arena/status/2106105400487821764</link>
+<guid isPermaLink="true">https://x.com/arena/status/2106105400487821764</guid>
+<description>Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 00:17:12 +0000</pubDate>
-</item>
-<item>
-<title>Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.</title>
-<link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105821230368706769</guid>
-<description>Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 00:44:40 +0000</pubDate>
-</item>
-<item>
-<title>私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports</title>
-<link>https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
