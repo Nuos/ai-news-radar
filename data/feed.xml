@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 21:25:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:26:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -16,20 +16,20 @@
 <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
 </item>
 <item>
+<title>Copilot code review: API support and new default effort level</title>
+<link>https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 19:13:50 +0000</pubDate>
+</item>
+<item>
 <title>开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
 <link>https://huggingface.co/blog/allenai/astabrief</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/astabrief</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-</item>
-<item>
-<title>Selected models in GitHub Copilot deprecated</title>
-<link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
 </item>
 <item>
 <title>AI is changing developer work. Here are three skills to strengthen.</title>
@@ -48,20 +48,20 @@
 <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Selected models in GitHub Copilot deprecated</title>
+<link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
+</item>
+<item>
 <title>人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.</title>
 <link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</guid>
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>New fields for SecurityAdvisory GraphQL API</title>
-<link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 13:18:00 +0000</pubDate>
 </item>
 <item>
 <title>AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents</title>
@@ -104,12 +104,12 @@
 <pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
 </item>
 <item>
-<title>Repository security advisory comments API in public preview</title>
-<link>https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</guid>
+<title>New fields for SecurityAdvisory GraphQL API</title>
+<link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 13:15:25 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 13:18:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:</title>
@@ -126,6 +126,14 @@
 <description>Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
+</item>
+<item>
+<title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines</title>
+<link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota</link>
+<guid isPermaLink="true">https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota</guid>
+<description>Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。（Baseten 工程博客（网页））</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
 </item>
 <item>
 <title>Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀</title>
@@ -152,20 +160,12 @@
 <pubDate>Fri, 02 Oct 2026 21:25:25 +0000</pubDate>
 </item>
 <item>
-<title>关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories</title>
-<link>https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</guid>
+<title>Repository security advisory comments API in public preview</title>
+<link>https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 13:15:40 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI</title>
-<link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync</guid>
-<description>NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 13:00:39 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 13:15:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
