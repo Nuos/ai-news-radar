@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 20:26:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 21:25:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -144,6 +144,14 @@
 <pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
 </item>
 <item>
+<title>Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models</title>
+<link>https://www.primeintellect.ai/blog/prime-inference</link>
+<guid isPermaLink="true">https://www.primeintellect.ai/blog/prime-inference</guid>
+<description>Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。（Prime Intellect（网页））</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 21:25:25 +0000</pubDate>
+</item>
+<item>
 <title>关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories</title>
 <link>https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</guid>
@@ -158,14 +166,6 @@
 <description>NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。（NVIDIA Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 02 Oct 2026 13:00:39 +0000</pubDate>
-</item>
-<item>
-<title>Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿 / Claude Sonnet 5.5 by @AnthropicAI just landed at #3 in the Agent Arena. This model has a median cost per task of $2.74, and a +12.5% net ...</title>
-<link>https://x.com/arena/status/2106105400487821764</link>
-<guid isPermaLink="true">https://x.com/arena/status/2106105400487821764</guid>
-<description>Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
