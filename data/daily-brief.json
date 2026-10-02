@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-02T03:31:50.455639Z",
+  "generated_at": "2026-10-02T04:31:36.048637Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7d80f29039e4",
+      "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_zh": "AutoSynthData：为企业代理生成训练数据",
+          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T04:01:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_zh": "AutoSynthData：为企业代理生成训练数据",
+          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T04:01:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8587,
+      "importance": 0.8587,
+      "importance_score": 0.8587,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T04:01:31Z",
+      "latest_at": "2026-10-02T04:01:31Z",
+      "primary_item": {
+        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+        "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+        "title_zh": "AutoSynthData：为企业代理生成训练数据",
+        "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T04:32:22.425396Z"
+      }
+    },
     {
       "story_id": "story_a8a59d3ec43f",
       "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8865,
+        "recency": 0.8739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
-      }
-    },
-    {
-      "story_id": "story_a97a1140e735",
-      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8348,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T15:01:43Z",
-      "latest_at": "2026-10-01T15:01:43Z",
-      "primary_item": {
-        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmocore3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8589,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8861,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
+      }
+    },
+    {
+      "story_id": "story_a97a1140e735",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8229,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8466,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9606,
+        "recency": 0.9468,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -545,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8731,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -579,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -627,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9517,
+        "recency": 0.9381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -709,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8528,
+        "recency": 0.8406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -792,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9542,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -874,21 +957,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T20:37:38Z",
       "latest_at": "2026-10-01T20:37:38Z",
@@ -908,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -956,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -989,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -1037,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1070,7 +1152,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -1118,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8002,
+        "recency": 0.7888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,7 +1233,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -1199,15 +1281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,7 +1314,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -1280,15 +1362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1313,30 +1395,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
-      "story_id": "story_025446a84602",
-      "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "story_id": "story_2b054efbb49a",
+      "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-          "title_zh": "私人漏洞报告的结构化表格",
-          "title_en": "Structured forms for private vulnerability reports",
-          "title_original": "Structured forms for private vulnerability reports",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+          "title_zh": "私人漏洞报告的速率限制",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "source_count": 1,
@@ -1345,31 +1427,31 @@
       ],
       "items": [
         {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-          "title_zh": "私人漏洞报告的结构化表格",
-          "title_en": "Structured forms for private vulnerability reports",
-          "title_original": "Structured forms for private vulnerability reports",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+          "title_zh": "私人漏洞报告的速率限制",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8964,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1378,17 +1460,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:57:28Z",
-      "latest_at": "2026-10-01T19:57:28Z",
+      "earliest_at": "2026-10-01T19:57:39Z",
+      "latest_at": "2026-10-01T19:57:39Z",
       "primary_item": {
-        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-        "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-        "title_zh": "私人漏洞报告的结构化表格",
-        "title_en": "Structured forms for private vulnerability reports",
-        "title_original": "Structured forms for private vulnerability reports",
+        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+        "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+        "title_zh": "私人漏洞报告的速率限制",
+        "title_en": "Rate limits for private vulnerability reports",
+        "title_original": "Rate limits for private vulnerability reports",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1396,7 +1478,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -1444,15 +1526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1477,7 +1559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     },
     {
@@ -1554,15 +1636,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1588,88 +1670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
-      }
-    },
-    {
-      "story_id": "story_d7846f2c0721",
-      "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-      "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-      "primary_url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fb9183eb893f9756b431e52634014151fad46e04",
-          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_zh": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-          "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_original": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fb9183eb893f9756b431e52634014151fad46e04",
-          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_zh": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-          "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_original": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9503,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T00:00:00Z",
-      "latest_at": "2026-10-02T00:00:00Z",
-      "primary_item": {
-        "id": "fb9183eb893f9756b431e52634014151fad46e04",
-        "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-        "title_zh": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-        "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-        "title_original": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-        "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T03:32:34.239780Z"
+        "scored_at": "2026-10-02T04:32:22.425396Z"
       }
     }
   ]

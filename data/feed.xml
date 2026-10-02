@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 03:31:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 04:31:36 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents</title>
+<link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+</item>
 <item>
 <title>GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use</title>
 <link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
@@ -14,14 +22,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
-</item>
-<item>
-<title>Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-<link>https://huggingface.co/blog/allenai/olmocore3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
 </item>
 <item>
 <title>The eternal complement</title>
@@ -38,6 +38,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
+</item>
+<item>
+<title>Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<link>https://huggingface.co/blog/allenai/olmocore3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
 </item>
 <item>
 <title>艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out</title>
@@ -136,12 +144,12 @@
 <pubDate>Thu, 01 Oct 2026 16:51:02 +0000</pubDate>
 </item>
 <item>
-<title>私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports</title>
-<link>https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</guid>
+<title>私人漏洞报告的速率限制 / Rate limits for private vulnerability reports</title>
+<link>https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 19:57:39 +0000</pubDate>
 </item>
 <item>
 <title>LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness</title>
@@ -158,14 +166,6 @@
 <description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
-</item>
-<item>
-<title>OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing</title>
-<link>https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing</guid>
-<description>OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
