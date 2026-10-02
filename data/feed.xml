@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 22:26:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 23:23:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -48,12 +48,12 @@
 <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Selected models in GitHub Copilot deprecated</title>
-<link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
+<title>Stateless GitHub App installation tokens rolled out</title>
+<link>https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
 </item>
 <item>
 <title>人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.</title>
@@ -80,6 +80,14 @@
 <pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
 </item>
 <item>
+<title>Selected models in GitHub Copilot deprecated</title>
+<link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
+</item>
+<item>
 <title>Chatham scales its capital markets expertise with OpenAI</title>
 <link>https://openai.com/index/chatham-financial</link>
 <guid isPermaLink="true">https://openai.com/index/chatham-financial</guid>
@@ -102,14 +110,6 @@
 <description>Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
-</item>
-<item>
-<title>New fields for SecurityAdvisory GraphQL API</title>
-<link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 13:18:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:</title>
@@ -136,14 +136,6 @@
 <pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
 </item>
 <item>
-<title>Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀</title>
-<link>https://x.com/GoogleAI/status/2106049984164463069</link>
-<guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
-<description>Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。（X：Google AI (@GoogleAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
-</item>
-<item>
 <title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
 <link>https://www.ithome.com/1/009/204.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/009/204.htm</guid>
@@ -152,20 +144,28 @@
 <pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
 </item>
 <item>
+<title>Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀</title>
+<link>https://x.com/GoogleAI/status/2106049984164463069</link>
+<guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
+<description>Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。（X：Google AI (@GoogleAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
+</item>
+<item>
+<title>New fields for SecurityAdvisory GraphQL API</title>
+<link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 13:18:00 +0000</pubDate>
+</item>
+<item>
 <title>Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models</title>
 <link>https://www.primeintellect.ai/blog/prime-inference</link>
 <guid isPermaLink="true">https://www.primeintellect.ai/blog/prime-inference</guid>
 <description>Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。（Prime Intellect（网页））</description>
 <category>行业动态</category>
 <pubDate>Fri, 02 Oct 2026 21:25:25 +0000</pubDate>
-</item>
-<item>
-<title>Repository security advisory comments API in public preview</title>
-<link>https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 13:15:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
