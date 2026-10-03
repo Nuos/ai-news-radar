@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 06:46:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 07:33:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -112,22 +112,6 @@
 <pubDate>Fri, 02 Oct 2026 18:07:12 +0000</pubDate>
 </item>
 <item>
-<title>Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.</title>
-<link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105921530211508488</guid>
-<description>Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
-</item>
-<item>
-<title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines</title>
-<link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota</link>
-<guid isPermaLink="true">https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota</guid>
-<description>Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。（Baseten 工程博客（网页））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
-</item>
-<item>
 <title>SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API</title>
 <link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
@@ -166,6 +150,22 @@
 <description>TechCrunch AI</description>
 <category>值得关注</category>
 <pubDate>Fri, 02 Oct 2026 19:03:03 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: 开发了一个开源的乐高AI生成器</title>
+<link>https://github.com/anteloc/ldraw-nova</link>
+<guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
+<description>github.com</description>
+<category>多源热议</category>
+<pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
+</item>
+<item>
+<title>来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM</title>
+<link>https://dwarfstar.sh</link>
+<guid isPermaLink="true">https://dwarfstar.sh</guid>
+<description>dwarfstar.sh</description>
+<category>多源热议</category>
+<pubDate>Fri, 02 Oct 2026 22:49:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
