@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 03:39:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 04:32:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -64,14 +64,6 @@
 <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents</title>
-<link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
-</item>
-<item>
 <title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
 <link>https://x.com/AIatMeta/status/2106099776035152231</link>
 <guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
@@ -128,14 +120,6 @@
 <pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
 </item>
 <item>
-<title>Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀</title>
-<link>https://x.com/GoogleAI/status/2106049984164463069</link>
-<guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
-<description>Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。（X：Google AI (@GoogleAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
-</item>
-<item>
 <title>SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API</title>
 <link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
@@ -152,6 +136,14 @@
 <pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
 </item>
 <item>
+<title>关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories</title>
+<link>https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 13:15:40 +0000</pubDate>
+</item>
+<item>
 <title>公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview</title>
 <link>https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</guid>
@@ -160,12 +152,20 @@
 <pubDate>Fri, 02 Oct 2026 13:15:25 +0000</pubDate>
 </item>
 <item>
-<title>关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories</title>
-<link>https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 13:15:40 +0000</pubDate>
+<title>苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
+<link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Fri, 02 Oct 2026 19:03:03 +0000</pubDate>
+</item>
+<item>
+<title>来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM</title>
+<link>https://dwarfstar.sh</link>
+<guid isPermaLink="true">https://dwarfstar.sh</guid>
+<description>dwarfstar.sh</description>
+<category>多源热议</category>
+<pubDate>Fri, 02 Oct 2026 22:49:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
