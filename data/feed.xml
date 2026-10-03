@@ -5,24 +5,8 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 14:36:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 16:37:19 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
-<item>
-<title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
-<link>https://openai.com/index/practical-guide-building-gpt-6</link>
-<guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
-</item>
-<item>
-<title>开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-<link>https://huggingface.co/blog/allenai/astabrief</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/astabrief</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-</item>
 <item>
 <title>Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level</title>
 <link>https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</link>
@@ -32,20 +16,12 @@
 <pubDate>Fri, 02 Oct 2026 19:13:50 +0000</pubDate>
 </item>
 <item>
-<title>人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.</title>
-<link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
+<title>LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023</title>
+<link>https://www.lmsys.org/blog/2023-03-30-vicuna</link>
+<guid isPermaLink="true">https://www.lmsys.org/blog/2023-03-30-vicuna</guid>
+<description>LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。（LMSYS：Blog（Chatbot Arena 团队））</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 16:37:19 +0000</pubDate>
 </item>
 <item>
 <title>已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated</title>
@@ -64,14 +40,6 @@
 <pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
 </item>
 <item>
-<title>人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.</title>
-<link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
 <link>https://x.com/AIatMeta/status/2106099776035152231</link>
 <guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
@@ -86,14 +54,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems &amp; Engineering</title>
-<link>https://research.google/blog/toward-provably-private-learning-from-federated-data</link>
-<guid isPermaLink="true">https://research.google/blog/toward-provably-private-learning-from-federated-data</guid>
-<description>Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。（Google Research：Blog（网页））</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 16:29:28 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!</title>
@@ -112,6 +72,14 @@
 <pubDate>Fri, 02 Oct 2026 19:03:03 +0000</pubDate>
 </item>
 <item>
+<title>Show HN: 德国的新型主权人工智能模型“Kolibri”</title>
+<link>https://tej.as/blog/aleph-alpha-kolibri</link>
+<guid isPermaLink="true">https://tej.as/blog/aleph-alpha-kolibri</guid>
+<description>tej.as</description>
+<category>多源热议</category>
+<pubDate>Sat, 03 Oct 2026 14:44:01 +0000</pubDate>
+</item>
+<item>
 <title>Show HN: 开发了一个开源的乐高AI生成器</title>
 <link>https://github.com/anteloc/ldraw-nova</link>
 <guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
@@ -120,12 +88,12 @@
 <pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
 </item>
 <item>
-<title>Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri</title>
-<link>https://tej.as/blog/aleph-alpha-kolibri</link>
-<guid isPermaLink="true">https://tej.as/blog/aleph-alpha-kolibri</guid>
+<title>美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court</title>
+<link>https://www.bbc.com/news/articles/cwgkvygg5nzvo</link>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cwgkvygg5nzvo</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Sat, 03 Oct 2026 10:43:51 +0000</pubDate>
+<pubDate>Sat, 03 Oct 2026 13:34:18 +0000</pubDate>
 </item>
 <item>
 <title>来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM</title>
@@ -150,22 +118,6 @@
 <description>gadgets.muse.ai</description>
 <category>值得关注</category>
 <pubDate>Sat, 03 Oct 2026 00:08:54 +0000</pubDate>
-</item>
-<item>
-<title>人工智能让我感到难过</title>
-<link>https://mondobe.com/ai-makes-me-sad</link>
-<guid isPermaLink="true">https://mondobe.com/ai-makes-me-sad</guid>
-<description>mondobe.com</description>
-<category>值得关注</category>
-<pubDate>Fri, 02 Oct 2026 16:16:42 +0000</pubDate>
-</item>
-<item>
-<title>电力批准将推迟甲骨文威斯康星州人工智能数据中心的建设 / Power approval set to delay Oracle's Wisconsin AI datacenter</title>
-<link>https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832</link>
-<guid isPermaLink="true">https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Fri, 02 Oct 2026 15:24:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
