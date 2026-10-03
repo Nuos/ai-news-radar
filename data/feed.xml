@@ -5,15 +5,15 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 18:18:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 20:04:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level</title>
-<link>https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</guid>
+<title>无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out</title>
+<link>https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 19:13:50 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
 </item>
 <item>
 <title>LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023</title>
@@ -24,44 +24,12 @@
 <pubDate>Sat, 03 Oct 2026 16:37:19 +0000</pubDate>
 </item>
 <item>
-<title>已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated</title>
-<link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
 <link>https://www.ithome.com/1/009/444.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/009/444.htm</guid>
 <description>据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
-</item>
-<item>
-<title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
-<link>https://x.com/AIatMeta/status/2106099776035152231</link>
-<guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
-<description>Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。（X：AI at Meta (@AIatMeta)）</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
-</item>
-<item>
-<title>无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out</title>
-<link>https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!</title>
-<link>https://x.com/arena/status/2106109027923140928</link>
-<guid isPermaLink="true">https://x.com/arena/status/2106109027923140928</guid>
-<description>Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: 德国的新型主权人工智能模型“Kolibri”</title>
@@ -72,18 +40,18 @@
 <pubDate>Sat, 03 Oct 2026 14:44:01 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: 开发了一个开源的乐高AI生成器</title>
-<link>https://github.com/anteloc/ldraw-nova</link>
-<guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
-<description>github.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
+<title>Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase</title>
+<link>https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases</link>
+<guid isPermaLink="true">https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 03 Oct 2026 17:57:03 +0000</pubDate>
 </item>
 <item>
 <title>美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court</title>
 <link>https://www.bbc.com/news/articles/cwgkvygg5nzvo</link>
 <guid isPermaLink="true">https://www.bbc.com/news/articles/cwgkvygg5nzvo</guid>
-<description>Hacker News (黑客新闻)</description>
+<description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Sat, 03 Oct 2026 13:34:18 +0000</pubDate>
 </item>
@@ -94,14 +62,6 @@
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Sat, 03 Oct 2026 07:06:02 +0000</pubDate>
-</item>
-<item>
-<title>Muse 智能设备</title>
-<link>https://gadgets.muse.ai</link>
-<guid isPermaLink="true">https://gadgets.muse.ai</guid>
-<description>gadgets.muse.ai</description>
-<category>值得关注</category>
-<pubDate>Sat, 03 Oct 2026 00:08:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
