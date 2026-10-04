@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:15:13.568597Z",
+  "generated_at": "2026-10-04T00:05:50.507475Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
@@ -8,81 +8,82 @@
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face：Blog（RSS）",
-      "source_name": "AI HOT",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
+          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
           "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
           "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
           "title_en": "The Agent Said It Was Done. The Database Disagreed.",
           "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-          "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
           "published_at": "2026-10-03T22:56:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
+          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
           "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
           "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
           "title_en": "The Agent Said It Was Done. The Database Disagreed.",
           "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-          "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
           "published_at": "2026-10-03T22:56:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.857,
+      "importance": 0.857,
+      "importance_score": 0.857,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9956,
+        "ai_relevance": 0.95,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-03T22:56:48Z",
       "latest_at": "2026-10-03T22:56:48Z",
       "primary_item": {
-        "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
+        "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
         "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
         "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
         "title_en": "The Agent Said It Was Done. The Database Disagreed.",
         "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-        "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -130,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -212,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -294,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.783,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -327,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -546,15 +547,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6,
-      "importance": 0.6,
-      "importance_score": 0.6,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8842,
+        "recency": 0.8735,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -579,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -685,15 +686,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5668,
+      "importance": 0.5668,
+      "importance_score": 0.5668,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9896,
+        "recency": 0.9777,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -718,7 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -795,15 +796,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9864,
+        "recency": 0.9744,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -905,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -938,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -1015,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.948,
+        "recency": 0.9365,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1048,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -1125,15 +1126,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.9151,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -1235,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9235,
+        "recency": 0.9123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1268,7 +1269,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -1345,15 +1346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8695,
+        "recency": 0.859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1378,7 +1379,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     },
     {
@@ -1455,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7919,
+        "recency": 0.7824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1488,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T23:16:20.626661Z"
+        "scored_at": "2026-10-04T00:06:54.012402Z"
       }
     }
   ]
