@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T13:36:23.937496Z",
+  "generated_at": "2026-10-05T14:33:36.535885Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_aec85adef32a",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9493,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
+      }
+    },
+    {
+      "story_id": "story_6e660e39c141",
+      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "primary_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "35b9e20966d5ac47ff8af3f826f201c73eafdc58",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T13:22:31Z"
+        },
+        {
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964537",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T13:22:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "35b9e20966d5ac47ff8af3f826f201c73eafdc58",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T13:22:31Z"
+        },
+        {
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964537",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T13:22:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.983,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:22:31Z",
+      "latest_at": "2026-10-05T13:22:31Z",
+      "primary_item": {
+        "id": "35b9e20966d5ac47ff8af3f826f201c73eafdc58",
+        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_zh": "企业在人工智能上的支出几乎无法预算",
+        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -160,15 +270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -193,117 +303,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
-      }
-    },
-    {
-      "story_id": "story_99cb3de970e3",
-      "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "primary_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49963366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49963366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9663,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T11:13:51Z",
-      "latest_at": "2026-10-05T11:13:51Z",
-      "primary_item": {
-        "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-        "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-        "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -379,15 +379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8717,
+        "recency": 0.8598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -412,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -489,15 +489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8318,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -522,7 +522,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
+      }
+    },
+    {
+      "story_id": "story_99cb3de970e3",
+      "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+      "primary_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
+          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
+          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T11:13:51Z"
+        },
+        {
+          "id": "734f4d6c940895063ba652a764e19dd600662efb",
+          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
+          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49963366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T11:13:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
+          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
+          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T11:13:51Z"
+        },
+        {
+          "id": "734f4d6c940895063ba652a764e19dd600662efb",
+          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
+          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49963366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T11:13:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9531,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T11:13:51Z",
+      "latest_at": "2026-10-05T11:13:51Z",
+      "primary_item": {
+        "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
+        "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
+        "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -599,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7722,
+        "recency": 0.7617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -632,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -709,15 +819,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8912,
+        "recency": 0.879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -819,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5031,
+      "importance": 0.5031,
+      "importance_score": 0.5031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7735,
+        "recency": 0.7629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -852,7 +962,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -929,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7722,
+        "recency": 0.7617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     },
     {
@@ -1039,15 +1149,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7266,
+        "recency": 0.7166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,7 +1182,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:37:07.638634Z"
+        "scored_at": "2026-10-05T14:34:25.816244Z"
       }
     }
   ]
