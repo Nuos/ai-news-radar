@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T17:26:40.097599Z",
+  "generated_at": "2026-10-05T18:34:42.025477Z",
   "ok": true,
-  "active_count": 3,
+  "active_count": 4,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 3
+      "active_count": 4
     }
   ],
   "incidents": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Elevated errors in ChatGPT conversations",
       "title_zh": "ChatGPT conversations 错误率升高",
-      "status": "investigating",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-10-05T16:58:56Z",
-      "updated_at": "2026-10-05T16:58:56Z",
-      "message": "We are investigating elevated error rates affecting some ChatGPT conversations. Error rates are improving, and our team is continuing to assess recovery. We will share further updates as they become available.",
+      "updated_at": "2026-10-05T17:55:04Z",
+      "message": "We have mitigated the issue affecting ChatGPT conversations and are monitoring recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
     },
@@ -38,6 +38,19 @@
       "message": "We have mitigated the issue, and are monitoring recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
+    },
+    {
+      "id": "01M46KED6KQ6PR195KZYYVNY8W",
+      "provider": "OpenAI",
+      "title": "Elevated error rates in Codex Cloud",
+      "title_zh": "Elevated error rates in Codex Cloud",
+      "status": "monitoring",
+      "impact": "none",
+      "started_at": "2026-10-05T17:58:04Z",
+      "updated_at": "2026-10-05T18:07:03Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
     },
     {
       "id": "01M46C47WYYD9NMZVGH83X3ZR1",
