@@ -1,18 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T16:31:42.388296Z",
+  "generated_at": "2026-10-05T17:26:40.097599Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 3,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 3
     }
   ],
   "incidents": [
+    {
+      "id": "01M46G248GGHV9RSAJE82BZY1X",
+      "provider": "OpenAI",
+      "title": "Elevated errors in ChatGPT conversations",
+      "title_zh": "ChatGPT conversations 错误率升高",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-05T16:58:56Z",
+      "updated_at": "2026-10-05T16:58:56Z",
+      "message": "We are investigating elevated error rates affecting some ChatGPT conversations. Error rates are improving, and our team is continuing to assess recovery. We will share further updates as they become available.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
+    },
     {
       "id": "01M45E0JFFJZ6EQ3BWYPW74R2Z",
       "provider": "OpenAI",
