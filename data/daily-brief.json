@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T07:49:21.501912Z",
+  "generated_at": "2026-10-05T08:46:14.426961Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_92fa9be3e195",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     },
     {
@@ -187,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8396,
+        "recency": 0.8282,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -220,7 +220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     },
     {
@@ -228,11 +228,11 @@
       "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "42b25c0002600975f8a54903bf15763a1050b43f",
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
           "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
           "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
           "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
@@ -240,9 +240,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
@@ -262,12 +262,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "42b25c0002600975f8a54903bf15763a1050b43f",
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
           "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
           "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
           "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
@@ -275,9 +275,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
@@ -297,15 +297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9556,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -315,7 +315,7 @@
       "earliest_at": "2026-10-05T05:37:40Z",
       "latest_at": "2026-10-05T05:37:40Z",
       "primary_item": {
-        "id": "42b25c0002600975f8a54903bf15763a1050b43f",
+        "id": "4a384b11a4fc9ae29008146ef699806023668585",
         "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
         "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
         "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
@@ -323,14 +323,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     },
     {
@@ -406,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9476,
+        "recency": 0.9348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -439,117 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
-      }
-    },
-    {
-      "story_id": "story_1ce18b258be2",
-      "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-      "url": "https://island-three.gruberbuilds.workers.dev",
-      "primary_url": "https://island-three.gruberbuilds.workers.dev",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
-          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://island-three.gruberbuilds.workers.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T19:49:12Z"
-        },
-        {
-          "id": "8e5c93739117dec7748c659a4be670160d933ebc",
-          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
-          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957191",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:49:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
-          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://island-three.gruberbuilds.workers.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T19:49:12Z"
-        },
-        {
-          "id": "8e5c93739117dec7748c659a4be670160d933ebc",
-          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
-          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957191",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:49:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8409,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:49:12Z",
-      "latest_at": "2026-10-04T19:49:12Z",
-      "primary_item": {
-        "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-        "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-        "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
-        "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-        "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://island-three.gruberbuilds.workers.dev",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     },
     {
@@ -626,15 +516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8395,
+        "recency": 0.8281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -659,7 +549,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
+      }
+    },
+    {
+      "story_id": "story_1ce18b258be2",
+      "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+      "url": "https://island-three.gruberbuilds.workers.dev",
+      "primary_url": "https://island-three.gruberbuilds.workers.dev",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
+          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://island-three.gruberbuilds.workers.dev",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T19:49:12Z"
+        },
+        {
+          "id": "8e5c93739117dec7748c659a4be670160d933ebc",
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
+          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49957191",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T19:49:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
+          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://island-three.gruberbuilds.workers.dev",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T19:49:12Z"
+        },
+        {
+          "id": "8e5c93739117dec7748c659a4be670160d933ebc",
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
+          "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49957191",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T19:49:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8294,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T19:49:12Z",
+      "latest_at": "2026-10-04T19:49:12Z",
+      "primary_item": {
+        "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
+        "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+        "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
+        "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+        "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://island-three.gruberbuilds.workers.dev",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     },
     {
@@ -667,11 +667,11 @@
       "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
       "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
           "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
           "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
@@ -679,9 +679,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T19:42:25Z"
         },
         {
@@ -701,12 +701,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
           "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
           "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
@@ -714,9 +714,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T19:42:25Z"
         },
         {
@@ -736,15 +736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8395,
+        "recency": 0.8281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -754,7 +754,7 @@
       "earliest_at": "2026-10-04T19:42:25Z",
       "latest_at": "2026-10-04T19:42:25Z",
       "primary_item": {
-        "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+        "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
         "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
         "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
         "title_en": "Homa: The end of TCP for AI clusters [video]",
@@ -762,14 +762,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     },
     {
@@ -846,15 +846,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7899,
+        "recency": 0.7791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,227 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
-      }
-    },
-    {
-      "story_id": "story_7690a865b944",
-      "title": "如何利用 AI 来衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "primary_url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-          "title": "如何利用 AI 来衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]",
-          "title_en": "How to scale intent, quality, and artistry with AI [video]",
-          "title_original": "How to scale intent, quality, and artistry with AI [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:41:58Z"
-        },
-        {
-          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "如何利用 AI 来衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]",
-          "title_en": "How to scale intent, quality, and artistry with AI [video]",
-          "title_original": "How to scale intent, quality, and artistry with AI [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49951891",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T08:41:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-          "title": "如何利用 AI 来衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]",
-          "title_en": "How to scale intent, quality, and artistry with AI [video]",
-          "title_original": "How to scale intent, quality, and artistry with AI [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:41:58Z"
-        },
-        {
-          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "如何利用 AI 来衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]",
-          "title_en": "How to scale intent, quality, and artistry with AI [video]",
-          "title_original": "How to scale intent, quality, and artistry with AI [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49951891",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T08:41:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7161,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:41:58Z",
-      "latest_at": "2026-10-04T08:41:58Z",
-      "primary_item": {
-        "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-        "title": "如何利用 AI 来衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-        "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]",
-        "title_en": "How to scale intent, quality, and artistry with AI [video]",
-        "title_original": "How to scale intent, quality, and artistry with AI [video]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
-      }
-    },
-    {
-      "story_id": "story_a55f7b341908",
-      "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7fdda745d47b3a3603395b623b51468705002d09",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "title_zh": "人工智能时代纯数学研究的未来是什么？",
-          "title_en": "What's the future for pure math research in the age of AI?",
-          "title_original": "What's the future for pure math research in the age of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "title_zh": "人工智能时代纯数学研究的未来是什么？",
-          "title_en": "What's the future for pure math research in the age of AI?",
-          "title_original": "What's the future for pure math research in the age of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7fdda745d47b3a3603395b623b51468705002d09",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "title_zh": "人工智能时代纯数学研究的未来是什么？",
-          "title_en": "What's the future for pure math research in the age of AI?",
-          "title_original": "What's the future for pure math research in the age of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "title_zh": "人工智能时代纯数学研究的未来是什么？",
-          "title_en": "What's the future for pure math research in the age of AI?",
-          "title_original": "What's the future for pure math research in the age of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4932,
-      "importance": 0.4932,
-      "importance_score": 0.4932,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7079,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T07:53:45Z",
-      "latest_at": "2026-10-04T07:53:45Z",
-      "primary_item": {
-        "id": "7fdda745d47b3a3603395b623b51468705002d09",
-        "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-        "title_zh": "人工智能时代纯数学研究的未来是什么？",
-        "title_en": "What's the future for pure math research in the age of AI?",
-        "title_original": "What's the future for pure math research in the age of AI?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T07:50:07.873361Z"
+        "scored_at": "2026-10-05T08:46:59.113510Z"
       }
     }
   ]
