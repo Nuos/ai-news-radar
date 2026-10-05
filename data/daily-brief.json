@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-05T14:33:36.535885Z",
+  "generated_at": "2026-10-05T15:30:07.289163Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "story_id": "story_6f6f6c4ad8fb",
+      "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "primary_url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+          "title_zh": "我们对欧盟文本来源规则的处理方法",
+          "title_en": "Our approach to EU text provenance rules",
+          "title_original": "Our approach to EU text provenance rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+          "title_zh": "我们对欧盟文本来源规则的处理方法",
+          "title_en": "Our approach to EU text provenance rules",
+          "title_original": "Our approach to EU text provenance rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:00:00Z",
+      "latest_at": "2026-10-05T15:00:00Z",
+      "primary_item": {
+        "id": "41383479c4a10511f043979bc4fd02e409189d41",
+        "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+        "title_zh": "我们对欧盟文本来源规则的处理方法",
+        "title_en": "Our approach to EU text provenance rules",
+        "title_original": "Our approach to EU text provenance rules",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/eu-text-provenance",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:31:09.925129Z"
+      }
+    },
     {
       "story_id": "story_aec85adef32a",
       "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9363,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
+      }
+    },
+    {
+      "story_id": "story_f4763bfb35df",
+      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6345,
+      "importance": 0.6345,
+      "importance_score": 0.6345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9668,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:09:48Z",
+      "latest_at": "2026-10-05T14:38:31Z",
+      "primary_item": {
+        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+        "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+        "title_en": "OpenAI is sticking more ads in ChatGPT",
+        "title_original": "OpenAI is sticking more ads in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:31:09.925129Z"
+      }
+    },
+    {
+      "story_id": "story_6d84f167e6c4",
+      "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+      "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "primary_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
+        },
+        {
+          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49965786",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:03:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
+        },
+        {
+          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49965786",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:03:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9936,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T15:03:32Z",
+      "latest_at": "2026-10-05T15:03:32Z",
+      "primary_item": {
+        "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+        "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+        "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+        "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+        "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -160,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.983,
+        "recency": 0.9698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -193,117 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
-      }
-    },
-    {
-      "story_id": "story_2207e0e64548",
-      "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
-        },
-        {
-          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
-          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T12:56:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
-        },
-        {
-          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
-          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T12:56:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9769,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:56:18Z",
-      "latest_at": "2026-10-05T12:56:18Z",
-      "primary_item": {
-        "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-        "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-        "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-        "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-        "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -379,15 +572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8598,
+        "recency": 0.8482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -412,7 +605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -489,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8204,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -522,7 +715,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
+      }
+    },
+    {
+      "story_id": "story_2207e0e64548",
+      "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T12:56:18Z"
+        },
+        {
+          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
+          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T12:56:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T12:56:18Z"
+        },
+        {
+          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
+          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T12:56:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9637,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T12:56:18Z",
+      "latest_at": "2026-10-05T12:56:18Z",
+      "primary_item": {
+        "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+        "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "title_zh": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+        "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -599,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9531,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -632,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -709,15 +1012,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7617,
+        "recency": 0.7514,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,7 +1045,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -819,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.879,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -852,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -929,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5031,
-      "importance": 0.5031,
-      "importance_score": 0.5031,
+      "score": 0.5013,
+      "importance": 0.5013,
+      "importance_score": 0.5013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7629,
+        "recency": 0.7526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,7 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     },
     {
@@ -1039,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7617,
+        "recency": 0.7514,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,117 +1375,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
-      }
-    },
-    {
-      "story_id": "story_d2546b0f4996",
-      "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "primary_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T15:29:14Z"
-        },
-        {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49954745",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T15:29:14Z"
-        },
-        {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49954745",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7166,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T15:29:14Z",
-      "latest_at": "2026-10-04T15:29:14Z",
-      "primary_item": {
-        "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-        "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-        "title_zh": "RuneScape 对 Gen AI 的定位",
-        "title_en": "RuneScape's Position on Gen AI",
-        "title_original": "RuneScape's Position on Gen AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:34:25.816244Z"
+        "scored_at": "2026-10-05T15:31:09.925129Z"
       }
     }
   ]
