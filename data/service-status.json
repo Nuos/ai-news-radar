@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T19:31:38.928907Z",
+  "generated_at": "2026-10-05T20:40:45.270449Z",
   "ok": true,
   "active_count": 4,
   "providers": [
@@ -40,6 +40,19 @@
       "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
     },
     {
+      "id": "01M46C47WYYD9NMZVGH83X3ZR1",
+      "provider": "OpenAI",
+      "title": "Admin Console Intermittently Inaccessible",
+      "title_zh": "Admin Console Intermittently Inaccessible",
+      "status": "monitoring",
+      "impact": "none",
+      "started_at": "2026-10-05T15:50:11Z",
+      "updated_at": "2026-10-05T19:33:08Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
+    },
+    {
       "id": "01M46KED6KQ6PR195KZYYVNY8W",
       "provider": "OpenAI",
       "title": "Elevated error rates in Codex Cloud",
@@ -51,19 +64,6 @@
       "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
-    },
-    {
-      "id": "01M46C47WYYD9NMZVGH83X3ZR1",
-      "provider": "OpenAI",
-      "title": "Admin Console Intermittently Inaccessible",
-      "title_zh": "Admin Console Intermittently Inaccessible",
-      "status": "investigating",
-      "impact": "none",
-      "started_at": "2026-10-05T15:50:11Z",
-      "updated_at": "2026-10-05T15:50:11Z",
-      "message": "We are investigating the issue for the listed services.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
     }
   ]
 }
