@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-10-06T22:27:31.797133Z",
+  "generated_at": "2026-10-06T23:26:33.202883Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_11f226560af5",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "title_zh": "分享人工智能在数学领域的进展",
+          "title_en": null,
+          "title_original": "分享人工智能在数学领域的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "title_zh": "分享人工智能在数学领域的进展",
+          "title_en": null,
+          "title_original": "分享人工智能在数学领域的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8477,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T23:01:09.228000Z",
+      "primary_item": {
+        "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+        "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+        "title_en": "Sharing AI progress in mathematics",
+        "title_original": "Sharing AI progress in mathematics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:39:03.486250Z"
+      }
+    },
     {
       "story_id": "story_79247d86835a",
       "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.969,
+        "recency": 0.9553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9644,
+        "recency": 0.9508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
-      }
-    },
-    {
-      "story_id": "story_dbe192624685",
-      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T16:00:00Z",
-      "latest_at": "2026-10-06T16:00:00Z",
-      "primary_item": {
-        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
-        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/atlassian-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.797,
+        "recency": 0.7857,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +362,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
+      }
+    },
+    {
+      "story_id": "story_dbe192624685",
+      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "primary_url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8981,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T16:00:00Z",
+      "latest_at": "2026-10-06T16:00:00Z",
+      "primary_item": {
+        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/atlassian-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -380,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -462,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7968,
+        "recency": 0.7856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,90 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
-      }
-    },
-    {
-      "story_id": "story_17625524f250",
-      "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8353,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:00:00Z",
-      "latest_at": "2026-10-06T10:00:00Z",
-      "primary_item": {
-        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-        "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-        "title_zh": "通过 Ironclad 促进计算机的使用",
-        "title_en": "Advancing computer use with Ironclad",
-        "title_original": "Advancing computer use with Ironclad",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -657,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.8654,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -692,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -740,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8401,
+        "recency": 0.8283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -775,7 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -823,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9314,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,7 +887,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
+      }
+    },
+    {
+      "story_id": "story_d4a8437d985e",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "primary_url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": null,
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": null,
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8477,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
+      "primary_item": {
+        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "title_zh": null,
+        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/jump-trading",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -905,15 +1018,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8598,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -987,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,7 +1134,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1069,15 +1182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.7821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1151,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.723,
+        "recency": 0.7128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1185,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1233,15 +1346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,7 +1379,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1314,15 +1427,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9248,
+        "recency": 0.9117,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1347,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1395,15 +1508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.786,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1476,15 +1589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8855,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1509,7 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     },
     {
@@ -1557,15 +1670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8736,
+        "recency": 0.8613,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1590,88 +1703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
-      }
-    },
-    {
-      "story_id": "story_8250f00047d3",
-      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-      "url": "https://x.com/arcprize/status/2107491194007585239",
-      "primary_url": "https://x.com/arcprize/status/2107491194007585239",
-      "source": "X：ARC Prize (@arcprize)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2107491194007585239",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T15:20:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ARC Prize (@arcprize)"
-      ],
-      "items": [
-        {
-          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2107491194007585239",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T15:20:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T15:20:30Z",
-      "latest_at": "2026-10-06T15:20:30Z",
-      "primary_item": {
-        "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-        "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-        "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arcprize/status/2107491194007585239",
-        "source": "X：ARC Prize (@arcprize)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T22:38:46.286365Z"
+        "scored_at": "2026-10-06T23:39:03.486250Z"
       }
     }
   ]
