@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 06 Oct 2026 15:26:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 16:31:43 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
@@ -40,12 +40,12 @@
 <pubDate>Tue, 06 Oct 2026 14:19:10 +0000</pubDate>
 </item>
 <item>
-<title>ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review</title>
-<link>https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Mon, 05 Oct 2026 15:59:40 +0000</pubDate>
+<title>Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions</title>
+<link>https://claude.dev/blog/claude-code-in-the-cloud</link>
+<guid isPermaLink="true">https://claude.dev/blog/claude-code-in-the-cloud</guid>
+<description>Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。（Anthropic：Claude.dev 开发者博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more</title>
@@ -62,6 +62,14 @@
 <description>据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 06 Oct 2026 06:25:15 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2</title>
+<link>https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2</link>
+<guid isPermaLink="true">https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2</guid>
+<description>Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。（Google Developers Blog（RSS））</description>
+<category>官方更新</category>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈</title>
@@ -104,6 +112,14 @@
 <pubDate>Tue, 06 Oct 2026 15:20:30 +0000</pubDate>
 </item>
 <item>
+<title>Nano Banana 2.1 开始在 Gemini App、Search AI Mode 等多平台推出 / Nano Banana 2.1 starts rolling out today across @GeminiApp, AI Mode in Search, @GoogleAIStudio, @FlowByGoogle, @StitchByGoogle, Google Ad...</title>
+<link>https://x.com/Google/status/2107501211532382687</link>
+<guid isPermaLink="true">https://x.com/Google/status/2107501211532382687</guid>
+<description>Google 宣布 Nano Banana 2.1 于当天开始推出，覆盖 Gemini App、Search AI Mode、Google AI Studio、Flow、Stitch、Google Ads 和 Gemini Enterprise Platform。（X：Google (@Google)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 16:00:18 +0000</pubDate>
+</item>
+<item>
 <title>Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!</title>
 <link>https://x.com/arena/status/2107476436223504484</link>
 <guid isPermaLink="true">https://x.com/arena/status/2107476436223504484</guid>
@@ -118,6 +134,14 @@
 <description>作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。（X：卡兹克 (@Khazix0918)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 06 Oct 2026 02:31:56 +0000</pubDate>
+</item>
+<item>
+<title>Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型 / EmbeddingGemma 2: The Developer Guide</title>
+<link>https://developers.googleblog.com/embeddinggemma-2-the-developer-guide</link>
+<guid isPermaLink="true">https://developers.googleblog.com/embeddinggemma-2-the-developer-guide</guid>
+<description>Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。（Google Developers Blog（RSS））</description>
+<category>官方更新</category>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众</title>
@@ -136,36 +160,12 @@
 <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
 </item>
 <item>
-<title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
-<link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
-<guid isPermaLink="true">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</guid>
-<description>SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。（SemiAnalysis 长文 RSS（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
-</item>
-<item>
 <title>Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&amp;#8217;re running late</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
-</item>
-<item>
-<title>米斯特拉尔 大号 4</title>
-<link>https://docs.mistral.ai/models/mistral-large-4-0</link>
-<guid isPermaLink="true">https://docs.mistral.ai/models/mistral-large-4-0</guid>
-<description>docs.mistral.ai</description>
-<category>值得关注</category>
-<pubDate>Tue, 06 Oct 2026 13:32:16 +0000</pubDate>
-</item>
-<item>
-<title>Dust：无需反向传播的Transformer预训练</title>
-<link>https://qlabs.sh/research/dust</link>
-<guid isPermaLink="true">https://qlabs.sh/research/dust</guid>
-<description>qlabs.sh</description>
-<category>多源热议</category>
-<pubDate>Tue, 06 Oct 2026 02:07:52 +0000</pubDate>
 </item>
 </channel>
 </rss>
