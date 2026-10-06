@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 23:24:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 01:02:38 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Secret scanning adds detectors for Lovable, Supabase, and more</title>
@@ -40,20 +40,20 @@
 <pubDate>Mon, 05 Oct 2026 19:20:27 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.160.1</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI</title>
 <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
 <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</guid>
+<description>作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 00:18:00 +0000</pubDate>
 </item>
 <item>
 <title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
@@ -64,12 +64,36 @@
 <pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg</title>
+<link>https://simonwillison.net/2026/Oct/5/felix-rieseberg</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg</guid>
+<description>Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。（Simon Willison 博客）</description>
+<category>行业动态</category>
+<pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+</item>
+<item>
+<title>Gemini Call for Me might tell your mom you&amp;#8217;re running late</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</guid>
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Mon, 05 Oct 2026 14:38:31 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中</title>
+<link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</link>
+<guid isPermaLink="true">https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</guid>
+<description>www.niemanlab.org</description>
+<category>多源热议</category>
+<pubDate>Tue, 06 Oct 2026 00:19:39 +0000</pubDate>
 </item>
 <item>
 <title>Opus 5.5的研究人员发现了两种室温磁性半导体候选材料</title>
@@ -96,12 +120,12 @@
 <pubDate>Mon, 05 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation</title>
-<link>https://qlabs.sh/research/dust</link>
-<guid isPermaLink="true">https://qlabs.sh/research/dust</guid>
+<title>AI Tutoring with Khanmigo in a Two-Year School Experiment</title>
+<link>https://edworkingpapers.com/ai26-1551</link>
+<guid isPermaLink="true">https://edworkingpapers.com/ai26-1551</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 21:15:07 +0000</pubDate>
+<pubDate>Tue, 06 Oct 2026 00:00:45 +0000</pubDate>
 </item>
 <item>
 <title>Beam：Reflection 501B 无重量限制款</title>
@@ -128,36 +152,20 @@
 <pubDate>Mon, 05 Oct 2026 11:13:51 +0000</pubDate>
 </item>
 <item>
+<title>Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation</title>
+<link>https://qlabs.sh/research/dust</link>
+<guid isPermaLink="true">https://qlabs.sh/research/dust</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 21:15:07 +0000</pubDate>
+</item>
+<item>
 <title>人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms</title>
 <link>https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</link>
 <guid isPermaLink="true">https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</guid>
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Mon, 05 Oct 2026 15:06:27 +0000</pubDate>
-</item>
-<item>
-<title>企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget</title>
-<link>https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a</link>
-<guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 13:22:31 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead</title>
-<link>https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead</link>
-<guid isPermaLink="true">https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead</guid>
-<description>Slashdot</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 00:51:00 +0000</pubDate>
-</item>
-<item>
-<title>萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman</title>
-<link>https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks</link>
-<guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 12:56:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
