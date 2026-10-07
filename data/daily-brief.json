@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:30:17.847505Z",
+  "generated_at": "2026-10-07T18:34:18.531850Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8585,
-      "importance": 0.8585,
-      "importance_score": 0.8585,
+      "score": 0.8557,
+      "importance": 0.8557,
+      "importance_score": 0.8557,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9914,
+        "recency": 0.9763,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,63 +83,176 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
-      "story_id": "story_463b6db0777c",
-      "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "primary_url": "https://openai.com/index/teens-learn-and-plan",
+      "story_id": "story_6557dda4a6cd",
+      "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "primary_url": "https://openai.com/index/gpt-6-for-everyone",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-          "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
-          "title_en": "Helping teens learn, plan, and shape the future of AI",
-          "title_original": "Helping teens learn, plan, and shape the future of AI",
+          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+          "title_zh": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+          "title_en": "GPT-6 and Intelligent UI for everyone",
+          "title_original": "GPT-6 and Intelligent UI for everyone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teens-learn-and-plan",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "published_at": "2026-10-07T00:00:00Z"
+        },
+        {
+          "id": "3d17c4da4e6f42b643e72e0749f72ec0f16f2c43",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT‑6 and Intelligent UI for everyone",
+          "title_zh": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+          "title_en": "GPT‑6 and Intelligent UI for everyone",
+          "title_original": "GPT‑6 and Intelligent UI for everyone",
+          "summary": "OpenAI 宣布将 GPT-6 推向更广泛的用户，覆盖每周使用 ChatGPT 的超过 12 亿人。GPT-6 引入 Intelligent UI，可根据问题组合文本、图表、按钮、表单和交互组件，甚至直接在对话中创建小工具，其背后是一套原生可流式组件库和一个随生成逐步呈现界面的编译器。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:00:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-          "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
-          "title_en": "Helping teens learn, plan, and shape the future of AI",
-          "title_original": "Helping teens learn, plan, and shape the future of AI",
+          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+          "title_zh": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+          "title_en": "GPT-6 and Intelligent UI for everyone",
+          "title_original": "GPT-6 and Intelligent UI for everyone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teens-learn-and-plan",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "published_at": "2026-10-07T00:00:00Z"
+        },
+        {
+          "id": "3d17c4da4e6f42b643e72e0749f72ec0f16f2c43",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT‑6 and Intelligent UI for everyone",
+          "title_zh": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+          "title_en": "GPT‑6 and Intelligent UI for everyone",
+          "title_original": "GPT‑6 and Intelligent UI for everyone",
+          "summary": "OpenAI 宣布将 GPT-6 推向更广泛的用户，覆盖每周使用 ChatGPT 的超过 12 亿人。GPT-6 引入 Intelligent UI，可根据问题组合文本、图表、按钮、表单和交互组件，甚至直接在对话中创建小工具，其背后是一套原生可流式组件库和一个随生成逐步呈现界面的编译器。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:00:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9236,
+        "ai_relevance": 0.95,
+        "recency": 0.7648,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T00:00:00Z",
+      "latest_at": "2026-10-07T18:00:58Z",
+      "primary_item": {
+        "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+        "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+        "title_zh": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+        "title_en": "GPT-6 and Intelligent UI for everyone",
+        "title_original": "GPT-6 and Intelligent UI for everyone",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-for-everyone",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T18:35:16.536990Z"
+      }
+    },
+    {
+      "story_id": "story_e084383f2689",
+      "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+          "title_zh": "秘密保护必须与软件一起扩展",
+          "title_en": "Secret protection must scale with software",
+          "title_original": "Secret protection must scale with software",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T17:45:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+          "title_zh": "秘密保护必须与软件一起扩展",
+          "title_en": "Secret protection must scale with software",
+          "title_original": "Secret protection must scale with software",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T17:45:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,25 +261,108 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:00:00Z",
+      "earliest_at": "2026-10-07T17:45:34Z",
+      "latest_at": "2026-10-07T17:45:34Z",
       "primary_item": {
-        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-        "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-        "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
-        "title_en": "Helping teens learn, plan, and shape the future of AI",
-        "title_original": "Helping teens learn, plan, and shape the future of AI",
+        "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+        "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+        "title_zh": "秘密保护必须与软件一起扩展",
+        "title_en": "Secret protection must scale with software",
+        "title_original": "Secret protection must scale with software",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/teens-learn-and-plan",
-        "source": "OpenAI News",
+        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
+      }
+    },
+    {
+      "story_id": "story_a5dc5a4d2dcb",
+      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+          "title_zh": "用于泄露秘密检测的专用模型",
+          "title_en": "Purpose-built model for leaked secret detection",
+          "title_original": "Purpose-built model for leaked secret detection",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+          "title_zh": "用于泄露秘密检测的专用模型",
+          "title_en": "Purpose-built model for leaked secret detection",
+          "title_original": "Purpose-built model for leaked secret detection",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9668,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:13:56Z",
+      "latest_at": "2026-10-07T16:13:56Z",
+      "primary_item": {
+        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+        "title_zh": "用于泄露秘密检测的专用模型",
+        "title_en": "Purpose-built model for leaked secret detection",
+        "title_original": "Purpose-built model for leaked secret detection",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -214,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9236,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -297,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -438,15 +634,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.754,
         "story_heat": 0.5
       },
       "category": "official",
@@ -473,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -521,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9418,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,63 +752,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
-      "story_id": "story_9e4b08095253",
-      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d018af5dc3ed",
+      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+      "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "primary_url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
-          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "summary": null,
+          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
+          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:08:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
-          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "summary": null,
+          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
+          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:08:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:08:53Z",
+      "latest_at": "2026-10-07T18:08:53Z",
+      "primary_item": {
+        "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+        "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+        "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+        "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+        "title_original": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+        "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T18:35:16.536990Z"
+      }
+    },
+    {
+      "story_id": "story_463b6db0777c",
+      "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "primary_url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+          "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
+          "title_en": "Helping teens learn, plan, and shape the future of AI",
+          "title_original": "Helping teens learn, plan, and shape the future of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+          "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
+          "title_en": "Helping teens learn, plan, and shape the future of AI",
+          "title_original": "Helping teens learn, plan, and shape the future of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7735,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -621,25 +899,137 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T23:43:00Z",
-      "latest_at": "2026-10-06T23:43:00Z",
+      "earliest_at": "2026-10-07T12:00:00Z",
+      "latest_at": "2026-10-07T12:00:00Z",
       "primary_item": {
-        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-        "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-        "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
-        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+        "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+        "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
+        "title_en": "Helping teens learn, plan, and shape the future of AI",
+        "title_original": "Helping teens learn, plan, and shape the future of AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/teens-learn-and-plan",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
+      }
+    },
+    {
+      "story_id": "story_cb02882597ae",
+      "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af806127f0c12c9d81388cad25dcf95b334e1a89",
+          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "title_zh": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "title_en": null,
+          "title_original": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:10:20Z"
+        },
+        {
+          "id": "a50d0cc054be486bcbe85db257ed84080580ee8a",
+          "title": "v2.1.293",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "v2.1.293",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-07T18:10:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af806127f0c12c9d81388cad25dcf95b334e1a89",
+          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "title_zh": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "title_en": null,
+          "title_original": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:10:20Z"
+        },
+        {
+          "id": "a50d0cc054be486bcbe85db257ed84080580ee8a",
+          "title": "v2.1.293",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "v2.1.293",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-07T18:10:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:10:20Z",
+      "latest_at": "2026-10-07T18:10:20Z",
+      "primary_item": {
+        "id": "af806127f0c12c9d81388cad25dcf95b334e1a89",
+        "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+        "title_zh": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+        "title_en": null,
+        "title_original": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+        "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -687,15 +1077,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7325,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +1112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -770,15 +1160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7766,
+        "recency": 0.7648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -805,7 +1195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -853,15 +1243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9338,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -888,7 +1278,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
+      }
+    },
+    {
+      "story_id": "story_9e4b08095253",
+      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7616,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T23:43:00Z",
+      "latest_at": "2026-10-06T23:43:00Z",
+      "primary_item": {
+        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+        "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -936,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -970,63 +1443,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
-      "story_id": "story_79247d86835a",
-      "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "source": "GitHub Changelog",
+      "story_id": "story_e7c1dfa5362c",
+      "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "primary_url": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-          "title_zh": "堆叠拉取请求现已普遍可用",
-          "title_en": "Stacked pull requests generally available",
-          "title_original": "Stacked pull requests generally available",
+          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
+          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
+          "published_at": "2026-10-07T07:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-          "title_zh": "堆叠拉取请求现已普遍可用",
-          "title_en": "Stacked pull requests generally available",
-          "title_original": "Stacked pull requests generally available",
+          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
+          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
+          "published_at": "2026-10-07T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.736,
+        "ai_relevance": 0.95,
+        "recency": 0.8461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1035,25 +1508,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T20:16:41Z",
-      "latest_at": "2026-10-06T20:16:41Z",
+      "earliest_at": "2026-10-07T07:00:00Z",
+      "latest_at": "2026-10-07T07:00:00Z",
       "primary_item": {
-        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-        "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-        "title_zh": "堆叠拉取请求现已普遍可用",
-        "title_en": "Stacked pull requests generally available",
-        "title_original": "Stacked pull requests generally available",
+        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+        "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
+        "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/radisson",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -1101,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.951,
+        "recency": 0.9365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,7 +1608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
@@ -1183,15 +1656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1217,494 +1690,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     },
     {
-      "story_id": "story_9121e6af44f8",
-      "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:",
-      "url": "https://x.com/Google/status/2107836410254291345",
-      "primary_url": "https://x.com/Google/status/2107836410254291345",
-      "source": "X：Google (@Google)",
+      "story_id": "story_eedd3d5235fe",
+      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+      "url": "https://x.com/claudeai/status/2107894060229034197",
+      "primary_url": "https://x.com/claudeai/status/2107894060229034197",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e18c88af15a0731f2ebfa43a1ece1c0e00c53303",
-          "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:",
-          "title_zh": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-          "title_en": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-          "title_original": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-          "summary": "Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。",
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Google/status/2107836410254291345",
-          "source": "X：Google (@Google)",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-07T14:12:16Z"
+          "published_at": "2026-10-07T18:01:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Google (@Google)"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "e18c88af15a0731f2ebfa43a1ece1c0e00c53303",
-          "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:",
-          "title_zh": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-          "title_en": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-          "title_original": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-          "summary": "Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。",
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Google/status/2107836410254291345",
-          "source": "X：Google (@Google)",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-07T14:12:16Z"
+          "published_at": "2026-10-07T18:01:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9535,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T14:12:16Z",
-      "latest_at": "2026-10-07T14:12:16Z",
-      "primary_item": {
-        "id": "e18c88af15a0731f2ebfa43a1ece1c0e00c53303",
-        "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:",
-        "title_zh": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-        "title_en": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-        "title_original": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-        "summary": "Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Google/status/2107836410254291345",
-        "source": "X：Google (@Google)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
-      }
-    },
-    {
-      "story_id": "story_7278c3eaedd3",
-      "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3% / You can now train your own Decision model like Jev locally!",
-      "url": "https://x.com/UnslothAI/status/2107868866361930236",
-      "primary_url": "https://x.com/UnslothAI/status/2107868866361930236",
-      "source": "X：Unsloth (@UnslothAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d9166cdc6042e2837da2314ac236397b712153d",
-          "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3% / You can now train your own Decision model like Jev locally!",
-          "title_zh": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-          "title_en": "You can now train your own Decision model like Jev locally!",
-          "title_original": "You can now train your own Decision model like Jev locally!",
-          "summary": "Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/UnslothAI/status/2107868866361930236",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:21:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Unsloth (@UnslothAI)"
-      ],
-      "items": [
-        {
-          "id": "7d9166cdc6042e2837da2314ac236397b712153d",
-          "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3% / You can now train your own Decision model like Jev locally!",
-          "title_zh": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-          "title_en": "You can now train your own Decision model like Jev locally!",
-          "title_original": "You can now train your own Decision model like Jev locally!",
-          "summary": "Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/UnslothAI/status/2107868866361930236",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:21:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T16:21:14Z",
-      "latest_at": "2026-10-07T16:21:14Z",
-      "primary_item": {
-        "id": "7d9166cdc6042e2837da2314ac236397b712153d",
-        "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3% / You can now train your own Decision model like Jev locally!",
-        "title_zh": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-        "title_en": "You can now train your own Decision model like Jev locally!",
-        "title_original": "You can now train your own Decision model like Jev locally!",
-        "summary": "Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/UnslothAI/status/2107868866361930236",
-        "source": "X：Unsloth (@UnslothAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
-      }
-    },
-    {
-      "story_id": "story_499c135d2740",
-      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-      "url": "https://x.com/thexpin/status/2107524306058289533",
-      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thexpin/status/2107524306058289533",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "items": [
-        {
-          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thexpin/status/2107524306058289533",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T17:32:05Z",
-      "latest_at": "2026-10-06T17:32:05Z",
-      "primary_item": {
-        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-        "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-        "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-        "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thexpin/status/2107524306058289533",
-        "source": "X：X.PIN (@thexpin)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
-      }
-    },
-    {
-      "story_id": "story_aef945411b8e",
-      "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-      "url": "https://x.com/AravSrinivas/status/2107871834205196784",
-      "primary_url": "https://x.com/AravSrinivas/status/2107871834205196784",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "617a145f1997562b78eff543a3bda6657732f830",
-          "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-          "title_zh": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-          "title_en": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-          "title_original": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-          "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2107871834205196784",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:33:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "617a145f1997562b78eff543a3bda6657732f830",
-          "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-          "title_zh": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-          "title_en": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-          "title_original": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-          "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2107871834205196784",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:33:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9921,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-07T16:33:02Z",
-      "latest_at": "2026-10-07T16:33:02Z",
+      "earliest_at": "2026-10-07T18:01:21Z",
+      "latest_at": "2026-10-07T18:01:21Z",
       "primary_item": {
-        "id": "617a145f1997562b78eff543a3bda6657732f830",
-        "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-        "title_zh": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-        "title_en": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-        "title_original": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
-        "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。",
+        "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+        "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+        "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+        "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+        "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+        "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/AravSrinivas/status/2107871834205196784",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "url": "https://x.com/claudeai/status/2107894060229034197",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
-      }
-    },
-    {
-      "story_id": "story_0f2de19abf40",
-      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-      "url": "https://x.com/arena/status/2107717155374727602",
-      "primary_url": "https://x.com/arena/status/2107717155374727602",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
-          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2107717155374727602",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T06:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
-          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2107717155374727602",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T06:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8507,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T06:18:23Z",
-      "latest_at": "2026-10-07T06:18:23Z",
-      "primary_item": {
-        "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
-        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-        "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-        "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-        "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
-        "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2107717155374727602",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
-      }
-    },
-    {
-      "story_id": "story_0366a3557ad7",
-      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-      "primary_url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-          "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T19:26:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-          "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T19:26:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T19:26:09Z",
-      "latest_at": "2026-10-06T19:26:09Z",
-      "primary_item": {
-        "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-        "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-        "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-        "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-        "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T17:31:15.237686Z"
+        "scored_at": "2026-10-07T18:35:16.536990Z"
       }
     }
   ]

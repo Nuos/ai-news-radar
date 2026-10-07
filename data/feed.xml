@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 07 Oct 2026 17:30:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 18:34:18 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge</title>
@@ -16,12 +16,28 @@
 <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
 </item>
 <item>
-<title>帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI</title>
-<link>https://openai.com/index/teens-learn-and-plan</link>
-<guid isPermaLink="true">https://openai.com/index/teens-learn-and-plan</guid>
+<title>OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone</title>
+<link>https://openai.com/index/gpt-6-for-everyone</link>
+<guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+<pubDate>Wed, 07 Oct 2026 18:00:58 +0000</pubDate>
+</item>
+<item>
+<title>秘密保护必须与软件一起扩展 / Secret protection must scale with software</title>
+<link>https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Wed, 07 Oct 2026 17:45:34 +0000</pubDate>
+</item>
+<item>
+<title>用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection</title>
+<link>https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 07 Oct 2026 16:13:56 +0000</pubDate>
 </item>
 <item>
 <title>Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games</title>
@@ -56,12 +72,28 @@
 <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
 </item>
 <item>
-<title>更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics</title>
-<link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</guid>
-<description>GitHub Changelog</description>
+<title>Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:</title>
+<link>https://x.com/ClaudeDevs/status/2107895957933408429</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2107895957933408429</guid>
+<description>Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。（X：Claude Devs (@ClaudeDevs)）</description>
 <category>官方更新</category>
-<pubDate>Tue, 06 Oct 2026 23:43:00 +0000</pubDate>
+<pubDate>Wed, 07 Oct 2026 18:08:53 +0000</pubDate>
+</item>
+<item>
+<title>帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI</title>
+<link>https://openai.com/index/teens-learn-and-plan</link>
+<guid isPermaLink="true">https://openai.com/index/teens-learn-and-plan</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题</title>
+<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.293</link>
+<guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.293</guid>
+<description>Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。（Claude Code：GitHub Releases（RSS））</description>
+<category>官方更新</category>
+<pubDate>Wed, 07 Oct 2026 18:10:20 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
@@ -88,6 +120,14 @@
 <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
 </item>
 <item>
+<title>更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics</title>
+<link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 06 Oct 2026 23:43:00 +0000</pubDate>
+</item>
+<item>
 <title>亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'</title>
 <link>https://www.404media.co/undue-emotional-weight</link>
 <guid isPermaLink="true">https://www.404media.co/undue-emotional-weight</guid>
@@ -96,12 +136,12 @@
 <pubDate>Wed, 07 Oct 2026 14:46:15 +0000</pubDate>
 </item>
 <item>
-<title>堆叠拉取请求现已普遍可用 / Stacked pull requests generally available</title>
-<link>https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available</guid>
-<description>GitHub Changelog</description>
+<title>丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT</title>
+<link>https://openai.com/index/radisson</link>
+<guid isPermaLink="true">https://openai.com/index/radisson</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 06 Oct 2026 20:16:41 +0000</pubDate>
+<pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>a16z 解析 Texas 为何让数据中心排队等待并网 / Why Texas Is Making Data Centers Wait</title>
@@ -120,52 +160,12 @@
 <pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:</title>
-<link>https://x.com/Google/status/2107836410254291345</link>
-<guid isPermaLink="true">https://x.com/Google/status/2107836410254291345</guid>
-<description>Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。（X：Google (@Google)）</description>
+<title>Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...</title>
+<link>https://x.com/claudeai/status/2107894060229034197</link>
+<guid isPermaLink="true">https://x.com/claudeai/status/2107894060229034197</guid>
+<description>Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
-<pubDate>Wed, 07 Oct 2026 14:12:16 +0000</pubDate>
-</item>
-<item>
-<title>Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3% / You can now train your own Decision model like Jev locally!</title>
-<link>https://x.com/UnslothAI/status/2107868866361930236</link>
-<guid isPermaLink="true">https://x.com/UnslothAI/status/2107868866361930236</guid>
-<description>Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。（X：Unsloth (@UnslothAI)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 07 Oct 2026 16:21:14 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...</title>
-<link>https://x.com/thexpin/status/2107524306058289533</link>
-<guid isPermaLink="true">https://x.com/thexpin/status/2107524306058289533</guid>
-<description>据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。（X：X.PIN (@thexpin)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 06 Oct 2026 17:32:05 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...</title>
-<link>https://x.com/AravSrinivas/status/2107871834205196784</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2107871834205196784</guid>
-<description>Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 07 Oct 2026 16:33:02 +0000</pubDate>
-</item>
-<item>
-<title>Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...</title>
-<link>https://x.com/arena/status/2107717155374727602</link>
-<guid isPermaLink="true">https://x.com/arena/status/2107717155374727602</guid>
-<description>Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 07 Oct 2026 06:18:23 +0000</pubDate>
-</item>
-<item>
-<title>亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'</title>
-<link>https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight</link>
-<guid isPermaLink="true">https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight</guid>
-<description>亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。（404 Media（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 06 Oct 2026 19:26:09 +0000</pubDate>
+<pubDate>Wed, 07 Oct 2026 18:01:21 +0000</pubDate>
 </item>
 </channel>
 </rss>
