@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 07 Oct 2026 11:26:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 12:40:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -19,7 +27,7 @@
 <title>OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics</title>
 <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
 <guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-<description>OpenAI News</description>
+<description>OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
 <category>官方更新</category>
 <pubDate>Tue, 06 Oct 2026 23:01:09 +0000</pubDate>
 </item>
@@ -30,6 +38,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 06 Oct 2026 23:43:00 +0000</pubDate>
+</item>
+<item>
+<title>Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
+<link>https://openai.com/index/atlassian-partnership</link>
+<guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
@@ -46,14 +62,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 06 Oct 2026 20:16:41 +0000</pubDate>
-</item>
-<item>
-<title>Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT</title>
-<link>https://openai.com/index/jump-trading</link>
-<guid isPermaLink="true">https://openai.com/index/jump-trading</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'</title>
@@ -78,22 +86,6 @@
 <description>据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。（X：X.PIN (@thexpin)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 06 Oct 2026 17:32:05 +0000</pubDate>
-</item>
-<item>
-<title>Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
-<link>https://openai.com/index/atlassian-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions</title>
-<link>https://claude.dev/blog/claude-code-in-the-cloud</link>
-<guid isPermaLink="true">https://claude.dev/blog/claude-code-in-the-cloud</guid>
-<description>Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。（Anthropic：Claude.dev 开发者博客（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...</title>
@@ -158,6 +150,14 @@
 <description>Slashdot</description>
 <category>多源热议</category>
 <pubDate>Wed, 07 Oct 2026 03:30:00 +0000</pubDate>
+</item>
+<item>
+<title>像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese</title>
+<link>https://fiveminutesforward.com/post/2026-10-04-telegraph-test</link>
+<guid isPermaLink="true">https://fiveminutesforward.com/post/2026-10-04-telegraph-test</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Wed, 07 Oct 2026 12:04:36 +0000</pubDate>
 </item>
 <item>
 <title>不喜欢人工智能编码的原因 / Reasons to Dislike AI Coding</title>
