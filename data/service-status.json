@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T15:37:30.240194Z",
+  "generated_at": "2026-10-07T16:31:44.094338Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M4BK9J2M83R4SSC71D9FXW45",
+      "provider": "OpenAI",
+      "title": "Dot in Codex may fail to create new threads",
+      "title_zh": "Dot in Codex may fail to create new threads",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-07T16:31:37Z",
+      "updated_at": "2026-10-07T16:31:37Z",
+      "message": "We are investigating the issue for the listed services.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
+    }
+  ]
 }
