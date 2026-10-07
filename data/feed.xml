@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 07 Oct 2026 22:25:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 23:24:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone</title>
@@ -96,14 +96,6 @@
 <pubDate>Wed, 07 Oct 2026 18:10:20 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics</title>
-<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-<guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-<description>OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
-<category>官方更新</category>
-<pubDate>Tue, 06 Oct 2026 23:01:09 +0000</pubDate>
-</item>
-<item>
 <title>Codex CLI 0.161.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
@@ -166,6 +158,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.</title>
+<link>https://x.com/cursor_ai/status/2107897257651769464</link>
+<guid isPermaLink="true">https://x.com/cursor_ai/status/2107897257651769464</guid>
+<description>Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。（X：Cursor (@cursor_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 07 Oct 2026 18:14:03 +0000</pubDate>
 </item>
 </channel>
 </rss>
