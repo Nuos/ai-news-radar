@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T08:37:29.847996Z",
+  "generated_at": "2026-10-07T09:32:51.701742Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -21,8 +21,8 @@
       "status": "identified",
       "impact": "major",
       "started_at": "2026-10-07T05:31:56Z",
-      "updated_at": "2026-10-07T05:54:27Z",
-      "message": "we have identified the issue, working on rolling back to the previous version.",
+      "updated_at": "2026-10-07T09:28:55Z",
+      "message": "We have identified the issue. We have released an updated app version for Linux and macOS. We are actively working to roll out the fix for Windows.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
     }
