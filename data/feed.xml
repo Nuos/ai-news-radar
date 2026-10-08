@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 08:38:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 09:33:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone</title>
@@ -80,6 +80,14 @@
 <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
 </item>
 <item>
+<title>ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
+<link>https://github.com/pingdotgg/ts-rust</link>
+<guid isPermaLink="true">https://github.com/pingdotgg/ts-rust</guid>
+<description>ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 00:46:00 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:</title>
 <link>https://x.com/ClaudeDevs/status/2107895957933408429</link>
 <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2107895957933408429</guid>
@@ -96,12 +104,12 @@
 <pubDate>Wed, 07 Oct 2026 18:10:20 +0000</pubDate>
 </item>
 <item>
-<title>德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实</title>
-<link>https://www.aibase.com/news/31475</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31475</guid>
+<title>腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理</title>
+<link>https://www.aibase.com/news/31478</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31478</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 08:38:27 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 09:33:28 +0000</pubDate>
 </item>
 <item>
 <title>Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?</title>
@@ -150,14 +158,6 @@
 <description>Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 07 Oct 2026 19:12:16 +0000</pubDate>
-</item>
-<item>
-<title>谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频</title>
-<link>https://www.aibase.com/news/31476</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31476</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 08:38:27 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...</title>
