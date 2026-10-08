@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 12:40:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 13:33:15 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone</title>
@@ -48,12 +48,12 @@
 <pubDate>Wed, 07 Oct 2026 17:45:34 +0000</pubDate>
 </item>
 <item>
-<title>Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks</title>
-<link>https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks</link>
-<guid isPermaLink="true">https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks</guid>
-<description>Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。（The Decoder：AI News（RSS））</description>
+<title>Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
+<link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found</link>
+<guid isPermaLink="true">https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found</guid>
+<description>Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 09:24:17 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available</title>
@@ -62,14 +62,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 07 Oct 2026 15:46:17 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Falcon ASR</title>
-<link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
-<guid isPermaLink="true">https://huggingface.co/blog/tiiuae/falcon-asr</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
 </item>
 <item>
 <title>ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
@@ -104,20 +96,20 @@
 <pubDate>Thu, 08 Oct 2026 10:30:21 +0000</pubDate>
 </item>
 <item>
+<title>Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks</title>
+<link>https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks</link>
+<guid isPermaLink="true">https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks</guid>
+<description>Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 09:24:17 +0000</pubDate>
+</item>
+<item>
 <title>Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?</title>
 <link>https://x.com/thsottiaux/status/2108040921044639779</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2108040921044639779</guid>
 <description>作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 08 Oct 2026 03:44:55 +0000</pubDate>
-</item>
-<item>
-<title>Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
 </item>
 <item>
 <title>在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI</title>
@@ -142,6 +134,14 @@
 <description>NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。（NVIDIA Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 07 Oct 2026 18:45:28 +0000</pubDate>
+</item>
+<item>
+<title>Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion</title>
+<link>https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing</link>
+<guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing</guid>
+<description>Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。（Waymo：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43 / Anthropic has released Claude Haiku 5.5, scoring 43 on the Artificial Analysis Intelligence Index - up 26 points one year after the last ...</title>
