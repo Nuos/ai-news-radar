@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T02:41:24.047946Z",
+  "generated_at": "2026-10-08T03:34:50.409386Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M4CR8GCAFC1RYQXZDXAZP2VT",
+      "provider": "OpenAI",
+      "title": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
+      "title_zh": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-08T03:17:40Z",
+      "updated_at": "2026-10-08T03:17:40Z",
+      "message": "We are investigating the issue for the listed services.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
+    }
+  ]
 }
