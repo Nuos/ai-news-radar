@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 22:27:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:26:08 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex</title>
@@ -16,7 +16,7 @@
 <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Triage role users or higher can now archive pull requests</title>
+<title>分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests</title>
 <link>https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests</guid>
 <description>GitHub Changelog</description>
@@ -32,7 +32,7 @@
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The model that didn't exist, so you made it yourself</title>
+<title>Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型 / The model that didn't exist, so you made it yourself</title>
 <link>https://huggingface.co/blog/building-with-ml-intern</link>
 <guid isPermaLink="true">https://huggingface.co/blog/building-with-ml-intern</guid>
 <description>Hugging Face Blog</description>
@@ -62,6 +62,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元</title>
+<link>https://www.ithome.com/1/010/751.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/010/751.htm</guid>
+<description>据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。（IT之家·人工智能）</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 23:02:44 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.162.0</title>
@@ -158,14 +166,6 @@
 <description>Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
-</item>
-<item>
-<title>Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap</title>
-<link>https://www.youtube.com/shorts/n9WfoNW2XnE</link>
-<guid isPermaLink="true">https://www.youtube.com/shorts/n9WfoNW2XnE</guid>
-<description>Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。（Claude：YouTube（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 15:53:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
