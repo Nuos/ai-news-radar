@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:29:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 21:27:01 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex</title>
@@ -16,12 +16,12 @@
 <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists</title>
-<link>https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists</guid>
+<title>Triage role users or higher can now archive pull requests</title>
+<link>https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 08 Oct 2026 16:00:56 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 19:01:42 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work</title>
@@ -40,20 +40,20 @@
 <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
 </item>
 <item>
+<title>屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists</title>
+<link>https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 08 Oct 2026 16:00:56 +0000</pubDate>
+</item>
+<item>
 <title>Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI</title>
 <link>https://openai.com/index/pollo-ai</link>
 <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits</title>
-<link>https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 08 Oct 2026 14:25:53 +0000</pubDate>
 </item>
 <item>
 <title>部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field</title>
@@ -70,6 +70,14 @@
 <description>ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。（Hacker News：AI 热帖）</description>
 <category>多源热议</category>
 <pubDate>Thu, 08 Oct 2026 17:20:58 +0000</pubDate>
+</item>
+<item>
+<title>草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits</title>
+<link>https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 08 Oct 2026 14:25:53 +0000</pubDate>
 </item>
 <item>
 <title>Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2</title>
@@ -158,14 +166,6 @@
 <description>Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。（Anthropic：Claude.dev 开发者博客（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock / Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents</title>
-<link>https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link</guid>
-<description>LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。（LangChain：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 16:21:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
