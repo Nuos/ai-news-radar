@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 15:29:07 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 16:33:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone</title>
@@ -16,12 +16,12 @@
 <pubDate>Wed, 07 Oct 2026 19:00:15 +0000</pubDate>
 </item>
 <item>
-<title>草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits</title>
-<link>https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</guid>
+<title>屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists</title>
+<link>https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 08 Oct 2026 14:25:53 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 16:00:56 +0000</pubDate>
 </item>
 <item>
 <title>【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1</title>
@@ -32,12 +32,20 @@
 <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
 </item>
 <item>
-<title>破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations</title>
+<title>OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations</title>
 <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
 <guid isPermaLink="true">https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits</title>
+<link>https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 08 Oct 2026 14:25:53 +0000</pubDate>
 </item>
 <item>
 <title>边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge</title>
@@ -54,14 +62,6 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Wed, 07 Oct 2026 17:45:34 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 07 Oct 2026 20:12:18 +0000</pubDate>
 </item>
 <item>
 <title>Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
@@ -96,6 +96,14 @@
 <pubDate>Wed, 07 Oct 2026 18:10:20 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 07 Oct 2026 20:12:18 +0000</pubDate>
+</item>
+<item>
 <title>阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假</title>
 <link>https://www.aibase.com/news/31479</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31479</guid>
@@ -112,12 +120,12 @@
 <pubDate>Thu, 08 Oct 2026 09:24:17 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available</title>
-<link>https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 07 Oct 2026 15:46:17 +0000</pubDate>
+<title>Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations</title>
+<link>https://claude.dev/blog/building-effective-agent-automations</link>
+<guid isPermaLink="true">https://claude.dev/blog/building-effective-agent-automations</guid>
+<description>Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。（Anthropic：Claude.dev 开发者博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?</title>
@@ -158,14 +166,6 @@
 <description>Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 07 Oct 2026 18:01:21 +0000</pubDate>
-</item>
-<item>
-<title>腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理</title>
-<link>https://www.aibase.com/news/31478</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31478</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 09:33:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
