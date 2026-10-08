@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 18:33:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 19:26:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex</title>
@@ -80,12 +80,28 @@
 <pubDate>Thu, 08 Oct 2026 16:42:42 +0000</pubDate>
 </item>
 <item>
-<title>Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障 / The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent</title>
-<link>https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent</link>
-<guid isPermaLink="true">https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent</guid>
-<description>Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目中定时从 Cloud Trace、Cloud Logging 或 BigQuery 抽取生产会话，经抽样、评审、聚类、验证、跟踪五阶段流水线诊断 Agent 失败。（Google Developers Blog（RSS））</description>
+<title>Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate / ML Drift: Next-Gen GPU AI/ML Inference at the Edge</title>
+<link>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge</link>
+<guid isPermaLink="true">https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge</guid>
+<description>Google AI Edge 团队以 Apache 2.0 许可开源 ML Drift，一个跨平台端侧 GPU 推理计算引擎，作为 LiteRT 的核心 GPU 加速层。（Google Developers Blog（RSS））</description>
 <category>官方更新</category>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686908&amp;idx=1&amp;sn=29a97b5ff695871a7bf219d3d6bd6487</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686908&amp;idx=1&amp;sn=29a97b5ff695871a7bf219d3d6bd6487</guid>
+<description>OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内部模型产出的722份数学手稿，归为372个成果组，覆盖数论、代数几何、偏微分方程等方向，每个结果平均花费约3小时 ChatGPT Pro 级别思考算力。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 00:36:00 +0000</pubDate>
+</item>
+<item>
+<title>Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index / Grateful to have @lightspeedvp with us as we build what’s next!</title>
+<link>https://x.com/arena/status/2108269048467513429</link>
+<guid isPermaLink="true">https://x.com/arena/status/2108269048467513429</guid>
+<description>Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 18:51:25 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot</title>
@@ -96,20 +112,20 @@
 <pubDate>Wed, 07 Oct 2026 20:12:18 +0000</pubDate>
 </item>
 <item>
+<title>如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU</title>
+<link>https://blog.comfy.org/p/how-i-generated-live-video-with-minimax</link>
+<guid isPermaLink="true">https://blog.comfy.org/p/how-i-generated-live-video-with-minimax</guid>
+<description>ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。（Comfy Blog）</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 19:01:22 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations</title>
 <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
 <guid isPermaLink="true">https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index / We’re so proud to have worked alongside @felicis from the very beginning!</title>
-<link>https://x.com/arena/status/2108243026741248348</link>
-<guid isPermaLink="true">https://x.com/arena/status/2108243026741248348</guid>
-<description>Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 17:08:01 +0000</pubDate>
 </item>
 <item>
 <title>阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假</title>
@@ -150,22 +166,6 @@
 <description>作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 08 Oct 2026 03:44:55 +0000</pubDate>
-</item>
-<item>
-<title>LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock / Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents</title>
-<link>https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link</guid>
-<description>LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。（LangChain：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 16:21:08 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents</title>
-<link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event</guid>
-<description>NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 07 Oct 2026 18:45:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
