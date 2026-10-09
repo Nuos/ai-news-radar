@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T22:27:32.205702Z",
+  "generated_at": "2026-10-09T23:25:52.233304Z",
   "ok": true,
   "active_count": 3,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Workspace admins may be unable to manage plugins",
       "title_zh": "Workspace admins may be unable to manage plugins",
-      "status": "investigating",
+      "status": "monitoring",
       "impact": "major",
       "started_at": "2026-10-09T21:48:34Z",
-      "updated_at": "2026-10-09T21:48:34Z",
-      "message": "We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.",
+      "updated_at": "2026-10-09T22:52:35Z",
+      "message": "We are seeing recovery in workspace administrators’ ability to view and manage plugin availability and settings. We are monitoring to ensure service remains stable.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H"
     },

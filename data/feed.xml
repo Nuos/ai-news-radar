@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 22:27:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 23:25:52 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5</title>
+<link>https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 09 Oct 2026 22:58:23 +0000</pubDate>
+</item>
 <item>
 <title>GPU 集群的有效调度 / Impactful scheduling for GPU clusters</title>
 <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
@@ -16,20 +24,28 @@
 <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
 </item>
 <item>
-<title>CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis</title>
-<link>https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 09 Oct 2026 21:32:54 +0000</pubDate>
-</item>
-<item>
 <title>Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
 <link>https://openai.com/index/asana-browser-agent</link>
 <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.162.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis</title>
+<link>https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 09 Oct 2026 21:32:54 +0000</pubDate>
 </item>
 <item>
 <title>Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.</title>
@@ -80,20 +96,20 @@
 <pubDate>Fri, 09 Oct 2026 19:56:06 +0000</pubDate>
 </item>
 <item>
+<title>Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities</title>
+<link>https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination</link>
+<guid isPermaLink="true">https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination</guid>
+<description>Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。（Redwood Research：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 09 Oct 2026 22:06:51 +0000</pubDate>
+</item>
+<item>
 <title>音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格</title>
 <link>https://www.aibase.com/news/31510</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31510</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 09 Oct 2026 10:29:56 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元</title>
-<link>https://www.ithome.com/1/010/751.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/010/751.htm</guid>
-<description>据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。（IT之家·人工智能）</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 23:02:44 +0000</pubDate>
 </item>
 <item>
 <title>Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15% / Can AI automate AI R&amp;D yet?</title>
@@ -128,6 +144,14 @@
 <pubDate>Fri, 09 Oct 2026 09:33:47 +0000</pubDate>
 </item>
 <item>
+<title>人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+<link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</guid>
+<description>TechCrunch AI</description>
+<category>多源热议</category>
+<pubDate>Fri, 09 Oct 2026 20:00:30 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图</title>
 <link>https://www.aibase.com/news/31506</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31506</guid>
@@ -136,36 +160,12 @@
 <pubDate>Fri, 09 Oct 2026 08:37:58 +0000</pubDate>
 </item>
 <item>
-<title>人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
-<link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</guid>
-<description>TechCrunch AI</description>
-<category>值得关注</category>
-<pubDate>Fri, 09 Oct 2026 20:00:30 +0000</pubDate>
-</item>
-<item>
 <title>谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道</title>
 <link>https://www.aibase.com/news/31507</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31507</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 09 Oct 2026 08:37:58 +0000</pubDate>
-</item>
-<item>
-<title>“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &amp;#8216;Pure insanity&amp;#8217;: Mathematicians will need years to make sense of OpenAI&amp;#8217;s latest drop</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
-</item>
-<item>
-<title>一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布</title>
-<link>https://www.aibase.com/news/31504</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31504</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 09 Oct 2026 07:37:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
