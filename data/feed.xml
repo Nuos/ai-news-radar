@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 07:37:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 08:37:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.</title>
@@ -48,12 +48,20 @@
 <pubDate>Thu, 08 Oct 2026 16:00:56 +0000</pubDate>
 </item>
 <item>
-<title>一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布</title>
-<link>https://www.aibase.com/news/31504</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31504</guid>
+<title>Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
+<link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found</link>
+<guid isPermaLink="true">https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found</guid>
+<description>Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图</title>
+<link>https://www.aibase.com/news/31506</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31506</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 09 Oct 2026 07:37:56 +0000</pubDate>
+<pubDate>Fri, 09 Oct 2026 08:37:58 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元</title>
@@ -62,14 +70,6 @@
 <description>据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。（IT之家·人工智能）</description>
 <category>行业动态</category>
 <pubDate>Thu, 08 Oct 2026 23:02:44 +0000</pubDate>
-</item>
-<item>
-<title>部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field</title>
-<link>https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field</link>
-<guid isPermaLink="true">https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field</guid>
-<description>AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 18:17:07 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:</title>
@@ -112,20 +112,28 @@
 <pubDate>Thu, 08 Oct 2026 16:42:42 +0000</pubDate>
 </item>
 <item>
-<title>快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改</title>
-<link>https://www.aibase.com/news/31505</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31505</guid>
+<title>谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道</title>
+<link>https://www.aibase.com/news/31507</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31507</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 09 Oct 2026 08:37:58 +0000</pubDate>
+</item>
+<item>
+<title>部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field</title>
+<link>https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field</link>
+<guid isPermaLink="true">https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field</guid>
+<description>AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 08 Oct 2026 18:17:07 +0000</pubDate>
+</item>
+<item>
+<title>一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布</title>
+<link>https://www.aibase.com/news/31504</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31504</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 09 Oct 2026 07:37:56 +0000</pubDate>
-</item>
-<item>
-<title>Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
-<link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found</link>
-<guid isPermaLink="true">https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found</guid>
-<description>Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
 </item>
 <item>
 <title>Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.</title>
@@ -136,14 +144,6 @@
 <pubDate>Thu, 08 Oct 2026 20:02:39 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞</title>
-<link>https://www.aibase.com/news/31503</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31503</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 09 Oct 2026 06:44:29 +0000</pubDate>
-</item>
-<item>
 <title>Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks</title>
 <link>https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks</link>
 <guid isPermaLink="true">https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks</guid>
@@ -152,12 +152,12 @@
 <pubDate>Thu, 08 Oct 2026 09:24:17 +0000</pubDate>
 </item>
 <item>
-<title>JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍</title>
-<link>https://www.aibase.com/news/31502</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31502</guid>
+<title>快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改</title>
+<link>https://www.aibase.com/news/31505</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31505</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 09 Oct 2026 06:44:29 +0000</pubDate>
+<pubDate>Fri, 09 Oct 2026 07:37:56 +0000</pubDate>
 </item>
 <item>
 <title>Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!</title>
