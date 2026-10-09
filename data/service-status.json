@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T16:29:29.526873Z",
+  "generated_at": "2026-10-09T17:24:27.983668Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M4GV1M2A3K38T73JCVCD9G0R",
+      "provider": "OpenAI",
+      "title": "Delayed data in the Costs API",
+      "title_zh": "Delayed data in the Costs API",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-10-09T17:23:18Z",
+      "updated_at": "2026-10-09T17:23:18Z",
+      "message": "We have identified an issue causing delays in publishing organization cost data through the Costs API. API and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
+    }
+  ]
 }
