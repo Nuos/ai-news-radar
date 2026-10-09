@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-09T08:37:58.705962Z",
+  "generated_at": "2026-10-09T09:33:47.435563Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a9ec40ee13cc",
+      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "primary_url": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9637,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T07:00:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
+      "primary_item": {
+        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
     {
       "story_id": "story_a2fc4530694f",
       "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8854,
+        "recency": 0.8736,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,90 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_f913596b9697",
-      "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "primary_url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7865,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T16:00:00Z",
-      "latest_at": "2026-10-08T16:00:00Z",
-      "primary_item": {
-        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8216,
+        "recency": 0.8107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,30 +278,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
-      "story_id": "story_65da7bfcfb81",
-      "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "story_id": "story_f913596b9697",
+      "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "primary_url": "https://openai.com/index/oracle",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -310,31 +310,31 @@
       ],
       "items": [
         {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7423,
+        "ai_relevance": 0.99,
+        "recency": 0.776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,17 +343,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-08T16:00:00Z",
+      "latest_at": "2026-10-08T16:00:00Z",
       "primary_item": {
-        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-        "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-        "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
-        "title_en": "LegalOn halves Codex costs while maintaining development speed",
-        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "url": "https://openai.com/index/oracle",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -361,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7867,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,142 +444,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
-      "story_id": "story_e42c7cb753df",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
-        },
-        {
-          "id": "e2dd324cf0e63487d1d1315b426aaebb805023c8",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T13:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
-        },
-        {
-          "id": "e2dd324cf0e63487d1d1315b426aaebb805023c8",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T13:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7533,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T13:01:01Z",
-      "latest_at": "2026-10-08T13:01:01Z",
-      "primary_item": {
-        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_891ef0a1c70a",
-      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-      "url": "https://www.aibase.com/news/31506",
-      "primary_url": "https://www.aibase.com/news/31506",
+      "story_id": "story_76c6e547b2cc",
+      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+      "url": "https://www.aibase.com/news/31509",
+      "primary_url": "https://www.aibase.com/news/31509",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "title_en": null,
-          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31506",
+          "url": "https://www.aibase.com/news/31509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T08:37:58.705962Z"
+          "published_at": "2026-10-09T09:33:47.435563Z"
         }
       ],
       "source_count": 1,
@@ -588,18 +476,18 @@
       ],
       "items": [
         {
-          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "title_en": null,
-          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31506",
+          "url": "https://www.aibase.com/news/31509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T08:37:58.705962Z"
+          "published_at": "2026-10-09T09:33:47.435563Z"
         }
       ],
       "item_count": 1,
@@ -620,17 +508,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T08:37:58.705962Z",
-      "latest_at": "2026-10-09T08:37:58.705962Z",
+      "earliest_at": "2026-10-09T09:33:47.435563Z",
+      "latest_at": "2026-10-09T09:33:47.435563Z",
       "primary_item": {
-        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-        "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
         "title_en": null,
-        "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31506",
+        "url": "https://www.aibase.com/news/31509",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -638,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
@@ -686,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8707,
+        "recency": 0.8591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,500 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_c4d769a9c422",
-      "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "primary_url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
-          "title_en": "A note from our research leaders:",
-          "title_original": "A note from our research leaders:",
-          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T06:17:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Newsroom (@OpenAINewsroom)"
-      ],
-      "items": [
-        {
-          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
-          "title_en": "A note from our research leaders:",
-          "title_original": "A note from our research leaders:",
-          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T06:17:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9666,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T06:17:00Z",
-      "latest_at": "2026-10-09T06:17:00Z",
-      "primary_item": {
-        "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-        "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-        "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
-        "title_en": "A note from our research leaders:",
-        "title_original": "A note from our research leaders:",
-        "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_fdcac8171d89",
-      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-      "url": "https://x.com/arena/status/2108405474391728357",
-      "primary_url": "https://x.com/arena/status/2108405474391728357",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
-          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
-          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108405474391728357",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T03:53:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
-          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
-          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108405474391728357",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T03:53:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9338,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T03:53:32Z",
-      "latest_at": "2026-10-09T03:53:32Z",
-      "primary_item": {
-        "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
-        "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-        "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
-        "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-        "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-        "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2108405474391728357",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_e323adeab1da",
-      "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "primary_url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7423,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "e441138912907d022d550626c930aa4e578bbe9e",
-        "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/pollo-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_8cec8cc46a95",
-      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7689,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T14:25:53Z",
-      "latest_at": "2026-10-08T14:25:53Z",
-      "primary_item": {
-        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-        "title_zh": "草稿拉取请求计入拉取请求限制",
-        "title_en": "Draft pull requests count toward pull request limits",
-        "title_original": "Draft pull requests count toward pull request limits",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_9d420c28c726",
-      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-      "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f9823f40d994730810318520de0f53b02b350ca",
-          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T16:42:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "1f9823f40d994730810318520de0f53b02b350ca",
-          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T16:42:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7946,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T16:42:42Z",
-      "latest_at": "2026-10-08T16:42:42Z",
-      "primary_item": {
-        "id": "1f9823f40d994730810318520de0f53b02b350ca",
-        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-        "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-        "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-        "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-        "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_185338d9449e",
-      "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-      "url": "https://www.aibase.com/news/31507",
-      "primary_url": "https://www.aibase.com/news/31507",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
-          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "title_en": null,
-          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31507",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T08:37:58.705962Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
-          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "title_en": null,
-          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31507",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T08:37:58.705962Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T08:37:58.705962Z",
-      "latest_at": "2026-10-09T08:37:58.705962Z",
-      "primary_item": {
-        "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
-        "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-        "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-        "title_en": null,
-        "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31507",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
@@ -1261,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8129,
+        "recency": 0.802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,30 +690,441 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
-      "story_id": "story_378144591198",
-      "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-      "url": "https://www.aibase.com/news/31504",
-      "primary_url": "https://www.aibase.com/news/31504",
+      "story_id": "story_c4d769a9c422",
+      "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "primary_url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "title_en": "A note from our research leaders:",
+          "title_original": "A note from our research leaders:",
+          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T06:17:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Newsroom (@OpenAINewsroom)"
+      ],
+      "items": [
+        {
+          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "title_en": "A note from our research leaders:",
+          "title_original": "A note from our research leaders:",
+          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T06:17:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9537,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T06:17:00Z",
+      "latest_at": "2026-10-09T06:17:00Z",
+      "primary_item": {
+        "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+        "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+        "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
+        "title_en": "A note from our research leaders:",
+        "title_original": "A note from our research leaders:",
+        "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_65da7bfcfb81",
+      "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7324,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+        "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+        "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+        "title_en": "LegalOn halves Codex costs while maintaining development speed",
+        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_fdcac8171d89",
+      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+      "url": "https://x.com/arena/status/2108405474391728357",
+      "primary_url": "https://x.com/arena/status/2108405474391728357",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
+          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2108405474391728357",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T03:53:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
+          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2108405474391728357",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T03:53:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9214,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T03:53:32Z",
+      "latest_at": "2026-10-09T03:53:32Z",
+      "primary_item": {
+        "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
+        "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+        "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+        "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+        "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+        "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2108405474391728357",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_8cec8cc46a95",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7586,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T14:25:53Z",
+      "latest_at": "2026-10-08T14:25:53Z",
+      "primary_item": {
+        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+        "title_zh": "草稿拉取请求计入拉取请求限制",
+        "title_en": "Draft pull requests count toward pull request limits",
+        "title_original": "Draft pull requests count toward pull request limits",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_9d420c28c726",
+      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+      "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f9823f40d994730810318520de0f53b02b350ca",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "1f9823f40d994730810318520de0f53b02b350ca",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.784,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T16:42:42Z",
+      "latest_at": "2026-10-08T16:42:42Z",
+      "primary_item": {
+        "id": "1f9823f40d994730810318520de0f53b02b350ca",
+        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+        "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_891ef0a1c70a",
+      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+      "url": "https://www.aibase.com/news/31506",
+      "primary_url": "https://www.aibase.com/news/31506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "title_en": null,
-          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31504",
+          "url": "https://www.aibase.com/news/31506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:37:56.845349Z"
+          "published_at": "2026-10-09T08:37:58.705962Z"
         }
       ],
       "source_count": 1,
@@ -1327,31 +1133,31 @@
       ],
       "items": [
         {
-          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "title_en": null,
-          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31504",
+          "url": "https://www.aibase.com/news/31506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:37:56.845349Z"
+          "published_at": "2026-10-09T08:37:58.705962Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,17 +1165,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:37:56.845349Z",
-      "latest_at": "2026-10-09T07:37:56.845349Z",
+      "earliest_at": "2026-10-09T08:37:58.705962Z",
+      "latest_at": "2026-10-09T08:37:58.705962Z",
       "primary_item": {
-        "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-        "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-        "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
         "title_en": null,
-        "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31504",
+        "url": "https://www.aibase.com/news/31506",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1377,7 +1183,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_e42c7cb753df",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7433,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
+      "primary_item": {
+        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_e323adeab1da",
+      "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "primary_url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7324,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "e441138912907d022d550626c930aa4e578bbe9e",
+        "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
+        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
+      }
+    },
+    {
+      "story_id": "story_185338d9449e",
+      "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+      "url": "https://www.aibase.com/news/31507",
+      "primary_url": "https://www.aibase.com/news/31507",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_en": null,
+          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T08:37:58.705962Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_en": null,
+          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T08:37:58.705962Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9867,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T08:37:58.705962Z",
+      "latest_at": "2026-10-09T08:37:58.705962Z",
+      "primary_item": {
+        "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+        "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "title_en": null,
+        "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31507",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
@@ -1425,15 +1477,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8338,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1458,30 +1510,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
-      "story_id": "story_8b891e5bed56",
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "story_id": "story_4b0f94357a4e",
+      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "id": "db0c5dfa14e9607968c49bb479722df0d9a047c7",
+          "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_zh": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "source_count": 1,
@@ -1490,48 +1542,48 @@
       ],
       "items": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "id": "db0c5dfa14e9607968c49bb479722df0d9a047c7",
+          "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_zh": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.715,
+        "recency": 0.7433,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T09:24:17Z",
-      "latest_at": "2026-10-08T09:24:17Z",
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
       "primary_item": {
-        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-        "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+        "id": "db0c5dfa14e9607968c49bb479722df0d9a047c7",
+        "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+        "title_zh": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+        "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+        "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+        "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -1539,26 +1591,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     },
     {
-      "story_id": "story_cc5200c63851",
-      "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-      "url": "https://www.aibase.com/news/31505",
-      "primary_url": "https://www.aibase.com/news/31505",
+      "story_id": "story_378144591198",
+      "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+      "url": "https://www.aibase.com/news/31504",
+      "primary_url": "https://www.aibase.com/news/31504",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
-          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-          "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
+          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
           "title_en": null,
-          "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31505",
+          "url": "https://www.aibase.com/news/31504",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1571,14 +1623,14 @@
       ],
       "items": [
         {
-          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
-          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-          "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
+          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
           "title_en": null,
-          "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31505",
+          "url": "https://www.aibase.com/news/31504",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1587,15 +1639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1606,14 +1658,14 @@
       "earliest_at": "2026-10-09T07:37:56.845349Z",
       "latest_at": "2026-10-09T07:37:56.845349Z",
       "primary_item": {
-        "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
-        "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
-        "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+        "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
+        "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
         "title_en": null,
-        "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+        "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31505",
+        "url": "https://www.aibase.com/news/31504",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1621,88 +1673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
-      }
-    },
-    {
-      "story_id": "story_09c3e937aae4",
-      "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
-      "url": "https://x.com/arena/status/2108310714423423254",
-      "primary_url": "https://x.com/arena/status/2108310714423423254",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a42727ab6ee563c5d59caeddb72180458d5820b",
-          "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
-          "title_zh": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
-          "title_en": "We’re incredibly proud to continue working with @thehousefund!",
-          "title_original": "We’re incredibly proud to continue working with @thehousefund!",
-          "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108310714423423254",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T21:36:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "8a42727ab6ee563c5d59caeddb72180458d5820b",
-          "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
-          "title_zh": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
-          "title_en": "We’re incredibly proud to continue working with @thehousefund!",
-          "title_original": "We’re incredibly proud to continue working with @thehousefund!",
-          "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108310714423423254",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T21:36:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8529,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T21:36:59Z",
-      "latest_at": "2026-10-08T21:36:59Z",
-      "primary_item": {
-        "id": "8a42727ab6ee563c5d59caeddb72180458d5820b",
-        "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index / We’re incredibly proud to continue working with @thehousefund!",
-        "title_zh": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
-        "title_en": "We’re incredibly proud to continue working with @thehousefund!",
-        "title_original": "We’re incredibly proud to continue working with @thehousefund!",
-        "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2108310714423423254",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T08:38:47.099398Z"
+        "scored_at": "2026-10-09T09:34:37.902314Z"
       }
     }
   ]
