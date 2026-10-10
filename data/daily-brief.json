@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:25:21.851376Z",
+  "generated_at": "2026-10-10T14:26:14.476633Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8117,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.727,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +248,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
+      }
+    },
+    {
+      "story_id": "story_62ce5c6fb1e6",
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_en": null,
+          "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Saito 硬地骇客 (@SaitoWu)"
+      ],
+      "items": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_en": null,
+          "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T13:56:02Z",
+      "latest_at": "2026-10-10T13:56:02Z",
+      "primary_item": {
+        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_en": null,
+        "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SaitoWu/status/2108919486581796872",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -296,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7951,
+        "recency": 0.7836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -379,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -461,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8275,
+        "recency": 0.8154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,7 +577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -543,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -577,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -625,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8373,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,7 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -707,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -741,7 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -847,15 +929,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7629,
+        "recency": 0.7518,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -881,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -929,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7268,
+        "recency": 0.7162,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -962,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1010,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1044,7 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1092,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7483,
+        "recency": 0.7374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,7 +1208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1174,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1207,7 +1289,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1255,15 +1337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1289,7 +1371,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1337,15 +1419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1371,7 +1453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1477,15 +1559,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6454,
-      "importance": 0.6454,
-      "importance_score": 0.6454,
+      "score": 0.6434,
+      "importance": 0.6434,
+      "importance_score": 0.6434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7733,
+        "recency": 0.762,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1510,7 +1592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1558,15 +1640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1592,7 +1674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     },
     {
@@ -1640,15 +1722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1674,116 +1756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
-      }
-    },
-    {
-      "story_id": "story_11c2001af060",
-      "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:09:44Z"
-        },
-        {
-          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T19:09:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:09:44Z"
-        },
-        {
-          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T19:09:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5862,
-      "importance": 0.5862,
-      "importance_score": 0.5862,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7682,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T19:09:44Z",
-      "latest_at": "2026-10-09T19:09:44Z",
-      "primary_item": {
-        "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-        "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-        "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:33:55.661642Z"
+        "scored_at": "2026-10-10T14:27:14.133306Z"
       }
     }
   ]
