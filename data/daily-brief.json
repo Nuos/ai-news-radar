@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:40:30.085266Z",
+  "generated_at": "2026-10-10T07:31:18.724434Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8947,
+        "recency": 0.8839,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8014,
+        "recency": 0.7916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
-      }
-    },
-    {
-      "story_id": "story_2f680ee554bc",
-      "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "primary_url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_zh": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
-          "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_zh": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
-          "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7104,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-        "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "title_zh": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
-        "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/asana-browser-agent",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8765,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -380,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9824,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -462,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -544,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.9118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -626,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9366,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,113 +577,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
-      "story_id": "story_a9ec40ee13cc",
-      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "primary_url": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
-          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
-          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7104,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
-        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/sophos",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
-      }
-    },
-    {
-      "story_id": "story_5af832d4a5f1",
-      "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
-      "url": "https://www.aibase.com/news/31531",
-      "primary_url": "https://www.aibase.com/news/31531",
+      "story_id": "story_0606d9e9d5dc",
+      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+      "url": "https://www.aibase.com/news/31534",
+      "primary_url": "https://www.aibase.com/news/31534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
-          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
-          "title_zh": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "title_zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
           "title_en": null,
-          "title_original": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "title_original": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31531",
+          "url": "https://www.aibase.com/news/31534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "source_count": 1,
@@ -775,18 +609,18 @@
       ],
       "items": [
         {
-          "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
-          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
-          "title_zh": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "title_zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
           "title_en": null,
-          "title_original": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "title_original": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31531",
+          "url": "https://www.aibase.com/news/31534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "item_count": 1,
@@ -807,17 +641,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T06:40:30.085266Z",
-      "latest_at": "2026-10-10T06:40:30.085266Z",
+      "earliest_at": "2026-10-10T07:31:18.724434Z",
+      "latest_at": "2026-10-10T07:31:18.724434Z",
       "primary_item": {
-        "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
-        "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
-        "title_zh": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+        "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+        "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "title_zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
         "title_en": null,
-        "title_original": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+        "title_original": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31531",
+        "url": "https://www.aibase.com/news/31534",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -825,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -873,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.8148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,7 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -1013,15 +847,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1048,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -1096,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8012,
+        "recency": 0.7914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,30 +963,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
-      "story_id": "story_12505aa3805b",
-      "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
-      "url": "https://www.aibase.com/news/31529",
-      "primary_url": "https://www.aibase.com/news/31529",
+      "story_id": "story_566ccf2baed4",
+      "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+      "url": "https://www.aibase.com/news/31535",
+      "primary_url": "https://www.aibase.com/news/31535",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bdb4766607e2b3fe1cffcbd448db1f0455a04a21",
-          "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
-          "title_zh": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+          "id": "1f1003b00d6e28940580791bb955712555446999",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "title_zh": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "title_en": null,
-          "title_original": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+          "title_original": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31529",
+          "url": "https://www.aibase.com/news/31535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "source_count": 1,
@@ -1161,18 +995,18 @@
       ],
       "items": [
         {
-          "id": "bdb4766607e2b3fe1cffcbd448db1f0455a04a21",
-          "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
-          "title_zh": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+          "id": "1f1003b00d6e28940580791bb955712555446999",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "title_zh": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "title_en": null,
-          "title_original": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+          "title_original": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31529",
+          "url": "https://www.aibase.com/news/31535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "item_count": 1,
@@ -1193,17 +1027,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T06:40:30.085266Z",
-      "latest_at": "2026-10-10T06:40:30.085266Z",
+      "earliest_at": "2026-10-10T07:31:18.724434Z",
+      "latest_at": "2026-10-10T07:31:18.724434Z",
       "primary_item": {
-        "id": "bdb4766607e2b3fe1cffcbd448db1f0455a04a21",
-        "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
-        "title_zh": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+        "id": "1f1003b00d6e28940580791bb955712555446999",
+        "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+        "title_zh": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
         "title_en": null,
-        "title_original": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+        "title_original": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31529",
+        "url": "https://www.aibase.com/news/31535",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1211,7 +1045,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -1259,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
+        "recency": 0.8739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,111 +1127,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
-      "story_id": "story_b275bb44c6cf",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-      "url": "https://sierra.ai/blog/poppy",
-      "primary_url": "https://sierra.ai/blog/poppy",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "title_en": "Sharing a draft of Personal Agent Protocol",
-          "title_original": "Sharing a draft of Personal Agent Protocol",
-          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Sierra：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "title_en": "Sharing a draft of Personal Agent Protocol",
-          "title_original": "Sharing a draft of Personal Agent Protocol",
-          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8563,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T19:56:06Z",
-      "latest_at": "2026-10-09T19:56:06Z",
-      "primary_item": {
-        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-        "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-        "title_en": "Sharing a draft of Personal Agent Protocol",
-        "title_original": "Sharing a draft of Personal Agent Protocol",
-        "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-        "recommend_reason_zh": null,
-        "url": "https://sierra.ai/blog/poppy",
-        "source": "Sierra：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
-      }
-    },
-    {
-      "story_id": "story_2661413971dc",
-      "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-      "url": "https://www.aibase.com/news/31528",
-      "primary_url": "https://www.aibase.com/news/31528",
+      "story_id": "story_c8f4d218fce1",
+      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+      "url": "https://www.aibase.com/news/31532",
+      "primary_url": "https://www.aibase.com/news/31532",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
-          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-          "title_zh": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "title_zh": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
           "title_en": null,
-          "title_original": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "title_original": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31528",
+          "url": "https://www.aibase.com/news/31532",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "source_count": 1,
@@ -1406,18 +1159,18 @@
       ],
       "items": [
         {
-          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
-          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-          "title_zh": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "title_zh": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
           "title_en": null,
-          "title_original": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "title_original": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31528",
+          "url": "https://www.aibase.com/news/31532",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "item_count": 1,
@@ -1438,17 +1191,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T06:40:30.085266Z",
-      "latest_at": "2026-10-10T06:40:30.085266Z",
+      "earliest_at": "2026-10-10T07:31:18.724434Z",
+      "latest_at": "2026-10-10T07:31:18.724434Z",
       "primary_item": {
-        "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
-        "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-        "title_zh": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+        "title_zh": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
         "title_en": null,
-        "title_original": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "title_original": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31528",
+        "url": "https://www.aibase.com/news/31532",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1456,30 +1209,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
-      "story_id": "story_3a9f39a12ee5",
-      "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-      "url": "https://www.aibase.com/news/31527",
-      "primary_url": "https://www.aibase.com/news/31527",
+      "story_id": "story_4d44e6a0669b",
+      "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+      "url": "https://www.aibase.com/news/31537",
+      "primary_url": "https://www.aibase.com/news/31537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
-          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-          "title_zh": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
+          "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+          "title_zh": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
           "title_en": null,
-          "title_original": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "title_original": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31527",
+          "url": "https://www.aibase.com/news/31537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "source_count": 1,
@@ -1488,18 +1241,18 @@
       ],
       "items": [
         {
-          "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
-          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-          "title_zh": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
+          "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+          "title_zh": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
           "title_en": null,
-          "title_original": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "title_original": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31527",
+          "url": "https://www.aibase.com/news/31537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "item_count": 1,
@@ -1520,17 +1273,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T06:40:30.085266Z",
-      "latest_at": "2026-10-10T06:40:30.085266Z",
+      "earliest_at": "2026-10-10T07:31:18.724434Z",
+      "latest_at": "2026-10-10T07:31:18.724434Z",
       "primary_item": {
-        "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
-        "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-        "title_zh": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+        "id": "6c8166e804d4486c6d1b3765124ef0c1b9243f35",
+        "title": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
+        "title_zh": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
         "title_en": null,
-        "title_original": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+        "title_original": "多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31527",
+        "url": "https://www.aibase.com/news/31537",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1538,7 +1291,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
@@ -1644,15 +1397,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6597,
-      "importance": 0.6597,
-      "importance_score": 0.6597,
+      "score": 0.6578,
+      "importance": 0.6578,
+      "importance_score": 0.6578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8524,
+        "recency": 0.842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1677,30 +1430,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     },
     {
-      "story_id": "story_261d3757a05c",
-      "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
-      "url": "https://www.aibase.com/news/31530",
-      "primary_url": "https://www.aibase.com/news/31530",
+      "story_id": "story_0ee7fd171555",
+      "title": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
+      "url": "https://www.aibase.com/news/31533",
+      "primary_url": "https://www.aibase.com/news/31533",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e99154fb33346b1a65adb31640433c349988a60",
-          "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
-          "title_zh": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+          "id": "1694de7834c9a206d2797bda7de4e071a7632a01",
+          "title": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
+          "title_zh": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
           "title_en": null,
-          "title_original": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+          "title_original": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31530",
+          "url": "https://www.aibase.com/news/31533",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "source_count": 1,
@@ -1709,18 +1462,18 @@
       ],
       "items": [
         {
-          "id": "7e99154fb33346b1a65adb31640433c349988a60",
-          "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
-          "title_zh": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+          "id": "1694de7834c9a206d2797bda7de4e071a7632a01",
+          "title": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
+          "title_zh": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
           "title_en": null,
-          "title_original": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+          "title_original": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31530",
+          "url": "https://www.aibase.com/news/31533",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T06:40:30.085266Z"
+          "published_at": "2026-10-10T07:31:18.724434Z"
         }
       ],
       "item_count": 1,
@@ -1741,17 +1494,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T06:40:30.085266Z",
-      "latest_at": "2026-10-10T06:40:30.085266Z",
+      "earliest_at": "2026-10-10T07:31:18.724434Z",
+      "latest_at": "2026-10-10T07:31:18.724434Z",
       "primary_item": {
-        "id": "7e99154fb33346b1a65adb31640433c349988a60",
-        "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
-        "title_zh": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+        "id": "1694de7834c9a206d2797bda7de4e071a7632a01",
+        "title": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
+        "title_zh": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
         "title_en": null,
-        "title_original": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+        "title_original": "微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31530",
+        "url": "https://www.aibase.com/news/31533",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1759,7 +1512,394 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T06:41:16.981490Z"
+        "scored_at": "2026-10-10T07:33:44.339971Z"
+      }
+    },
+    {
+      "story_id": "story_b03b02da18fe",
+      "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+      "url": "https://www.aibase.com/news/31536",
+      "primary_url": "https://www.aibase.com/news/31536",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "93212bdb2bf5e0955992fe1e319e009620d24be9",
+          "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+          "title_zh": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+          "title_en": null,
+          "title_original": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31536",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T07:31:18.724434Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "93212bdb2bf5e0955992fe1e319e009620d24be9",
+          "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+          "title_zh": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+          "title_en": null,
+          "title_original": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31536",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T07:31:18.724434Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T07:31:18.724434Z",
+      "latest_at": "2026-10-10T07:31:18.724434Z",
+      "primary_item": {
+        "id": "93212bdb2bf5e0955992fe1e319e009620d24be9",
+        "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+        "title_zh": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+        "title_en": null,
+        "title_original": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31536",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T07:33:44.339971Z"
+      }
+    },
+    {
+      "story_id": "story_c7ddcb9f1039",
+      "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "primary_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "source": "jessewaites.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": null,
+          "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "47dd4941480e8b1de25f04947471b614926d38fb",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_original": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "bd03118df257283f6258f9d55c3867841ac34147",
+          "title": "我将人工智能指向 400 年的档案。它发现了被遗忘的陨石等等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_zh": "我将人工智能指向 400 年的档案。它发现了被遗忘的陨石等等",
+          "title_en": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_original": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "18245c101a60919a69c0c8b23b78d1e6d75b7769",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / I pointed AI at 400 years of archives. It found a forgotten meteorite and more",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "I pointed AI at 400 years of archives. It found a forgotten meteorite and more",
+          "title_original": "I pointed AI at 400 years of archives. It found a forgotten meteorite and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "jessewaites.com"
+      ],
+      "items": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": null,
+          "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "47dd4941480e8b1de25f04947471b614926d38fb",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_original": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "bd03118df257283f6258f9d55c3867841ac34147",
+          "title": "我将人工智能指向 400 年的档案。它发现了被遗忘的陨石等等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_zh": "我将人工智能指向 400 年的档案。它发现了被遗忘的陨石等等",
+          "title_en": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "title_original": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "18245c101a60919a69c0c8b23b78d1e6d75b7769",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / I pointed AI at 400 years of archives. It found a forgotten meteorite and more",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "I pointed AI at 400 years of archives. It found a forgotten meteorite and more",
+          "title_original": "I pointed AI at 400 years of archives. It found a forgotten meteorite and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6045,
+      "importance": 0.6045,
+      "importance_score": 0.6045,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9095,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T11:36:20Z",
+      "latest_at": "2026-10-10T00:57:04.875000Z",
+      "primary_item": {
+        "id": "d6681e01eb2d13b826683a74742e39009803df66",
+        "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "title_en": null,
+        "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+        "source": "jessewaites.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T07:33:44.339971Z"
+      }
+    },
+    {
+      "story_id": "story_11c2001af060",
+      "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:09:44Z"
+        },
+        {
+          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T19:09:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:09:44Z"
+        },
+        {
+          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T19:09:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5985,
+      "importance": 0.5985,
+      "importance_score": 0.5985,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.8365,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T19:09:44Z",
+      "latest_at": "2026-10-09T19:09:44Z",
+      "primary_item": {
+        "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+        "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+        "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T07:33:44.339971Z"
       }
     }
   ]
