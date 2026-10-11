@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T04:33:10.175063Z",
+  "generated_at": "2026-10-11T05:27:59.409792Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8698,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9033,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
+      }
+    },
+    {
+      "story_id": "story_a5615583ecac",
+      "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-11T04:50:59Z",
+      "latest_at": "2026-10-11T04:50:59Z",
+      "primary_item": {
+        "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+        "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -213,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7996,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -295,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,88 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
-      }
-    },
-    {
-      "story_id": "story_f05ac896a96b",
-      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-      "url": "https://x.com/indigox/status/2108791275914993998",
-      "primary_url": "https://x.com/indigox/status/2108791275914993998",
-      "source": "X：indigo (@indigox)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_zh": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_en": null,
-          "title_original": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：indigo (@indigox)"
-      ],
-      "items": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_zh": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_en": null,
-          "title_original": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7163,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T05:26:34Z",
-      "latest_at": "2026-10-10T05:26:34Z",
-      "primary_item": {
-        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "title_zh": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "title_en": null,
-        "title_original": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/indigox/status/2108791275914993998",
-        "source": "X：indigo (@indigox)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -457,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -490,7 +491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -538,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -571,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -619,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,7 +653,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -700,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,7 +734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -809,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6294,
-      "importance": 0.6294,
-      "importance_score": 0.6294,
+      "score": 0.6277,
+      "importance": 0.6277,
+      "importance_score": 0.6277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.754,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -843,7 +844,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -870,8 +871,8 @@
         },
         {
           "id": "0bfadad83e82f33153273f3d9d2b405f0d98705f",
-          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-          "title_zh": null,
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "title_zh": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害”",
           "title_en": "Satya Nadella says we should assume all AI models are 'compromised'",
           "title_original": "Satya Nadella says we should assume all AI models are 'compromised'",
           "summary": null,
@@ -884,8 +885,8 @@
         },
         {
           "id": "c547f2fb03f5612db9341bb08b44f21a6fa5d922",
-          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-          "title_zh": null,
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "title_zh": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害”",
           "title_en": "Satya Nadella says we should assume all AI models are 'compromised'",
           "title_original": "Satya Nadella says we should assume all AI models are 'compromised'",
           "summary": null,
@@ -920,8 +921,8 @@
         },
         {
           "id": "0bfadad83e82f33153273f3d9d2b405f0d98705f",
-          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-          "title_zh": null,
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "title_zh": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害”",
           "title_en": "Satya Nadella says we should assume all AI models are 'compromised'",
           "title_original": "Satya Nadella says we should assume all AI models are 'compromised'",
           "summary": null,
@@ -934,8 +935,8 @@
         },
         {
           "id": "c547f2fb03f5612db9341bb08b44f21a6fa5d922",
-          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-          "title_zh": null,
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "title_zh": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害”",
           "title_en": "Satya Nadella says we should assume all AI models are 'compromised'",
           "title_original": "Satya Nadella says we should assume all AI models are 'compromised'",
           "summary": null,
@@ -949,15 +950,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6246,
-      "importance": 0.6246,
-      "importance_score": 0.6246,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.912,
+        "recency": 0.9,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -982,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1030,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1063,7 +1064,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1111,15 +1112,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1144,7 +1145,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1250,15 +1251,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9341,
+        "recency": 0.9219,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1283,7 +1284,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
+      }
+    },
+    {
+      "story_id": "story_685a63ba0b1e",
+      "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+      "url": "https://atoll92.github.io/agent-standup",
+      "primary_url": "https://atoll92.github.io/agent-standup",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "6ea4700323b72295216346484f5abcf96c10b843",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "title_zh": "AI 座席进行站立通话",
+          "title_en": "AI agents in a stand-up call",
+          "title_original": "AI agents in a stand-up call",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://atoll92.github.io/agent-standup",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T03:42:47Z"
+        },
+        {
+          "id": "0c85fbb468c08e774d8079a61514de087d70b08b",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "title_zh": "AI 座席进行站立通话",
+          "title_en": "AI agents in a stand-up call",
+          "title_original": "AI agents in a stand-up call",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50039630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T03:42:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6ea4700323b72295216346484f5abcf96c10b843",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "title_zh": "AI 座席进行站立通话",
+          "title_en": "AI agents in a stand-up call",
+          "title_original": "AI agents in a stand-up call",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://atoll92.github.io/agent-standup",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T03:42:47Z"
+        },
+        {
+          "id": "0c85fbb468c08e774d8079a61514de087d70b08b",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "title_zh": "AI 座席进行站立通话",
+          "title_en": "AI agents in a stand-up call",
+          "title_original": "AI agents in a stand-up call",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50039630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T03:42:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T03:42:47Z",
+      "latest_at": "2026-10-11T03:42:47Z",
+      "primary_item": {
+        "id": "6ea4700323b72295216346484f5abcf96c10b843",
+        "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+        "title_zh": "AI 座席进行站立通话",
+        "title_en": "AI agents in a stand-up call",
+        "title_original": "AI agents in a stand-up call",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://atoll92.github.io/agent-standup",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1331,15 +1442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1364,117 +1475,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
-      }
-    },
-    {
-      "story_id": "story_2e8ea9674ab2",
-      "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9644,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T02:02:38Z",
-      "latest_at": "2026-10-11T02:02:38Z",
-      "primary_item": {
-        "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
-        "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-        "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1580,15 +1581,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8207,
+        "recency": 0.8099,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1613,7 +1614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1690,15 +1691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.954,
+        "recency": 0.9415,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1723,7 +1724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1800,15 +1801,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.862,
+        "recency": 0.8507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1833,7 +1834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     },
     {
@@ -1881,15 +1882,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1914,7 +1915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T04:38:35.748054Z"
+        "scored_at": "2026-10-11T05:28:42.108300Z"
       }
     }
   ]
