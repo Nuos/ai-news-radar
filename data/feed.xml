@@ -5,15 +5,23 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 07:54:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 08:51:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告</title>
-<link>https://www.aibase.com/news/31563</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31563</guid>
+<title>​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游</title>
+<link>https://www.aibase.com/news/31567</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31567</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:01:06 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 08:51:04 +0000</pubDate>
+</item>
+<item>
+<title>用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮</title>
+<link>https://x.com/MeshyAI/status/2109550836934471864</link>
+<guid isPermaLink="true">https://x.com/MeshyAI/status/2109550836934471864</guid>
+<description>一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。（X：Meshy (@MeshyAI)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 07:44:47 +0000</pubDate>
 </item>
 <item>
 <title>从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势</title>
@@ -22,6 +30,14 @@
 <description>数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。（X：卡兹克 (@Khazix0918)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 12 Oct 2026 04:29:53 +0000</pubDate>
+</item>
+<item>
+<title>唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段</title>
+<link>https://www.aibase.com/news/31566</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31566</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 08:51:04 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k</title>
@@ -40,6 +56,30 @@
 <pubDate>Mon, 12 Oct 2026 00:26:00 +0000</pubDate>
 </item>
 <item>
+<title>宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发</title>
+<link>https://www.aibase.com/news/31564</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31564</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 08:51:04 +0000</pubDate>
+</item>
+<item>
+<title>阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周</title>
+<link>https://www.aibase.com/news/31565</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31565</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 08:51:04 +0000</pubDate>
+</item>
+<item>
+<title>微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告</title>
+<link>https://www.aibase.com/news/31563</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31563</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 07:01:06 +0000</pubDate>
+</item>
+<item>
 <title>纸质书里惊现 AI 提示词：《终焉路独行》误把校对指令当正文，全数召回</title>
 <link>https://www.aibase.com/news/31561</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31561</guid>
@@ -56,36 +96,12 @@
 <pubDate>Mon, 12 Oct 2026 03:43:10 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费</title>
-<link>https://www.aibase.com/news/31560</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31560</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 02:50:36 +0000</pubDate>
-</item>
-<item>
-<title>腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算</title>
-<link>https://www.aibase.com/news/31559</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31559</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 02:50:36 +0000</pubDate>
-</item>
-<item>
-<title>46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元</title>
-<link>https://www.aibase.com/news/31557</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31557</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 01:53:56 +0000</pubDate>
-</item>
-<item>
-<title>Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI</title>
-<link>https://www.aibase.com/news/31556</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31556</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 01:53:56 +0000</pubDate>
+<title>研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'</title>
+<link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
+<guid isPermaLink="true">https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 05:03:47 +0000</pubDate>
 </item>
 <item>
 <title>人们对大型语言模型（LLM）能力的共识差距正在扩大</title>
@@ -94,6 +110,14 @@
 <description>twitter.com</description>
 <category>多源热议</category>
 <pubDate>Mon, 12 Oct 2026 00:03:41 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费</title>
+<link>https://www.aibase.com/news/31560</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31560</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 02:50:36 +0000</pubDate>
 </item>
 <item>
 <title>仅仅使用人工智能10分钟，就会削弱你坚持做困难事情的能力</title>
@@ -112,28 +136,12 @@
 <pubDate>Mon, 12 Oct 2026 06:58:54 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当"工具贩子"</title>
-<link>https://www.aibase.com/news/31554</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31554</guid>
+<title>腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算</title>
+<link>https://www.aibase.com/news/31559</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31559</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 01:53:56 +0000</pubDate>
-</item>
-<item>
-<title>研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'</title>
-<link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
-<guid isPermaLink="true">https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 12 Oct 2026 05:03:47 +0000</pubDate>
-</item>
-<item>
-<title>亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片"通用适配器"</title>
-<link>https://www.aibase.com/news/31552</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31552</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 01:53:56 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 02:50:36 +0000</pubDate>
 </item>
 <item>
 <title>Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</title>
@@ -158,14 +166,6 @@
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
 <pubDate>Mon, 12 Oct 2026 00:15:12 +0000</pubDate>
-</item>
-<item>
-<title>微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制</title>
-<link>https://www.aibase.com/news/31553</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31553</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 01:53:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
