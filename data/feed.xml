@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 19:24:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:29:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions</title>
+<link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
+<guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
+<description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 12:48:18 +0000</pubDate>
+</item>
 <item>
 <title>适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</link>
@@ -24,12 +32,12 @@
 <pubDate>Mon, 12 Oct 2026 16:30:11 +0000</pubDate>
 </item>
 <item>
-<title>QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions</title>
-<link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
-<guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
-<description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。（Hacker News：AI 热帖）</description>
+<title>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</title>
+<link>https://github.com/openai/codex/issues/48195</link>
+<guid isPermaLink="true">https://github.com/openai/codex/issues/48195</guid>
+<description>一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。（Codex：GitHub Releases（RSS））</description>
 <category>多源热议</category>
-<pubDate>Mon, 12 Oct 2026 12:48:18 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 19:25:54 +0000</pubDate>
 </item>
 <item>
 <title>Meta 发布 Muse Wonder 与 Muse Wonder Full 模型，主打个人与专业智能体能力 / Muse Wonder</title>
@@ -158,14 +166,6 @@
 <description>arstechnica.com</description>
 <category>多源热议</category>
 <pubDate>Mon, 12 Oct 2026 19:09:55 +0000</pubDate>
-</item>
-<item>
-<title>阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周</title>
-<link>https://www.aibase.com/news/31565</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31565</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 08:51:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
