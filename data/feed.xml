@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 17:28:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 18:34:08 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Mon, 12 Oct 2026 17:43:59 +0000</pubDate>
+</item>
 <item>
 <title>在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview</title>
 <link>https://github.blog/changelog/2026-10-12-push-attribution-public-preview</link>
@@ -22,6 +30,22 @@
 <description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。（Hacker News：AI 热帖）</description>
 <category>多源热议</category>
 <pubDate>Mon, 12 Oct 2026 12:48:18 +0000</pubDate>
+</item>
+<item>
+<title>Meta 发布 Muse Wonder 与 Muse Wonder Full 模型，主打个人与专业智能体能力 / Muse Wonder</title>
+<link>https://research.meta.ai/blog/muse-wonder</link>
+<guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
+<description>Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA 性能。Muse Wonder 现已通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅者开放。（Meta AI：Research Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
+</item>
+<item>
+<title>Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
+<link>https://x.com/arena/status/2109706854700044523</link>
+<guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
+<description>Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
 </item>
 <item>
 <title>AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed</title>
@@ -64,12 +88,12 @@
 <pubDate>Mon, 12 Oct 2026 13:03:45 +0000</pubDate>
 </item>
 <item>
-<title>从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势</title>
-<link>https://x.com/Khazix0918/status/2109501787736813663</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2109501787736813663</guid>
-<description>数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。（X：卡兹克 (@Khazix0918)）</description>
+<title>AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构 / Can we change an AI model&amp;#8217;s architecture without retraining it from scratch?</title>
+<link>https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch</link>
+<guid isPermaLink="true">https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch</guid>
+<description>AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。（Amazon Science（RSS））</description>
 <category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 04:29:53 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 17:36:18 +0000</pubDate>
 </item>
 <item>
 <title>唯品会悄悄上线 AI 助手"小唯"：能聊天能比价，重金招人月薪最高 8 万</title>
@@ -128,44 +152,20 @@
 <pubDate>Mon, 12 Oct 2026 11:44:08 +0000</pubDate>
 </item>
 <item>
+<title>人工智能编码代理会生成更多代码，但不会生成更多软件 / AI coding agents generate more code, but not more software</title>
+<link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 17:14:01 +0000</pubDate>
+</item>
+<item>
 <title>为什么人工智能公司不会因黑客攻击而被起诉？</title>
 <link>https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking</link>
 <guid isPermaLink="true">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking</guid>
 <description>mortoray.com</description>
 <category>多源热议</category>
 <pubDate>Mon, 12 Oct 2026 15:10:55 +0000</pubDate>
-</item>
-<item>
-<title>微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告</title>
-<link>https://www.aibase.com/news/31563</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31563</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:01:06 +0000</pubDate>
-</item>
-<item>
-<title>GLM-Legal：推动代理式法律智能的发展</title>
-<link>https://z.ai/blog/glm-legal</link>
-<guid isPermaLink="true">https://z.ai/blog/glm-legal</guid>
-<description>z.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 12 Oct 2026 17:18:16 +0000</pubDate>
-</item>
-<item>
-<title>凯文·凯利 10 年后的 2016 年人工智能预测 / Kevin Kelly's 2016 AI Predictions, 10 Years Later</title>
-<link>https://taylor.town/kk-ai-2026</link>
-<guid isPermaLink="true">https://taylor.town/kk-ai-2026</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 12 Oct 2026 15:16:45 +0000</pubDate>
-</item>
-<item>
-<title>“Just Ask Claude”是一项稀有且有价值的技能 / "Just Ask Claude" Is a Rare and Valuable Skill</title>
-<link>https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable</link>
-<guid isPermaLink="true">https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Mon, 12 Oct 2026 13:20:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
