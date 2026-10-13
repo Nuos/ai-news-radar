@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T07:39:52.142219Z",
+  "generated_at": "2026-10-13T08:41:44.523335Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
+      "provider": "OpenAI",
+      "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
+      "title_zh": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-13T08:10:00Z",
+      "updated_at": "2026-10-13T08:22:16Z",
+      "message": "We are investigating the issue for the listed services.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
+    }
+  ]
 }
