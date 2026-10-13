@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:45:46.908821Z",
+  "generated_at": "2026-10-13T03:38:08.095413Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -191,15 +191,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8007,
+        "recency": 0.7907,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -226,7 +226,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
+      }
+    },
+    {
+      "story_id": "story_028d06be8228",
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "title_zh": null,
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "title_zh": null,
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9303,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T22:38:00Z",
+      "latest_at": "2026-10-12T22:38:00Z",
+      "primary_item": {
+        "id": "896121d98ef8227ad431f910e0a960594c422738",
+        "title": "Client telemetry user attribution and configurable capture",
+        "title_zh": null,
+        "title_en": "Client telemetry user attribution and configurable capture",
+        "title_original": "Client telemetry user attribution and configurable capture",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -274,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8777,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,90 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
-      }
-    },
-    {
-      "story_id": "story_7924bc1de44f",
-      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "title_zh": "在有限的公开预览中推送提交的归因",
-          "title_en": "Push attribution for commits in limited public preview",
-          "title_original": "Push attribution for commits in limited public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "title_zh": "在有限的公开预览中推送提交的归因",
-          "title_en": "Push attribution for commits in limited public preview",
-          "title_original": "Push attribution for commits in limited public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8623,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T16:30:11Z",
-      "latest_at": "2026-10-12T16:30:11Z",
-      "primary_item": {
-        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-        "title_zh": "在有限的公开预览中推送提交的归因",
-        "title_en": "Push attribution for commits in limited public preview",
-        "title_original": "Push attribution for commits in limited public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -527,15 +527,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8883,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -562,7 +562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -639,15 +639,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -674,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -751,15 +751,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9201,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,30 +786,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_06f333b9aafa",
-      "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
-      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "story_id": "story_7924bc1de44f",
+      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "089955f40de8038c107a9911361603ae50607306",
-          "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
-          "title_zh": "Dependabot 的匿名组织级注册表",
-          "title_en": "Anonymous organization-level registries for Dependabot",
-          "title_original": "Anonymous organization-level registries for Dependabot",
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+          "title_zh": "在有限的公开预览中推送提交的归因",
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-12T14:04:16Z"
+          "published_at": "2026-10-12T16:30:11Z"
         }
       ],
       "source_count": 1,
@@ -818,31 +818,31 @@
       ],
       "items": [
         {
-          "id": "089955f40de8038c107a9911361603ae50607306",
-          "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
-          "title_zh": "Dependabot 的匿名组织级注册表",
-          "title_en": "Anonymous organization-level registries for Dependabot",
-          "title_original": "Anonymous organization-level registries for Dependabot",
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+          "title_zh": "在有限的公开预览中推送提交的归因",
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-12T14:04:16Z"
+          "published_at": "2026-10-12T16:30:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8325,
+        "recency": 0.8515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -851,17 +851,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T14:04:16Z",
-      "latest_at": "2026-10-12T14:04:16Z",
+      "earliest_at": "2026-10-12T16:30:11Z",
+      "latest_at": "2026-10-12T16:30:11Z",
       "primary_item": {
-        "id": "089955f40de8038c107a9911361603ae50607306",
-        "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
-        "title_zh": "Dependabot 的匿名组织级注册表",
-        "title_en": "Anonymous organization-level registries for Dependabot",
-        "title_original": "Anonymous organization-level registries for Dependabot",
+        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+        "title_zh": "在有限的公开预览中推送提交的归因",
+        "title_en": "Push attribution for commits in limited public preview",
+        "title_original": "Push attribution for commits in limited public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -869,30 +869,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_eb0b5c187dd7",
-      "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
-      "url": "https://www.aibase.com/news/31584",
-      "primary_url": "https://www.aibase.com/news/31584",
+      "story_id": "story_b35bd2d0ea24",
+      "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+      "url": "https://www.aibase.com/news/31590",
+      "primary_url": "https://www.aibase.com/news/31590",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
-          "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
-          "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "id": "69fd3da95ca66c9a01a2a85b6c4ed9efbd2edb95",
+          "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+          "title_zh": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "title_en": null,
-          "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_original": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31584",
+          "url": "https://www.aibase.com/news/31590",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "source_count": 1,
@@ -901,18 +901,18 @@
       ],
       "items": [
         {
-          "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
-          "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
-          "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "id": "69fd3da95ca66c9a01a2a85b6c4ed9efbd2edb95",
+          "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+          "title_zh": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "title_en": null,
-          "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_original": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31584",
+          "url": "https://www.aibase.com/news/31590",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "item_count": 1,
@@ -933,17 +933,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T02:45:46.908821Z",
-      "latest_at": "2026-10-13T02:45:46.908821Z",
+      "earliest_at": "2026-10-13T03:38:08.095413Z",
+      "latest_at": "2026-10-13T03:38:08.095413Z",
       "primary_item": {
-        "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
-        "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
-        "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+        "id": "69fd3da95ca66c9a01a2a85b6c4ed9efbd2edb95",
+        "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+        "title_zh": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
         "title_en": null,
-        "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+        "title_original": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31584",
+        "url": "https://www.aibase.com/news/31590",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -951,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -999,15 +999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,7 +1033,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
+      }
+    },
+    {
+      "story_id": "story_06f333b9aafa",
+      "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
+          "title_zh": "Dependabot 的匿名组织级注册表",
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
+          "title_zh": "Dependabot 的匿名组织级注册表",
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8221,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T14:04:16Z",
+      "latest_at": "2026-10-12T14:04:16Z",
+      "primary_item": {
+        "id": "089955f40de8038c107a9911361603ae50607306",
+        "title": "Dependabot 的匿名组织级注册表 / Anonymous organization-level registries for Dependabot",
+        "title_zh": "Dependabot 的匿名组织级注册表",
+        "title_en": "Anonymous organization-level registries for Dependabot",
+        "title_original": "Anonymous organization-level registries for Dependabot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -1081,21 +1164,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 0.9339,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-12T22:53:50Z",
       "latest_at": "2026-10-12T22:53:50Z",
@@ -1115,7 +1197,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -1163,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -1244,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1277,30 +1359,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_062e019f7039",
-      "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
-      "url": "https://www.aibase.com/news/31585",
-      "primary_url": "https://www.aibase.com/news/31585",
+      "story_id": "story_8575a22467d2",
+      "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+      "url": "https://www.aibase.com/news/31589",
+      "primary_url": "https://www.aibase.com/news/31589",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d0699091acefc0de570661aeb7877b1cb511a4bc",
-          "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
-          "title_zh": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "id": "daa4bf08bc15f4e7f2e854efee814f3883f033ae",
+          "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+          "title_zh": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "title_en": null,
-          "title_original": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "title_original": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31585",
+          "url": "https://www.aibase.com/news/31589",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "source_count": 1,
@@ -1309,18 +1391,18 @@
       ],
       "items": [
         {
-          "id": "d0699091acefc0de570661aeb7877b1cb511a4bc",
-          "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
-          "title_zh": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "id": "daa4bf08bc15f4e7f2e854efee814f3883f033ae",
+          "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+          "title_zh": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "title_en": null,
-          "title_original": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "title_original": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31585",
+          "url": "https://www.aibase.com/news/31589",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "item_count": 1,
@@ -1341,17 +1423,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T02:45:46.908821Z",
-      "latest_at": "2026-10-13T02:45:46.908821Z",
+      "earliest_at": "2026-10-13T03:38:08.095413Z",
+      "latest_at": "2026-10-13T03:38:08.095413Z",
       "primary_item": {
-        "id": "d0699091acefc0de570661aeb7877b1cb511a4bc",
-        "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
-        "title_zh": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+        "id": "daa4bf08bc15f4e7f2e854efee814f3883f033ae",
+        "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+        "title_zh": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
         "title_en": null,
-        "title_original": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+        "title_original": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31585",
+        "url": "https://www.aibase.com/news/31589",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1359,7 +1441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -1407,15 +1489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,7 +1522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
@@ -1488,15 +1570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1522,30 +1604,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_78d2383ca4b0",
-      "title": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
-      "url": "https://www.aibase.com/news/31581",
-      "primary_url": "https://www.aibase.com/news/31581",
+      "story_id": "story_df415c38ab80",
+      "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+      "url": "https://www.aibase.com/news/31587",
+      "primary_url": "https://www.aibase.com/news/31587",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "82c3a4dc7a567bb8468fcc5d0c0de1113ad2c45f",
-          "title": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
-          "title_zh": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
+          "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+          "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+          "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "title_en": null,
-          "title_original": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
+          "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31581",
+          "url": "https://www.aibase.com/news/31587",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "source_count": 1,
@@ -1554,18 +1636,18 @@
       ],
       "items": [
         {
-          "id": "82c3a4dc7a567bb8468fcc5d0c0de1113ad2c45f",
-          "title": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
-          "title_zh": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
+          "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+          "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+          "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "title_en": null,
-          "title_original": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
+          "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31581",
+          "url": "https://www.aibase.com/news/31587",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "item_count": 1,
@@ -1586,17 +1668,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T02:45:46.908821Z",
-      "latest_at": "2026-10-13T02:45:46.908821Z",
+      "earliest_at": "2026-10-13T03:38:08.095413Z",
+      "latest_at": "2026-10-13T03:38:08.095413Z",
       "primary_item": {
-        "id": "82c3a4dc7a567bb8468fcc5d0c0de1113ad2c45f",
-        "title": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
-        "title_zh": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
+        "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+        "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+        "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
         "title_en": null,
-        "title_original": "SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩",
+        "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31581",
+        "url": "https://www.aibase.com/news/31587",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1604,30 +1686,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_23b9d48250ad",
-      "title": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
-      "url": "https://www.aibase.com/news/31582",
-      "primary_url": "https://www.aibase.com/news/31582",
+      "story_id": "story_043c252b6359",
+      "title": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
+      "url": "https://www.aibase.com/news/31592",
+      "primary_url": "https://www.aibase.com/news/31592",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "06679460e8576b0b67d6ce790bd6b6de89680242",
-          "title": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
-          "title_zh": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
+          "id": "907ae90ac5d33ccc5447f9f6c735de0b9670f5c7",
+          "title": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
+          "title_zh": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
           "title_en": null,
-          "title_original": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
+          "title_original": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31582",
+          "url": "https://www.aibase.com/news/31592",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "source_count": 1,
@@ -1636,18 +1718,18 @@
       ],
       "items": [
         {
-          "id": "06679460e8576b0b67d6ce790bd6b6de89680242",
-          "title": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
-          "title_zh": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
+          "id": "907ae90ac5d33ccc5447f9f6c735de0b9670f5c7",
+          "title": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
+          "title_zh": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
           "title_en": null,
-          "title_original": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
+          "title_original": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31582",
+          "url": "https://www.aibase.com/news/31592",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "item_count": 1,
@@ -1668,17 +1750,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T02:45:46.908821Z",
-      "latest_at": "2026-10-13T02:45:46.908821Z",
+      "earliest_at": "2026-10-13T03:38:08.095413Z",
+      "latest_at": "2026-10-13T03:38:08.095413Z",
       "primary_item": {
-        "id": "06679460e8576b0b67d6ce790bd6b6de89680242",
-        "title": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
-        "title_zh": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
+        "id": "907ae90ac5d33ccc5447f9f6c735de0b9670f5c7",
+        "title": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
+        "title_zh": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
         "title_en": null,
-        "title_original": "亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹",
+        "title_original": "从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31582",
+        "url": "https://www.aibase.com/news/31592",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1686,30 +1768,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_db87b9297eae",
-      "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
-      "url": "https://www.aibase.com/news/31583",
-      "primary_url": "https://www.aibase.com/news/31583",
+      "story_id": "story_3ca3a6f5f963",
+      "title": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
+      "url": "https://www.aibase.com/news/31591",
+      "primary_url": "https://www.aibase.com/news/31591",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ee06e24901b84cd4554ccf351d22ceb67fd0a7b",
-          "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
-          "title_zh": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "id": "3bf25f575ddd247ea23d31157b86c3868ee936cb",
+          "title": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
+          "title_zh": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
           "title_en": null,
-          "title_original": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "title_original": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31583",
+          "url": "https://www.aibase.com/news/31591",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "source_count": 1,
@@ -1718,18 +1800,18 @@
       ],
       "items": [
         {
-          "id": "5ee06e24901b84cd4554ccf351d22ceb67fd0a7b",
-          "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
-          "title_zh": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "id": "3bf25f575ddd247ea23d31157b86c3868ee936cb",
+          "title": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
+          "title_zh": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
           "title_en": null,
-          "title_original": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "title_original": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31583",
+          "url": "https://www.aibase.com/news/31591",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "item_count": 1,
@@ -1750,17 +1832,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T02:45:46.908821Z",
-      "latest_at": "2026-10-13T02:45:46.908821Z",
+      "earliest_at": "2026-10-13T03:38:08.095413Z",
+      "latest_at": "2026-10-13T03:38:08.095413Z",
       "primary_item": {
-        "id": "5ee06e24901b84cd4554ccf351d22ceb67fd0a7b",
-        "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
-        "title_zh": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+        "id": "3bf25f575ddd247ea23d31157b86c3868ee936cb",
+        "title": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
+        "title_zh": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
         "title_en": null,
-        "title_original": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+        "title_original": "天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双\"眼睛\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31583",
+        "url": "https://www.aibase.com/news/31591",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1768,30 +1850,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     },
     {
-      "story_id": "story_db7a826f3916",
-      "title": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
-      "url": "https://www.aibase.com/news/31586",
-      "primary_url": "https://www.aibase.com/news/31586",
+      "story_id": "story_2f7baa34e2ae",
+      "title": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
+      "url": "https://www.aibase.com/news/31588",
+      "primary_url": "https://www.aibase.com/news/31588",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7db6ab6fcdc99260d973577901c04eaabfbe853e",
-          "title": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
-          "title_zh": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
+          "id": "e94d0557f23008a2672748628fa60147081744c9",
+          "title": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
+          "title_zh": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
           "title_en": null,
-          "title_original": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
+          "title_original": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31586",
+          "url": "https://www.aibase.com/news/31588",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "source_count": 1,
@@ -1800,18 +1882,18 @@
       ],
       "items": [
         {
-          "id": "7db6ab6fcdc99260d973577901c04eaabfbe853e",
-          "title": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
-          "title_zh": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
+          "id": "e94d0557f23008a2672748628fa60147081744c9",
+          "title": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
+          "title_zh": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
           "title_en": null,
-          "title_original": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
+          "title_original": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31586",
+          "url": "https://www.aibase.com/news/31588",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T02:45:46.908821Z"
+          "published_at": "2026-10-13T03:38:08.095413Z"
         }
       ],
       "item_count": 1,
@@ -1832,17 +1914,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T02:45:46.908821Z",
-      "latest_at": "2026-10-13T02:45:46.908821Z",
+      "earliest_at": "2026-10-13T03:38:08.095413Z",
+      "latest_at": "2026-10-13T03:38:08.095413Z",
       "primary_item": {
-        "id": "7db6ab6fcdc99260d973577901c04eaabfbe853e",
-        "title": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
-        "title_zh": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
+        "id": "e94d0557f23008a2672748628fa60147081744c9",
+        "title": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
+        "title_zh": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
         "title_en": null,
-        "title_original": "阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App",
+        "title_original": "英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31586",
+        "url": "https://www.aibase.com/news/31588",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1850,89 +1932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
-      }
-    },
-    {
-      "story_id": "story_a00783ceb298",
-      "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-      "url": "https://www.aibase.com/news/31580",
-      "primary_url": "https://www.aibase.com/news/31580",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
-          "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-          "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-          "title_en": null,
-          "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T01:50:39.490763Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
-          "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-          "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-          "title_en": null,
-          "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T01:50:39.490763Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9868,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T01:50:39.490763Z",
-      "latest_at": "2026-10-13T01:50:39.490763Z",
-      "primary_item": {
-        "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
-        "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-        "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-        "title_en": null,
-        "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31580",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T02:58:32.872286Z"
+        "scored_at": "2026-10-13T03:51:56.900578Z"
       }
     }
   ]
