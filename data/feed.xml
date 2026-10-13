@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 16:31:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 17:27:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics</title>
@@ -16,20 +16,28 @@
 <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
 </item>
 <item>
+<title>使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+</item>
+<item>
+<title>Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce</title>
+<link>https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
+</item>
+<item>
 <title>Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems</title>
 <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>企业托管设置强制更新 / Enterprise managed settings enforcement updates</title>
-<link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 15:20:10 +0000</pubDate>
 </item>
 <item>
 <title>Character.AI 申请 Chapter 11 破产，Disney 以 2000 万美元牵头竞购部分资产 / Character.AI files for bankruptcy</title>
@@ -40,12 +48,12 @@
 <pubDate>Tue, 13 Oct 2026 13:58:25 +0000</pubDate>
 </item>
 <item>
-<title>改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts</title>
-<link>https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</guid>
+<title>企业托管设置强制更新 / Enterprise managed settings enforcement updates</title>
+<link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 14:03:57 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 15:20:10 +0000</pubDate>
 </item>
 <item>
 <title>适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
@@ -72,12 +80,28 @@
 <pubDate>Mon, 12 Oct 2026 19:25:54 +0000</pubDate>
 </item>
 <item>
-<title>搜索和过滤现在可用的预算 / Search and filter for budgets now available</title>
-<link>https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</guid>
+<title>改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts</title>
+<link>https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 12:06:09 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 14:03:57 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
+<link>https://x.com/OpenRouter/status/2110044453977403412</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
+<description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
+</item>
+<item>
+<title>Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</title>
+<link>https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon</link>
+<guid isPermaLink="true">https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon</guid>
+<description>Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。（Google Developers Blog（RSS））</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
@@ -136,36 +160,12 @@
 <pubDate>Tue, 13 Oct 2026 10:31:39 +0000</pubDate>
 </item>
 <item>
-<title>安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview</title>
-<link>https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</guid>
+<title>搜索和过滤现在可用的预算 / Search and filter for budgets now available</title>
+<link>https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 12:03:17 +0000</pubDate>
-</item>
-<item>
-<title>面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</guid>
-<description>面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。（公众号：面壁智能（MiniCPM））</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 10:29:21 +0000</pubDate>
-</item>
-<item>
-<title>Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
-<link>https://x.com/arena/status/2109706854700044523</link>
-<guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
-<description>Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移 / Redesigning source control at Anthropic</title>
-<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-<guid isPermaLink="true">https://www.anthropic.com/engineering/redesigning-source-control</guid>
-<description>Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。（Anthropic：Engineering（事故复盘 + 工程实践 · 网页））</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 12:06:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
