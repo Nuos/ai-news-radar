@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 15:28:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 16:29:10 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
+<link>https://huggingface.co/blog/allenai/hiro-acev2</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/hiro-acev2</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
+</item>
 <item>
 <title>公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview</title>
 <link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</link>
@@ -16,36 +24,20 @@
 <pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
 </item>
 <item>
-<title>欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic</title>
-<link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-<guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+<title>Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours</title>
+<link>https://openai.com/index/third-moment-research</link>
+<guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics</title>
-<link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics</guid>
+<title>Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
+<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
-</item>
-<item>
-<title>使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
 </item>
 <item>
 <title>GitHub 的秘密检测模型：以更少的噪音发现更多的秘密 / GitHub’s model for secret detection: Finding more secrets with less noise</title>
@@ -56,6 +48,14 @@
 <pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
 </item>
 <item>
+<title>欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic</title>
+<link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+<guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 4 Argon in GitHub Copilot</title>
 <link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</guid>
@@ -64,12 +64,20 @@
 <pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
 </item>
 <item>
-<title>Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+<title>谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
 <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
 <guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+</item>
+<item>
+<title>使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
 </item>
 <item>
 <title>豆包工作上线数据迁移功能，支持一键导入 ChatGPT 对话与记忆</title>
@@ -96,14 +104,6 @@
 <pubDate>Tue, 13 Oct 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
-<title>谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
-<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
-<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
-</item>
-<item>
 <title>Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO / From building your app to growing it: Lovable now helps you find customers</title>
 <link>https://lovable.dev/blog/introducing-growth-tools</link>
 <guid isPermaLink="true">https://lovable.dev/blog/introducing-growth-tools</guid>
@@ -118,6 +118,14 @@
 <description>Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。（404 Media（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 20:06:53 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 发布 Gemini 4 Argon 并公布安全与防护细节 / Developing Gemini 4 Argon responsibly and safely</title>
+<link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</link>
+<guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
 </item>
 <item>
 <title>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</title>
@@ -144,28 +152,20 @@
 <pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
 </item>
 <item>
+<title>MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out</title>
+<link>https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</link>
+<guid isPermaLink="true">https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</guid>
+<description>MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。（MIT News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw</title>
 <link>https://x.com/reach_vb/status/2110086935733833893</link>
 <guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
 <description>XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。（X：Vaibhav Srivastav（OpenAI）(@reach_vb)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
-</item>
-<item>
-<title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
-<link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
-<guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
-<description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。（Johann Rehberger / Embrace The Red（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
-</item>
-<item>
-<title>Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资 / Modal crosses $1B in Annualized Run Rate and raises $750M Series D</title>
-<link>https://modal.com/blog/1-billion-annualized-run-rate-series-d</link>
-<guid isPermaLink="true">https://modal.com/blog/1-billion-annualized-run-rate-series-d</guid>
-<description>Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元，由 Accel 领投，Kleiner Perkins 及现有投资方跟投。（Modal 官方工程博客（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
