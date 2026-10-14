@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:34:16.626424Z",
+  "generated_at": "2026-10-14T09:29:39.345322Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -21,8 +21,8 @@
       "status": "identified",
       "impact": "minor",
       "started_at": "2026-10-14T07:05:44Z",
-      "updated_at": "2026-10-14T07:05:44Z",
-      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "updated_at": "2026-10-14T09:19:46Z",
+      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are still implementing the mitigation.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
     }
