@@ -5,15 +5,15 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 09:29:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 10:27:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
-<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
-<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
-<description>Google DeepMind</description>
+<title>The EU’s next chapter in AI is agentic</title>
+<link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+<guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Argon in GitHub Copilot</title>
@@ -22,6 +22,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
+<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
 </item>
 <item>
 <title>使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B</title>
@@ -46,14 +54,6 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
-</item>
-<item>
-<title>Higgsfield 将 AI 视频从 1 分钟缩短至 10 多分钟 / Higgsfield takes AI video from 1 minute to over 10</title>
-<link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-<guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
@@ -94,6 +94,14 @@
 <description>Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
+</item>
+<item>
+<title>Higgsfield 将 AI 视频从 1 分钟缩短至 10 多分钟 / Higgsfield takes AI video from 1 minute to over 10</title>
+<link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+<guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</title>
@@ -144,14 +152,6 @@
 <pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
 </item>
 <item>
-<title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
-<link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
-<guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
-<description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。（Johann Rehberger / Embrace The Red（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
-</item>
-<item>
 <title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw</title>
 <link>https://x.com/reach_vb/status/2110086935733833893</link>
 <guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
@@ -160,12 +160,12 @@
 <pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
 </item>
 <item>
-<title>Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney / Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
-<link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</guid>
-<description>Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。（TechCrunch：AI（RSS））</description>
+<title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
+<link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
+<guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
+<description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。（Johann Rehberger / Embrace The Red（RSS））</description>
 <category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
 </item>
 </channel>
 </rss>
