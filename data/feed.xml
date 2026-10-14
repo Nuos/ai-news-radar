@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 01:31:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 02:33:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
+<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
+<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+</item>
 <item>
 <title>Gemini 4 Argon in GitHub Copilot</title>
 <link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
@@ -14,14 +22,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics</title>
-<link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
 </item>
 <item>
 <title>使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B</title>
@@ -56,20 +56,20 @@
 <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics</title>
+<link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+</item>
+<item>
 <title>GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management</title>
 <link>https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 23:17:55 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 发布 Gemini 4 Argon 并公布安全与防护细节 / Developing Gemini 4 Argon responsibly and safely</title>
-<link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</link>
-<guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
 </item>
 <item>
 <title>Character.AI 申请 Chapter 11 破产，Disney 以 2000 万美元牵头竞购部分资产 / Character.AI files for bankruptcy</title>
@@ -104,12 +104,36 @@
 <pubDate>Tue, 13 Oct 2026 22:56:51 +0000</pubDate>
 </item>
 <item>
+<title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
+<link>https://x.com/Khazix0918/status/2110174495420064055</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
+<description>Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。（X：卡兹克 (@Khazix0918)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 发布 Gemini 4 Argon 并公布安全与防护细节 / Developing Gemini 4 Argon responsibly and safely</title>
+<link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</link>
+<guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
+</item>
+<item>
 <title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
 <link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
 <guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
 <description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。（Johann Rehberger / Embrace The Red（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 拟收购知名安全公司 Trail of Bits，谈判正在进行中</title>
+<link>https://www.aibase.com/news/31628</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31628</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 02:33:35 +0000</pubDate>
 </item>
 <item>
 <title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw</title>
@@ -128,14 +152,6 @@
 <pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
 </item>
 <item>
-<title>10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再"串戏"</title>
-<link>https://www.aibase.com/news/31623</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31623</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 14 Oct 2026 01:31:10 +0000</pubDate>
-</item>
-<item>
 <title>Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney / Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
 <link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</guid>
@@ -150,22 +166,6 @@
 <description>Greg Brockman 转述 XBOW 团队借助 OpenAI 的 GPT-5.6 Sol，用 6 天和 40000 美元算力找到 Chrome 关键漏洞，获 Google 2026 年规则下首笔 250000 美元全链漏洞赏金，影响约 10 亿 Windows Chrome 用户。被引用的原文称有情报机构老兵的团队过去需约 6 个月做同类漏洞，作者认为攻防双方发现关键漏洞的成本都在坍缩，防守方可先用这些工具测试自己的代码。（X：Greg Brockman (@gdb)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 17:43:29 +0000</pubDate>
-</item>
-<item>
-<title>Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2 / Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!</title>
-<link>https://x.com/arena/status/2110120205464846828</link>
-<guid isPermaLink="true">https://x.com/arena/status/2110120205464846828</guid>
-<description>Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 21:27:15 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
-<link>https://x.com/OpenRouter/status/2110044453977403412</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
-<description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon（X：OpenRouter (@OpenRouter)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
