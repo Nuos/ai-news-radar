@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:25:21.138750Z",
+  "generated_at": "2026-10-14T21:24:12.147956Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.941,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
+      }
+    },
+    {
+      "story_id": "story_5d5ac7e11bf8",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "title_zh": null,
+          "title_en": "HydraFusion updates and new Max option",
+          "title_original": "HydraFusion updates and new Max option",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T20:01:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "title_zh": null,
+          "title_en": "HydraFusion updates and new Max option",
+          "title_original": "HydraFusion updates and new Max option",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T20:01:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T20:01:35Z",
+      "latest_at": "2026-10-14T20:01:35Z",
+      "primary_item": {
+        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+        "title": "HydraFusion updates and new Max option",
+        "title_zh": null,
+        "title_en": "HydraFusion updates and new Max option",
+        "title_original": "HydraFusion updates and new Max option",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8855,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
-      }
-    },
-    {
-      "story_id": "story_0b5e45b58095",
-      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T13:49:15Z",
-      "latest_at": "2026-10-14T13:49:15Z",
-      "primary_item": {
-        "id": "502bc892b0915388933022ba86cb435c84eda79f",
-        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-        "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-        "title_en": "GitHub Actions workflow lockfiles in public preview",
-        "title_original": "GitHub Actions workflow lockfiles in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7665,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8855,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
+      }
+    },
+    {
+      "story_id": "story_0b5e45b58095",
+      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
+          "title_en": "GitHub Actions workflow lockfiles in public preview",
+          "title_original": "GitHub Actions workflow lockfiles in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T13:49:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
+          "title_en": "GitHub Actions workflow lockfiles in public preview",
+          "title_original": "GitHub Actions workflow lockfiles in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T13:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8963,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T13:49:15Z",
+      "latest_at": "2026-10-14T13:49:15Z",
+      "primary_item": {
+        "id": "502bc892b0915388933022ba86cb435c84eda79f",
+        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+        "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
+        "title_en": "GitHub Actions workflow lockfiles in public preview",
+        "title_original": "GitHub Actions workflow lockfiles in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9768,
+        "recency": 0.9631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -628,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -710,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7665,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -745,90 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
-      }
-    },
-    {
-      "story_id": "story_624c9e1c6e13",
-      "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e54186c69698777285914474fa2a37da8baf9f91",
-          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-          "title_zh": "GitHub 应用程序的最小权限和管理改进",
-          "title_en": "GitHub App improvements for least privilege and management",
-          "title_original": "GitHub App improvements for least privilege and management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T23:17:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e54186c69698777285914474fa2a37da8baf9f91",
-          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-          "title_zh": "GitHub 应用程序的最小权限和管理改进",
-          "title_en": "GitHub App improvements for least privilege and management",
-          "title_original": "GitHub App improvements for least privilege and management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T23:17:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7371,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T23:17:55Z",
-      "latest_at": "2026-10-13T23:17:55Z",
-      "primary_item": {
-        "id": "e54186c69698777285914474fa2a37da8baf9f91",
-        "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-        "title_zh": "GitHub 应用程序的最小权限和管理改进",
-        "title_en": "GitHub App improvements for least privilege and management",
-        "title_original": "GitHub App improvements for least privilege and management",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -904,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.842,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -939,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7773,
+        "recency": 0.7664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1069,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8238,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1104,7 +1104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1152,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9985,
+        "recency": 0.9845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1185,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1233,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1314,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8962,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1347,7 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1395,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9604,
+        "recency": 0.9469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1428,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1476,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7334,
+        "recency": 0.7231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1509,7 +1509,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
+      }
+    },
+    {
+      "story_id": "story_624c9e1c6e13",
+      "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+          "title_zh": "GitHub 应用程序的最小权限和管理改进",
+          "title_en": "GitHub App improvements for least privilege and management",
+          "title_original": "GitHub App improvements for least privilege and management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T23:17:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+          "title_zh": "GitHub 应用程序的最小权限和管理改进",
+          "title_en": "GitHub App improvements for least privilege and management",
+          "title_original": "GitHub App improvements for least privilege and management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T23:17:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7267,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T23:17:55Z",
+      "latest_at": "2026-10-13T23:17:55Z",
+      "primary_item": {
+        "id": "e54186c69698777285914474fa2a37da8baf9f91",
+        "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+        "title_zh": "GitHub 应用程序的最小权限和管理改进",
+        "title_en": "GitHub App improvements for least privilege and management",
+        "title_original": "GitHub App improvements for least privilege and management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     },
     {
@@ -1557,15 +1640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.756,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1590,88 +1673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
-      }
-    },
-    {
-      "story_id": "story_7dd1db50cda0",
-      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "primary_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "source": "MIT News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-          "title_zh": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-          "title_original": "Researchers improve weather forecasts looking two to six weeks out",
-          "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-          "recommend_reason_zh": null,
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MIT News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-          "title_zh": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-          "title_original": "Researchers improve weather forecasts looking two to six weeks out",
-          "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-          "recommend_reason_zh": null,
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T15:00:00Z",
-      "latest_at": "2026-10-14T15:00:00Z",
-      "primary_item": {
-        "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-        "title_zh": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-        "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-        "title_original": "Researchers improve weather forecasts looking two to six weeks out",
-        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-        "recommend_reason_zh": null,
-        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-        "source": "MIT News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T20:38:07.501916Z"
+        "scored_at": "2026-10-14T21:39:01.015238Z"
       }
     }
   ]
