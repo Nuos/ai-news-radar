@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 02:33:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 03:30:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
@@ -80,6 +80,14 @@
 <pubDate>Tue, 13 Oct 2026 13:58:25 +0000</pubDate>
 </item>
 <item>
+<title>Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.</title>
+<link>https://x.com/rohanpaul_ai/status/2110203596948353155</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2110203596948353155</guid>
+<description>Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</title>
 <link>https://x.com/ArtificialAnlys/status/2110068185793970576</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110068185793970576</guid>
@@ -120,20 +128,20 @@
 <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
 </item>
 <item>
+<title>1400万企业的 AI 同事上线:WorkBuddy 进通讯录，群聊勾选即成任务、产物直接发回企微</title>
+<link>https://www.aibase.com/news/31632</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31632</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 03:30:06 +0000</pubDate>
+</item>
+<item>
 <title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
 <link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
 <guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
 <description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。（Johann Rehberger / Embrace The Red（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 拟收购知名安全公司 Trail of Bits，谈判正在进行中</title>
-<link>https://www.aibase.com/news/31628</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31628</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 14 Oct 2026 02:33:35 +0000</pubDate>
 </item>
 <item>
 <title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw</title>
@@ -158,14 +166,6 @@
 <description>Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
-</item>
-<item>
-<title>Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金 / 6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2...</title>
-<link>https://x.com/gdb/status/2110063893016096831</link>
-<guid isPermaLink="true">https://x.com/gdb/status/2110063893016096831</guid>
-<description>Greg Brockman 转述 XBOW 团队借助 OpenAI 的 GPT-5.6 Sol，用 6 天和 40000 美元算力找到 Chrome 关键漏洞，获 Google 2026 年规则下首笔 250000 美元全链漏洞赏金，影响约 10 亿 Windows Chrome 用户。被引用的原文称有情报机构老兵的团队过去需约 6 个月做同类漏洞，作者认为攻防双方发现关键漏洞的成本都在坍缩，防守方可先用这些工具测试自己的代码。（X：Greg Brockman (@gdb)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 17:43:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
