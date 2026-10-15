@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 18:30:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 19:22:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>教学生通过问题思考和学习 / Teaching students to think and learn through questions</title>
@@ -64,12 +64,28 @@
 <pubDate>Thu, 15 Oct 2026 18:02:06 +0000</pubDate>
 </item>
 <item>
+<title>Meta 发布开放权重模型 Muse Spark Open，上线 Baseten 支持 coding agent / Muse Spark Open, an open-weight model for coding agents</title>
+<link>https://www.baseten.co/blog/muse-spark-open-launch</link>
+<guid isPermaLink="true">https://www.baseten.co/blog/muse-spark-open-launch</guid>
+<description>Meta 开放 Muse Spark Open 权重，模型上线 Baseten Model APIs 和 Dedicated Inference。（Baseten 工程博客（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 17:27:04 +0000</pubDate>
+</item>
+<item>
 <title>Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers</title>
 <link>https://huggingface.co/blog/flux-3</link>
 <guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
+<link>https://x.com/arena/status/2110797782953132049</link>
+<guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
+<description>Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
 </item>
 <item>
 <title>Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open</title>
@@ -150,22 +166,6 @@
 <description>NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。（NVIDIA Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE / While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...</title>
-<link>https://x.com/AravSrinivas/status/2110785848958759165</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2110785848958759165</guid>
-<description>Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 17:32:17 +0000</pubDate>
-</item>
-<item>
-<title>八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI</title>
-<link>https://www.platformer.news/openai-states-lawsuit-liability</link>
-<guid isPermaLink="true">https://www.platformer.news/openai-states-lawsuit-liability</guid>
-<description>八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。（Platformer（热点 RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 00:52:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
