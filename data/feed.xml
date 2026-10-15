@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 20:24:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:25:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+</item>
 <item>
 <title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
 <link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
@@ -32,6 +40,14 @@
 <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
 </item>
 <item>
+<title>Download GitHub Code Quality license usage as a CSV</title>
+<link>https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 20:11:26 +0000</pubDate>
+</item>
+<item>
 <title>Apertus 1.5 Release Notes</title>
 <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
 <guid isPermaLink="true">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
@@ -46,14 +62,6 @@
 <description>可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。（X：可灵 Kling AI (@Kling_ai)）</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
-</item>
-<item>
-<title>AI 扫描拉取请求现已全面可用 / AI Scan for pull requests generally available</title>
-<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 fast mode 结束研究预览并移除等待名单 / Opus 5.5 fast mode in the Claude Platform is no longer in research preview, and we’ve removed the waitlist!</title>
@@ -96,14 +104,6 @@
 <pubDate>Thu, 15 Oct 2026 17:27:04 +0000</pubDate>
 </item>
 <item>
-<title>Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers</title>
-<link>https://huggingface.co/blog/flux-3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
 <link>https://x.com/arena/status/2110797782953132049</link>
 <guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
@@ -118,6 +118,14 @@
 <description>Meta 今日发布开源权重模型 Muse Spark Open，称其为目前最强的美国开源权重模型，总参数 816B（激活 42B），支持 1M-token 上下文窗口，主打编码与智能体任务。（Meta AI：Research Blog（网页））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
+</item>
+<item>
+<title>AI 扫描拉取请求现已全面可用 / AI Scan for pull requests generally available</title>
+<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO</title>
@@ -142,14 +150,6 @@
 <description>The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Agentic autofix for code scanning alerts general availability</title>
-<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
 </item>
 <item>
 <title>阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.</title>
