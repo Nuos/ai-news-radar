@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 17:23:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 18:30:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>教学生通过问题思考和学习 / Teaching students to think and learn through questions</title>
@@ -16,7 +16,7 @@
 <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+<title>利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity</title>
 <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
 <guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery</guid>
 <description>Google DeepMind</description>
@@ -32,7 +32,7 @@
 <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
 </item>
 <item>
-<title>AI Scan for pull requests generally available</title>
+<title>AI 扫描拉取请求现已全面可用 / AI Scan for pull requests generally available</title>
 <link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
 <description>GitHub Changelog</description>
@@ -56,12 +56,28 @@
 <pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
 </item>
 <item>
+<title>Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2110793354154008685</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2110793354154008685</guid>
+<description>Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 18:02:06 +0000</pubDate>
+</item>
+<item>
 <title>Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers</title>
 <link>https://huggingface.co/blog/flux-3</link>
 <guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open</title>
+<link>https://research.meta.ai/blog/muse-spark-open</link>
+<guid isPermaLink="true">https://research.meta.ai/blog/muse-spark-open</guid>
+<description>Meta 今日发布开源权重模型 Muse Spark Open，称其为目前最强的美国开源权重模型，总参数 816B（激活 42B），支持 1M-token 上下文窗口，主打编码与智能体任务。（Meta AI：Research Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
 </item>
 <item>
 <title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
@@ -120,6 +136,14 @@
 <pubDate>Thu, 15 Oct 2026 03:02:38 +0000</pubDate>
 </item>
 <item>
+<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+<link>https://huggingface.co/blog/meta-muse-spark-open</link>
+<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
 <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</link>
 <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</guid>
@@ -128,12 +152,12 @@
 <pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
 </item>
 <item>
-<title>​Anthropic 正式宣布在新加坡设立办事处，并与新加坡政府达成战略合作</title>
-<link>https://www.aibase.com/news/31672</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31672</guid>
-<description>AIbase</description>
+<title>Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE / While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...</title>
+<link>https://x.com/AravSrinivas/status/2110785848958759165</link>
+<guid isPermaLink="true">https://x.com/AravSrinivas/status/2110785848958759165</guid>
+<description>Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
 <category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 10:26:42 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:32:17 +0000</pubDate>
 </item>
 <item>
 <title>八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI</title>
@@ -142,30 +166,6 @@
 <description>八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。（Platformer（热点 RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 00:52:13 +0000</pubDate>
-</item>
-<item>
-<title>Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check / Evaluating AI agents: moving past the vibe check</title>
-<link>https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check</link>
-<guid isPermaLink="true">https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check</guid>
-<description>Google Developers Blog 发布智能体评测实践指南，指出仅靠终端跑几个提示词的 vibe check 无法发现智能体重试循环、工具参数幻觉等隐性失败。（Google Developers Blog（RSS））</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5% / Gemini 4 Argon from @Google on ARC-AGI (Verified):</title>
-<link>https://x.com/arcprize/status/2110768288523251762</link>
-<guid isPermaLink="true">https://x.com/arcprize/status/2110768288523251762</guid>
-<description>ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。ARC-AGI-3 上，provider adapter harness 得分 97.5%、成本 $4.8K，标准 harness 得分 49.8%、成本 $5.8K；ARC-AGI-2 得分 91.3%、$0.32/task；ARC-AGI-1 得分 98.5%、$0.16/task。Google DeepMind 是第二家在 ARC-AGI-3 上得分超过 95% 的前沿 AI 实验室。（X：ARC Prize (@arcprize)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 16:22:30 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍 / Frontier Pre-training at Microsoft AI</title>
-<link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai</link>
-<guid isPermaLink="true">https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai</guid>
-<description>Microsoft AI 宣布完成 MAI-Base-2 预训练，这是一个 800 亿激活、2.8T 总参数的 MoE 基础模型，在 held-out 评测中 BPB 低于所测全部开源权重模型，预训练 FLOPs 效率比 DeepSeek-V4-Pro-Base 高 4.2 至 12.3 倍。（Microsoft AI：官方博客（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 16:09:01 +0000</pubDate>
 </item>
 </channel>
 </rss>
