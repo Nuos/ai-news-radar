@@ -1,29 +1,112 @@
 {
-  "generated_at": "2026-10-15T13:27:43.753716Z",
+  "generated_at": "2026-10-15T14:27:37.802216Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_d89175ca1e0e",
-      "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "story_id": "story_d3e63bdf95a3",
+      "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+          "title_zh": "教学生通过问题思考和学习",
+          "title_en": "Teaching students to think and learn through questions",
+          "title_original": "Teaching students to think and learn through questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+          "title_zh": "教学生通过问题思考和学习",
+          "title_en": "Teaching students to think and learn through questions",
+          "title_original": "Teaching students to think and learn through questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9791,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:00:00Z",
+      "latest_at": "2026-10-15T13:00:00Z",
+      "primary_item": {
+        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+        "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+        "title_zh": "教学生通过问题思考和学习",
+        "title_en": "Teaching students to think and learn through questions",
+        "title_original": "Teaching students to think and learn through questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T14:28:33.137910Z"
+      }
+    },
+    {
+      "story_id": "story_7e42f375ca95",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "primary_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
-          "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+          "title": "Apertus 1.5 Release Notes",
+          "title_zh": null,
+          "title_en": "Apertus 1.5 Release Notes",
+          "title_original": "Apertus 1.5 Release Notes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T16:12:42Z"
+          "published_at": "2026-10-15T09:08:45Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
-          "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+          "title": "Apertus 1.5 Release Notes",
+          "title_zh": null,
+          "title_en": "Apertus 1.5 Release Notes",
+          "title_original": "Apertus 1.5 Release Notes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T16:12:42Z"
+          "published_at": "2026-10-15T09:08:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7357,
+        "recency": 0.9261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +148,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T16:12:42Z",
-      "latest_at": "2026-10-14T16:12:42Z",
+      "earliest_at": "2026-10-15T09:08:45Z",
+      "latest_at": "2026-10-15T09:08:45Z",
       "primary_item": {
-        "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-        "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
-        "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+        "title": "Apertus 1.5 Release Notes",
+        "title_zh": null,
+        "title_en": "Apertus 1.5 Release Notes",
+        "title_original": "Apertus 1.5 Release Notes",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -83,30 +166,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
-      "story_id": "story_5d5ac7e11bf8",
-      "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "story_id": "story_6145f106e319",
+      "title": "代码仓库推送事件的电子邮件通知已停用 / Email notifications for repository push events have been retired",
+      "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "primary_url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-          "title_zh": "HydraFusion 更新和新的 Max 选项",
-          "title_en": "HydraFusion updates and new Max option",
-          "title_original": "HydraFusion updates and new Max option",
+          "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+          "title": "代码仓库推送事件的电子邮件通知已停用 / Email notifications for repository push events have been retired",
+          "title_zh": "代码仓库推送事件的电子邮件通知已停用",
+          "title_en": "Email notifications for repository push events have been retired",
+          "title_original": "Email notifications for repository push events have been retired",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T20:01:35Z"
+          "published_at": "2026-10-15T13:42:19Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +198,31 @@
       ],
       "items": [
         {
-          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-          "title_zh": "HydraFusion 更新和新的 Max 选项",
-          "title_en": "HydraFusion updates and new Max option",
-          "title_original": "HydraFusion updates and new Max option",
+          "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+          "title": "代码仓库推送事件的电子邮件通知已停用 / Email notifications for repository push events have been retired",
+          "title_zh": "代码仓库推送事件的电子邮件通知已停用",
+          "title_en": "Email notifications for repository push events have been retired",
+          "title_original": "Email notifications for repository push events have been retired",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T20:01:35Z"
+          "published_at": "2026-10-15T13:42:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7774,
+        "recency": 0.9892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +231,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T20:01:35Z",
-      "latest_at": "2026-10-14T20:01:35Z",
+      "earliest_at": "2026-10-15T13:42:19Z",
+      "latest_at": "2026-10-15T13:42:19Z",
       "primary_item": {
-        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-        "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-        "title_zh": "HydraFusion 更新和新的 Max 选项",
-        "title_en": "HydraFusion updates and new Max option",
-        "title_original": "HydraFusion updates and new Max option",
+        "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+        "title": "代码仓库推送事件的电子邮件通知已停用 / Email notifications for repository push events have been retired",
+        "title_zh": "代码仓库推送事件的电子邮件通知已停用",
+        "title_en": "Email notifications for repository push events have been retired",
+        "title_original": "Email notifications for repository push events have been retired",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9491,
+        "recency": 0.9355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -296,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9651,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +413,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
+      }
+    },
+    {
+      "story_id": "story_d89175ca1e0e",
+      "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
+          "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T16:12:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
+          "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T16:12:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7252,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T16:12:42Z",
+      "latest_at": "2026-10-14T16:12:42Z",
+      "primary_item": {
+        "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+        "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
+        "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -378,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,7 +578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -460,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9369,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -494,7 +660,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
+      }
+    },
+    {
+      "story_id": "story_5d5ac7e11bf8",
+      "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+          "title_zh": "HydraFusion 更新和新的 Max 选项",
+          "title_en": "HydraFusion updates and new Max option",
+          "title_original": "HydraFusion updates and new Max option",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T20:01:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+          "title_zh": "HydraFusion 更新和新的 Max 选项",
+          "title_en": "HydraFusion updates and new Max option",
+          "title_original": "HydraFusion updates and new Max option",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T20:01:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7663,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T20:01:35Z",
+      "latest_at": "2026-10-14T20:01:35Z",
+      "primary_item": {
+        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+        "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+        "title_zh": "HydraFusion 更新和新的 Max 选项",
+        "title_en": "HydraFusion updates and new Max option",
+        "title_original": "HydraFusion updates and new Max option",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -542,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8603,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,90 +825,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
-      }
-    },
-    {
-      "story_id": "story_0b5e45b58095",
-      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T13:49:15Z",
-      "latest_at": "2026-10-14T13:49:15Z",
-      "primary_item": {
-        "id": "502bc892b0915388933022ba86cb435c84eda79f",
-        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-        "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-        "title_en": "GitHub Actions workflow lockfiles in public preview",
-        "title_original": "GitHub Actions workflow lockfiles in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -707,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -741,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -789,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.8218,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -871,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -905,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -953,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -987,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -1035,21 +1201,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8285,
+        "recency": 0.8166,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-15T00:26:00Z",
       "latest_at": "2026-10-15T00:26:00Z",
@@ -1069,7 +1234,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
+      }
+    },
+    {
+      "story_id": "story_d8aaa7b537e6",
+      "title": "Wallet Wars：AI 智能体支付之争的格局与走向 / Wallet Wars",
+      "url": "https://www.a16z.news/p/wallet-wars",
+      "primary_url": "https://www.a16z.news/p/wallet-wars",
+      "source": "a16z：News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "637724a4105e84e8cd70b4cfc20b19f228c61be8",
+          "title": "Wallet Wars：AI 智能体支付之争的格局与走向 / Wallet Wars",
+          "title_zh": "Wallet Wars：AI 智能体支付之争的格局与走向",
+          "title_en": "Wallet Wars",
+          "title_original": "Wallet Wars",
+          "summary": "Terry Angelos 分析智能体商业带来的支付竞争，指出两场战斗：谁帮智能体付款，以及谁让智能体以本人身份交易。",
+          "recommend_reason_zh": null,
+          "url": "https://www.a16z.news/p/wallet-wars",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T14:08:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "a16z：News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "637724a4105e84e8cd70b4cfc20b19f228c61be8",
+          "title": "Wallet Wars：AI 智能体支付之争的格局与走向 / Wallet Wars",
+          "title_zh": "Wallet Wars：AI 智能体支付之争的格局与走向",
+          "title_en": "Wallet Wars",
+          "title_original": "Wallet Wars",
+          "summary": "Terry Angelos 分析智能体商业带来的支付竞争，指出两场战斗：谁帮智能体付款，以及谁让智能体以本人身份交易。",
+          "recommend_reason_zh": null,
+          "url": "https://www.a16z.news/p/wallet-wars",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T14:08:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T14:08:21Z",
+      "latest_at": "2026-10-15T14:08:21Z",
+      "primary_item": {
+        "id": "637724a4105e84e8cd70b4cfc20b19f228c61be8",
+        "title": "Wallet Wars：AI 智能体支付之争的格局与走向 / Wallet Wars",
+        "title_zh": "Wallet Wars：AI 智能体支付之争的格局与走向",
+        "title_en": "Wallet Wars",
+        "title_original": "Wallet Wars",
+        "summary": "Terry Angelos 分析智能体商业带来的支付竞争，指出两场战斗：谁帮智能体付款，以及谁让智能体以本人身份交易。",
+        "recommend_reason_zh": null,
+        "url": "https://www.a16z.news/p/wallet-wars",
+        "source": "a16z：News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -1117,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8003,
+        "recency": 0.7888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1150,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -1198,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8837,
+        "recency": 0.871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1231,89 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
-      }
-    },
-    {
-      "story_id": "story_0fa3b38f2530",
-      "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-      "url": "https://www.aibase.com/news/31671",
-      "primary_url": "https://www.aibase.com/news/31671",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1fb80f25f81d44abe2527331c8f0a48f9196f9f5",
-          "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-          "title_zh": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-          "title_en": null,
-          "title_original": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31671",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T10:26:42.396819Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1fb80f25f81d44abe2527331c8f0a48f9196f9f5",
-          "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-          "title_zh": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-          "title_en": null,
-          "title_original": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31671",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T10:26:42.396819Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T10:26:42.396819Z",
-      "latest_at": "2026-10-15T10:26:42.396819Z",
-      "primary_item": {
-        "id": "1fb80f25f81d44abe2527331c8f0a48f9196f9f5",
-        "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-        "title_zh": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-        "title_en": null,
-        "title_original": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31671",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
@@ -1361,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.8115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1394,250 +1558,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     },
     {
-      "story_id": "story_0a54b988918c",
-      "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
+      "story_id": "story_0fa3b38f2530",
+      "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+      "url": "https://www.aibase.com/news/31671",
+      "primary_url": "https://www.aibase.com/news/31671",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
-          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "id": "1fb80f25f81d44abe2527331c8f0a48f9196f9f5",
+          "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+          "title_zh": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
           "title_en": null,
-          "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
+          "title_original": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T01:10:27Z"
+          "url": "https://www.aibase.com/news/31671",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T10:26:42.396819Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
-          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "id": "1fb80f25f81d44abe2527331c8f0a48f9196f9f5",
+          "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+          "title_zh": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
           "title_en": null,
-          "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
+          "title_original": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T01:10:27Z"
+          "url": "https://www.aibase.com/news/31671",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T10:26:42.396819Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8374,
+        "recency": 0.9437,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-15T01:10:27Z",
-      "latest_at": "2026-10-15T01:10:27Z",
+      "earliest_at": "2026-10-15T10:26:42.396819Z",
+      "latest_at": "2026-10-15T10:26:42.396819Z",
       "primary_item": {
-        "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
-        "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-        "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+        "id": "1fb80f25f81d44abe2527331c8f0a48f9196f9f5",
+        "title": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+        "title_zh": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
         "title_en": null,
-        "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-        "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
+        "title_original": "开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31671",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
-      }
-    },
-    {
-      "story_id": "story_a7bf3db1c48a",
-      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-      "url": "https://x.com/lydiahallie/status/2110484841926152622",
-      "primary_url": "https://x.com/lydiahallie/status/2110484841926152622",
-      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-          "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/lydiahallie/status/2110484841926152622",
-          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T21:36:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)"
-      ],
-      "items": [
-        {
-          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-          "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/lydiahallie/status/2110484841926152622",
-          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T21:36:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T21:36:11Z",
-      "latest_at": "2026-10-14T21:36:11Z",
-      "primary_item": {
-        "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-        "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-        "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-        "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-        "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-        "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/lydiahallie/status/2110484841926152622",
-        "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
-      }
-    },
-    {
-      "story_id": "story_5ff9beed0eee",
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "url": "https://www.ithome.com/1/013/154.htm",
-      "primary_url": "https://www.ithome.com/1/013/154.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_en": null,
-          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_en": null,
-          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8141,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T23:13:18.290000Z",
-      "latest_at": "2026-10-14T23:13:18.290000Z",
-      "primary_item": {
-        "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "title_en": null,
-        "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/013/154.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:41:10.448343Z"
+        "scored_at": "2026-10-15T14:28:33.137910Z"
       }
     }
   ]
