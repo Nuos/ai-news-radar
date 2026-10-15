@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 12:37:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 13:27:43 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
@@ -38,6 +38,14 @@
 <description>The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.</title>
+<link>https://x.com/StepFun_ai/status/2110717330657616092</link>
+<guid isPermaLink="true">https://x.com/StepFun_ai/status/2110717330657616092</guid>
+<description>阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。（X：阶跃星辰 StepFun (@StepFun_ai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 13:00:01 +0000</pubDate>
 </item>
 <item>
 <title>Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧 / Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.</title>
@@ -104,20 +112,20 @@
 <pubDate>Thu, 15 Oct 2026 00:26:00 +0000</pubDate>
 </item>
 <item>
-<title>面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</guid>
-<description>10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。（公众号：面壁智能（MiniCPM））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 04:53:56 +0000</pubDate>
-</item>
-<item>
 <title>Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...</title>
 <link>https://x.com/GeminiApp/status/2110491358498865638</link>
 <guid isPermaLink="true">https://x.com/GeminiApp/status/2110491358498865638</guid>
 <description>Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。（X：Gemini (@GeminiApp)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 22:02:05 +0000</pubDate>
+</item>
+<item>
+<title>面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</guid>
+<description>10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。（公众号：面壁智能（MiniCPM））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 04:53:56 +0000</pubDate>
 </item>
 <item>
 <title>开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI</title>
@@ -158,14 +166,6 @@
 <description>欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。（IT之家·人工智能）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
-</item>
-<item>
-<title>40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
-<link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
-<guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
-<description>纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
