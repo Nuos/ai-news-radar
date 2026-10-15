@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 19:22:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:24:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
+<link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
+</item>
 <item>
 <title>教学生通过问题思考和学习 / Teaching students to think and learn through questions</title>
 <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
@@ -32,14 +40,6 @@
 <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
 </item>
 <item>
-<title>AI 扫描拉取请求现已全面可用 / AI Scan for pull requests generally available</title>
-<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
-</item>
-<item>
 <title>可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</title>
 <link>https://x.com/Kling_ai/status/2110747537187709424</link>
 <guid isPermaLink="true">https://x.com/Kling_ai/status/2110747537187709424</guid>
@@ -48,12 +48,28 @@
 <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
 </item>
 <item>
-<title>Agentic autofix for code scanning alerts general availability</title>
-<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
+<title>AI 扫描拉取请求现已全面可用 / AI Scan for pull requests generally available</title>
+<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 fast mode 结束研究预览并移除等待名单 / Opus 5.5 fast mode in the Claude Platform is no longer in research preview, and we’ve removed the waitlist!</title>
+<link>https://x.com/ClaudeDevs/status/2110825294655562048</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2110825294655562048</guid>
+<description>Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode（X：Claude Devs (@ClaudeDevs)）</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 20:09:02 +0000</pubDate>
+</item>
+<item>
+<title>Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文 / Muse Spark Is Now an Open-Weights Model</title>
+<link>https://pytorch.org/blog/muse-spark-open</link>
+<guid isPermaLink="true">https://pytorch.org/blog/muse-spark-open</guid>
+<description>Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。（PyTorch：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 17:55:52 +0000</pubDate>
 </item>
 <item>
 <title>Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!</title>
@@ -62,6 +78,14 @@
 <description>Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。（X：OpenRouter (@OpenRouter)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 18:02:06 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT 为 Chrome 用户新增标签页读取与控制能力 / A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.</title>
+<link>https://x.com/ChatGPT/status/2110823738531037651</link>
+<guid isPermaLink="true">https://x.com/ChatGPT/status/2110823738531037651</guid>
+<description>ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。（X：ChatGPT (@ChatGPT)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 20:02:51 +0000</pubDate>
 </item>
 <item>
 <title>Meta 发布开放权重模型 Muse Spark Open，上线 Baseten 支持 coding agent / Muse Spark Open, an open-weight model for coding agents</title>
@@ -96,20 +120,20 @@
 <pubDate>Thu, 15 Oct 2026 16:58:30 +0000</pubDate>
 </item>
 <item>
-<title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
-<link>https://bfl.ai/blog/flux-3-image-klein</link>
-<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
-<description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。（Black Forest Labs：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO</title>
 <link>https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo</link>
 <guid isPermaLink="true">https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo</guid>
 <description>Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 09:50:43 +0000</pubDate>
+</item>
+<item>
+<title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
+<link>https://bfl.ai/blog/flux-3-image-klein</link>
+<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
+<description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。（Black Forest Labs：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</title>
@@ -120,12 +144,12 @@
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>代码仓库推送事件的电子邮件通知已停用 / Email notifications for repository push events have been retired</title>
-<link>https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired</guid>
+<title>Agentic autofix for code scanning alerts general availability</title>
+<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:42:19 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
 </item>
 <item>
 <title>阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.</title>
@@ -142,30 +166,6 @@
 <description>Anthropic 第三季度收入达 $16.8B，环比增速从 147% 降至约 45%。据 Financial Times，二季度收入从约 $4.8B 增至 $11.5B；公司称每 $1 计算支出获得 $1.70 收入，竞对蒸馏曾占收入 5% 至 7% 后被大幅削减；银行家传闻 IPO 估值约 $2T、募资超 $100B。Bloomberg 指出市场将增长放缓解读为 AI 芯片和服务器的坏消息，AI 交易需要证明计算支出能在增长降温下产生可持续利润。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 09:56:42 +0000</pubDate>
-</item>
-<item>
-<title>阶跃星辰开放 Step 5 Preview 权重并发布技术博客</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488160&amp;idx=1&amp;sn=427a3dc2e5b84b0977e1e5ea075cfbd7</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488160&amp;idx=1&amp;sn=427a3dc2e5b84b0977e1e5ea075cfbd7</guid>
-<description>阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。（公众号：阶跃星辰（Step））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 03:02:38 +0000</pubDate>
-</item>
-<item>
-<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-<link>https://huggingface.co/blog/meta-muse-spark-open</link>
-<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
-<link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</guid>
-<description>NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
