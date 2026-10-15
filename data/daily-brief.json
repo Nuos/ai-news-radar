@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:25:39.262483Z",
+  "generated_at": "2026-10-15T22:25:43.916262Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9876,
+        "recency": 0.9735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
+      }
+    },
+    {
+      "story_id": "story_c33781d78308",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "primary_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "title_zh": null,
+          "title_en": "Bringing GPT-Rosalind to academic research labs",
+          "title_original": "Bringing GPT-Rosalind to academic research labs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "title_zh": null,
+          "title_en": "Bringing GPT-Rosalind to academic research labs",
+          "title_original": "Bringing GPT-Rosalind to academic research labs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9517,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T19:00:00Z",
+      "latest_at": "2026-10-15T19:00:00Z",
+      "primary_item": {
+        "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "title_zh": null,
+        "title_en": "Bringing GPT-Rosalind to academic research labs",
+        "title_original": "Bringing GPT-Rosalind to academic research labs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9738,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
-      }
-    },
-    {
-      "story_id": "story_d3e63bdf95a3",
-      "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-          "title_zh": "教学生通过问题思考和学习",
-          "title_en": "Teaching students to think and learn through questions",
-          "title_original": "Teaching students to think and learn through questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-          "title_zh": "教学生通过问题思考和学习",
-          "title_en": "Teaching students to think and learn through questions",
-          "title_original": "Teaching students to think and learn through questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8854,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T13:00:00Z",
-      "latest_at": "2026-10-15T13:00:00Z",
-      "primary_item": {
-        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-        "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-        "title_zh": "教学生通过问题思考和学习",
-        "title_en": "Teaching students to think and learn through questions",
-        "title_original": "Teaching students to think and learn through questions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9264,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
+      }
+    },
+    {
+      "story_id": "story_12c564ccf62b",
+      "title": "Codex CLI 0.163.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "968e46d72b101a49751380fbeec94f6cbf133496",
+          "title": "Codex CLI 0.163.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.163.0",
+          "title_original": "Codex CLI 0.163.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "968e46d72b101a49751380fbeec94f6cbf133496",
+          "title": "Codex CLI 0.163.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.163.0",
+          "title_original": "Codex CLI 0.163.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7233,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:00:00Z",
+      "latest_at": "2026-10-15T00:00:00Z",
+      "primary_item": {
+        "id": "968e46d72b101a49751380fbeec94f6cbf133496",
+        "title": "Codex CLI 0.163.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.163.0",
+        "title_original": "Codex CLI 0.163.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9823,
+        "recency": 0.9682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
+      }
+    },
+    {
+      "story_id": "story_d3e63bdf95a3",
+      "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+          "title_zh": "教学生通过问题思考和学习",
+          "title_en": "Teaching students to think and learn through questions",
+          "title_original": "Teaching students to think and learn through questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+          "title_zh": "教学生通过问题思考和学习",
+          "title_en": "Teaching students to think and learn through questions",
+          "title_original": "Teaching students to think and learn through questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8727,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:00:00Z",
+      "latest_at": "2026-10-15T13:00:00Z",
+      "primary_item": {
+        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+        "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
+        "title_zh": "教学生通过问题思考和学习",
+        "title_en": "Teaching students to think and learn through questions",
+        "title_original": "Teaching students to think and learn through questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -463,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8375,
+        "recency": 0.8255,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -546,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.8983,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -628,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -710,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -792,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -874,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.9662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -956,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -1038,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -1149,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7339,
+        "recency": 0.7233,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1184,7 +1350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -1232,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9124,
+        "recency": 0.8993,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1267,7 +1433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -1315,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1349,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -1397,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.8983,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1431,7 +1597,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     },
     {
@@ -1479,15 +1645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1513,171 +1679,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
-      }
-    },
-    {
-      "story_id": "story_f85fd99ece20",
-      "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
-      "url": "https://x.com/StepFun_ai/status/2110717330657616092",
-      "primary_url": "https://x.com/StepFun_ai/status/2110717330657616092",
-      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b573ef78a9aa14b300af88729fa526e4aab27586",
-          "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
-          "title_zh": "阶跃星辰开放 Step 5 Preview 权重",
-          "title_en": "Step 5 Preview is now open weights.",
-          "title_original": "Step 5 Preview is now open weights.",
-          "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/StepFun_ai/status/2110717330657616092",
-          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T13:00:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阶跃星辰 StepFun (@StepFun_ai)"
-      ],
-      "items": [
-        {
-          "id": "b573ef78a9aa14b300af88729fa526e4aab27586",
-          "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
-          "title_zh": "阶跃星辰开放 Step 5 Preview 权重",
-          "title_en": "Step 5 Preview is now open weights.",
-          "title_original": "Step 5 Preview is now open weights.",
-          "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/StepFun_ai/status/2110717330657616092",
-          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T13:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8854,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T13:00:01Z",
-      "latest_at": "2026-10-15T13:00:01Z",
-      "primary_item": {
-        "id": "b573ef78a9aa14b300af88729fa526e4aab27586",
-        "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
-        "title_zh": "阶跃星辰开放 Step 5 Preview 权重",
-        "title_en": "Step 5 Preview is now open weights.",
-        "title_original": "Step 5 Preview is now open weights.",
-        "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/StepFun_ai/status/2110717330657616092",
-        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
-      }
-    },
-    {
-      "story_id": "story_91ac337064d9",
-      "title": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧 / Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-      "url": "https://x.com/rohanpaul_ai/status/2110671199122661805",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2110671199122661805",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "02eb4489113bc4be961ee43b8b85147cdd612c8c",
-          "title": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧 / Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-          "title_zh": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧",
-          "title_en": "Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-          "title_original": "Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-          "summary": "Anthropic 第三季度收入达 $16.8B，环比增速从 147% 降至约 45%。据 Financial Times，二季度收入从约 $4.8B 增至 $11.5B；公司称每 $1 计算支出获得 $1.70 收入，竞对蒸馏曾占收入 5% 至 7% 后被大幅削减；银行家传闻 IPO 估值约 $2T、募资超 $100B。Bloomberg 指出市场将增长放缓解读为 AI 芯片和服务器的坏消息，AI 交易需要证明计算支出能在增长降温下产生可持续利润。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2110671199122661805",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T09:56:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "02eb4489113bc4be961ee43b8b85147cdd612c8c",
-          "title": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧 / Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-          "title_zh": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧",
-          "title_en": "Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-          "title_original": "Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-          "summary": "Anthropic 第三季度收入达 $16.8B，环比增速从 147% 降至约 45%。据 Financial Times，二季度收入从约 $4.8B 增至 $11.5B；公司称每 $1 计算支出获得 $1.70 收入，竞对蒸馏曾占收入 5% 至 7% 后被大幅削减；银行家传闻 IPO 估值约 $2T、募资超 $100B。Bloomberg 指出市场将增长放缓解读为 AI 芯片和服务器的坏消息，AI 交易需要证明计算支出能在增长降温下产生可持续利润。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2110671199122661805",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T09:56:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8472,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T09:56:42Z",
-      "latest_at": "2026-10-15T09:56:42Z",
-      "primary_item": {
-        "id": "02eb4489113bc4be961ee43b8b85147cdd612c8c",
-        "title": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧 / Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-        "title_zh": "Bloomberg：Anthropic 三季度收入 16.8B 美元，增速放缓引发 AI 芯片与服务器担忧",
-        "title_en": "Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-        "title_original": "Bloomberg: A jittery market reads Anthropic’s slower growth as bad news for the chips and servers behind AI.",
-        "summary": "Anthropic 第三季度收入达 $16.8B，环比增速从 147% 降至约 45%。据 Financial Times，二季度收入从约 $4.8B 增至 $11.5B；公司称每 $1 计算支出获得 $1.70 收入，竞对蒸馏曾占收入 5% 至 7% 后被大幅削减；银行家传闻 IPO 估值约 $2T、募资超 $100B。Bloomberg 指出市场将增长放缓解读为 AI 芯片和服务器的坏消息，AI 交易需要证明计算支出能在增长降温下产生可持续利润。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2110671199122661805",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T21:47:15.529646Z"
+        "scored_at": "2026-10-15T22:48:56.722276Z"
       }
     }
   ]
