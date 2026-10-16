@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 12:36:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 13:26:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
@@ -32,20 +32,20 @@
 <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南 / Welcome Beam: a 501B open model you can own, customize, and scale</title>
+<link>https://huggingface.co/blog/reflection-beam</link>
+<guid isPermaLink="true">https://huggingface.co/blog/reflection-beam</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity</title>
 <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
 <guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-</item>
-<item>
-<title>Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
 </item>
 <item>
 <title>商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见</title>
@@ -64,12 +64,12 @@
 <pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
 </item>
 <item>
-<title>教学生通过问题思考和学习 / Teaching students to think and learn through questions</title>
-<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-<guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+<title>NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
+<guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</guid>
+<description>NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。（NVIDIA：Newsroom（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</title>
@@ -78,6 +78,14 @@
 <description>可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。（X：可灵 Kling AI (@Kling_ai)）</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
+</item>
+<item>
+<title>Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
 </item>
 <item>
 <title>AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争</title>
@@ -158,14 +166,6 @@
 <description>Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
-</item>
-<item>
-<title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
-<link>https://bfl.ai/blog/flux-3-image-klein</link>
-<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
-<description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。（Black Forest Labs：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

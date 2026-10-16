@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:36:41.800279Z",
+  "generated_at": "2026-10-16T13:26:58.571452Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8548,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8614,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7754,
+        "recency": 0.7661,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
+      }
+    },
+    {
+      "story_id": "story_21316bd60c11",
+      "title": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南 / Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "primary_url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95491a4527855e05ea7d028887b6961c55e82c89",
+          "title": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南 / Welcome Beam: a 501B open model you can own, customize, and scale",
+          "title_zh": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南",
+          "title_en": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "title_original": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "95491a4527855e05ea7d028887b6961c55e82c89",
+          "title": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南 / Welcome Beam: a 501B open model you can own, customize, and scale",
+          "title_zh": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南",
+          "title_en": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "title_original": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8235,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T00:00:00Z",
+      "latest_at": "2026-10-16T00:00:00Z",
+      "primary_item": {
+        "id": "95491a4527855e05ea7d028887b6961c55e82c89",
+        "title": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南 / Welcome Beam: a 501B open model you can own, customize, and scale",
+        "title_zh": "Reflection 发布开源 MoE 模型 Beam 501B，Hugging Face 提供部署与微调指南",
+        "title_en": "Welcome Beam: a 501B open model you can own, customize, and scale",
+        "title_original": "Welcome Beam: a 501B open model you can own, customize, and scale",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/reflection-beam",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.744,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,90 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
-      }
-    },
-    {
-      "story_id": "story_787df5073195",
-      "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "title_zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音",
-          "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:34:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "title_zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音",
-          "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:34:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7932,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T20:34:01Z",
-      "latest_at": "2026-10-15T20:34:01Z",
-      "primary_item": {
-        "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-        "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "title_zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音",
-        "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.941,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.782,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,90 +580,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
-      "story_id": "story_d3e63bdf95a3",
-      "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f7f8fc413477",
+      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-          "title_zh": "教学生通过问题思考和学习",
-          "title_en": "Teaching students to think and learn through questions",
-          "title_original": "Teaching students to think and learn through questions",
-          "summary": null,
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T13:00:00Z"
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "NVIDIA：Newsroom（RSS）"
       ],
       "items": [
         {
-          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-          "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-          "title_zh": "教学生通过问题思考和学习",
-          "title_en": "Teaching students to think and learn through questions",
-          "title_original": "Teaching students to think and learn through questions",
-          "summary": null,
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T13:00:00Z"
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7111,
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-15T13:00:00Z",
-      "latest_at": "2026-10-15T13:00:00Z",
+      "earliest_at": "2026-10-16T12:00:00Z",
+      "latest_at": "2026-10-16T12:00:00Z",
       "primary_item": {
-        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-        "title": "教学生通过问题思考和学习 / Teaching students to think and learn through questions",
-        "title_zh": "教学生通过问题思考和学习",
-        "title_en": "Teaching students to think and learn through questions",
-        "title_original": "Teaching students to think and learn through questions",
-        "summary": null,
+        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "source": "NVIDIA：Newsroom（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -711,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7319,
+        "recency": 0.7231,
         "story_heat": 0.0
       },
       "category": "official",
@@ -745,7 +744,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
+      }
+    },
+    {
+      "story_id": "story_787df5073195",
+      "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
+          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "title_zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音",
+          "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T20:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
+          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "title_zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音",
+          "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T20:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7836,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T20:34:01Z",
+      "latest_at": "2026-10-15T20:34:01Z",
+      "primary_item": {
+        "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
+        "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "title_zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音",
+        "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -793,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9692,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -875,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7884,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -957,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1039,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7647,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1121,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7873,
+        "recency": 0.7778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1203,21 +1285,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.8482,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T02:03:07Z",
       "latest_at": "2026-10-16T02:03:07Z",
@@ -1237,7 +1318,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1285,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7583,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1366,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7889,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1401,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1449,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8371,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1482,7 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     },
     {
@@ -1530,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.768,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1563,88 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
-      }
-    },
-    {
-      "story_id": "story_b99d97516c95",
-      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "primary_url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "Black Forest Labs：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
-          "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
-          "title_zh": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-          "title_en": "FLUX 3 Image Klein",
-          "title_original": "FLUX 3 Image Klein",
-          "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Black Forest Labs：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Black Forest Labs：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
-          "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
-          "title_zh": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-          "title_en": "FLUX 3 Image Klein",
-          "title_original": "FLUX 3 Image Klein",
-          "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Black Forest Labs：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7319,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T15:00:00Z",
-      "latest_at": "2026-10-15T15:00:00Z",
-      "primary_item": {
-        "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
-        "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
-        "title_zh": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-        "title_en": "FLUX 3 Image Klein",
-        "title_original": "FLUX 3 Image Klein",
-        "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-        "recommend_reason_zh": null,
-        "url": "https://bfl.ai/blog/flux-3-image-klein",
-        "source": "Black Forest Labs：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T12:46:52.529673Z"
+        "scored_at": "2026-10-16T13:38:13.370280Z"
       }
     }
   ]
