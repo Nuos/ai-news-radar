@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:30:05.355320Z",
+  "generated_at": "2026-10-17T02:32:16.307769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9104,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,202 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
-      }
-    },
-    {
-      "story_id": "story_bb81118ad07f",
-      "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "primary_url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_zh": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进",
-          "title_en": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        },
-        {
-          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
-          "title": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_zh": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进",
-          "title_en": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_zh": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进",
-          "title_en": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        },
-        {
-          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
-          "title": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_zh": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进",
-          "title_en": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7151,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T02:16:35Z",
-      "latest_at": "2026-10-16T02:16:35Z",
-      "primary_item": {
-        "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-        "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "title_zh": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进",
-        "title_en": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "title_original": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
-      }
-    },
-    {
-      "story_id": "story_7db28526b529",
-      "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "primary_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-          "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_zh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道",
-          "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T01:44:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-          "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_zh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道",
-          "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T01:44:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7096,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T01:44:47Z",
-      "latest_at": "2026-10-16T01:44:47Z",
-      "primary_item": {
-        "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-        "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "title_zh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道",
-        "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -326,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8471,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -409,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9559,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,63 +248,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
-      "story_id": "story_e5bf6702d2f9",
-      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "url": "https://www.ithome.com/1/013/983.htm",
-      "primary_url": "https://www.ithome.com/1/013/983.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_4b8a0416def4",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "primary_url": "https://x.com/shao__meng/status/2111274173192638932",
+      "source": "X：邵猛 (@shao__meng)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
-          "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
           "title_en": null,
-          "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/983.htm",
-          "source": "IT之家·人工智能",
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T08:23:54.520000Z"
+          "published_at": "2026-10-17T01:52:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家·人工智能"
+        "X：邵猛 (@shao__meng)"
       ],
       "items": [
         {
-          "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
-          "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
           "title_en": null,
-          "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/983.htm",
-          "source": "IT之家·人工智能",
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T08:23:54.520000Z"
+          "published_at": "2026-10-17T01:52:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7812,
+        "recency": 0.9905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,106 +312,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-16T08:23:54.520000Z",
-      "latest_at": "2026-10-16T08:23:54.520000Z",
+      "earliest_at": "2026-10-17T01:52:43Z",
+      "latest_at": "2026-10-17T01:52:43Z",
       "primary_item": {
-        "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
-        "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-        "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+        "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
         "title_en": null,
-        "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-        "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+        "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/013/983.htm",
-        "source": "IT之家·人工智能",
+        "url": "https://x.com/shao__meng/status/2111274173192638932",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
-      }
-    },
-    {
-      "story_id": "story_f7f8fc413477",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "source": "NVIDIA：Newsroom（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-          "recommend_reason_zh": null,
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA：Newsroom（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-          "recommend_reason_zh": null,
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8229,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T12:00:00Z",
-      "latest_at": "2026-10-16T12:00:00Z",
-      "primary_item": {
-        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-        "recommend_reason_zh": null,
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "source": "NVIDIA：Newsroom（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -654,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7396,
+        "recency": 0.7286,
         "story_heat": 0.0
       },
       "category": "official",
@@ -689,7 +413,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
+      }
+    },
+    {
+      "story_id": "story_e5bf6702d2f9",
+      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+      "url": "https://www.ithome.com/1/013/983.htm",
+      "primary_url": "https://www.ithome.com/1/013/983.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
+          "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "title_en": null,
+          "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/013/983.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T08:23:54.520000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
+          "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "title_en": null,
+          "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/013/983.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T08:23:54.520000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7696,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T08:23:54.520000Z",
+      "latest_at": "2026-10-16T08:23:54.520000Z",
+      "primary_item": {
+        "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
+        "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+        "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+        "title_en": null,
+        "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+        "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/013/983.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T02:33:02.729057Z"
+      }
+    },
+    {
+      "story_id": "story_f7f8fc413477",
+      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+          "recommend_reason_zh": null,
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA：Newsroom（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+          "recommend_reason_zh": null,
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8106,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T12:00:00Z",
+      "latest_at": "2026-10-16T12:00:00Z",
+      "primary_item": {
+        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+        "recommend_reason_zh": null,
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "source": "NVIDIA：Newsroom（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -737,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9116,
+        "recency": 0.8981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,7 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -818,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,88 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
-      }
-    },
-    {
-      "story_id": "story_6892471b94f6",
-      "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-      "url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "primary_url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-          "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_zh": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_en": null,
-          "title_original": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110914404393091205",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T02:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-          "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_zh": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_en": null,
-          "title_original": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110914404393091205",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T02:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T02:03:07Z",
-      "latest_at": "2026-10-16T02:03:07Z",
-      "primary_item": {
-        "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "title_zh": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "title_en": null,
-        "title_original": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2110914404393091205",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -980,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7572,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,7 +819,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1061,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1094,7 +900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1142,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1175,7 +981,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1223,15 +1029,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1332,15 +1138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6087,
-      "importance": 0.6087,
-      "importance_score": 0.6087,
+      "score": 0.6062,
+      "importance": 0.6062,
+      "importance_score": 0.6062,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9625,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1365,7 +1171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1413,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7708,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1446,7 +1252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1494,15 +1300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1527,7 +1333,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
+      }
+    },
+    {
+      "story_id": "story_2fa39e14c857",
+      "title": "利用Claude设计更高效的量子电路",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "primary_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": null,
+          "title_original": "利用Claude设计更高效的量子电路",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "与 Claude 一起设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "与 Claude 一起设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": null,
+          "title_original": "利用Claude设计更高效的量子电路",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "与 Claude 一起设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "与 Claude 一起设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9904,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:00:18Z",
+      "latest_at": "2026-10-17T01:52:14.008000Z",
+      "primary_item": {
+        "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+        "title": "利用Claude设计更高效的量子电路",
+        "title_zh": "利用Claude设计更高效的量子电路",
+        "title_en": null,
+        "title_original": "利用Claude设计更高效的量子电路",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1633,15 +1578,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5643,
+      "importance": 0.5643,
+      "importance_score": 0.5643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 0.9641,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1666,7 +1611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     },
     {
@@ -1692,7 +1637,7 @@
           "published_at": "2026-10-16T20:32:34.116000Z"
         },
         {
-          "id": "c12c920c4736dc42095940c0dbf084eb8de95cd1",
+          "id": "8aebbe635525d07b8bc86a0419772a1d64a349d5",
           "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级 / Anthropic assigned highest junk credit rating in June",
           "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
           "title_en": "Anthropic assigned highest junk credit rating in June",
@@ -1700,9 +1645,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-16T18:11:42Z"
         },
         {
@@ -1722,7 +1667,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.ft.com"
       ],
@@ -1742,7 +1687,7 @@
           "published_at": "2026-10-16T20:32:34.116000Z"
         },
         {
-          "id": "c12c920c4736dc42095940c0dbf084eb8de95cd1",
+          "id": "8aebbe635525d07b8bc86a0419772a1d64a349d5",
           "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级 / Anthropic assigned highest junk credit rating in June",
           "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
           "title_en": "Anthropic assigned highest junk credit rating in June",
@@ -1750,9 +1695,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-16T18:11:42Z"
         },
         {
@@ -1772,15 +1717,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9309,
+        "recency": 0.9171,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1805,7 +1750,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T01:31:01.621913Z"
+        "scored_at": "2026-10-17T02:33:02.729057Z"
+      }
+    },
+    {
+      "story_id": "story_d4941adc6fad",
+      "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "primary_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "source": "www.theregister.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": null,
+          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z"
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z"
+        },
+        {
+          "id": "f54517ed65dad78cba0a13775fd9e967aca5c5c8",
+          "title": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50119991",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T15:55:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.theregister.com"
+      ],
+      "items": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": null,
+          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z"
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z"
+        },
+        {
+          "id": "f54517ed65dad78cba0a13775fd9e967aca5c5c8",
+          "title": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50119991",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T15:55:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5509,
+      "importance": 0.5509,
+      "importance_score": 0.5509,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8893,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T15:55:40Z",
+      "latest_at": "2026-10-16T18:24:37.239000Z",
+      "primary_item": {
+        "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+        "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_en": null,
+        "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "source": "www.theregister.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T02:33:02.729057Z"
       }
     }
   ]
