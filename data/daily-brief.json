@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:28:57.025847Z",
+  "generated_at": "2026-10-17T09:24:43.259364Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8231,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7658,
+        "recency": 0.7556,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -296,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.909,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -378,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.744,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,88 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
-      }
-    },
-    {
-      "story_id": "story_5d180e178e71",
-      "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-      "url": "https://x.com/adocomplete/status/2111171735806767558",
-      "primary_url": "https://x.com/adocomplete/status/2111171735806767558",
-      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
-          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-          "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-          "title_en": "Claude is building Claude Code.",
-          "title_original": "Claude is building Claude Code.",
-          "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/adocomplete/status/2111171735806767558",
-          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T19:05:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
-      ],
-      "items": [
-        {
-          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
-          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-          "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-          "title_en": "Claude is building Claude Code.",
-          "title_original": "Claude is building Claude Code.",
-          "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/adocomplete/status/2111171735806767558",
-          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T19:05:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8242,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T19:05:40Z",
-      "latest_at": "2026-10-16T19:05:40Z",
-      "primary_item": {
-        "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
-        "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-        "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-        "title_en": "Claude is building Claude Code.",
-        "title_original": "Claude is building Claude Code.",
-        "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/adocomplete/status/2111171735806767558",
-        "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -568,15 +487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.59,
+      "importance": 0.59,
+      "importance_score": 0.59,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8702,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -601,7 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -707,15 +626,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9089,
+        "recency": 0.8968,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -740,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -846,15 +765,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8848,
+        "recency": 0.873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -879,7 +798,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
+      }
+    },
+    {
+      "story_id": "story_9bb7cbf8fa55",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z"
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z"
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9888,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T08:37:46Z",
+      "latest_at": "2026-10-17T08:37:46Z",
+      "primary_item": {
+        "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "title_zh": null,
+        "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -985,15 +1014,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8416,
+        "recency": 0.8304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1018,7 +1047,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1124,15 +1153,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.8052,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1157,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1263,15 +1292,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.8052,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1402,15 +1431,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.7991,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1435,117 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
-      }
-    },
-    {
-      "story_id": "story_0d467d356306",
-      "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev",
-      "primary_url": "https://llmspeed.dev",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://llmspeed.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z"
-        },
-        {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50127979",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://llmspeed.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z"
-        },
-        {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50127979",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9457,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T04:36:53Z",
-      "latest_at": "2026-10-17T04:36:53Z",
-      "primary_item": {
-        "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-        "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-        "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://llmspeed.dev",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1622,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.895,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1655,7 +1574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1732,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8647,
+        "recency": 0.8532,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1765,7 +1684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1842,15 +1761,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.8401,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1875,7 +1794,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
+      }
+    },
+    {
+      "story_id": "story_ec7cf0816343",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:21:25Z"
+        },
+        {
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:21:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:21:25Z"
+        },
+        {
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:21:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9849,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T08:21:25Z",
+      "latest_at": "2026-10-17T08:21:25Z",
+      "primary_item": {
+        "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "title_zh": null,
+        "title_en": "DeepSeek-v4.1-Flash-1017",
+        "title_original": "DeepSeek-v4.1-Flash-1017",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -1981,15 +2010,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8288,
+        "recency": 0.8178,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2014,7 +2043,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
@@ -2091,15 +2120,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7724,
+        "recency": 0.7621,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2124,44 +2153,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     },
     {
-      "story_id": "story_bc6c7b8a54d2",
-      "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "primary_url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "story_id": "story_0d467d356306",
+      "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev",
+      "primary_url": "https://llmspeed.dev",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "d9014b1ffb80dd69cd450eaa1285a54eccb3c83a",
-          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
+          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+          "url": "https://llmspeed.dev",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-16T19:04:47Z"
+          "published_at": "2026-10-17T04:36:53Z"
         },
         {
-          "id": "37e34644010acff7811aa904217d7f5a8e382ad3",
-          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
+          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50122951",
+          "url": "https://news.ycombinator.com/item?id=50127979",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-16T19:04:47Z"
+          "published_at": "2026-10-17T04:36:53Z"
         }
       ],
       "source_count": 2,
@@ -2171,62 +2200,62 @@
       ],
       "items": [
         {
-          "id": "d9014b1ffb80dd69cd450eaa1285a54eccb3c83a",
-          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
+          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+          "url": "https://llmspeed.dev",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-16T19:04:47Z"
+          "published_at": "2026-10-17T04:36:53Z"
         },
         {
-          "id": "37e34644010acff7811aa904217d7f5a8e382ad3",
-          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
+          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50122951",
+          "url": "https://news.ycombinator.com/item?id=50127979",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-16T19:04:47Z"
+          "published_at": "2026-10-17T04:36:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.824,
+        "recency": 0.9331,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-16T19:04:47Z",
-      "latest_at": "2026-10-16T19:04:47Z",
+      "earliest_at": "2026-10-17T04:36:53Z",
+      "latest_at": "2026-10-17T04:36:53Z",
       "primary_item": {
-        "id": "d9014b1ffb80dd69cd450eaa1285a54eccb3c83a",
-        "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-        "title_zh": "Claude Code 团队如何进行代码审查",
-        "title_en": "How the Claude Code team does code review",
-        "title_original": "How the Claude Code team does code review",
+        "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+        "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
+        "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+        "url": "https://llmspeed.dev",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -2234,7 +2263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T08:38:32.549218Z"
+        "scored_at": "2026-10-17T09:37:08.063183Z"
       }
     }
   ]
