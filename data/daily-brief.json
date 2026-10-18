@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T06:35:56.285107Z",
+  "generated_at": "2026-10-18T07:25:14.230754Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_54e5b25c77ec",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9368,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.5903,
+      "importance": 0.5903,
+      "importance_score": 0.5903,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.8306,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -277,7 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -411,15 +411,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5896,
-      "importance": 0.5896,
-      "importance_score": 0.5896,
+      "score": 0.5875,
+      "importance": 0.5875,
+      "importance_score": 0.5875,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9655,
+        "recency": 0.9542,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -444,7 +444,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
+      }
+    },
+    {
+      "story_id": "story_fafd6304ca6c",
+      "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "primary_url": "https://api-docs.deepseek.com/guides/search",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
+          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
+          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
+          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
+          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9917,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T06:50:36Z",
+      "latest_at": "2026-10-18T06:50:36Z",
+      "primary_item": {
+        "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+        "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
+        "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/guides/search",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -550,15 +660,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8503,
+        "recency": 0.8403,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -583,117 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
-      }
-    },
-    {
-      "story_id": "story_9e9259d44c25",
-      "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app",
-      "primary_url": "https://sphinx-six-theta.vercel.app",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
-          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
-          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sphinx-six-theta.vercel.app",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T04:33:49Z"
-        },
-        {
-          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
-          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
-          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50137950",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T04:33:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
-          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
-          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sphinx-six-theta.vercel.app",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T04:33:49Z"
-        },
-        {
-          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
-          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
-          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50137950",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T04:33:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.971,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T04:33:49Z",
-      "latest_at": "2026-10-18T04:33:49Z",
-      "primary_item": {
-        "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
-        "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-        "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
-        "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-        "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sphinx-six-theta.vercel.app",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -799,15 +799,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7438,
+        "recency": 0.735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -832,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -909,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.84,
+        "recency": 0.8301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,7 +942,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
+      }
+    },
+    {
+      "story_id": "story_9e9259d44c25",
+      "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "primary_url": "https://sphinx-six-theta.vercel.app",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T04:33:49Z"
+        },
+        {
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50137950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T04:33:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T04:33:49Z"
+        },
+        {
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50137950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T04:33:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9596,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T04:33:49Z",
+      "latest_at": "2026-10-18T04:33:49Z",
+      "primary_item": {
+        "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+        "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+        "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sphinx-six-theta.vercel.app",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -1019,15 +1129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7381,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,7 +1162,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -1129,15 +1239,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
+      "score": 0.4961,
+      "importance": 0.4961,
+      "importance_score": 0.4961,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7323,
+        "recency": 0.7237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,7 +1272,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     },
     {
@@ -1239,15 +1349,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7573,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,7 +1382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T06:43:03.349180Z"
+        "scored_at": "2026-10-18T07:26:06.908567Z"
       }
     }
   ]
