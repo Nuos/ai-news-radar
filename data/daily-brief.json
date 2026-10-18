@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:28:18.643097Z",
+  "generated_at": "2026-10-18T05:24:21.336128Z",
   "window_hours": 24,
   "total_items": 10,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.966,
+        "recency": 0.9531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5968,
-      "importance": 0.5968,
-      "importance_score": 0.5968,
+      "score": 0.5947,
+      "importance": 0.5947,
+      "importance_score": 0.5947,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8667,
+        "recency": 0.8551,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -277,7 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -411,15 +411,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.595,
-      "importance": 0.595,
-      "importance_score": 0.595,
+      "score": 0.5926,
+      "importance": 0.5926,
+      "importance_score": 0.5926,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9957,
+        "recency": 0.9823,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -444,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8768,
+        "recency": 0.8651,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -583,146 +583,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
-      "story_id": "story_0d467d356306",
-      "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-      "url": "https://llmspeed.dev",
-      "primary_url": "https://llmspeed.dev",
-      "source": "llmspeed.dev",
-      "source_name": "Buzzing",
+      "story_id": "story_9e9259d44c25",
+      "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "primary_url": "https://sphinx-six-theta.vercel.app",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": null,
-          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:04.792000Z"
-        },
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://llmspeed.dev",
+          "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z"
+          "published_at": "2026-10-18T04:33:49Z"
         },
         {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50127979",
+          "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
+          "published_at": "2026-10-18T04:33:49Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "llmspeed.dev"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": null,
-          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:04.792000Z"
-        },
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://llmspeed.dev",
+          "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z"
+          "published_at": "2026-10-18T04:33:49Z"
         },
         {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50127979",
+          "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
+          "published_at": "2026-10-18T04:33:49Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7878,
-        "story_heat": 0.5
+        "recency": 0.9879,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T04:36:53Z",
-      "latest_at": "2026-10-17T11:57:04.792000Z",
+      "earliest_at": "2026-10-18T04:33:49Z",
+      "latest_at": "2026-10-18T04:33:49Z",
       "primary_item": {
-        "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-        "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-        "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-        "title_en": null,
-        "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+        "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+        "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+        "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+        "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://llmspeed.dev",
-        "source": "llmspeed.dev",
-        "source_name": "Buzzing"
+        "url": "https://sphinx-six-theta.vercel.app",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -828,15 +799,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.767,
+        "recency": 0.7567,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -861,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -938,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8662,
+        "recency": 0.8546,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,117 +942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
-      }
-    },
-    {
-      "story_id": "story_139ba240c9e8",
-      "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
-      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-      "primary_url": "https://dl.acm.org/doi/10.1145/358453.358459",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "5f1f1b26d6fd5e9b03532de3beceecbe0fb2c38d",
-          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T11:20:52Z"
-        },
-        {
-          "id": "b5985a50a33e1933865c110b0ab99a4718118e64",
-          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50130079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T11:20:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5f1f1b26d6fd5e9b03532de3beceecbe0fb2c38d",
-          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T11:20:52Z"
-        },
-        {
-          "id": "b5985a50a33e1933865c110b0ab99a4718118e64",
-          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50130079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T11:20:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7809,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T11:20:52Z",
-      "latest_at": "2026-10-17T11:20:52Z",
-      "primary_item": {
-        "id": "5f1f1b26d6fd5e9b03532de3beceecbe0fb2c38d",
-        "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
-        "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-        "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-        "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -1158,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7611,
+        "recency": 0.7509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1191,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     },
     {
@@ -1268,15 +1129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7552,
+        "recency": 0.745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,10 +1159,120 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T05:25:08.539461Z"
+      }
+    },
+    {
+      "story_id": "story_139ba240c9e8",
+      "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
+      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "primary_url": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "5f1f1b26d6fd5e9b03532de3beceecbe0fb2c38d",
+          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
+          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T11:20:52Z"
+        },
+        {
+          "id": "b5985a50a33e1933865c110b0ab99a4718118e64",
+          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
+          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50130079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T11:20:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5f1f1b26d6fd5e9b03532de3beceecbe0fb2c38d",
+          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
+          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T11:20:52Z"
+        },
+        {
+          "id": "b5985a50a33e1933865c110b0ab99a4718118e64",
+          "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
+          "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50130079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T11:20:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7705,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T11:20:52Z",
+      "latest_at": "2026-10-17T11:20:52Z",
+      "primary_item": {
+        "id": "5f1f1b26d6fd5e9b03532de3beceecbe0fb2c38d",
+        "title": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)",
+        "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
+        "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+        "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T04:29:10.992303Z"
+        "scored_at": "2026-10-18T05:25:08.539461Z"
       }
     }
   ]
