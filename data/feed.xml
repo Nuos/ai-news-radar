@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 18:32:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 19:21:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
+</item>
 <item>
 <title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
 <link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
@@ -14,6 +22,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
+<item>
+<title>TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+<link>https://huggingface.co/blog/hf-torchneuron</link>
+<guid isPermaLink="true">https://huggingface.co/blog/hf-torchneuron</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
@@ -40,6 +56,14 @@
 <pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</title>
+<link>https://x.com/arena/status/2112247114944360666</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112247114944360666</guid>
+<description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
+</item>
+<item>
 <title>Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
 <link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</link>
 <guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</guid>
@@ -64,20 +88,20 @@
 <pubDate>Mon, 19 Oct 2026 10:27:39 +0000</pubDate>
 </item>
 <item>
+<title>fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</title>
+<link>https://x.com/fal/status/2112251022047412492</link>
+<guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
+<description>fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。（X：fal (@fal)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
+</item>
+<item>
 <title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二 / DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
 <link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
 <description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
-</item>
-<item>
-<title>Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
-<link>https://x.com/arena/status/2112215825944117361</link>
-<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
-<description>Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
 </item>
 <item>
 <title>蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型 / inclusionAI/Ming-3.0-tts</title>
@@ -104,20 +128,20 @@
 <pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
-<link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</link>
-<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</guid>
-<description>AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。（PyTorch：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
 <link>https://www.aibase.com/news/31728</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 09:36:23 +0000</pubDate>
+</item>
+<item>
+<title>Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
+<link>https://x.com/arena/status/2112215825944117361</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
+<description>Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
 </item>
 <item>
 <title>Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
@@ -142,30 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 09:36:23 +0000</pubDate>
-</item>
-<item>
-<title>游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫</title>
-<link>https://www.aibase.com/news/31726</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31726</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:40:20 +0000</pubDate>
-</item>
-<item>
-<title>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万</title>
-<link>https://www.aibase.com/news/31724</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31724</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 07:40:44 +0000</pubDate>
-</item>
-<item>
-<title>欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用</title>
-<link>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science</link>
-<guid isPermaLink="true">https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science</guid>
-<description>home.cern</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 17:25:19 +0000</pubDate>
 </item>
 </channel>
 </rss>

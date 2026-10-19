@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-19T18:32:33.545790Z",
+  "generated_at": "2026-10-19T19:21:51.904213Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_724b564bb7c8",
+      "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+          "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+          "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话",
+          "title_en": "How to continue a GitHub Copilot app session in VS Code",
+          "title_original": "How to continue a GitHub Copilot app session in VS Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T18:47:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+          "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+          "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话",
+          "title_en": "How to continue a GitHub Copilot app session in VS Code",
+          "title_original": "How to continue a GitHub Copilot app session in VS Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T18:47:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T18:47:22Z",
+      "latest_at": "2026-10-19T18:47:22Z",
+      "primary_item": {
+        "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+        "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+        "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话",
+        "title_en": "How to continue a GitHub Copilot app session in VS Code",
+        "title_original": "How to continue a GitHub Copilot app session in VS Code",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T19:22:57.752957Z"
+      }
+    },
     {
       "story_id": "story_f7501de552be",
       "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.892,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
+      }
+    },
+    {
+      "story_id": "story_e09ec7be817e",
+      "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "primary_url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_zh": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+          "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_original": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_zh": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+          "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_original": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T00:00:00Z",
+      "latest_at": "2026-10-19T00:00:00Z",
+      "primary_item": {
+        "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+        "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "title_zh": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+        "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "title_original": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/hf-torchneuron",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -160,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -243,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8902,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -326,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9469,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,7 +526,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
+      }
+    },
+    {
+      "story_id": "story_f05a4bc1e42d",
+      "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+      "url": "https://x.com/arena/status/2112247114944360666",
+      "primary_url": "https://x.com/arena/status/2112247114944360666",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+          "title_en": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_original": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2112247114944360666",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:18:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+          "title_en": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_original": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2112247114944360666",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:18:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T18:18:50Z",
+      "latest_at": "2026-10-19T18:18:50Z",
+      "primary_item": {
+        "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+        "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+        "title_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+        "title_en": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+        "title_original": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2112247114944360666",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -408,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9572,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -490,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.965,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -571,15 +819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8898,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,7 +852,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
+      }
+    },
+    {
+      "story_id": "story_d95f2ac548b5",
+      "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+      "url": "https://x.com/fal/status/2112251022047412492",
+      "primary_url": "https://x.com/fal/status/2112251022047412492",
+      "source": "X：fal (@fal)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3b1919bdb185948ad3323a6bed7c8f4ee802ba16",
+          "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_zh": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+          "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_original": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fal/status/2112251022047412492",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:34:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：fal (@fal)"
+      ],
+      "items": [
+        {
+          "id": "3b1919bdb185948ad3323a6bed7c8f4ee802ba16",
+          "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_zh": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+          "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_original": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fal/status/2112251022047412492",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:34:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T18:34:22Z",
+      "latest_at": "2026-10-19T18:34:22Z",
+      "primary_item": {
+        "id": "3b1919bdb185948ad3323a6bed7c8f4ee802ba16",
+        "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+        "title_zh": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+        "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+        "title_original": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+        "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/fal/status/2112251022047412492",
+        "source": "X：fal (@fal)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -652,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9699,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -685,88 +1014,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
-      }
-    },
-    {
-      "story_id": "story_e0b64f4fd038",
-      "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-      "url": "https://x.com/arena/status/2112215825944117361",
-      "primary_url": "https://x.com/arena/status/2112215825944117361",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:14:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:14:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T16:14:30Z",
-      "latest_at": "2026-10-19T16:14:30Z",
-      "primary_item": {
-        "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-        "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-        "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-        "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-        "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-        "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2112215825944117361",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -814,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,7 +1095,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -895,15 +1143,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.928,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -928,7 +1176,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -976,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1009,88 +1257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
-      }
-    },
-    {
-      "story_id": "story_979604c06d35",
-      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-      "primary_url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-      "source": "PyTorch：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
-          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
-          "recommend_reason_zh": null,
-          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T12:45:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "PyTorch：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
-          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
-          "recommend_reason_zh": null,
-          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T12:45:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9198,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T12:45:23Z",
-      "latest_at": "2026-10-19T12:45:23Z",
-      "primary_item": {
-        "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
-        "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-        "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-        "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-        "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-        "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
-        "recommend_reason_zh": null,
-        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-        "source": "PyTorch：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -1138,15 +1305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8789,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,7 +1338,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
+      }
+    },
+    {
+      "story_id": "story_e0b64f4fd038",
+      "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+      "url": "https://x.com/arena/status/2112215825944117361",
+      "primary_url": "https://x.com/arena/status/2112215825944117361",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
+          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
+          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2112215825944117361",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:14:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
+          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
+          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2112215825944117361",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:14:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9559,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T16:14:30Z",
+      "latest_at": "2026-10-19T16:14:30Z",
+      "primary_item": {
+        "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
+        "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+        "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
+        "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+        "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+        "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2112215825944117361",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -1219,15 +1467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1252,7 +1500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -1300,15 +1548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8789,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,7 +1581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     },
     {
@@ -1381,15 +1629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8789,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1414,308 +1662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
-      }
-    },
-    {
-      "story_id": "story_15dde2629f34",
-      "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-      "url": "https://www.aibase.com/news/31726",
-      "primary_url": "https://www.aibase.com/news/31726",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
-          "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-          "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-          "title_en": null,
-          "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T08:40:20.672179Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
-          "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-          "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-          "title_en": null,
-          "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T08:40:20.672179Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8672,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T08:40:20.672179Z",
-      "latest_at": "2026-10-19T08:40:20.672179Z",
-      "primary_item": {
-        "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
-        "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-        "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-        "title_en": null,
-        "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31726",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
-      }
-    },
-    {
-      "story_id": "story_77ff31b79141",
-      "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-      "url": "https://www.aibase.com/news/31724",
-      "primary_url": "https://www.aibase.com/news/31724",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
-          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "title_en": null,
-          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31724",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T07:40:44.033961Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
-          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "title_en": null,
-          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31724",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T07:40:44.033961Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T07:40:44.033961Z",
-      "latest_at": "2026-10-19T07:40:44.033961Z",
-      "primary_item": {
-        "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
-        "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-        "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-        "title_en": null,
-        "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31724",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
-      }
-    },
-    {
-      "story_id": "story_59980de3952b",
-      "title": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-      "primary_url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-      "source": "home.cern",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "292f3c48f90858407e7378ca22be4885e9f7b0ce",
-          "title": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "title_zh": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "title_en": null,
-          "title_original": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-          "source": "home.cern",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T17:25:19.009000Z"
-        },
-        {
-          "id": "306ca68d4ffec4127ed4d70e2e992c9fb42d7d77",
-          "title": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用 / CERN and Mistral join forces to accelerate AI for science",
-          "title_zh": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "title_en": "CERN and Mistral join forces to accelerate AI for science",
-          "title_original": "CERN and Mistral join forces to accelerate AI for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T15:28:24Z"
-        },
-        {
-          "id": "201b1ee3557a90417c30162e5a0b40b758a57827",
-          "title": "CERN 和 Mistral 联手加速 AI 科学发展 / CERN and Mistral join forces to accelerate AI for science",
-          "title_zh": "CERN 和 Mistral 联手加速 AI 科学发展",
-          "title_en": "CERN and Mistral join forces to accelerate AI for science",
-          "title_original": "CERN and Mistral join forces to accelerate AI for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50153630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T15:28:24Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "home.cern"
-      ],
-      "items": [
-        {
-          "id": "292f3c48f90858407e7378ca22be4885e9f7b0ce",
-          "title": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "title_zh": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "title_en": null,
-          "title_original": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-          "source": "home.cern",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T17:25:19.009000Z"
-        },
-        {
-          "id": "306ca68d4ffec4127ed4d70e2e992c9fb42d7d77",
-          "title": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用 / CERN and Mistral join forces to accelerate AI for science",
-          "title_zh": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-          "title_en": "CERN and Mistral join forces to accelerate AI for science",
-          "title_original": "CERN and Mistral join forces to accelerate AI for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T15:28:24Z"
-        },
-        {
-          "id": "201b1ee3557a90417c30162e5a0b40b758a57827",
-          "title": "CERN 和 Mistral 联手加速 AI 科学发展 / CERN and Mistral join forces to accelerate AI for science",
-          "title_zh": "CERN 和 Mistral 联手加速 AI 科学发展",
-          "title_en": "CERN and Mistral join forces to accelerate AI for science",
-          "title_original": "CERN and Mistral join forces to accelerate AI for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50153630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T15:28:24Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9839,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T15:28:24Z",
-      "latest_at": "2026-10-19T17:25:19.009000Z",
-      "primary_item": {
-        "id": "292f3c48f90858407e7378ca22be4885e9f7b0ce",
-        "title": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-        "title_zh": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-        "title_en": null,
-        "title_original": "欧洲核子研究组织（CERN）与Mistral携手合作，共同推动人工智能在科学领域的应用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
-        "source": "home.cern",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T18:33:33.716829Z"
+        "scored_at": "2026-10-19T19:22:57.752957Z"
       }
     }
   ]
