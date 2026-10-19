@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:26:46.455430Z",
+  "generated_at": "2026-10-19T16:30:03.987687Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9327,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
+      }
+    },
+    {
+      "story_id": "story_0e04939a4dfa",
+      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:58:41Z"
+        },
+        {
+          "id": "aee9a0b6e13951d0a307e06005e5967d9f3fa663",
+          "title": "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_zh": "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja",
+          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50152877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T14:23:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge：AI（RSS）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:58:41Z"
+        },
+        {
+          "id": "aee9a0b6e13951d0a307e06005e5967d9f3fa663",
+          "title": "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_zh": "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja",
+          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50152877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T14:23:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9642,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:58:41Z",
+      "latest_at": "2026-10-19T14:23:17Z",
+      "primary_item": {
+        "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+        "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+        "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -131,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9309,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -214,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,63 +360,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
-      "story_id": "story_0e04939a4dfa",
-      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_3f646f16c678",
+      "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+      "primary_url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+      "source": "Meta Engineering Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "id": "39a3afce0105f395fa17fd374294d359abbca4d2",
+          "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "title_zh": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+          "title_en": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "title_original": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+          "source": "Meta Engineering Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T13:58:41Z"
+          "published_at": "2026-10-19T15:30:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "Meta Engineering Blog（RSS）"
       ],
       "items": [
         {
-          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "id": "39a3afce0105f395fa17fd374294d359abbca4d2",
+          "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "title_zh": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+          "title_en": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "title_original": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+          "source": "Meta Engineering Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T13:58:41Z"
+          "published_at": "2026-10-19T15:30:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -312,25 +424,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T13:58:41Z",
-      "latest_at": "2026-10-19T13:58:41Z",
+      "earliest_at": "2026-10-19T15:30:37Z",
+      "latest_at": "2026-10-19T15:30:37Z",
       "primary_item": {
-        "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-        "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-        "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+        "id": "39a3afce0105f395fa17fd374294d359abbca4d2",
+        "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+        "title_zh": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+        "title_en": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+        "title_original": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+        "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-        "source": "The Verge：AI（RSS）",
+        "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+        "source": "Meta Engineering Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -378,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9305,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -460,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8859,
+        "recency": 0.8725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -541,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -574,88 +686,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
-      "story_id": "story_cf081871ae29",
-      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-      "primary_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-      "source": "Meta Engineering Blog（RSS）",
+      "story_id": "story_8649e06b51ec",
+      "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+      "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+      "primary_url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+      "source": "LangChain：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
-          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-          "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-          "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-          "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+          "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
+          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+          "title_zh": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+          "title_en": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+          "title_original": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+          "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
           "recommend_reason_zh": null,
-          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-          "source": "Meta Engineering Blog（RSS）",
+          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T13:00:10Z"
+          "published_at": "2026-10-19T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Meta Engineering Blog（RSS）"
+        "LangChain：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
-          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-          "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-          "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-          "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+          "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
+          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+          "title_zh": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+          "title_en": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+          "title_original": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+          "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
           "recommend_reason_zh": null,
-          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-          "source": "Meta Engineering Blog（RSS）",
+          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T13:00:10Z"
+          "published_at": "2026-10-19T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9653,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T13:00:10Z",
-      "latest_at": "2026-10-19T13:00:10Z",
+      "earliest_at": "2026-10-19T15:00:00Z",
+      "latest_at": "2026-10-19T15:00:00Z",
       "primary_item": {
-        "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
-        "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-        "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-        "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-        "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-        "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+        "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
+        "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+        "title_zh": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+        "title_en": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+        "title_original": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+        "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
         "recommend_reason_zh": null,
-        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-        "source": "Meta Engineering Blog（RSS）",
+        "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+        "source": "LangChain：Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -703,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,7 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -784,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,7 +930,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
+      }
+    },
+    {
+      "story_id": "story_cf081871ae29",
+      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+      "primary_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+      "source": "Meta Engineering Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
+          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+          "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+          "recommend_reason_zh": null,
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:00:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Meta Engineering Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
+          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+          "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+          "recommend_reason_zh": null,
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:00:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9507,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T13:00:10Z",
+      "latest_at": "2026-10-19T13:00:10Z",
+      "primary_item": {
+        "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
+        "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+        "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+        "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+        "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+        "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+        "recommend_reason_zh": null,
+        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+        "source": "Meta Engineering Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -866,15 +1059,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,7 +1093,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -948,15 +1141,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,7 +1175,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -1030,21 +1223,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9068,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T08:40:20.672179Z",
       "latest_at": "2026-10-19T08:40:20.672179Z",
@@ -1064,7 +1256,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -1112,15 +1304,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1145,7 +1337,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
+      }
+    },
+    {
+      "story_id": "story_508f030128c9",
+      "title": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+      "url": "https://100toolkit.com/blog/deslop-model",
+      "primary_url": "https://100toolkit.com/blog/deslop-model",
+      "source": "100toolkit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7c3b407dad6a001ee5efed96d0db0b5e15867689",
+          "title": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "title_zh": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "title_en": null,
+          "title_original": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://100toolkit.com/blog/deslop-model",
+          "source": "100toolkit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T16:21:22.098000Z"
+        },
+        {
+          "id": "e11219c84b53f2e493470bf844aef344c5178f9f",
+          "title": "Show HN: Qwen3-4B，已消除AI写作中的怪癖 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://100toolkit.com/blog/deslop-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T13:00:47Z"
+        },
+        {
+          "id": "58bc651b5acd8a099696036a42faf56a6b6aa84a",
+          "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50151928",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T13:00:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "100toolkit.com",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7c3b407dad6a001ee5efed96d0db0b5e15867689",
+          "title": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "title_zh": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "title_en": null,
+          "title_original": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://100toolkit.com/blog/deslop-model",
+          "source": "100toolkit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T16:21:22.098000Z"
+        },
+        {
+          "id": "e11219c84b53f2e493470bf844aef344c5178f9f",
+          "title": "Show HN: Qwen3-4B，已消除AI写作中的怪癖 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://100toolkit.com/blog/deslop-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T13:00:47Z"
+        },
+        {
+          "id": "58bc651b5acd8a099696036a42faf56a6b6aa84a",
+          "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50151928",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T13:00:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9979,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T13:00:47Z",
+      "latest_at": "2026-10-19T16:21:22.098000Z",
+      "primary_item": {
+        "id": "7c3b407dad6a001ee5efed96d0db0b5e15867689",
+        "title": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+        "title_zh": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+        "title_en": null,
+        "title_original": "Show HN: Qwen3-4B，已消除AI写作中的怪癖",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://100toolkit.com/blog/deslop-model",
+        "source": "100toolkit.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -1251,15 +1582,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.9792,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1284,7 +1615,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -1310,7 +1641,7 @@
           "published_at": "2026-10-19T14:47:39.309000Z"
         },
         {
-          "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+          "id": "9a24bf28a1e222168cf1236a97e5a541cad637a7",
           "title": "线束工程入门：LLM是大脑，线束是身体Simplified Chinese (Mainland) / Harness Engineering 101: The LLM is the brain, the harness is the body",
           "title_zh": "线束工程入门：LLM是大脑，线束是身体Simplified Chinese (Mainland)",
           "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
@@ -1318,9 +1649,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-19T12:07:41Z"
         },
         {
@@ -1340,7 +1671,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "github.com",
         "hackernews"
       ],
@@ -1360,7 +1691,7 @@
           "published_at": "2026-10-19T14:47:39.309000Z"
         },
         {
-          "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+          "id": "9a24bf28a1e222168cf1236a97e5a541cad637a7",
           "title": "线束工程入门：LLM是大脑，线束是身体Simplified Chinese (Mainland) / Harness Engineering 101: The LLM is the brain, the harness is the body",
           "title_zh": "线束工程入门：LLM是大脑，线束是身体Simplified Chinese (Mainland)",
           "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
@@ -1368,9 +1699,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-19T12:07:41Z"
         },
         {
@@ -1390,15 +1721,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5664,
+      "importance": 0.5664,
+      "importance_score": 0.5664,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9906,
+        "recency": 0.9757,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1423,7 +1754,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     },
     {
@@ -1471,15 +1802,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1504,424 +1835,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
-      }
-    },
-    {
-      "story_id": "story_810e7477e101",
-      "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "primary_url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
-          "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-          "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-          "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-          "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T07:08:12.735000Z"
-        },
-        {
-          "id": "81268da4dfdf8b650545def6cf50ddb526468be3",
-          "title": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45 / DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
-          "title_zh": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45",
-          "title_en": "DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
-          "title_original": "DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148452",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T04:41:46Z"
-        },
-        {
-          "id": "71de8dbe48cbc31f737a2a29f100754c06ecb8a1",
-          "title": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45 / DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-          "title_zh": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45",
-          "title_en": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-          "title_original": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:41:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "artificialanalysis.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
-          "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-          "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-          "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-          "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T07:08:12.735000Z"
-        },
-        {
-          "id": "81268da4dfdf8b650545def6cf50ddb526468be3",
-          "title": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45 / DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
-          "title_zh": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45",
-          "title_en": "DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
-          "title_original": "DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148452",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T04:41:46Z"
-        },
-        {
-          "id": "71de8dbe48cbc31f737a2a29f100754c06ecb8a1",
-          "title": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45 / DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-          "title_zh": "DeepSeek v4.1 Flash 1017 在人工分析中得分 45",
-          "title_en": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-          "title_original": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:41:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8869,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T04:41:46Z",
-      "latest_at": "2026-10-19T07:08:12.735000Z",
-      "primary_item": {
-        "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
-        "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-        "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-        "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-        "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
-      }
-    },
-    {
-      "story_id": "story_383c2dd2c97b",
-      "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "primary_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "source": "jrdsgl.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "85c724dac33a678b9e673cc02c802fca0c78ed58",
-          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "title_en": null,
-          "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-          "source": "jrdsgl.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T06:20:08.917000Z"
-        },
-        {
-          "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
-          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T21:09:12Z"
-        },
-        {
-          "id": "d0351edc8706158a0beb083d6c177363d3b335c7",
-          "title": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50145507",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T21:09:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "jrdsgl.com"
-      ],
-      "items": [
-        {
-          "id": "85c724dac33a678b9e673cc02c802fca0c78ed58",
-          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "title_en": null,
-          "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-          "source": "jrdsgl.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T06:20:08.917000Z"
-        },
-        {
-          "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
-          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T21:09:12Z"
-        },
-        {
-          "id": "d0351edc8706158a0beb083d6c177363d3b335c7",
-          "title": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50145507",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T21:09:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8767,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T21:09:12Z",
-      "latest_at": "2026-10-19T06:20:08.917000Z",
-      "primary_item": {
-        "id": "85c724dac33a678b9e673cc02c802fca0c78ed58",
-        "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-        "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-        "title_en": null,
-        "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-        "source": "jrdsgl.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
-      }
-    },
-    {
-      "story_id": "story_bc77166d0fc7",
-      "title": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-      "url": "https://github.com/strot-ai/Project-STROT",
-      "primary_url": "https://github.com/strot-ai/Project-STROT",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e3b7698d80d3668332f5268a151be6467a7d2105",
-          "title": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-          "title_zh": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策",
-          "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-          "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/strot-ai/Project-STROT",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-19T04:32:07Z"
-        },
-        {
-          "id": "4a57f2468b120192a390f894667ea4ac8e1b2480",
-          "title": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_zh": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策",
-          "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/strot-ai/Project-STROT",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:32:07Z"
-        },
-        {
-          "id": "a668a9272d26b0206857b7606e94935f576ac827",
-          "title": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_zh": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策",
-          "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148396",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T04:32:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e3b7698d80d3668332f5268a151be6467a7d2105",
-          "title": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-          "title_zh": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策",
-          "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-          "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/strot-ai/Project-STROT",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-19T04:32:07Z"
-        },
-        {
-          "id": "4a57f2468b120192a390f894667ea4ac8e1b2480",
-          "title": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_zh": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策",
-          "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/strot-ai/Project-STROT",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:32:07Z"
-        },
-        {
-          "id": "a668a9272d26b0206857b7606e94935f576ac827",
-          "title": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_zh": "Show HN：Strot – 编译LLM的意图一次，永久在本地运行决策",
-          "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148396",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T04:32:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8542,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T04:32:07Z",
-      "latest_at": "2026-10-19T04:32:07Z",
-      "primary_item": {
-        "id": "e3b7698d80d3668332f5268a151be6467a7d2105",
-        "title": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策 / Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-        "title_zh": "Show HN：Strot – 编译LLM的意图一次，在本地运行决策",
-        "title_en": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-        "title_original": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/strot-ai/Project-STROT",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T15:28:00.197202Z"
+        "scored_at": "2026-10-19T16:31:17.866977Z"
       }
     }
   ]
