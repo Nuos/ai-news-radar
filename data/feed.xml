@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 14:27:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 15:26:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
+<link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
 <item>
 <title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
@@ -14,6 +22,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
+<item>
+<title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
+<description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
 </item>
 <item>
 <title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
@@ -30,6 +46,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 10:27:39 +0000</pubDate>
+</item>
+<item>
+<title>蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型 / inclusionAI/Ming-3.0-tts</title>
+<link>https://github.com/inclusionAI/Ming-3.0-tts</link>
+<guid isPermaLink="true">https://github.com/inclusionAI/Ming-3.0-tts</guid>
+<description>蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。（蚂蚁 inclusionAI：GitHub 新仓库）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 07:03:25 +0000</pubDate>
 </item>
 <item>
 <title>n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API</title>
@@ -96,28 +120,28 @@
 <pubDate>Mon, 19 Oct 2026 07:40:44 +0000</pubDate>
 </item>
 <item>
+<title>Tmux 和 Claude Code：会话、Send-Keys 以及上限</title>
+<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
+<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
+<description>crystl.dev</description>
+<category>多源热议</category>
+<pubDate>Mon, 19 Oct 2026 15:02:49 +0000</pubDate>
+</item>
+<item>
+<title>线束工程入门：LLM是大脑，线束是身体Simplified Chinese (Mainland)</title>
+<link>https://github.com/IsuruMaduranga/harness-engineering-101</link>
+<guid isPermaLink="true">https://github.com/IsuruMaduranga/harness-engineering-101</guid>
+<description>github.com</description>
+<category>多源热议</category>
+<pubDate>Mon, 19 Oct 2026 14:47:39 +0000</pubDate>
+</item>
+<item>
 <title>山姆出手整治"AI 下架好物"谣言：数千条假帖引流牟利</title>
 <link>https://www.aibase.com/news/31725</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31725</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 07:40:44 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: WhatsApp MCP 在 Cloudflare 上免费运行</title>
-<link>https://github.com/finereli/whatsapp-mcp</link>
-<guid isPermaLink="true">https://github.com/finereli/whatsapp-mcp</guid>
-<description>github.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 08:42:19 +0000</pubDate>
-</item>
-<item>
-<title>网站正纷纷关闭人工智能客服</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-<description>www.theverge.com</description>
-<category>多源热议</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)</title>
@@ -142,30 +166,6 @@
 <description>Hacker News · 24h最热</description>
 <category>多源热议</category>
 <pubDate>Mon, 19 Oct 2026 04:32:07 +0000</pubDate>
-</item>
-<item>
-<title>显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out</title>
-<link>https://100toolkit.com/blog/deslop-model</link>
-<guid isPermaLink="true">https://100toolkit.com/blog/deslop-model</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 13:00:47 +0000</pubDate>
-</item>
-<item>
-<title>Timestral：Mistral 发布时间序列基础模型</title>
-<link>https://mistral.ai/news/timestral</link>
-<guid isPermaLink="true">https://mistral.ai/news/timestral</guid>
-<description>mistral.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 12:39:13 +0000</pubDate>
-</item>
-<item>
-<title>AI 正在偷改人类记忆：看一眼假图，就"记得"从未发生的事</title>
-<link>https://www.aibase.com/news/31721</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31721</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 06:51:57 +0000</pubDate>
 </item>
 </channel>
 </rss>
