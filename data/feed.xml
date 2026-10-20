@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 11:25:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 12:36:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>MPS in PyTorch 2.15</title>
@@ -30,14 +30,6 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力 / Advancing Coding in Low-Resource Programming Languages</title>
-<link>https://openai.com/index/low-resource-programming-languages</link>
-<guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026</title>
@@ -136,20 +128,20 @@
 <pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
 </item>
 <item>
+<title>llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪 / llm-d 1.0 hardens open-source AI inference for production</title>
+<link>https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving</link>
+<guid isPermaLink="true">https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving</guid>
+<description>IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。（IBM Research：AI）</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
 <link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</link>
 <guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</guid>
 <description>美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。（Hacker News：AI 热帖）</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
-</item>
-<item>
-<title>Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客 / ¡Llegamos a Madrid! Waymo is coming to Spain</title>
-<link>https://waymo.com/blog/2026/10/waymo-in-madrid-region</link>
-<guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-madrid-region</guid>
-<description>Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。（Waymo：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
@@ -166,6 +158,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 10:25:13 +0000</pubDate>
+</item>
+<item>
+<title>AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列</title>
+<link>https://www.aibase.com/news/31757</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31757</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 09:28:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
