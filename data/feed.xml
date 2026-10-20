@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 18:30:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:24:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -96,14 +96,6 @@
 <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
 </item>
 <item>
-<title>如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code</title>
-<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
-</item>
-<item>
 <title>路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元 / Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</title>
 <link>https://x.com/rohanpaul_ai/status/2112455383356989598</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
@@ -120,20 +112,20 @@
 <pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
 </item>
 <item>
-<title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一 / FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
-<link>https://x.com/fal/status/2112600472922333263</link>
-<guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
-<description>fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。（X：fal (@fal)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
-</item>
-<item>
 <title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
 <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</guid>
 <description>DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。（公众号：DeepSeek（深度求索））</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
+</item>
+<item>
+<title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一 / FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
+<link>https://x.com/fal/status/2112600472922333263</link>
+<guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
+<description>fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。（X：fal (@fal)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
 </item>
 <item>
 <title>GitHub package firewall in public preview</title>
@@ -166,6 +158,14 @@
 <description>作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。（公众号：数字生命卡兹克）</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 00:26:00 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 以 Apache-2.0 开源大规模推理框架 DeepInfer / DeepSeek just open sourced its high-performance, large-scale inference framework DeepInfer in Apache-2.0 license.</title>
+<link>https://x.com/tianyi/status/2112471106426900677</link>
+<guid isPermaLink="true">https://x.com/tianyi/status/2112471106426900677</guid>
+<description>DeepSeek 开源高性能大规模推理框架 DeepInfer，采用 Apache-2.0 许可，仓库地址 https://github.com/deepseek-ai/DeepInfer。支持优化 kernel、模型与 sampler 运行时，Attention DP、平衡 CP、MoE EP + EPLB 等并行方案，以及 DSpark、置信度调度验证、SWA bounded replay、零开销异步批量调度、batch-invariant 推理、确定性采样和结构化输出。（X：Tianyi Cui（@tianyi））</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 09:08:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
