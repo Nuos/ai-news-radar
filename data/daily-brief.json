@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-20T14:27:09.638073Z",
+  "generated_at": "2026-10-20T15:26:33.029102Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_550f1a888b8d",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_zh": null,
+          "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_original": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T15:19:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_zh": null,
+          "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_original": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T15:19:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T15:19:48Z",
+      "latest_at": "2026-10-20T15:19:48Z",
+      "primary_item": {
+        "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "title_zh": null,
+        "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "title_original": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T15:37:52.687205Z"
+      }
+    },
     {
       "story_id": "story_d023719243dc",
       "title": "Dependabot 现在支持 npm 12、pnpm 11 和 12 以及 Bun 1.4 / Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9917,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
-      }
-    },
-    {
-      "story_id": "story_9759ff515f71",
-      "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "primary_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
-          "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
-          "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
-          "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
-          "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8116,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T00:00:00Z",
-      "latest_at": "2026-10-20T00:00:00Z",
-      "primary_item": {
-        "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
-        "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-        "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
-        "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-        "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7528,
+        "recency": 0.7421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,26 +249,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
-      "story_id": "story_f47486927056",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "primary_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "story_id": "story_9759ff515f71",
+      "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "primary_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
-          "title": "MPS in PyTorch 2.15",
-          "title_zh": null,
-          "title_en": "MPS in PyTorch 2.15",
-          "title_original": "MPS in PyTorch 2.15",
+          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+          "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
+          "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -281,14 +281,14 @@
       ],
       "items": [
         {
-          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
-          "title": "MPS in PyTorch 2.15",
-          "title_zh": null,
-          "title_en": "MPS in PyTorch 2.15",
-          "title_original": "MPS in PyTorch 2.15",
+          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+          "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
+          "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8116,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "official",
@@ -317,14 +317,14 @@
       "earliest_at": "2026-10-20T00:00:00Z",
       "latest_at": "2026-10-20T00:00:00Z",
       "primary_item": {
-        "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
-        "title": "MPS in PyTorch 2.15",
-        "title_zh": null,
-        "title_en": "MPS in PyTorch 2.15",
-        "title_original": "MPS in PyTorch 2.15",
+        "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+        "title": "AnyLanguageModel 1.0：Apple 平台本地模型一年 / AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
+        "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+        "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -462,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7833,
+        "recency": 0.7722,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -656,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.7128,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -691,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -739,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9124,
+        "recency": 0.8995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,7 +773,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
+      }
+    },
+    {
+      "story_id": "story_f47486927056",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "primary_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
+          "title": "MPS in PyTorch 2.15",
+          "title_zh": null,
+          "title_en": "MPS in PyTorch 2.15",
+          "title_original": "MPS in PyTorch 2.15",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
+          "title": "MPS in PyTorch 2.15",
+          "title_zh": null,
+          "title_en": "MPS in PyTorch 2.15",
+          "title_original": "MPS in PyTorch 2.15",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8001,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T00:00:00Z",
+      "latest_at": "2026-10-20T00:00:00Z",
+      "primary_item": {
+        "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
+        "title": "MPS in PyTorch 2.15",
+        "title_zh": null,
+        "title_en": "MPS in PyTorch 2.15",
+        "title_original": "MPS in PyTorch 2.15",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T15:37:52.687205Z"
+      }
+    },
+    {
+      "story_id": "story_d1eb29f274bd",
+      "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎 / Announcing New vLLM and SGLang Inference Engines on TPU",
+      "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu",
+      "primary_url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8aac9657147a0e17f1ecb9fb7b0c4d772fdf6100",
+          "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎 / Announcing New vLLM and SGLang Inference Engines on TPU",
+          "title_zh": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
+          "title_en": "Announcing New vLLM and SGLang Inference Engines on TPU",
+          "title_original": "Announcing New vLLM and SGLang Inference Engines on TPU",
+          "summary": "Google 在 PyTorch 相关公告中推出基于 TorchTPU 的 vLLM 和 SGLang 原生 PyTorch 推理引擎，分别与 Inferact、RadixArk 合作开发，让开发者用熟悉的 PyTorch 工具在 TPU 上部署模型。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8aac9657147a0e17f1ecb9fb7b0c4d772fdf6100",
+          "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎 / Announcing New vLLM and SGLang Inference Engines on TPU",
+          "title_zh": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
+          "title_en": "Announcing New vLLM and SGLang Inference Engines on TPU",
+          "title_original": "Announcing New vLLM and SGLang Inference Engines on TPU",
+          "summary": "Google 在 PyTorch 相关公告中推出基于 TorchTPU 的 vLLM 和 SGLang 原生 PyTorch 推理引擎，分别与 Inferact、RadixArk 合作开发，让开发者用熟悉的 PyTorch 工具在 TPU 上部署模型。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7128,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T16:00:00Z",
+      "latest_at": "2026-10-19T16:00:00Z",
+      "primary_item": {
+        "id": "8aac9657147a0e17f1ecb9fb7b0c4d772fdf6100",
+        "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎 / Announcing New vLLM and SGLang Inference Engines on TPU",
+        "title_zh": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
+        "title_en": "Announcing New vLLM and SGLang Inference Engines on TPU",
+        "title_original": "Announcing New vLLM and SGLang Inference Engines on TPU",
+        "summary": "Google 在 PyTorch 相关公告中推出基于 TorchTPU 的 vLLM 和 SGLang 原生 PyTorch 推理引擎，分别与 Inferact、RadixArk 合作开发，让开发者用熟悉的 PyTorch 工具在 TPU 上部署模型。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -821,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -903,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +1102,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -985,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7823,
+        "recency": 0.7712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -1068,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8167,
+        "recency": 0.8051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -1149,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1182,7 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -1230,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8899,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,7 +1428,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
+      }
+    },
+    {
+      "story_id": "story_7b2e5ad7331a",
+      "title": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook / Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+      "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu",
+      "primary_url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f7f1bd2fdf342e21cbfff7a7bc6b23404611c04",
+          "title": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook / Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "title_zh": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook",
+          "title_en": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "title_original": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "summary": "Google 推出 TorchTitan TPU 分叉（github.com/google-pytorch/torchtitan），配合 TorchTPU 原生后端在 Cloud TPU 上训练 PyTorch 模型，提供 SimpleFSDP、Graph Trainer、Pallas 内核和优化 Playbook。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5f7f1bd2fdf342e21cbfff7a7bc6b23404611c04",
+          "title": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook / Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "title_zh": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook",
+          "title_en": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "title_original": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "summary": "Google 推出 TorchTitan TPU 分叉（github.com/google-pytorch/torchtitan），配合 TorchTPU 原生后端在 Cloud TPU 上训练 PyTorch 模型，提供 SimpleFSDP、Graph Trainer、Pallas 内核和优化 Playbook。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7128,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T16:00:00Z",
+      "latest_at": "2026-10-19T16:00:00Z",
+      "primary_item": {
+        "id": "5f7f1bd2fdf342e21cbfff7a7bc6b23404611c04",
+        "title": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook / Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+        "title_zh": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook",
+        "title_en": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+        "title_original": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+        "summary": "Google 推出 TorchTitan TPU 分叉（github.com/google-pytorch/torchtitan），配合 TorchTPU 原生后端在 Cloud TPU 上训练 PyTorch 模型，提供 SimpleFSDP、Graph Trainer、Pallas 内核和优化 Playbook。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -1311,15 +1558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7477,
+        "recency": 0.737,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     },
     {
@@ -1392,15 +1639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1426,252 +1673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
-      }
-    },
-    {
-      "story_id": "story_bef2e7ba6506",
-      "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪 / llm-d 1.0 hardens open-source AI inference for production",
-      "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
-      "primary_url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
-      "source": "IBM Research：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9b520441f7f95b555be870dd0b3de03dc3e07fda",
-          "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪 / llm-d 1.0 hardens open-source AI inference for production",
-          "title_zh": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
-          "title_en": "llm-d 1.0 hardens open-source AI inference for production",
-          "title_original": "llm-d 1.0 hardens open-source AI inference for production",
-          "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
-          "recommend_reason_zh": null,
-          "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
-          "source": "IBM Research：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IBM Research：AI"
-      ],
-      "items": [
-        {
-          "id": "9b520441f7f95b555be870dd0b3de03dc3e07fda",
-          "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪 / llm-d 1.0 hardens open-source AI inference for production",
-          "title_zh": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
-          "title_en": "llm-d 1.0 hardens open-source AI inference for production",
-          "title_original": "llm-d 1.0 hardens open-source AI inference for production",
-          "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
-          "recommend_reason_zh": null,
-          "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
-          "source": "IBM Research：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9652,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-20T12:00:00Z",
-      "latest_at": "2026-10-20T12:00:00Z",
-      "primary_item": {
-        "id": "9b520441f7f95b555be870dd0b3de03dc3e07fda",
-        "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪 / llm-d 1.0 hardens open-source AI inference for production",
-        "title_zh": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
-        "title_en": "llm-d 1.0 hardens open-source AI inference for production",
-        "title_original": "llm-d 1.0 hardens open-source AI inference for production",
-        "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
-        "recommend_reason_zh": null,
-        "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
-        "source": "IBM Research：AI",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
-      }
-    },
-    {
-      "story_id": "story_06693270d023",
-      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-      "primary_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_zh": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "title_en": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_original": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-          "recommend_reason_zh": null,
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_zh": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "title_en": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_original": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-          "recommend_reason_zh": null,
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7136,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T15:05:00Z",
-      "latest_at": "2026-10-19T15:05:00Z",
-      "primary_item": {
-        "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-        "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-        "title_zh": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-        "title_en": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-        "title_original": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-        "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-        "recommend_reason_zh": null,
-        "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
-      }
-    },
-    {
-      "story_id": "story_cdecf8c47980",
-      "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
-          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "title_zh": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
-          "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "title_original": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T20:21:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
-          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "title_zh": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
-          "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "title_original": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T20:21:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T20:21:53Z",
-      "latest_at": "2026-10-19T20:21:53Z",
-      "primary_item": {
-        "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
-        "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-        "title_zh": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
-        "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-        "title_original": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-        "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T14:28:03.972691Z"
+        "scored_at": "2026-10-20T15:37:52.687205Z"
       }
     }
   ]
