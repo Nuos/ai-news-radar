@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:27:56.121728Z",
+  "generated_at": "2026-10-21T17:23:40.125460Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -134,15 +134,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.904,
-      "importance": 0.904,
-      "importance_score": 0.904,
+      "score": 0.9019,
+      "importance": 0.9019,
+      "importance_score": 0.9019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8722,
+        "recency": 0.8606,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.8566,
+      "importance": 0.8566,
+      "importance_score": 0.8566,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9944,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -359,15 +359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.9455,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -394,7 +394,203 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_d85e988461bd",
+      "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "primary_url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_zh": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
+          "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_original": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_zh": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
+          "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_original": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9904,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T16:43:23Z",
+      "latest_at": "2026-10-21T16:43:23Z",
+      "primary_item": {
+        "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+        "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "title_zh": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
+        "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "title_original": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_35d2cfa7a29f",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8695,
+      "importance": 0.8695,
+      "importance_score": 0.8695,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9251,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T12:00:00Z",
+      "latest_at": "2026-10-21T12:53:11Z",
+      "primary_item": {
+        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+        "title_en": "OpenAI models are coming to Google Cloud",
+        "title_original": "OpenAI models are coming to Google Cloud",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -442,15 +638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9492,
+        "recency": 0.9366,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,90 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_369288508eca",
-      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9512,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:00:00Z",
-      "latest_at": "2026-10-21T13:00:00Z",
-      "primary_item": {
-        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -608,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8353,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -691,15 +804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9484,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -725,7 +838,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_a98043caf1bf",
+      "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+      "url": "https://x.com/OpenAI/status/2112945805686604033",
+      "primary_url": "https://x.com/OpenAI/status/2112945805686604033",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69179414f976a75a89a283c02a7977039babf1fc",
+          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+          "title_zh": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+          "title_en": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+          "title_original": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+          "summary": "OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2112945805686604033",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:35:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "69179414f976a75a89a283c02a7977039babf1fc",
+          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+          "title_zh": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+          "title_en": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+          "title_original": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+          "summary": "OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2112945805686604033",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:35:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9884,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T16:35:11Z",
+      "latest_at": "2026-10-21T16:35:11Z",
+      "primary_item": {
+        "id": "69179414f976a75a89a283c02a7977039babf1fc",
+        "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+        "title_zh": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+        "title_en": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+        "title_original": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.",
+        "summary": "OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAI/status/2112945805686604033",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -773,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9933,
+        "recency": 0.9801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,7 +1002,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -855,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.8563,
-      "importance_score": 0.8563,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.924,
+        "recency": 0.9117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -890,63 +1085,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
-      "story_id": "story_9b4c06e45edc",
-      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "source": "GitHub Changelog",
+      "story_id": "story_369288508eca",
+      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "title_zh": "GitHub秘密扫描更新",
-          "title_en": "Updates to GitHub secret scanning",
-          "title_original": "Updates to GitHub secret scanning",
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
+          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
+          "published_at": "2026-10-21T13:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "title_zh": "GitHub秘密扫描更新",
-          "title_en": "Updates to GitHub secret scanning",
-          "title_original": "Updates to GitHub secret scanning",
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
+          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
+          "published_at": "2026-10-21T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7236,
+        "ai_relevance": 0.95,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,17 +1150,347 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T18:03:55Z",
-      "latest_at": "2026-10-20T18:03:55Z",
+      "earliest_at": "2026-10-21T13:00:00Z",
+      "latest_at": "2026-10-21T13:00:00Z",
       "primary_item": {
-        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-        "title_zh": "GitHub秘密扫描更新",
-        "title_en": "Updates to GitHub secret scanning",
-        "title_original": "Updates to GitHub secret scanning",
+        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
+        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_7b2ba03c7801",
+      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+          "title_en": "Main takeaways from SpaceX’s earnings call today",
+          "title_original": "Main takeaways from SpaceX’s earnings call today",
+          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:50:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+          "title_en": "Main takeaways from SpaceX’s earnings call today",
+          "title_original": "Main takeaways from SpaceX’s earnings call today",
+          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:50:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8342,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T04:50:29Z",
+      "latest_at": "2026-10-21T04:50:29Z",
+      "primary_item": {
+        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+        "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+        "title_en": "Main takeaways from SpaceX’s earnings call today",
+        "title_original": "Main takeaways from SpaceX’s earnings call today",
+        "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_e2be14acc0f5",
+      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fdf4626f08a65489b996035b52c7c43640346037",
+          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "title_zh": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+          "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "title_original": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:57:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fdf4626f08a65489b996035b52c7c43640346037",
+          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "title_zh": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+          "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "title_original": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:57:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9516,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:57:43Z",
+      "latest_at": "2026-10-21T13:57:43Z",
+      "primary_item": {
+        "id": "fdf4626f08a65489b996035b52c7c43640346037",
+        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "title_zh": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+        "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "title_original": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_ed75b55f2e12",
+      "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
+          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
+          "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T14:58:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
+          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
+          "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T14:58:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8538,
+      "importance": 0.8538,
+      "importance_score": 0.8538,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9656,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T14:58:18Z",
+      "latest_at": "2026-10-21T14:58:18Z",
+      "primary_item": {
+        "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
+        "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
+        "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_a59ab3527808",
+      "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
+          "title_en": "Bulk migrate branch protections to rulesets for a repository",
+          "title_original": "Bulk migrate branch protections to rulesets for a repository",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:06:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
+          "title_en": "Bulk migrate branch protections to rulesets for a repository",
+          "title_original": "Bulk migrate branch protections to rulesets for a repository",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:06:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7144,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T18:06:21Z",
+      "latest_at": "2026-10-20T18:06:21Z",
+      "primary_item": {
+        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+        "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+        "title_zh": "将分支保护批量迁移到代码仓库的规则集",
+        "title_en": "Bulk migrate branch protections to rulesets for a repository",
+        "title_original": "Bulk migrate branch protections to rulesets for a repository",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -973,7 +1498,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_78236365dbdf",
+      "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "source": "ChinaTalk（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
+          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
+          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
+          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
+          "recommend_reason_zh": null,
+          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+          "source": "ChinaTalk（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:43:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ChinaTalk（RSS）"
+      ],
+      "items": [
+        {
+          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
+          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
+          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
+          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
+          "recommend_reason_zh": null,
+          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+          "source": "ChinaTalk（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:43:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9484,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:43:39Z",
+      "latest_at": "2026-10-21T13:43:39Z",
+      "primary_item": {
+        "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
+        "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+        "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
+        "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+        "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
+        "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
+        "recommend_reason_zh": null,
+        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+        "source": "ChinaTalk（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
+      }
+    },
+    {
+      "story_id": "story_9653c3ba2d7e",
+      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+          "title_en": "LiteLLM Compromised, Steals Credentials",
+          "title_original": "LiteLLM Compromised, Steals Credentials",
+          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:44:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+          "title_en": "LiteLLM Compromised, Steals Credentials",
+          "title_original": "LiteLLM Compromised, Steals Credentials",
+          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:44:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9485,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:44:12Z",
+      "latest_at": "2026-10-21T13:44:12Z",
+      "primary_item": {
+        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+        "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+        "title_en": "LiteLLM Compromised, Steals Credentials",
+        "title_original": "LiteLLM Compromised, Steals Credentials",
+        "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
+        "recommend_reason_zh": null,
+        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -1050,15 +1739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8454,
+        "recency": 0.8341,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1086,666 +1775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_7b2ba03c7801",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8455,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:50:29Z",
-      "latest_at": "2026-10-21T04:50:29Z",
-      "primary_item": {
-        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-        "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-        "title_en": "Main takeaways from SpaceX’s earnings call today",
-        "title_original": "Main takeaways from SpaceX’s earnings call today",
-        "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_382c023f809a",
-      "title": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞 / OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-      "url": "https://x.com/OpenAI/status/2112907856018309586",
-      "primary_url": "https://x.com/OpenAI/status/2112907856018309586",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f15f29cd3ede9973df70eced83bfa7678528a3d",
-          "title": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞 / OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-          "title_zh": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞",
-          "title_en": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-          "title_original": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-          "summary": "OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2112907856018309586",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T14:04:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "1f15f29cd3ede9973df70eced83bfa7678528a3d",
-          "title": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞 / OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-          "title_zh": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞",
-          "title_en": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-          "title_original": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-          "summary": "OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2112907856018309586",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T14:04:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.966,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T14:04:23Z",
-      "latest_at": "2026-10-21T14:04:23Z",
-      "primary_item": {
-        "id": "1f15f29cd3ede9973df70eced83bfa7678528a3d",
-        "title": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞 / OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-        "title_zh": "OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞",
-        "title_en": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-        "title_original": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...",
-        "summary": "OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2112907856018309586",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_e2be14acc0f5",
-      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "title_zh": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "title_original": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "title_zh": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "title_original": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:57:43Z",
-      "latest_at": "2026-10-21T13:57:43Z",
-      "primary_item": {
-        "id": "fdf4626f08a65489b996035b52c7c43640346037",
-        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "title_zh": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-        "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "title_original": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_ed75b55f2e12",
-      "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
-          "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T14:58:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
-          "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T14:58:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9787,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T14:58:18Z",
-      "latest_at": "2026-10-21T14:58:18Z",
-      "primary_item": {
-        "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-        "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
-        "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_a59ab3527808",
-      "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-          "title_en": "Bulk migrate branch protections to rulesets for a repository",
-          "title_original": "Bulk migrate branch protections to rulesets for a repository",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-          "title_en": "Bulk migrate branch protections to rulesets for a repository",
-          "title_original": "Bulk migrate branch protections to rulesets for a repository",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7241,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:06:21Z",
-      "latest_at": "2026-10-20T18:06:21Z",
-      "primary_item": {
-        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-        "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-        "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-        "title_en": "Bulk migrate branch protections to rulesets for a repository",
-        "title_original": "Bulk migrate branch protections to rulesets for a repository",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_78236365dbdf",
-      "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "source": "ChinaTalk（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
-          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
-          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
-          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
-          "recommend_reason_zh": null,
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ChinaTalk（RSS）"
-      ],
-      "items": [
-        {
-          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
-          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
-          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
-          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
-          "recommend_reason_zh": null,
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9612,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:43:39Z",
-      "latest_at": "2026-10-21T13:43:39Z",
-      "primary_item": {
-        "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
-        "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-        "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
-        "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-        "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
-        "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
-        "recommend_reason_zh": null,
-        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-        "source": "ChinaTalk（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_9653c3ba2d7e",
-      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "title_en": "LiteLLM Compromised, Steals Credentials",
-          "title_original": "LiteLLM Compromised, Steals Credentials",
-          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "title_en": "LiteLLM Compromised, Steals Credentials",
-          "title_original": "LiteLLM Compromised, Steals Credentials",
-          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9614,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:44:12Z",
-      "latest_at": "2026-10-21T13:44:12Z",
-      "primary_item": {
-        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-        "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-        "title_en": "LiteLLM Compromised, Steals Credentials",
-        "title_original": "LiteLLM Compromised, Steals Credentials",
-        "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-        "recommend_reason_zh": null,
-        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
-      }
-    },
-    {
-      "story_id": "story_35d2cfa7a29f",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9375,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T12:00:00Z",
-      "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-        "title_en": "OpenAI models are coming to Google Cloud",
-        "title_original": "OpenAI models are coming to Google Cloud",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     },
     {
@@ -1793,15 +1823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1827,7 +1857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:28:59.166954Z"
+        "scored_at": "2026-10-21T17:24:39.172728Z"
       }
     }
   ]

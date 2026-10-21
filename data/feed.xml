@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 16:27:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 17:23:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
@@ -32,20 +32,28 @@
 <pubDate>Wed, 21 Oct 2026 14:39:53 +0000</pubDate>
 </item>
 <item>
+<title>GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens</title>
+<link>https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 16:43:23 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud</title>
+<link>https://openai.com/index/openai-models-google-cloud</link>
+<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 12:53:11 +0000</pubDate>
+</item>
+<item>
 <title>NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
 <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
-<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion</title>
@@ -64,6 +72,14 @@
 <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</title>
+<link>https://x.com/OpenAI/status/2112945805686604033</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2112945805686604033</guid>
+<description>OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 16:35:11 +0000</pubDate>
+</item>
+<item>
 <title>Microsoft Research 与合作者证明 31 年历史的 KLS 猜想 / Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</title>
 <link>https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture</link>
 <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture</guid>
@@ -80,20 +96,12 @@
 <pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
 </item>
 <item>
-<title>GitHub秘密扫描更新 / Updates to GitHub secret scanning</title>
-<link>https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 18:03:55 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data</title>
-<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+<title>ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 13:37:00 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today</title>
@@ -102,14 +110,6 @@
 <description>Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 21 Oct 2026 04:50:29 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞 / OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...</title>
-<link>https://x.com/OpenAI/status/2112907856018309586</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2112907856018309586</guid>
-<description>OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。（X：OpenAI (@OpenAI)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 14:04:23 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system</title>
@@ -152,12 +152,12 @@
 <pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud</title>
-<link>https://openai.com/index/openai-models-google-cloud</link>
-<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+<title>OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data</title>
+<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 13:37:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 收购 AI 制药初创 Orchestra Bio，把"管研发"的 Agent 收编进生命科学版图</title>
