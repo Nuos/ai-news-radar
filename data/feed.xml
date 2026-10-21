@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 02:35:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 03:30:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -72,20 +72,20 @@
 <pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
 </item>
 <item>
+<title>王腾创业首款产品ISHO Ring智能戒指官宣:搭载Apollo330B芯片，10月29日发布</title>
+<link>https://www.aibase.com/news/31773</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31773</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 03:30:44 +0000</pubDate>
+</item>
+<item>
 <title>SpaceX 财报显示 AI 业务超预期，占收入 52% / SpaceX’s AI business is beating expectations</title>
 <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations</guid>
 <description>SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-</item>
-<item>
-<title>AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报</title>
-<link>https://www.aibase.com/news/31771</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31771</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 02:35:00 +0000</pubDate>
 </item>
 <item>
 <title>Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions</title>
@@ -112,6 +112,14 @@
 <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
 </item>
 <item>
+<title>蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming / Announcing Humming: Fast, Flexible Kernels for Quantized Inference</title>
+<link>https://vllm.ai/blog/2026-10-21-humming</link>
+<guid isPermaLink="true">https://vllm.ai/blog/2026-10-21-humming</guid>
+<description>蚂蚁集团与 vLLM 社区开源通用高性能量化推理内核库 Humming，仓库为 github.com/vllm-project/humming。（vLLM 官方博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
 <link>https://x.com/thsottiaux/status/2112712984644784534</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
@@ -128,9 +136,9 @@
 <pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
 </item>
 <item>
-<title>Hugging Face 掌门人呛声 Netflix：把 AI 拍成"末日片"，受害方都不认</title>
-<link>https://www.aibase.com/news/31772</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31772</guid>
+<title>AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报</title>
+<link>https://www.aibase.com/news/31771</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31771</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 21 Oct 2026 02:35:00 +0000</pubDate>
@@ -158,14 +166,6 @@
 <description>Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to("cuda") 改为 .to("tpu")。（PyTorch：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
-</item>
-<item>
-<title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一 / FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
-<link>https://x.com/fal/status/2112600472922333263</link>
-<guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
-<description>fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。（X：fal (@fal)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
 </item>
 </channel>
 </rss>
