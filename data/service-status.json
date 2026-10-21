@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T14:28:08.396149Z",
+  "generated_at": "2026-10-21T15:27:27.102754Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -19,7 +19,7 @@
       "title": "Elevated FedRAMP API error rates for Astra and Sol",
       "title_zh": "Elevated FedRAMP API error rates for Astra and Sol",
       "status": "identified",
-      "impact": "major",
+      "impact": "minor",
       "started_at": "2026-10-21T14:17:32Z",
       "updated_at": "2026-10-21T14:17:32Z",
       "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
