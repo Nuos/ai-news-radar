@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:30:50.526989Z",
+  "generated_at": "2026-10-21T19:22:45.772826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -134,15 +134,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8994,
-      "importance": 0.8994,
-      "importance_score": 0.8994,
+      "score": 0.8975,
+      "importance": 0.8975,
+      "importance_score": 0.8975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8468,
+        "recency": 0.8363,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,149 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
+      }
+    },
+    {
+      "story_id": "story_35d2cfa7a29f",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
+          "title": "OpenAI 模型即将登陆 Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": null,
+          "title_original": "OpenAI 模型即将登陆 Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T18:37:43.968000Z"
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
+          "title": "OpenAI 模型即将登陆 Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": null,
+          "title_original": "OpenAI 模型即将登陆 Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T18:37:43.968000Z"
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8898,
+      "importance": 0.8898,
+      "importance_score": 0.8898,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8989,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T12:00:00Z",
+      "latest_at": "2026-10-21T18:37:43.968000Z",
+      "primary_item": {
+        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+        "title_en": "OpenAI models are coming to Google Cloud",
+        "title_original": "OpenAI models are coming to Google Cloud",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -218,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.999,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -359,15 +501,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9188,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -394,7 +536,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -442,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9745,
+        "recency": 0.9624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,120 +619,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
-      }
-    },
-    {
-      "story_id": "story_35d2cfa7a29f",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8668,
-      "importance": 0.8668,
-      "importance_score": 0.8668,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9102,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T12:53:11Z",
-      "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-        "title_en": "OpenAI models are coming to Google Cloud",
-        "title_original": "OpenAI models are coming to Google Cloud",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -638,15 +667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8554,
+      "importance": 0.8554,
+      "importance_score": 0.8554,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9868,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -673,7 +702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -721,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8109,
+        "recency": 0.8008,
         "story_heat": 0.0
       },
       "category": "official",
@@ -756,7 +785,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -804,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,7 +867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -886,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.9605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -920,7 +949,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -968,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9643,
+        "recency": 0.9524,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,7 +1031,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1050,15 +1079,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8516,
+      "importance": 0.8516,
+      "importance_score": 0.8516,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9654,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1085,7 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1133,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8459,
+      "importance": 0.8459,
+      "importance_score": 0.8459,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9784,
+        "recency": 0.9662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1168,7 +1197,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1216,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1250,7 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1298,15 +1327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9364,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,7 +1361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1380,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9216,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1415,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1463,15 +1492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1497,7 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1545,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1579,7 +1608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1627,15 +1656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9235,
+        "recency": 0.912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1662,7 +1691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1710,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1743,7 +1772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     },
     {
@@ -1791,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7654,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1824,7 +1853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:32:09.557470Z"
+        "scored_at": "2026-10-21T19:23:54.815668Z"
       }
     }
   ]
