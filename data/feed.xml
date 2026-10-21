@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:55:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 01:34:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -56,6 +56,14 @@
 <pubDate>Tue, 20 Oct 2026 18:03:55 +0000</pubDate>
 </item>
 <item>
+<title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
+<link>https://openai.com/index/terminal-x</link>
+<guid isPermaLink="true">https://openai.com/index/terminal-x</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
 <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
@@ -72,12 +80,12 @@
 <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
 </item>
 <item>
-<title>Salesforce 豪掷 56.6 亿美元吞下 Braze：补上"实时互动"这块 AI 拼图</title>
-<link>https://www.aibase.com/news/31763</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31763</guid>
+<title>OpenAI 专治"古董代码"：COBOL 迁移准确率飙到 97.9%，银行老系统有救了</title>
+<link>https://www.aibase.com/news/31765</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31765</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 00:55:53 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 01:34:31 +0000</pubDate>
 </item>
 <item>
 <title>Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions</title>
@@ -102,6 +110,14 @@
 <description>安全公司 Claroc 的研究人员发现，Meta 的 AI 智能体 Muse 的对话分享链接存在隐私风险，仅用一次查询就枚举出 6800 个分享链接，打开其中数百个后发现贷款申请、收入报表、员工假期日历等敏感内容。（Ars Technica：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
+<link>https://x.com/thsottiaux/status/2112712984644784534</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
+<description>OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。（X：Tibo (@thsottiaux)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
 </item>
 <item>
 <title>路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元 / Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</title>
@@ -136,36 +152,20 @@
 <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
 </item>
 <item>
+<title>​OpenAI 重磅上线 ChatGPT“锁定聊天”功能：四位数 PIN 码与生物识别双保险</title>
+<link>https://www.aibase.com/news/31764</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31764</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 01:34:31 +0000</pubDate>
+</item>
+<item>
 <title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一 / FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
 <link>https://x.com/fal/status/2112600472922333263</link>
 <guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
 <description>fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。（X：fal (@fal)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
-</item>
-<item>
-<title>SpaceX第三季度营收146亿美元:人工智能业务占比达52%并推动公司扭亏为盈</title>
-<link>https://www.aibase.com/news/31762</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31762</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 00:55:53 +0000</pubDate>
-</item>
-<item>
-<title>公共预览版中的 GitHub 软件包防火墙 / GitHub package firewall in public preview</title>
-<link>https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 16:11:53 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理 / You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!</title>
-<link>https://x.com/AravSrinivas/status/2112583333825950207</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2112583333825950207</guid>
-<description>Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 16:34:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
