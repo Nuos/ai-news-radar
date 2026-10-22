@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 23:23:50 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 00:54:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
@@ -46,6 +46,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 16:43:23 +0000</pubDate>
+</item>
+<item>
+<title>卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</guid>
+<description>作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Thu, 22 Oct 2026 00:06:00 +0000</pubDate>
 </item>
 <item>
 <title>SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
@@ -158,14 +166,6 @@
 <description>中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。（ChinaTalk（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
-</item>
-<item>
-<title>Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound</title>
-<link>https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound</link>
-<guid isPermaLink="true">https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound</guid>
-<description>Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于"盲扫"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。（Google Research：Blog（网页））</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
