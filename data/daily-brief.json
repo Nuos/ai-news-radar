@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:22:36.622159Z",
+  "generated_at": "2026-10-22T20:26:13.636309Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.955,
+        "recency": 0.9405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
+      }
+    },
+    {
+      "story_id": "story_59aa6c306989",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "primary_url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "Build more responsive apps with the Decisions API",
+          "title_zh": null,
+          "title_en": "Build more responsive apps with the Decisions API",
+          "title_original": "Build more responsive apps with the Decisions API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "Build more responsive apps with the Decisions API",
+          "title_zh": null,
+          "title_en": "Build more responsive apps with the Decisions API",
+          "title_original": "Build more responsive apps with the Decisions API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T19:00:00Z",
+      "latest_at": "2026-10-22T19:00:00Z",
+      "primary_item": {
+        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+        "title": "Build more responsive apps with the Decisions API",
+        "title_zh": null,
+        "title_en": "Build more responsive apps with the Decisions API",
+        "title_original": "Build more responsive apps with the Decisions API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9589,
+        "recency": 0.9444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9321,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
-      }
-    },
-    {
-      "story_id": "story_c737801d4d18",
-      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8243,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T06:00:00Z",
-      "latest_at": "2026-10-22T06:00:00Z",
-      "primary_item": {
-        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-        "title_zh": "FDE 在 OpenAI 中意味着什么",
-        "title_en": "What FDE means at OpenAI",
-        "title_original": "What FDE means at OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9837,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8468,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
+      }
+    },
+    {
+      "story_id": "story_c737801d4d18",
+      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+          "title_zh": "FDE 在 OpenAI 中意味着什么",
+          "title_en": "What FDE means at OpenAI",
+          "title_original": "What FDE means at OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+          "title_zh": "FDE 在 OpenAI 中意味着什么",
+          "title_en": "What FDE means at OpenAI",
+          "title_original": "What FDE means at OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8118,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T06:00:00Z",
+      "latest_at": "2026-10-22T06:00:00Z",
+      "primary_item": {
+        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+        "title_zh": "FDE 在 OpenAI 中意味着什么",
+        "title_en": "What FDE means at OpenAI",
+        "title_original": "What FDE means at OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/forward-deployed-engineering-means",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,90 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
-      }
-    },
-    {
-      "story_id": "story_03328888af92",
-      "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "primary_url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "736bc27726d9b7823372f2500e780984c02fd065",
-          "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_zh": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
-          "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "736bc27726d9b7823372f2500e780984c02fd065",
-          "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_zh": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
-          "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7559,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T00:00:00Z",
-      "latest_at": "2026-10-22T00:00:00Z",
-      "primary_item": {
-        "id": "736bc27726d9b7823372f2500e780984c02fd065",
-        "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-        "title_zh": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
-        "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -711,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.951,
+        "recency": 0.9366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -793,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9306,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -875,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9834,
+        "recency": 0.9684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -910,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -958,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.757,
+        "recency": 0.7455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -1040,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9461,
+        "recency": 0.9317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -1122,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -1204,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8309,
+        "recency": 0.8183,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1238,63 +1238,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
-      "story_id": "story_ef6abafa09f3",
-      "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-      "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
-      "primary_url": "https://x.com/mustafasuleyman/status/2113332931423039945",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "story_id": "story_141a9a8b3646",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b01596a408002b2a0ab18d7315dd882d4c77d5e4",
-          "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-          "title_zh": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science",
-          "title_en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-          "title_original": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-          "summary": "Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。",
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T18:13:29Z"
+          "published_at": "2026-10-22T20:04:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "b01596a408002b2a0ab18d7315dd882d4c77d5e4",
-          "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-          "title_zh": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science",
-          "title_en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-          "title_original": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-          "summary": "Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。",
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T18:13:29Z"
+          "published_at": "2026-10-22T20:04:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9835,
+        "recency": 0.9948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1302,25 +1302,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T18:13:29Z",
-      "latest_at": "2026-10-22T18:13:29Z",
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
       "primary_item": {
-        "id": "b01596a408002b2a0ab18d7315dd882d4c77d5e4",
-        "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-        "title_zh": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science",
-        "title_en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-        "title_original": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
-        "summary": "Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。",
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -1368,15 +1368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8151,
+        "recency": 0.8027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1402,7 +1402,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
+      }
+    },
+    {
+      "story_id": "story_ef6abafa09f3",
+      "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+      "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+      "primary_url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b01596a408002b2a0ab18d7315dd882d4c77d5e4",
+          "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+          "title_zh": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science",
+          "title_en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+          "title_original": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+          "summary": "Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:13:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "b01596a408002b2a0ab18d7315dd882d4c77d5e4",
+          "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+          "title_zh": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science",
+          "title_en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+          "title_original": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+          "summary": "Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:13:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9686,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T18:13:29Z",
+      "latest_at": "2026-10-22T18:13:29Z",
+      "primary_item": {
+        "id": "b01596a408002b2a0ab18d7315dd882d4c77d5e4",
+        "title": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+        "title_zh": "Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science",
+        "title_en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+        "title_original": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.",
+        "summary": "Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -1450,15 +1532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7844,
+        "recency": 0.7725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1484,7 +1566,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     },
     {
@@ -1532,15 +1614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8927,
+        "recency": 0.8791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1566,89 +1648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
-      }
-    },
-    {
-      "story_id": "story_a39271ddeb17",
-      "title": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation / Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-      "url": "https://x.com/bcherny/status/2113333859907747871",
-      "primary_url": "https://x.com/bcherny/status/2113333859907747871",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8c425d04cae2aca810bca304798551e5105b9076",
-          "title": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation / Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-          "title_zh": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation",
-          "title_en": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-          "title_original": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-          "summary": "Anthropic 的 Boris Cherny 宣布将 Agent Skills 捐赠给 Agentic AI Foundation，与此前捐赠的 MCP 并列。Agent Skills 起源于 Claude Code 的实验，因行业广泛采用而开放。引用的 @ClaudeDevs 内容提到，自 2025 年 12 月以来已有 70+ 智能体平台集成该标准，包括 ChatGPT、Cursor、GitHub Copilot 和 VS Code。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2113333859907747871",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T18:17:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "8c425d04cae2aca810bca304798551e5105b9076",
-          "title": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation / Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-          "title_zh": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation",
-          "title_en": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-          "title_original": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-          "summary": "Anthropic 的 Boris Cherny 宣布将 Agent Skills 捐赠给 Agentic AI Foundation，与此前捐赠的 MCP 并列。Agent Skills 起源于 Claude Code 的实验，因行业广泛采用而开放。引用的 @ClaudeDevs 内容提到，自 2025 年 12 月以来已有 70+ 智能体平台集成该标准，包括 ChatGPT、Cursor、GitHub Copilot 和 VS Code。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2113333859907747871",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T18:17:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9844,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T18:17:10Z",
-      "latest_at": "2026-10-22T18:17:10Z",
-      "primary_item": {
-        "id": "8c425d04cae2aca810bca304798551e5105b9076",
-        "title": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation / Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-        "title_zh": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation",
-        "title_en": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-        "title_original": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fi...",
-        "summary": "Anthropic 的 Boris Cherny 宣布将 Agent Skills 捐赠给 Agentic AI Foundation，与此前捐赠的 MCP 并列。Agent Skills 起源于 Claude Code 的实验，因行业广泛采用而开放。引用的 @ClaudeDevs 内容提到，自 2025 年 12 月以来已有 70+ 智能体平台集成该标准，包括 ChatGPT、Cursor、GitHub Copilot 和 VS Code。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2113333859907747871",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T19:40:29.482036Z"
+        "scored_at": "2026-10-22T20:39:50.353499Z"
       }
     }
   ]
