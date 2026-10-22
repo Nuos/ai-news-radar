@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 22 Oct 2026 22:23:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 23:24:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
+</item>
 <item>
 <title>Global default for Copilot features generally available</title>
 <link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
@@ -14,14 +22,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 22 Oct 2026 20:44:28 +0000</pubDate>
-</item>
-<item>
-<title>OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
-<link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API</title>
@@ -40,20 +40,20 @@
 <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
 </item>
 <item>
+<title>OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+<link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+</item>
+<item>
 <title>Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard</title>
 <link>https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 22 Oct 2026 16:28:24 +0000</pubDate>
-</item>
-<item>
-<title>使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models</title>
-<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 </item>
 <item>
 <title>FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI</title>
@@ -120,6 +120,14 @@
 <pubDate>Thu, 22 Oct 2026 15:32:17 +0000</pubDate>
 </item>
 <item>
+<title>使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models</title>
+<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+</item>
+<item>
 <title>PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应 / Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
 <link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</link>
 <guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</guid>
@@ -158,14 +166,6 @@
 <description>Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。（X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 22 Oct 2026 18:13:29 +0000</pubDate>
-</item>
-<item>
-<title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
-<link>https://x.com/Khazix0918/status/2113096414469464281</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2113096414469464281</guid>
-<description>作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。（X：卡兹克 (@Khazix0918)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 02:33:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
