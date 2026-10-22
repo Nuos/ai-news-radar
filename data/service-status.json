@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T21:24:16.538433Z",
+  "generated_at": "2026-10-22T22:23:52.921701Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -21,8 +21,8 @@
       "status": "identified",
       "impact": "minor",
       "started_at": "2026-10-22T19:36:53Z",
-      "updated_at": "2026-10-22T19:36:53Z",
-      "message": "We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.",
+      "updated_at": "2026-10-22T21:30:55Z",
+      "message": "We have identified the issue and are working to implement the mitigation.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
     }
