@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 19:23:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 20:27:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -32,20 +32,12 @@
 <pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
-<title>确保我们的前沿模型训练环境的安全 / Securing our frontier model training environment</title>
+<title>OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment</title>
 <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
 <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro</title>
-<link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
-<guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
-<description>月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。（Moonshot AI：Kimi Blog）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up</title>
@@ -54,6 +46,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro</title>
+<link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
+<guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
+<description>月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。（Moonshot AI：Kimi Blog）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.</title>
@@ -112,20 +112,20 @@
 <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
 </item>
 <item>
-<title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
-<link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
-<description>据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security</title>
 <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
 <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
+<link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
+<description>据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
 <title>AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为 / Investigating alignment failures in AISI’s incident</title>
@@ -152,20 +152,20 @@
 <pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
 </item>
 <item>
-<title>Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.</title>
-<link>https://x.com/claudeai/status/2113360845409583307</link>
-<guid isPermaLink="true">https://x.com/claudeai/status/2113360845409583307</guid>
-<description>Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。（X：Claude (@claudeai)）</description>
+<title>SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国</title>
+<link>https://www.aibase.com/news/31842</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31842</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 09:29:26 +0000</pubDate>
 </item>
 <item>
-<title>The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑 / Sure, let’s smoosh SpaceX and Tesla together, who cares</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</guid>
-<description>The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
+<title>Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available</title>
+<link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 22 Oct 2026 20:44:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
