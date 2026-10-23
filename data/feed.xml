@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 00:57:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 01:36:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -104,12 +104,12 @@
 <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
 </item>
 <item>
-<title>谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型</title>
-<link>https://www.aibase.com/news/31811</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31811</guid>
+<title>MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿</title>
+<link>https://www.aibase.com/news/31816</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31816</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 00:57:41 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 01:36:12 +0000</pubDate>
 </item>
 <item>
 <title>METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems</title>
@@ -144,6 +144,14 @@
 <pubDate>Thu, 22 Oct 2026 06:32:56 +0000</pubDate>
 </item>
 <item>
+<title>MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B / MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.</title>
+<link>https://x.com/MiniMax_AI/status/2113436864904610008</link>
+<guid isPermaLink="true">https://x.com/MiniMax_AI/status/2113436864904610008</guid>
+<description>MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。（X：MiniMax (@MiniMax_AI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 01:06:29 +0000</pubDate>
+</item>
+<item>
 <title>NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</title>
 <link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
@@ -158,14 +166,6 @@
 <description>Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science / Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.</title>
-<link>https://x.com/mustafasuleyman/status/2113332931423039945</link>
-<guid isPermaLink="true">https://x.com/mustafasuleyman/status/2113332931423039945</guid>
-<description>Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。（X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 18:13:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
