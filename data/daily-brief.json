@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:31:45.240706Z",
+  "generated_at": "2026-10-23T19:23:57.269565Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8602,
-      "importance": 0.8602,
-      "importance_score": 0.8602,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9678,
+        "recency": 0.9557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9782,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9511,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
+      }
+    },
+    {
+      "story_id": "story_f1fd04d99c59",
+      "title": "确保我们的前沿模型训练环境的安全 / Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "确保我们的前沿模型训练环境的安全 / Securing our frontier model training environment",
+          "title_zh": "确保我们的前沿模型训练环境的安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "确保我们的前沿模型训练环境的安全 / Securing our frontier model training environment",
+          "title_zh": "确保我们的前沿模型训练环境的安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8731,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T10:00:00Z",
+      "latest_at": "2026-10-23T10:00:00Z",
+      "primary_item": {
+        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+        "title": "确保我们的前沿模型训练环境的安全 / Securing our frontier model training environment",
+        "title_zh": "确保我们的前沿模型训练环境的安全",
+        "title_en": "Securing our frontier model training environment",
+        "title_original": "Securing our frontier model training environment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9641,
+        "recency": 0.9521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -379,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7652,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,7 +497,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
+      }
+    },
+    {
+      "story_id": "story_57f360d69226",
+      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+      "url": "https://x.com/OpenRouter/status/2113699820124934334",
+      "primary_url": "https://x.com/OpenRouter/status/2113699820124934334",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
+          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+          "title_zh": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+          "title_en": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+          "title_original": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+          "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2113699820124934334",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:31:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
+          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+          "title_zh": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+          "title_en": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+          "title_original": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+          "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2113699820124934334",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:31:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9874,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:31:22Z",
+      "latest_at": "2026-10-23T18:31:22Z",
+      "primary_item": {
+        "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
+        "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+        "title_zh": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+        "title_en": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+        "title_original": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
+        "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2113699820124934334",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -462,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7685,
+        "recency": 0.7589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,90 +662,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
-      "story_id": "story_ce7f81360e67",
-      "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cec8ba557731",
+      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+      "url": "https://x.com/alexeheath/status/2113706585348600220",
+      "primary_url": "https://x.com/alexeheath/status/2113706585348600220",
+      "source": "X：Alex Heath (@alexeheath)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "summary": null,
+          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+          "title_zh": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+          "title_original": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+          "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "url": "https://x.com/alexeheath/status/2113706585348600220",
+          "source": "X：Alex Heath (@alexeheath)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:58:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Alex Heath (@alexeheath)"
       ],
       "items": [
         {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "summary": null,
+          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+          "title_zh": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+          "title_original": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+          "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "url": "https://x.com/alexeheath/status/2113706585348600220",
+          "source": "X：Alex Heath (@alexeheath)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:58:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
-      "importance_label": "官方更新",
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7652,
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9938,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
+      "earliest_at": "2026-10-23T18:58:15Z",
+      "latest_at": "2026-10-23T18:58:15Z",
       "primary_item": {
-        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-        "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-        "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "summary": null,
+        "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+        "title_zh": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+        "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+        "title_original": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+        "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/alexeheath/status/2113706585348600220",
+        "source": "X：Alex Heath (@alexeheath)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -628,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8819,
+        "recency": 0.8709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -710,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8751,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -792,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -874,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7479,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -957,21 +1121,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T06:04:55Z",
       "latest_at": "2026-10-23T06:04:55Z",
@@ -991,88 +1154,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
-      "story_id": "story_c9271f0c343a",
-      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-      "url": "https://www.aibase.com/news/31847",
-      "primary_url": "https://www.aibase.com/news/31847",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ce7f81360e67",
+      "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_en": null,
-          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T10:26:14.525508Z"
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_en": null,
-          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T10:26:14.525508Z"
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "行业动态",
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-23T10:26:14.525508Z",
-      "latest_at": "2026-10-23T10:26:14.525508Z",
+      "earliest_at": "2026-10-23T00:00:00Z",
+      "latest_at": "2026-10-23T00:00:00Z",
       "primary_item": {
-        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-        "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-        "title_en": null,
-        "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+        "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+        "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31847",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -1120,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +1318,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
+      }
+    },
+    {
+      "story_id": "story_c9271f0c343a",
+      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+      "url": "https://www.aibase.com/news/31847",
+      "primary_url": "https://www.aibase.com/news/31847",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "title_en": null,
+          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31847",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T10:26:14.525508Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "title_en": null,
+          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31847",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T10:26:14.525508Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8786,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T10:26:14.525508Z",
+      "latest_at": "2026-10-23T10:26:14.525508Z",
+      "primary_item": {
+        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "title_en": null,
+        "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31847",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -1201,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7469,
+        "recency": 0.7376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1236,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -1313,15 +1559,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1347,90 +1593,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
-      }
-    },
-    {
-      "story_id": "story_59aa6c306989",
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "primary_url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "title_en": "Build more responsive apps with the Decisions API",
-          "title_original": "Build more responsive apps with the Decisions API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/decisions-api",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "title_en": "Build more responsive apps with the Decisions API",
-          "title_original": "Build more responsive apps with the Decisions API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/decisions-api",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7119,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T19:00:00Z",
-      "latest_at": "2026-10-22T19:00:00Z",
-      "primary_item": {
-        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-        "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-        "title_en": "Build more responsive apps with the Decisions API",
-        "title_original": "Build more responsive apps with the Decisions API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/decisions-api",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     },
     {
@@ -1478,15 +1641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7197,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,171 +1674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
-      }
-    },
-    {
-      "story_id": "story_39751b138c53",
-      "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-      "url": "https://www.aibase.com/news/31842",
-      "primary_url": "https://www.aibase.com/news/31842",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_en": null,
-          "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_en": null,
-          "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8776,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T09:29:26.825017Z",
-      "latest_at": "2026-10-23T09:29:26.825017Z",
-      "primary_item": {
-        "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-        "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "title_en": null,
-        "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31842",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
-      }
-    },
-    {
-      "story_id": "story_ea79a79632a0",
-      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "title_zh": "Copilot 功能的全局默认设置已全面可用",
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "title_zh": "Copilot 功能的全局默认设置已全面可用",
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7301,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
-      "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-        "title_zh": "Copilot 功能的全局默认设置已全面可用",
-        "title_en": "Global default for Copilot features generally available",
-        "title_original": "Global default for Copilot features generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T18:32:31.097962Z"
+        "scored_at": "2026-10-23T19:25:00.644154Z"
       }
     }
   ]
