@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T04:30:10.541079Z",
+  "generated_at": "2026-10-23T05:26:23.197609Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Delays in customer support responses",
       "title_zh": "Delays in customer support responses",
-      "status": "investigating",
+      "status": "identified",
       "impact": "none",
       "started_at": "2026-10-23T03:41:03Z",
-      "updated_at": "2026-10-23T03:57:09Z",
-      "message": "As a temporary solution, customers looking to reach out to OpenAI Support can email [[redacted-email]](mailto:[redacted-email] \"[redacted-email]\").",
+      "updated_at": "2026-10-23T04:43:12Z",
+      "message": "A fix is being implemented for the issue affecting our support systems. Customers may continue to experience delays in receiving support responses. We will provide further updates as recovery progresses.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H"
     }
