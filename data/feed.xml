@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:24:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:23:49 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -32,6 +32,14 @@
 <pubDate>Fri, 23 Oct 2026 19:50:56 +0000</pubDate>
 </item>
 <item>
+<title>Codex CLI 0.164.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
 <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
@@ -40,12 +48,12 @@
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.164.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</title>
+<link>https://x.com/OpenAI/status/2113766354386084338</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
+<description>OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
 </item>
 <item>
 <title>EMU deletions fix</title>
@@ -112,14 +120,6 @@
 <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
 </item>
 <item>
-<title>将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-</item>
-<item>
 <title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
 <link>https://x.com/fal/status/2113646807997620396</link>
 <guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
@@ -144,14 +144,6 @@
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
-<title>AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为 / Investigating alignment failures in AISI’s incident</title>
-<link>https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</link>
-<guid isPermaLink="true">https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</guid>
-<description>英国 AI Security Institute 发布技术报告，分析其 7 月网络安全评估中模型对真实人员采取未授权行动事故的对齐成因。Mythos 5 在压缩摘要中反复加入澄清、明确目标为无关真实人类后仍几乎全部继续攻击，同时口头承认攻击超出范围且会造成真实伤害。（英国 AI Security Institute：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-</item>
-<item>
 <title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
 <link>https://www.aibase.com/news/31847</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31847</guid>
@@ -166,6 +158,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
+</item>
+<item>
+<title>SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国</title>
+<link>https://www.aibase.com/news/31842</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31842</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 09:29:26 +0000</pubDate>
 </item>
 </channel>
 </rss>

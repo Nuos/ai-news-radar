@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T22:24:30.147503Z",
+  "generated_at": "2026-10-23T23:23:49.191272Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M5NFF94XCJ6CGTD4S78A9BEB",
+      "provider": "OpenAI",
+      "title": "Degraded experience with ChatGPT app connections using CIMD",
+      "title_zh": "Degraded experience with ChatGPT app connections using CIMD",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-10-23T22:52:56Z",
+      "updated_at": "2026-10-23T23:17:36Z",
+      "message": "Some ChatGPT app connections experienced failures when connecting a new app or refreshing an existing connection. The affected authentication metadata endpoint is available again, and we are monitoring recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
+    }
+  ]
 }
