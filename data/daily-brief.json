@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T22:23:03.784634Z",
+  "generated_at": "2026-10-24T23:21:34.292881Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_84a11f0b50ca",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7207,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.851,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,89 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
-      }
-    },
-    {
-      "story_id": "story_91d09a1a5262",
-      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-      "url": "https://x.com/OpenAI/status/2113766354386084338",
-      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_zh": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "title_en": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_zh": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "title_en": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T22:55:45Z",
-      "latest_at": "2026-10-23T22:55:45Z",
-      "primary_item": {
-        "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-        "title_zh": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-        "title_en": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-        "title_original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-        "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2113766354386084338",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -377,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7466,
+        "recency": 0.7361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -516,15 +434,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8276,
+        "recency": 0.8161,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -549,31 +467,17 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
-      "story_id": "story_9d351d20c430",
-      "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-      "url": "https://news.ycombinator.com/item?id=50224463",
-      "primary_url": "https://news.ycombinator.com/item?id=50224463",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_45843157ba03",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
-        {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-          "title_zh": "科技行业之外没有人工智能带来回报的迹象",
-          "title_en": "No Signs of AI Payoff Outside the Tech Sector",
-          "title_original": "No Signs of AI Payoff Outside the Tech Sector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50224463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
-        },
         {
           "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
           "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
@@ -586,6 +490,20 @@
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
           "published_at": "2026-10-24T19:47:19Z"
         }
       ],
@@ -596,20 +514,6 @@
       ],
       "items": [
         {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-          "title_zh": "科技行业之外没有人工智能带来回报的迹象",
-          "title_en": "No Signs of AI Payoff Outside the Tech Sector",
-          "title_original": "No Signs of AI Payoff Outside the Tech Sector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50224463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
-        },
-        {
           "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
           "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
@@ -622,19 +526,33 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9632,
+        "recency": 0.9497,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -644,124 +562,14 @@
       "earliest_at": "2026-10-24T19:47:19Z",
       "latest_at": "2026-10-24T19:47:19Z",
       "primary_item": {
-        "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-        "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-        "title_zh": "科技行业之外没有人工智能带来回报的迹象",
-        "title_en": "No Signs of AI Payoff Outside the Tech Sector",
-        "title_original": "No Signs of AI Payoff Outside the Tech Sector",
+        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+        "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+        "title_en": "No signs of AI payoff outside the tech sector",
+        "title_original": "No signs of AI payoff outside the tech sector",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50224463",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
-      }
-    },
-    {
-      "story_id": "story_547557e54621",
-      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "primary_url": "https://arxiv.org/abs/2610.29162",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T18:04:57Z"
-        },
-        {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50223647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T18:04:57Z"
-        },
-        {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50223647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9398,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T18:04:57Z",
-      "latest_at": "2026-10-24T18:04:57Z",
-      "primary_item": {
-        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-        "title_zh": "为什么人工智能生成的语言如此难以理解？",
-        "title_en": "Why is AI generated language so hard to understand?",
-        "title_original": "Why is AI generated language so hard to understand?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2610.29162",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -769,7 +577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -846,15 +654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8523,
+        "recency": 0.8404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,44 +687,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
-      "story_id": "story_7fe47d8289ef",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "story_id": "story_547557e54621",
+      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "url": "https://arxiv.org/abs/2610.29162",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T18:04:57Z"
         },
         {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50222283",
+          "url": "https://news.ycombinator.com/item?id=50223647",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T18:04:57Z"
         }
       ],
       "source_count": 2,
@@ -926,62 +734,62 @@
       ],
       "items": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "url": "https://arxiv.org/abs/2610.29162",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T18:04:57Z"
         },
         {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50222283",
+          "url": "https://news.ycombinator.com/item?id=50223647",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T18:04:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9065,
+        "recency": 0.9266,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-24T18:04:57Z",
       "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-        "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+        "title_zh": "为什么人工智能生成的语言如此难以理解？",
+        "title_en": "Why is AI generated language so hard to understand?",
+        "title_original": "Why is AI generated language so hard to understand?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "url": "https://arxiv.org/abs/2610.29162",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -989,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -1066,15 +874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8467,
+        "recency": 0.8348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,7 +907,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
+      }
+    },
+    {
+      "story_id": "story_7fe47d8289ef",
+      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8938,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
+      "primary_item": {
+        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+        "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     },
     {
@@ -1176,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7618,
+        "recency": 0.7512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1209,7 +1127,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T22:23:59.008509Z"
+        "scored_at": "2026-10-24T23:22:31.753576Z"
       }
     }
   ]
