@@ -1,8 +1,150 @@
 {
-  "generated_at": "2026-10-24T06:36:30.211609Z",
+  "generated_at": "2026-10-24T07:25:33.142608Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f1fd04d99c59",
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T10:00:00Z"
+        },
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T10:00:00Z"
+        },
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7339,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T10:00:00Z",
+      "latest_at": "2026-10-24T06:38:45.839000Z",
+      "primary_item": {
+        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+        "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+        "title_en": "Securing our frontier model training environment",
+        "title_original": "Securing our frontier model training environment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T07:26:24.229864Z"
+      }
+    },
     {
       "story_id": "story_9e26901013de",
       "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
@@ -48,15 +190,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8129,
+        "recency": 0.8034,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,120 +225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
-      }
-    },
-    {
-      "story_id": "story_f1fd04d99c59",
-      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z"
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z"
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7426,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T10:00:00Z",
-      "latest_at": "2026-10-23T19:50:56Z",
-      "primary_item": {
-        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-        "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-        "title_en": "Securing our frontier model training environment",
-        "title_original": "Securing our frontier model training environment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -244,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8767,
+        "recency": 0.8665,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -327,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8216,
+        "recency": 0.8119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -410,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9051,
+        "recency": 0.8944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -493,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -575,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -657,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.8003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -739,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8449,
+        "recency": 0.835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -774,7 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -822,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.83,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -904,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8453,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -986,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7408,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -1067,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.735,
+        "recency": 0.7264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -1148,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7983,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1181,7 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -1229,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8252,
+        "recency": 0.8155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1264,7 +1293,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -1312,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7473,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,88 +1374,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
-      }
-    },
-    {
-      "story_id": "story_39751b138c53",
-      "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-      "url": "https://www.aibase.com/news/31842",
-      "primary_url": "https://www.aibase.com/news/31842",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_en": null,
-          "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_en": null,
-          "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7372,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T09:29:26.825017Z",
-      "latest_at": "2026-10-23T09:29:26.825017Z",
-      "primary_item": {
-        "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-        "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "title_en": null,
-        "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31842",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
@@ -1474,15 +1422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7989,
+        "recency": 0.7895,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1509,169 +1457,366 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
-      "story_id": "story_de3d2917b3df",
-      "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-      "url": "https://www.aibase.com/news/31843",
-      "primary_url": "https://www.aibase.com/news/31843",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_64d4f5514fec",
+      "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+      "url": "https://cowagent.ai/en",
+      "primary_url": "https://cowagent.ai/en",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_zh": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_en": null,
-          "title_original": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
+          "url": "https://cowagent.ai/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T03:32:47Z"
+        },
+        {
+          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T03:32:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_zh": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_en": null,
-          "title_original": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
+          "url": "https://cowagent.ai/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T03:32:47Z"
+        },
+        {
+          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T03:32:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7372,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9455,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T09:29:26.825017Z",
-      "latest_at": "2026-10-23T09:29:26.825017Z",
+      "earliest_at": "2026-10-24T03:32:47Z",
+      "latest_at": "2026-10-24T03:32:47Z",
       "primary_item": {
-        "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-        "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-        "title_zh": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-        "title_en": null,
-        "title_original": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+        "id": "838304f89628efa3104373cf28e23366e3fa6b83",
+        "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+        "title_zh": "CowAgent – 开源超级人工智能助手",
+        "title_en": "CowAgent – Open-Source Super AI Assistant",
+        "title_original": "CowAgent – Open-Source Super AI Assistant",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31843",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://cowagent.ai/en",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     },
     {
-      "story_id": "story_4a790cae95d0",
-      "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-      "url": "https://www.aibase.com/news/31846",
-      "primary_url": "https://www.aibase.com/news/31846",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1296c7a1eab2",
+      "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "primary_url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "source": "www.sverigesradio.se",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
           "title_en": null,
-          "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "www.sverigesradio.se",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T16:26:53.619000Z"
+        },
+        {
+          "id": "471563dfcbef9c233c6252223a2b02448c265c24",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T11:39:54Z"
+        },
+        {
+          "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
+          "title": "瑞典政府办公室将禁止 ChatGPT 和 Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府办公室将禁止 ChatGPT 和 Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50207405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T11:39:54Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.sverigesradio.se"
       ],
       "items": [
         {
-          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
           "title_en": null,
-          "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T09:29:26.825017Z"
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "www.sverigesradio.se",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T16:26:53.619000Z"
+        },
+        {
+          "id": "471563dfcbef9c233c6252223a2b02448c265c24",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T11:39:54Z"
+        },
+        {
+          "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
+          "title": "瑞典政府办公室将禁止 ChatGPT 和 Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府办公室将禁止 ChatGPT 和 Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50207405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T11:39:54Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7372,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8055,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T09:29:26.825017Z",
-      "latest_at": "2026-10-23T09:29:26.825017Z",
+      "earliest_at": "2026-10-23T11:39:54Z",
+      "latest_at": "2026-10-23T16:26:53.619000Z",
       "primary_item": {
-        "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-        "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-        "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+        "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
+        "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+        "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
         "title_en": null,
-        "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+        "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31846",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+        "source": "www.sverigesradio.se",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T06:37:14.910243Z"
+        "scored_at": "2026-10-24T07:26:24.229864Z"
+      }
+    },
+    {
+      "story_id": "story_c03b3b12c722",
+      "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "primary_url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": null,
+          "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T20:38:45.451000Z"
+        },
+        {
+          "id": "b22604f6224ace5bd5554cf5dee86e8a15e4a127",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_original": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T18:24:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "artificialanalysis.ai"
+      ],
+      "items": [
+        {
+          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": null,
+          "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T20:38:45.451000Z"
+        },
+        {
+          "id": "b22604f6224ace5bd5554cf5dee86e8a15e4a127",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_original": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T18:24:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8558,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T18:24:54Z",
+      "latest_at": "2026-10-23T20:38:45.451000Z",
+      "primary_item": {
+        "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
+        "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+        "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+        "title_en": null,
+        "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+        "source": "artificialanalysis.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T07:26:24.229864Z"
       }
     }
   ]
