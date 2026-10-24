@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T11:22:14.862227Z",
+  "generated_at": "2026-10-24T12:31:50.706070Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_9e26901013de",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7589,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8185,
+        "recency": 0.8049,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.767,
+        "recency": 0.7542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
+      }
+    },
+    {
+      "story_id": "story_57b57c29f36c",
+      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T11:12:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T11:12:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-24T11:12:36Z",
+      "latest_at": "2026-10-24T11:12:36Z",
+      "primary_item": {
+        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
+        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+        "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -297,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8449,
+        "recency": 0.8309,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -380,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8356,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -462,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -544,21 +626,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.756,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T16:00:00Z",
       "latest_at": "2026-10-23T16:00:00Z",
@@ -578,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -626,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7888,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -661,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -709,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.784,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -742,7 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -790,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,7 +904,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -871,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7703,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -906,7 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -954,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7458,
+        "recency": 0.7334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -989,7 +1070,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -1124,15 +1205,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5839,
-      "importance": 0.5839,
-      "importance_score": 0.5839,
+      "score": 0.5811,
+      "importance": 0.5811,
+      "importance_score": 0.5811,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.9185,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1157,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -1263,15 +1344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5655,
-      "importance": 0.5655,
-      "importance_score": 0.5655,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9703,
+        "recency": 0.9542,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,183 +1377,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
-      "story_id": "story_1296c7a1eab2",
-      "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
-      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-      "primary_url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-      "source": "www.sverigesradio.se",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
-          "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "title_en": null,
-          "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-          "source": "www.sverigesradio.se",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T16:26:53.619000Z"
-        },
-        {
-          "id": "471563dfcbef9c233c6252223a2b02448c265c24",
-          "title": "瑞典政府机构将禁止使用ChatGPT和Claude / Swedish government offices to ban ChatGPT and Claude",
-          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "title_en": "Swedish government offices to ban ChatGPT and Claude",
-          "title_original": "Swedish government offices to ban ChatGPT and Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T11:39:54Z"
-        },
-        {
-          "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
-          "title": "瑞典政府办公室将禁止 ChatGPT 和 Claude / Swedish government offices to ban ChatGPT and Claude",
-          "title_zh": "瑞典政府办公室将禁止 ChatGPT 和 Claude",
-          "title_en": "Swedish government offices to ban ChatGPT and Claude",
-          "title_original": "Swedish government offices to ban ChatGPT and Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50207405",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-23T11:39:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.sverigesradio.se"
-      ],
-      "items": [
-        {
-          "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
-          "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "title_en": null,
-          "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-          "source": "www.sverigesradio.se",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T16:26:53.619000Z"
-        },
-        {
-          "id": "471563dfcbef9c233c6252223a2b02448c265c24",
-          "title": "瑞典政府机构将禁止使用ChatGPT和Claude / Swedish government offices to ban ChatGPT and Claude",
-          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
-          "title_en": "Swedish government offices to ban ChatGPT and Claude",
-          "title_original": "Swedish government offices to ban ChatGPT and Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T11:39:54Z"
-        },
-        {
-          "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
-          "title": "瑞典政府办公室将禁止 ChatGPT 和 Claude / Swedish government offices to ban ChatGPT and Claude",
-          "title_zh": "瑞典政府办公室将禁止 ChatGPT 和 Claude",
-          "title_en": "Swedish government offices to ban ChatGPT and Claude",
-          "title_original": "Swedish government offices to ban ChatGPT and Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50207405",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-23T11:39:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7609,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T11:39:54Z",
-      "latest_at": "2026-10-23T16:26:53.619000Z",
-      "primary_item": {
-        "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
-        "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
-        "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
-        "title_en": null,
-        "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-        "source": "www.sverigesradio.se",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
-      }
-    },
-    {
-      "story_id": "story_64d4f5514fec",
-      "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-      "url": "https://cowagent.ai/en",
-      "primary_url": "https://cowagent.ai/en",
+      "story_id": "story_7f015f6d31aa",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cowagent.ai/en",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T03:32:47Z"
+          "published_at": "2026-10-24T11:18:54Z"
         },
         {
-          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50218141",
+          "url": "https://news.ycombinator.com/item?id=50220204",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T03:32:47Z"
+          "published_at": "2026-10-24T11:18:54Z"
         }
       ],
       "source_count": 2,
@@ -1482,62 +1424,62 @@
       ],
       "items": [
         {
-          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cowagent.ai/en",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T03:32:47Z"
+          "published_at": "2026-10-24T11:18:54Z"
         },
         {
-          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50218141",
+          "url": "https://news.ycombinator.com/item?id=50220204",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T03:32:47Z"
+          "published_at": "2026-10-24T11:18:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.9826,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T03:32:47Z",
-      "latest_at": "2026-10-24T03:32:47Z",
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
       "primary_item": {
-        "id": "838304f89628efa3104373cf28e23366e3fa6b83",
-        "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-        "title_zh": "CowAgent – 开源超级人工智能助手",
-        "title_en": "CowAgent – Open-Source Super AI Assistant",
-        "title_original": "CowAgent – Open-Source Super AI Assistant",
+        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://cowagent.ai/en",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1545,7 +1487,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
+      }
+    },
+    {
+      "story_id": "story_48b1a6c85b6c",
+      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T10:51:35Z"
+        },
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T10:51:35Z"
+        },
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9762,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T10:51:35Z",
+      "latest_at": "2026-10-24T10:51:35Z",
+      "primary_item": {
+        "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
+        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+        "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -1622,15 +1674,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8085,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1655,7 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
@@ -1732,15 +1784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7689,
+        "recency": 0.7561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1765,117 +1817,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     },
     {
-      "story_id": "story_2162051ffaaa",
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "url": "https://www.thisandthat.chat/enron",
-      "primary_url": "https://www.thisandthat.chat/enron",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_64d4f5514fec",
+      "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+      "url": "https://cowagent.ai/en",
+      "primary_url": "https://cowagent.ai/en",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9a0acfb793a51e8da3495bf003db7ebc2dd730ca",
-          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_zh": null,
-          "title_en": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_original": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thisandthat.chat/enron",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T12:02:53Z"
+          "url": "https://cowagent.ai/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T03:32:47Z"
         },
         {
-          "id": "af2fe1785028cdf023f343fc923f7070c7e4d6a5",
-          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_zh": null,
-          "title_en": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_original": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50207620",
+          "url": "https://news.ycombinator.com/item?id=50218141",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-23T12:02:53Z"
+          "published_at": "2026-10-24T03:32:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "9a0acfb793a51e8da3495bf003db7ebc2dd730ca",
-          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_zh": null,
-          "title_en": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_original": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thisandthat.chat/enron",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T12:02:53Z"
+          "url": "https://cowagent.ai/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T03:32:47Z"
         },
         {
-          "id": "af2fe1785028cdf023f343fc923f7070c7e4d6a5",
-          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_zh": null,
-          "title_en": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-          "title_original": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
+          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+          "title_zh": "CowAgent – 开源超级人工智能助手",
+          "title_en": "CowAgent – Open-Source Super AI Assistant",
+          "title_original": "CowAgent – Open-Source Super AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50207620",
+          "url": "https://news.ycombinator.com/item?id=50218141",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-23T12:02:53Z"
+          "published_at": "2026-10-24T03:32:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4943,
-      "importance": 0.4943,
-      "importance_score": 0.4943,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7141,
+        "recency": 0.8783,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-23T12:02:53Z",
-      "latest_at": "2026-10-23T12:02:53Z",
+      "earliest_at": "2026-10-24T03:32:47Z",
+      "latest_at": "2026-10-24T03:32:47Z",
       "primary_item": {
-        "id": "9a0acfb793a51e8da3495bf003db7ebc2dd730ca",
-        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-        "title_zh": null,
-        "title_en": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-        "title_original": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+        "id": "838304f89628efa3104373cf28e23366e3fa6b83",
+        "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
+        "title_zh": "CowAgent – 开源超级人工智能助手",
+        "title_en": "CowAgent – Open-Source Super AI Assistant",
+        "title_original": "CowAgent – Open-Source Super AI Assistant",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.thisandthat.chat/enron",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://cowagent.ai/en",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 0,
+      "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T11:23:15.238305Z"
+        "scored_at": "2026-10-24T12:32:55.452895Z"
       }
     }
   ]

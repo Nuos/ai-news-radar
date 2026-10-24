@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 11:22:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 12:31:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -30,6 +30,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
+<link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</link>
+<guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</guid>
+<description>OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
 </item>
 <item>
 <title>使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode</title>
@@ -120,20 +128,20 @@
 <pubDate>Sat, 24 Oct 2026 09:16:58 +0000</pubDate>
 </item>
 <item>
-<title>瑞典政府机构将禁止使用ChatGPT和Claude</title>
-<link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
-<guid isPermaLink="true">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</guid>
-<description>www.sverigesradio.se</description>
-<category>多源热议</category>
-<pubDate>Fri, 23 Oct 2026 16:26:53 +0000</pubDate>
-</item>
-<item>
-<title>CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant</title>
-<link>https://cowagent.ai/en</link>
-<guid isPermaLink="true">https://cowagent.ai/en</guid>
+<title>Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
+<link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</link>
+<guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Sat, 24 Oct 2026 03:32:47 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+</item>
+<item>
+<title>显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
+<link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
+<guid isPermaLink="true">https://gitlab.com/c4psu13/mali-pagecache-root</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
 </item>
 <item>
 <title>Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上</title>
@@ -152,12 +160,12 @@
 <pubDate>Fri, 23 Oct 2026 17:10:27 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: We had AI write a wiki from 45k Enron emails, every fact cited</title>
-<link>https://www.thisandthat.chat/enron</link>
-<guid isPermaLink="true">https://www.thisandthat.chat/enron</guid>
-<description>Hacker News · 24h最热</description>
+<title>CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant</title>
+<link>https://cowagent.ai/en</link>
+<guid isPermaLink="true">https://cowagent.ai/en</guid>
+<description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Fri, 23 Oct 2026 12:02:53 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 03:32:47 +0000</pubDate>
 </item>
 </channel>
 </rss>
