@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T13:22:43.367824Z",
+  "generated_at": "2026-10-25T14:23:44.665696Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_fbda2c665b46",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7188,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
+      }
+    },
+    {
+      "story_id": "story_9f2543e27eb3",
+      "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers, and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+          "title_en": "r/opensource just banned AI, non-English speakers, and more",
+          "title_original": "r/opensource just banned AI, non-English speakers, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z"
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+          "title_en": "r/opensource just banned AI, non-English speakers and more",
+          "title_original": "r/opensource just banned AI, non-English speakers and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers, and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+          "title_en": "r/opensource just banned AI, non-English speakers, and more",
+          "title_original": "r/opensource just banned AI, non-English speakers, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z"
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+          "title_en": "r/opensource just banned AI, non-English speakers and more",
+          "title_original": "r/opensource just banned AI, non-English speakers and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.613,
+      "importance": 0.613,
+      "importance_score": 0.613,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T13:25:32Z",
+      "latest_at": "2026-10-25T13:25:32Z",
+      "primary_item": {
+        "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+        "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers, and more",
+        "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+        "title_en": "r/opensource just banned AI, non-English speakers, and more",
+        "title_original": "r/opensource just banned AI, non-English speakers, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     },
     {
@@ -187,15 +296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9133,
+        "recency": 0.9,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -220,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     },
     {
@@ -326,15 +435,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8373,
+        "recency": 0.8251,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -359,7 +468,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     },
     {
@@ -465,15 +574,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8373,
+        "recency": 0.8251,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -498,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     },
     {
@@ -604,15 +713,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8374,
+        "recency": 0.8252,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -637,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     },
     {
@@ -714,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9504,
+        "recency": 0.9365,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     },
     {
@@ -824,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.73,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,7 +966,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T13:23:38.403884Z"
+        "scored_at": "2026-10-25T14:24:34.374732Z"
       }
     }
   ]
