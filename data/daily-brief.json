@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T03:30:38.605624Z",
+  "generated_at": "2026-10-25T04:28:47.537431Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_57b57c29f36c",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7903,
+        "recency": 0.7793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -130,21 +130,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T14:30:45Z",
       "latest_at": "2026-10-24T14:30:45Z",
@@ -164,7 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -270,15 +269,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9655,
+        "recency": 0.9521,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -303,7 +302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -329,7 +328,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -337,9 +336,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -359,7 +358,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.apollo.com"
       ],
@@ -379,7 +378,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -387,9 +386,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -409,15 +408,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9655,
+        "recency": 0.9521,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -442,7 +441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -548,15 +547,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9522,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -581,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -658,15 +657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9723,
+        "recency": 0.9588,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -797,15 +796,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7686,
+        "recency": 0.7579,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -830,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -907,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7915,
+        "recency": 0.7805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -1017,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8418,
+        "recency": 0.8301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     },
     {
@@ -1127,15 +1126,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7863,
+        "recency": 0.7753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,117 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
-      }
-    },
-    {
-      "story_id": "story_64d4f5514fec",
-      "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-      "url": "https://cowagent.ai/en",
-      "primary_url": "https://cowagent.ai/en",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cowagent.ai/en",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T03:32:47Z"
-        },
-        {
-          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50218141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T03:32:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "838304f89628efa3104373cf28e23366e3fa6b83",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cowagent.ai/en",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T03:32:47Z"
-        },
-        {
-          "id": "0dc3099a3a018cdf676a03e49e0364166b9e841e",
-          "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-          "title_zh": "CowAgent – 开源超级人工智能助手",
-          "title_en": "CowAgent – Open-Source Super AI Assistant",
-          "title_original": "CowAgent – Open-Source Super AI Assistant",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50218141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T03:32:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4931,
-      "importance": 0.4931,
-      "importance_score": 0.4931,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7075,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T03:32:47Z",
-      "latest_at": "2026-10-24T03:32:47Z",
-      "primary_item": {
-        "id": "838304f89628efa3104373cf28e23366e3fa6b83",
-        "title": "CowAgent – 开源超级人工智能助手 / CowAgent – Open-Source Super AI Assistant",
-        "title_zh": "CowAgent – 开源超级人工智能助手",
-        "title_en": "CowAgent – Open-Source Super AI Assistant",
-        "title_original": "CowAgent – Open-Source Super AI Assistant",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://cowagent.ai/en",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T03:31:30.755516Z"
+        "scored_at": "2026-10-25T04:29:56.015852Z"
       }
     }
   ]
