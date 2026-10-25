@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:36:50.969823Z",
+  "generated_at": "2026-10-25T07:26:54.968844Z",
   "window_hours": 24,
   "total_items": 9,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7556,
+        "recency": 0.7466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7925,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +163,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
+      }
+    },
+    {
+      "story_id": "story_461047623b07",
+      "title": "Cerebras 部署了万亿参数的人工智能模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "www.cerebras.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": null,
+          "title_original": "Cerebras 部署了万亿参数的人工智能模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署万亿参数人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.cerebras.ai"
+      ],
+      "items": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": null,
+          "title_original": "Cerebras 部署了万亿参数的人工智能模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署万亿参数人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T01:33:49Z",
+      "latest_at": "2026-10-25T07:05:49.244000Z",
+      "primary_item": {
+        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+        "title": "Cerebras 部署了万亿参数的人工智能模型",
+        "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+        "title_en": null,
+        "title_original": "Cerebras 部署了万亿参数的人工智能模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "source": "www.cerebras.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -269,15 +408,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9232,
+        "recency": 0.9122,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,7 +441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -408,15 +547,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9232,
+        "recency": 0.9122,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -441,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -547,15 +686,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9233,
+        "recency": 0.9122,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,117 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
-      }
-    },
-    {
-      "story_id": "story_461047623b07",
-      "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
-        },
-        {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
-        },
-        {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9297,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T01:33:49Z",
-      "latest_at": "2026-10-25T01:33:49Z",
-      "primary_item": {
-        "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-        "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-        "title_zh": "Cerebras 部署万亿参数人工智能模型",
-        "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-        "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -767,15 +796,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8049,
+        "recency": 0.7953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -800,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -877,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7568,
+        "recency": 0.7477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     },
     {
@@ -987,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5011,
-      "importance": 0.5011,
-      "importance_score": 0.5011,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7518,
+        "recency": 0.7428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1017,10 +1046,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:42:20.323195Z"
+        "scored_at": "2026-10-25T07:33:46.164739Z"
       }
     }
   ]
