@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T15:23:19.401053Z",
+  "generated_at": "2026-10-25T16:25:56.285937Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_9f2543e27eb3",
@@ -76,15 +76,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6104,
-      "importance": 0.6104,
-      "importance_score": 0.6104,
+      "score": 0.6078,
+      "importance": 0.6078,
+      "importance_score": 0.6078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.972,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -109,7 +109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
+        "scored_at": "2026-10-25T16:27:04.418412Z"
       }
     },
     {
@@ -215,15 +215,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5505,
-      "importance": 0.5505,
-      "importance_score": 0.5505,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8872,
+        "recency": 0.8739,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -248,7 +248,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
+        "scored_at": "2026-10-25T16:27:04.418412Z"
+      }
+    },
+    {
+      "story_id": "story_98b3a4608ebd",
+      "title": "1505年纽伦堡骑士的工具书",
+      "url": "https://loeffelholz-codex.org/en",
+      "primary_url": "https://loeffelholz-codex.org/en",
+      "source": "loeffelholz-codex.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
+          "title": "1505年纽伦堡骑士的工具书",
+          "title_zh": "1505年纽伦堡骑士的工具书",
+          "title_en": null,
+          "title_original": "1505年纽伦堡骑士的工具书",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T15:28:39.190000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具书 / Tool book of a Nuremberg knight from 1505",
+          "title_zh": "1505年纽伦堡骑士的工具书",
+          "title_en": "Tool book of a Nuremberg knight from 1505",
+          "title_original": "Tool book of a Nuremberg knight from 1505",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "loeffelholz-codex.org"
+      ],
+      "items": [
+        {
+          "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
+          "title": "1505年纽伦堡骑士的工具书",
+          "title_zh": "1505年纽伦堡骑士的工具书",
+          "title_en": null,
+          "title_original": "1505年纽伦堡骑士的工具书",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T15:28:39.190000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具书 / Tool book of a Nuremberg knight from 1505",
+          "title_zh": "1505年纽伦堡骑士的工具书",
+          "title_en": "Tool book of a Nuremberg knight from 1505",
+          "title_original": "Tool book of a Nuremberg knight from 1505",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9863,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T12:37:54Z",
+      "latest_at": "2026-10-25T15:28:39.190000Z",
+      "primary_item": {
+        "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
+        "title": "1505年纽伦堡骑士的工具书",
+        "title_zh": "1505年纽伦堡骑士的工具书",
+        "title_en": null,
+        "title_original": "1505年纽伦堡骑士的工具书",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://loeffelholz-codex.org/en",
+        "source": "loeffelholz-codex.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T16:27:04.418412Z"
+      }
+    },
+    {
+      "story_id": "story_00a103824830",
+      "title": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处 / Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "primary_url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "161d8e020c0365d0097a3bc6365f6a3cefb8fc41",
+          "title": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处 / Imagine an AI future where being banned means you are now economically useless",
+          "title_zh": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处",
+          "title_en": "Imagine an AI future where being banned means you are now economically useless",
+          "title_original": "Imagine an AI future where being banned means you are now economically useless",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:47:20Z"
+        },
+        {
+          "id": "60b26c802e98c80a0271149a65dfaaa37f9c45de",
+          "title": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处 / Imagine an AI future where being banned means you are now economically useless",
+          "title_zh": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处",
+          "title_en": "Imagine an AI future where being banned means you are now economically useless",
+          "title_original": "Imagine an AI future where being banned means you are now economically useless",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50230995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T12:47:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "161d8e020c0365d0097a3bc6365f6a3cefb8fc41",
+          "title": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处 / Imagine an AI future where being banned means you are now economically useless",
+          "title_zh": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处",
+          "title_en": "Imagine an AI future where being banned means you are now economically useless",
+          "title_original": "Imagine an AI future where being banned means you are now economically useless",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:47:20Z"
+        },
+        {
+          "id": "60b26c802e98c80a0271149a65dfaaa37f9c45de",
+          "title": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处 / Imagine an AI future where being banned means you are now economically useless",
+          "title_zh": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处",
+          "title_en": "Imagine an AI future where being banned means you are now economically useless",
+          "title_original": "Imagine an AI future where being banned means you are now economically useless",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50230995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T12:47:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9487,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T12:47:20Z",
+      "latest_at": "2026-10-25T12:47:20Z",
+      "primary_item": {
+        "id": "161d8e020c0365d0097a3bc6365f6a3cefb8fc41",
+        "title": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处 / Imagine an AI future where being banned means you are now economically useless",
+        "title_zh": "想象一下人工智能的未来，被禁止意味着你现在在经济上毫无用处",
+        "title_en": "Imagine an AI future where being banned means you are now economically useless",
+        "title_original": "Imagine an AI future where being banned means you are now economically useless",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T16:27:04.418412Z"
       }
     },
     {
@@ -354,15 +574,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8133,
+        "recency": 0.8012,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -387,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
+        "scored_at": "2026-10-25T16:27:04.418412Z"
       }
     },
     {
@@ -493,15 +713,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8133,
+        "recency": 0.8012,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -526,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
+        "scored_at": "2026-10-25T16:27:04.418412Z"
       }
     },
     {
@@ -632,15 +852,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8134,
+        "recency": 0.8012,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,7 +885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
+        "scored_at": "2026-10-25T16:27:04.418412Z"
       }
     },
     {
@@ -742,15 +962,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9232,
+        "recency": 0.9094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -775,117 +995,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
-      }
-    },
-    {
-      "story_id": "story_7fe47d8289ef",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8edb78d4281318f7283191af552c8732be334942",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8edb78d4281318f7283191af552c8732be334942",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7091,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
-      "primary_item": {
-        "id": "8edb78d4281318f7283191af552c8732be334942",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-        "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T15:24:13.166708Z"
+        "scored_at": "2026-10-25T16:27:04.418412Z"
       }
     }
   ]
