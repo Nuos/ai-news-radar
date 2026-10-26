@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-26T13:59:47.145566Z",
+  "generated_at": "2026-10-26T15:10:43.459264Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b9ba650b2e36",
+      "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "primary_url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "10fe4ba0c00a8afd7e2fb777779a811558c4b5b5",
+          "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
+          "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
+          "title_en": "How Fanatics and OpenAI streamline the fan experience",
+          "title_original": "How Fanatics and OpenAI streamline the fan experience",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "10fe4ba0c00a8afd7e2fb777779a811558c4b5b5",
+          "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
+          "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
+          "title_en": "How Fanatics and OpenAI streamline the fan experience",
+          "title_original": "How Fanatics and OpenAI streamline the fan experience",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8886,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T07:00:00Z",
+      "latest_at": "2026-10-26T07:00:00Z",
+      "primary_item": {
+        "id": "10fe4ba0c00a8afd7e2fb777779a811558c4b5b5",
+        "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
+        "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
+        "title_en": "How Fanatics and OpenAI streamline the fan experience",
+        "title_original": "How Fanatics and OpenAI streamline the fan experience",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T15:11:34.205628Z"
+      }
+    },
     {
       "story_id": "story_56f084cc3595",
       "title": "Anthropic 向 SEC 提交 S-1 文件启动 IPO，拟以代码 ANT 登陆纳斯达克 / Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7279,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -82,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -130,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.9624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +247,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
+      }
+    },
+    {
+      "story_id": "story_6c14d705abe8",
+      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "primary_url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_zh": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_original": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_zh": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_original": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9783,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T13:39:40Z",
+      "latest_at": "2026-10-26T13:39:40Z",
+      "primary_item": {
+        "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+        "title_zh": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+        "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+        "title_original": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+        "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -212,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9778,
+        "recency": 0.9612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -294,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +493,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
+      }
+    },
+    {
+      "story_id": "story_ced008172443",
+      "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+      "url": "https://x.com/UnslothAI/status/2114730104228286936",
+      "primary_url": "https://x.com/UnslothAI/status/2114730104228286936",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+          "title_zh": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "title_en": "MiniMax-M3.1-Flash can now run locally!",
+          "title_original": "MiniMax-M3.1-Flash can now run locally!",
+          "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T14:45:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+          "title_zh": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "title_en": "MiniMax-M3.1-Flash can now run locally!",
+          "title_original": "MiniMax-M3.1-Flash can now run locally!",
+          "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T14:45:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T14:45:21Z",
+      "latest_at": "2026-10-26T14:45:21Z",
+      "primary_item": {
+        "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+        "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+        "title_zh": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+        "title_en": "MiniMax-M3.1-Flash can now run locally!",
+        "title_original": "MiniMax-M3.1-Flash can now run locally!",
+        "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/UnslothAI/status/2114730104228286936",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -376,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9393,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -458,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.855,
+        "recency": 0.8405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,7 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -539,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,7 +819,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -620,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -654,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -702,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -784,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -866,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,7 +1147,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
+      }
+    },
+    {
+      "story_id": "story_2af9469af177",
+      "title": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报” / AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "16690a5b864b545962f8c4db8884126b37294c43",
+          "title": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报” / AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报”",
+          "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "title_original": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T16:57:32Z"
+        },
+        {
+          "id": "87cb8e7c504c6fe01a165e2661fc5514626af072",
+          "title": "经济学家表示，人工智能为大多数公司带来“零财务回报” / AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+          "title_zh": "经济学家表示，人工智能为大多数公司带来“零财务回报”",
+          "title_en": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+          "title_original": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T20:42:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "16690a5b864b545962f8c4db8884126b37294c43",
+          "title": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报” / AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报”",
+          "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "title_original": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T16:57:32Z"
+        },
+        {
+          "id": "87cb8e7c504c6fe01a165e2661fc5514626af072",
+          "title": "经济学家表示，人工智能为大多数公司带来“零财务回报” / AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+          "title_zh": "经济学家表示，人工智能为大多数公司带来“零财务回报”",
+          "title_en": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+          "title_original": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T20:42:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5994,
+      "importance": 0.5994,
+      "importance_score": 0.5994,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7255,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T16:57:32Z",
+      "latest_at": "2026-10-25T20:42:00Z",
+      "primary_item": {
+        "id": "16690a5b864b545962f8c4db8884126b37294c43",
+        "title": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报” / AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报”",
+        "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "title_original": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -948,21 +1305,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T07:42:22.285156Z",
       "latest_at": "2026-10-26T07:42:22.285156Z",
@@ -982,7 +1338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -1030,21 +1386,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T06:52:16.791689Z",
       "latest_at": "2026-10-26T06:52:16.791689Z",
@@ -1064,7 +1419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -1170,15 +1525,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.902,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1203,7 +1558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -1229,7 +1584,7 @@
           "published_at": "2026-10-26T00:39:51.635000Z"
         },
         {
-          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
+          "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
           "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
           "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
           "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -1237,9 +1592,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-25T21:11:31Z"
         },
         {
@@ -1259,7 +1614,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "minimaxir.com"
       ],
@@ -1279,7 +1634,7 @@
           "published_at": "2026-10-26T00:39:51.635000Z"
         },
         {
-          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
+          "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
           "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
           "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
           "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -1287,9 +1642,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-25T21:11:31Z"
         },
         {
@@ -1309,15 +1664,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.32,
         "ai_relevance": 0.68,
-        "recency": 0.8249,
+        "recency": 0.8109,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1342,7 +1697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     },
     {
@@ -1419,15 +1774,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,477 +1807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
-      }
-    },
-    {
-      "story_id": "story_973c78102ece",
-      "title": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-      "url": "https://www.aibase.com/news/31863",
-      "primary_url": "https://www.aibase.com/news/31863",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98f7987ccc2269b5e677e13888ae66a91fd4fcef",
-          "title": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-          "title_zh": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-          "title_en": null,
-          "title_original": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31863",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T06:52:16.791689Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98f7987ccc2269b5e677e13888ae66a91fd4fcef",
-          "title": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-          "title_zh": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-          "title_en": null,
-          "title_original": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31863",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T06:52:16.791689Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9022,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T06:52:16.791689Z",
-      "latest_at": "2026-10-26T06:52:16.791689Z",
-      "primary_item": {
-        "id": "98f7987ccc2269b5e677e13888ae66a91fd4fcef",
-        "title": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-        "title_zh": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-        "title_en": null,
-        "title_original": "国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31863",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
-      }
-    },
-    {
-      "story_id": "story_51e1c09a3d92",
-      "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "primary_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "source": "www.dailycal.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "title_zh": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "title_en": null,
-          "title_original": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "www.dailycal.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T19:41:52.295000Z"
-        },
-        {
-          "id": "61692147bef579e72695383e141d991a0a31cc75",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_zh": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "title_en": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_original": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T16:28:26Z"
-        },
-        {
-          "id": "1d8adc9ff3544339ac2dcb72f0ae176933ef7661",
-          "title": "人工智能的使用导致加州大学伯克利分校数学教授认为评分作业“没有意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_zh": "人工智能的使用导致加州大学伯克利分校数学教授认为评分作业“没有意义”",
-          "title_en": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_original": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50233304",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T16:28:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.dailycal.org"
-      ],
-      "items": [
-        {
-          "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "title_zh": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "title_en": null,
-          "title_original": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "www.dailycal.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T19:41:52.295000Z"
-        },
-        {
-          "id": "61692147bef579e72695383e141d991a0a31cc75",
-          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_zh": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-          "title_en": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_original": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T16:28:26Z"
-        },
-        {
-          "id": "1d8adc9ff3544339ac2dcb72f0ae176933ef7661",
-          "title": "人工智能的使用导致加州大学伯克利分校数学教授认为评分作业“没有意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_zh": "人工智能的使用导致加州大学伯克利分校数学教授认为评分作业“没有意义”",
-          "title_en": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "title_original": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50233304",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T16:28:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7678,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T16:28:26Z",
-      "latest_at": "2026-10-25T19:41:52.295000Z",
-      "primary_item": {
-        "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
-        "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-        "title_zh": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-        "title_en": null,
-        "title_original": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-        "source": "www.dailycal.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
-      }
-    },
-    {
-      "story_id": "story_9b824b3d3126",
-      "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "primary_url": "https://lynchlab.net/llm-skin-cancer",
-      "source": "lynchlab.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b04bffe55c721c9813f3c3cd389b378ba9a7c2df",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "title_zh": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "title_en": null,
-          "title_original": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "lynchlab.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T18:39:28.755000Z"
-        },
-        {
-          "id": "8e678a2c3543bd36b6f446a8959813f9c3117046",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型 / A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_zh": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "title_en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_original": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T17:15:38Z"
-        },
-        {
-          "id": "3ccb3dccf311f8cfccff824530c4b9731664041c",
-          "title": "10 年历史的 CNN 在皮肤癌诊断方面优于前沿LLM / A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_zh": "10 年历史的 CNN 在皮肤癌诊断方面优于前沿LLM",
-          "title_en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_original": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50233779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T17:15:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "lynchlab.net"
-      ],
-      "items": [
-        {
-          "id": "b04bffe55c721c9813f3c3cd389b378ba9a7c2df",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "title_zh": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "title_en": null,
-          "title_original": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "lynchlab.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T18:39:28.755000Z"
-        },
-        {
-          "id": "8e678a2c3543bd36b6f446a8959813f9c3117046",
-          "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型 / A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_zh": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-          "title_en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_original": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T17:15:38Z"
-        },
-        {
-          "id": "3ccb3dccf311f8cfccff824530c4b9731664041c",
-          "title": "10 年历史的 CNN 在皮肤癌诊断方面优于前沿LLM / A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_zh": "10 年历史的 CNN 在皮肤癌诊断方面优于前沿LLM",
-          "title_en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "title_original": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50233779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T17:15:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7563,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T17:15:38Z",
-      "latest_at": "2026-10-25T18:39:28.755000Z",
-      "primary_item": {
-        "id": "b04bffe55c721c9813f3c3cd389b378ba9a7c2df",
-        "title": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-        "title_zh": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-        "title_en": null,
-        "title_original": "一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://lynchlab.net/llm-skin-cancer",
-        "source": "lynchlab.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
-      }
-    },
-    {
-      "story_id": "story_13d2d173ce23",
-      "title": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "primary_url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "774fa8e17690e8b081ca579e5a6ffc987d8421b5",
-          "title": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_zh": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧",
-          "title_en": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_original": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-26T04:11:40Z"
-        },
-        {
-          "id": "29cf15a8c0f093c064d7304d4b5daaccd0925164",
-          "title": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_zh": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧",
-          "title_en": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_original": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50239027",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-26T04:11:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "774fa8e17690e8b081ca579e5a6ffc987d8421b5",
-          "title": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_zh": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧",
-          "title_en": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_original": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-26T04:11:40Z"
-        },
-        {
-          "id": "29cf15a8c0f093c064d7304d4b5daaccd0925164",
-          "title": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_zh": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧",
-          "title_en": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "title_original": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50239027",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-26T04:11:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.868,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-26T04:11:40Z",
-      "latest_at": "2026-10-26T04:11:40Z",
-      "primary_item": {
-        "id": "774fa8e17690e8b081ca579e5a6ffc987d8421b5",
-        "title": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-        "title_zh": "认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧",
-        "title_en": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-        "title_original": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T14:01:46.908415Z"
+        "scored_at": "2026-10-26T15:11:34.205628Z"
       }
     }
   ]
