@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-25T23:21:58.507749Z",
+  "generated_at": "2026-10-26T00:59:30.870813Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
+    {
+      "story_id": "story_6ae24aff93c6",
+      "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+      "url": "https://www.aibase.com/news/31848",
+      "primary_url": "https://www.aibase.com/news/31848",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "599b6f7b2be700911d9ccaaa207dc7c878fbfc86",
+          "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "title_zh": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "title_en": null,
+          "title_original": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31848",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T00:59:30.870813Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "599b6f7b2be700911d9ccaaa207dc7c878fbfc86",
+          "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "title_zh": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "title_en": null,
+          "title_original": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31848",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T00:59:30.870813Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T00:59:30.870813Z",
+      "latest_at": "2026-10-26T00:59:30.870813Z",
+      "primary_item": {
+        "id": "599b6f7b2be700911d9ccaaa207dc7c878fbfc86",
+        "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+        "title_zh": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+        "title_en": null,
+        "title_original": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31848",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T01:04:05.636905Z"
+      }
+    },
     {
       "story_id": "story_9f2543e27eb3",
       "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers, and more",
@@ -76,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5914,
-      "importance": 0.5914,
-      "importance_score": 0.5914,
+      "score": 0.5878,
+      "importance": 0.5878,
+      "importance_score": 0.5878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8663,
+        "recency": 0.8462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -109,7 +191,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
+      }
+    },
+    {
+      "story_id": "story_043039082271",
+      "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "primary_url": "https://minimaxir.com/2026/10/cheap-llms",
+      "source": "minimaxir.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "title_en": null,
+          "title_original": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "minimaxir.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.635000Z"
+        },
+        {
+          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T21:11:31Z"
+        },
+        {
+          "id": "861647ac8be026777114967923dba58a3ea0666d",
+          "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
+          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50236102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T21:11:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "minimaxir.com"
+      ],
+      "items": [
+        {
+          "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "title_en": null,
+          "title_original": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "minimaxir.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.635000Z"
+        },
+        {
+          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T21:11:31Z"
+        },
+        {
+          "id": "861647ac8be026777114967923dba58a3ea0666d",
+          "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
+          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50236102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T21:11:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.32,
+        "ai_relevance": 0.68,
+        "recency": 0.9953,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T21:11:31Z",
+      "latest_at": "2026-10-26T00:39:51.635000Z",
+      "primary_item": {
+        "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+        "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+        "title_zh": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+        "title_en": null,
+        "title_original": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://minimaxir.com/2026/10/cheap-llms",
+        "source": "minimaxir.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -215,15 +436,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5615,
-      "importance": 0.5615,
-      "importance_score": 0.5615,
+      "score": 0.5576,
+      "importance": 0.5576,
+      "importance_score": 0.5576,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9484,
+        "recency": 0.9264,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -248,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -354,15 +575,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.559,
-      "importance": 0.559,
-      "importance_score": 0.559,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9343,
+        "recency": 0.9126,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -387,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -493,15 +714,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9201,
+        "recency": 0.8987,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -526,117 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
-      }
-    },
-    {
-      "story_id": "story_043039082271",
-      "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "primary_url": "https://minimaxir.com/2026/10/cheap-llms",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
-          "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
-          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T21:11:31Z"
-        },
-        {
-          "id": "861647ac8be026777114967923dba58a3ea0666d",
-          "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
-          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50236102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T21:11:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
-          "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
-          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T21:11:31Z"
-        },
-        {
-          "id": "861647ac8be026777114967923dba58a3ea0666d",
-          "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
-          "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50236102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T21:11:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9691,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T21:11:31Z",
-      "latest_at": "2026-10-25T21:11:31Z",
-      "primary_item": {
-        "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
-        "title": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？",
-        "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "title_original": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://minimaxir.com/2026/10/cheap-llms",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -742,15 +853,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7906,
+        "recency": 0.7723,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -775,7 +886,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -852,15 +963,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9059,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -962,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8923,
+        "recency": 0.8716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,7 +1106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     },
     {
@@ -1072,15 +1183,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8584,
+        "recency": 0.8384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1105,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T23:26:00.523078Z"
+        "scored_at": "2026-10-26T01:04:05.636905Z"
       }
     }
   ]
