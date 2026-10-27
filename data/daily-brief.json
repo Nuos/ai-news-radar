@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:18:45.258242Z",
+  "generated_at": "2026-10-27T20:20:46.352272Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8601,
-      "importance": 0.8601,
-      "importance_score": 0.8601,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9562,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9537,
+        "recency": 0.9395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8371,
+        "recency": 0.8247,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8548,
-      "importance": 0.8548,
-      "importance_score": 0.8548,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9711,
+        "recency": 0.9567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
+      }
+    },
+    {
+      "story_id": "story_2814e3bd0b1b",
+      "title": "Codex CLI 0.165.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+          "title": "Codex CLI 0.165.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.165.0",
+          "title_original": "Codex CLI 0.165.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+          "title": "Codex CLI 0.165.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.165.0",
+          "title_original": "Codex CLI 0.165.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
+      "primary_item": {
+        "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+        "title": "Codex CLI 0.165.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.165.0",
+        "title_original": "Codex CLI 0.165.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.7297,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -545,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7351,
+        "recency": 0.7242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -628,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9651,
+        "recency": 0.9508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -710,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -792,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7575,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -874,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9079,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -956,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7525,
+        "recency": 0.7414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,89 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
-      }
-    },
-    {
-      "story_id": "story_9a537d6a9ade",
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-      "url": "https://www.langchain.com/blog/design-agent",
-      "primary_url": "https://www.langchain.com/blog/design-agent",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "title_en": "How We Built Our Design Agent",
-          "title_original": "How We Built Our Design Agent",
-          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "title_en": "How We Built Our Design Agent",
-          "title_original": "How We Built Our Design Agent",
-          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9637,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T16:45:00Z",
-      "latest_at": "2026-10-27T16:45:00Z",
-      "primary_item": {
-        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-        "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-        "title_en": "How We Built Our Design Agent",
-        "title_original": "How We Built Our Design Agent",
-        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-        "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/design-agent",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -1120,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.763,
+        "recency": 0.7517,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,88 +1155,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
-      "story_id": "story_08edd409f737",
-      "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
-      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-      "primary_url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-      "source": "Replit：Blog（RSS）",
+      "story_id": "story_9a537d6a9ade",
+      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+      "url": "https://www.langchain.com/blog/design-agent",
+      "primary_url": "https://www.langchain.com/blog/design-agent",
+      "source": "LangChain：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
-          "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
-          "title_zh": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
-          "title_en": "Anyone can now bring their ideas into the company codebase",
-          "title_original": "Anyone can now bring their ideas into the company codebase",
-          "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "title_en": "How We Built Our Design Agent",
+          "title_original": "How We Built Our Design Agent",
+          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
           "recommend_reason_zh": null,
-          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-          "source": "Replit：Blog（RSS）",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T15:30:00Z"
+          "published_at": "2026-10-27T16:45:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Replit：Blog（RSS）"
+        "LangChain：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
-          "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
-          "title_zh": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
-          "title_en": "Anyone can now bring their ideas into the company codebase",
-          "title_original": "Anyone can now bring their ideas into the company codebase",
-          "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "title_en": "How We Built Our Design Agent",
+          "title_original": "How We Built Our Design Agent",
+          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
           "recommend_reason_zh": null,
-          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-          "source": "Replit：Blog（RSS）",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T15:30:00Z"
+          "published_at": "2026-10-27T16:45:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9464,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-27T15:30:00Z",
-      "latest_at": "2026-10-27T15:30:00Z",
+      "earliest_at": "2026-10-27T16:45:00Z",
+      "latest_at": "2026-10-27T16:45:00Z",
       "primary_item": {
-        "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
-        "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
-        "title_zh": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
-        "title_en": "Anyone can now bring their ideas into the company codebase",
-        "title_original": "Anyone can now bring their ideas into the company codebase",
-        "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+        "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+        "title_en": "How We Built Our Design Agent",
+        "title_original": "How We Built Our Design Agent",
+        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
         "recommend_reason_zh": null,
-        "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-        "source": "Replit：Blog（RSS）",
+        "url": "https://www.langchain.com/blog/design-agent",
+        "source": "LangChain：Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
+      }
+    },
+    {
+      "story_id": "story_c8afd4d11875",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "primary_url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_zh": null,
+          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_zh": null,
+          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
+      "primary_item": {
+        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "title_zh": null,
+        "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+        "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -1283,15 +1368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8802,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,7 +1401,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
+      }
+    },
+    {
+      "story_id": "story_08edd409f737",
+      "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
+      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "primary_url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "source": "Replit：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
+          "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
+          "title_zh": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+          "title_en": "Anyone can now bring their ideas into the company codebase",
+          "title_original": "Anyone can now bring their ideas into the company codebase",
+          "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+          "recommend_reason_zh": null,
+          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+          "source": "Replit：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T15:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Replit：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
+          "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
+          "title_zh": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+          "title_en": "Anyone can now bring their ideas into the company codebase",
+          "title_original": "Anyone can now bring their ideas into the company codebase",
+          "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+          "recommend_reason_zh": null,
+          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+          "source": "Replit：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T15:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9324,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T15:30:00Z",
+      "latest_at": "2026-10-27T15:30:00Z",
+      "primary_item": {
+        "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
+        "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase",
+        "title_zh": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+        "title_en": "Anyone can now bring their ideas into the company codebase",
+        "title_original": "Anyone can now bring their ideas into the company codebase",
+        "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+        "recommend_reason_zh": null,
+        "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+        "source": "Replit：Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -1364,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.913,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1397,88 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
-      }
-    },
-    {
-      "story_id": "story_68d9f7344407",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "title_en": "Day 22/ Terra is back!",
-          "title_original": "Day 22/ Terra is back!",
-          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "title_en": "Day 22/ Terra is back!",
-          "title_original": "Day 22/ Terra is back!",
-          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T19:24:11Z",
-      "latest_at": "2026-10-26T19:24:11Z",
-      "primary_item": {
-        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-        "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-        "title_en": "Day 22/ Terra is back!",
-        "title_original": "Day 22/ Terra is back!",
-        "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2114800277677092936",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     },
     {
@@ -1526,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1559,88 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
-      }
-    },
-    {
-      "story_id": "story_d05affca2a8c",
-      "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-      "url": "https://www.aibase.com/news/31902",
-      "primary_url": "https://www.aibase.com/news/31902",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "38cc71d07193624731c993843d1ac685f5369598",
-          "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-          "title_zh": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-          "title_en": null,
-          "title_original": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31902",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T08:35:27.068662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "38cc71d07193624731c993843d1ac685f5369598",
-          "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-          "title_zh": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-          "title_en": null,
-          "title_original": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31902",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T08:35:27.068662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8566,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T08:35:27.068662Z",
-      "latest_at": "2026-10-27T08:35:27.068662Z",
-      "primary_item": {
-        "id": "38cc71d07193624731c993843d1ac685f5369598",
-        "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-        "title_zh": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-        "title_en": null,
-        "title_original": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31902",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T19:36:11.629414Z"
+        "scored_at": "2026-10-27T20:41:49.963979Z"
       }
     }
   ]
