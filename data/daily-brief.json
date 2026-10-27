@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:18:17.943395Z",
+  "generated_at": "2026-10-27T22:18:49.929350Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9291,
+        "recency": 0.9157,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
+      }
+    },
+    {
+      "story_id": "story_533d85c923c9",
+      "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "primary_url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+          "title_en": "GitHub Copilot supports server-to-server authentication",
+          "title_original": "GitHub Copilot supports server-to-server authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T21:36:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+          "title_en": "GitHub Copilot supports server-to-server authentication",
+          "title_original": "GitHub Copilot supports server-to-server authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T21:36:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T21:36:55Z",
+      "latest_at": "2026-10-27T21:36:55Z",
+      "primary_item": {
+        "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+        "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+        "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+        "title_en": "GitHub Copilot supports server-to-server authentication",
+        "title_original": "GitHub Copilot supports server-to-server authentication",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9266,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8134,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,12 +332,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
       "story_id": "story_dcfc8da3dcc9",
-      "title": "Build specialized multimodal models with LFM3",
+      "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "source": "Hugging Face Blog",
@@ -262,8 +345,8 @@
       "sources": [
         {
           "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "Build specialized multimodal models with LFM3",
-          "title_zh": null,
+          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+          "title_zh": "使用 LFM3 构建专门的多模式模型",
           "title_en": "Build specialized multimodal models with LFM3",
           "title_original": "Build specialized multimodal models with LFM3",
           "summary": null,
@@ -282,8 +365,8 @@
       "items": [
         {
           "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "Build specialized multimodal models with LFM3",
-          "title_zh": null,
+          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+          "title_zh": "使用 LFM3 构建专门的多模式模型",
           "title_en": "Build specialized multimodal models with LFM3",
           "title_original": "Build specialized multimodal models with LFM3",
           "summary": null,
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9435,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,8 +401,8 @@
       "latest_at": "2026-10-27T17:16:52Z",
       "primary_item": {
         "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-        "title": "Build specialized multimodal models with LFM3",
-        "title_zh": null,
+        "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+        "title_zh": "使用 LFM3 构建专门的多模式模型",
         "title_en": "Build specialized multimodal models with LFM3",
         "title_original": "Build specialized multimodal models with LFM3",
         "summary": null,
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7352,
+        "recency": 0.7245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,90 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
-      }
-    },
-    {
-      "story_id": "story_f280b6805186",
-      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "title_zh": "GitHub Copilot 辅助权限正式可用",
-          "title_en": "GitHub Copilot assisted permissions generally available",
-          "title_original": "GitHub Copilot assisted permissions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "title_zh": "GitHub Copilot 辅助权限正式可用",
-          "title_en": "GitHub Copilot assisted permissions generally available",
-          "title_original": "GitHub Copilot assisted permissions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7197,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:31:30Z",
-      "latest_at": "2026-10-26T22:31:30Z",
-      "primary_item": {
-        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-        "title_zh": "GitHub Copilot 辅助权限正式可用",
-        "title_en": "GitHub Copilot assisted permissions generally available",
-        "title_original": "GitHub Copilot assisted permissions generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8183,
+        "recency": 0.8064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,90 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
-      }
-    },
-    {
-      "story_id": "story_6a3f26655d84",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -711,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9378,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +662,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
+      }
+    },
+    {
+      "story_id": "story_c8afd4d11875",
+      "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "primary_url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+          "title_zh": "Check Point 如何利用 Daybreak 加速漏洞研究",
+          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+          "title_zh": "Check Point 如何利用 Daybreak 加速漏洞研究",
+          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7245,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
+      "primary_item": {
+        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+        "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+        "title_zh": "Check Point 如何利用 Daybreak 加速漏洞研究",
+        "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+        "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -793,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.947,
+        "recency": 0.9333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +827,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
+      }
+    },
+    {
+      "story_id": "story_f280b6805186",
+      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "title_zh": "GitHub Copilot 辅助权限正式可用",
+          "title_en": "GitHub Copilot assisted permissions generally available",
+          "title_original": "GitHub Copilot assisted permissions generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:31:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "title_zh": "GitHub Copilot 辅助权限正式可用",
+          "title_en": "GitHub Copilot assisted permissions generally available",
+          "title_original": "GitHub Copilot assisted permissions generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:31:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7093,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T22:31:30Z",
+      "latest_at": "2026-10-26T22:31:30Z",
+      "primary_item": {
+        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+        "title_zh": "GitHub Copilot 辅助权限正式可用",
+        "title_en": "GitHub Copilot assisted permissions generally available",
+        "title_original": "GitHub Copilot assisted permissions generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -875,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7361,
+        "recency": 0.7254,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -957,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
+        "recency": 0.8694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1039,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7312,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1121,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7413,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1203,15 +1286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9363,
+        "recency": 0.9228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1320,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1285,21 +1368,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9672,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T20:00:27Z",
       "latest_at": "2026-10-27T20:00:27Z",
@@ -1319,90 +1401,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
-      }
-    },
-    {
-      "story_id": "story_c8afd4d11875",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "primary_url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_zh": null,
-          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_zh": null,
-          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7352,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:00:00Z",
-      "latest_at": "2026-10-27T00:00:00Z",
-      "primary_item": {
-        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-        "title": "How Check Point accelerates vulnerability research with Daybreak",
-        "title_zh": null,
-        "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-        "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/check-point-daybreak",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1450,15 +1449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8552,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1483,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1531,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.9063,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1564,7 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     },
     {
@@ -1612,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9004,
+        "recency": 0.8874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1645,7 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:41:12.124883Z"
+        "scored_at": "2026-10-27T22:20:01.894796Z"
       }
     }
   ]
