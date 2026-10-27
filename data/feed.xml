@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 27 Oct 2026 17:19:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 18:22:36 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -72,6 +72,14 @@
 <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts</title>
+<link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
+<guid isPermaLink="true">https://www.exponentialview.co/p/anthropics-s-1-in-charts</guid>
+<description>Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。（Azeem Azhar：Exponential View（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available</title>
 <link>https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</guid>
@@ -102,6 +110,14 @@
 <description>OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。（IT之家·人工智能）</description>
 <category>行业动态</category>
 <pubDate>Mon, 26 Oct 2026 23:37:17 +0000</pubDate>
+</item>
+<item>
+<title>LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent</title>
+<link>https://www.langchain.com/blog/design-agent</link>
+<guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
+<description>LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。（LangChain：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节</title>
@@ -150,22 +166,6 @@
 <description>作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 26 Oct 2026 19:24:11 +0000</pubDate>
-</item>
-<item>
-<title>Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定 / Can we trust LLMs to judge whether a research idea is novel?</title>
-<link>https://allenai.org/blog/novelty-bench</link>
-<guid isPermaLink="true">https://allenai.org/blog/novelty-bench</guid>
-<description>Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。（Ai2 / Allen Institute for AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>马斯克明年扫货 2 万套英伟达机架，成 Vera Rubin 最大买家</title>
-<link>https://www.aibase.com/news/31905</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31905</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 09:30:32 +0000</pubDate>
 </item>
 </channel>
 </rss>
