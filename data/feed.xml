@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 14:21:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 15:21:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
+</item>
 <item>
 <title>Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work</title>
 <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
@@ -14,14 +22,6 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-</item>
-<item>
-<title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
-<link>https://huggingface.co/blog/allenai/novelty-bench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication</title>
@@ -40,12 +40,12 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 </item>
 <item>
-<title>使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
+<title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
+<link>https://huggingface.co/blog/allenai/novelty-bench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
 </item>
 <item>
 <title>Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
@@ -64,14 +64,6 @@
 <pubDate>Wed, 28 Oct 2026 09:32:56 +0000</pubDate>
 </item>
 <item>
-<title>Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls</title>
-<link>https://openai.com/index/retell-ai</link>
-<guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
 <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication</guid>
@@ -86,6 +78,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 10:21:05 +0000</pubDate>
+</item>
+<item>
+<title>使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 </item>
 <item>
 <title>Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods</title>
