@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:22:51.855391Z",
+  "generated_at": "2026-10-28T17:19:46.892971Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -24,10 +24,25 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-28T14:58:17Z"
+        },
+        {
+          "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
+          "title": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR",
+          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-28T15:17:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News · 24h最热",
         "Hugging Face Blog"
       ],
       "items": [
@@ -44,29 +59,44 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-28T14:58:17Z"
+        },
+        {
+          "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
+          "title": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR",
+          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-28T15:17:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.8644,
-      "importance_score": 0.8644,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9798,
-        "story_heat": 0.0
+        "recency": 0.9665,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T14:58:17Z",
+      "latest_at": "2026-10-28T15:17:53Z",
       "primary_item": {
         "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
         "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -83,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
+      }
+    },
+    {
+      "story_id": "story_bd644657309a",
+      "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+          "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+          "title_zh": "Gemini 4 Carbon：我们的下一个前沿型号",
+          "title_en": "Gemini 4 Carbon: Our next frontier model",
+          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T17:00:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+          "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+          "title_zh": "Gemini 4 Carbon：我们的下一个前沿型号",
+          "title_en": "Gemini 4 Carbon: Our next frontier model",
+          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T17:00:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9955,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:00:58Z",
+      "latest_at": "2026-10-28T17:00:58Z",
+      "primary_item": {
+        "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+        "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+        "title_zh": "Gemini 4 Carbon：我们的下一个前沿型号",
+        "title_en": "Gemini 4 Carbon: Our next frontier model",
+        "title_original": "Gemini 4 Carbon: Our next frontier model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9945,
+        "recency": 0.981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -214,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9054,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -297,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9933,
+        "recency": 0.9798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +445,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
+      }
+    },
+    {
+      "story_id": "story_f40d22d35a4f",
+      "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+      "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
+          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+          "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:11:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
+          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+          "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:11:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:11:27Z",
+      "latest_at": "2026-10-28T17:11:27Z",
+      "primary_item": {
+        "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
+        "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+        "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+        "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+        "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+        "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -380,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9921,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -463,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9963,
+        "recency": 0.9828,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,90 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
-      }
-    },
-    {
-      "story_id": "story_dcfc8da3dcc9",
-      "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-          "title_zh": "使用 LFM3 构建专门的多模式模型",
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-          "title_zh": "使用 LFM3 构建专门的多模式模型",
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7164,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T17:16:52Z",
-      "latest_at": "2026-10-27T17:16:52Z",
-      "primary_item": {
-        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-        "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-        "title_zh": "使用 LFM3 构建专门的多模式模型",
-        "title_en": "Build specialized multimodal models with LFM3",
-        "title_original": "Build specialized multimodal models with LFM3",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -628,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.9119,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -710,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +856,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
+      }
+    },
+    {
+      "story_id": "story_3a5b4be1e667",
+      "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+      "url": "https://x.com/sundarpichai/status/2115489219804352921",
+      "primary_url": "https://x.com/sundarpichai/status/2115489219804352921",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
+          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+          "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
+          "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+          "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2115489219804352921",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:01:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
+          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+          "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
+          "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+          "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2115489219804352921",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:01:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:01:48Z",
+      "latest_at": "2026-10-28T17:01:48Z",
+      "primary_item": {
+        "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
+        "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+        "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
+        "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+        "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
+        "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sundarpichai/status/2115489219804352921",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -792,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7845,
+        "recency": 0.7738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -874,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9909,
+        "recency": 0.9774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -957,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -1039,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.864,
+        "recency": 0.8523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,88 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
-      }
-    },
-    {
-      "story_id": "story_82908663c452",
-      "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-      "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-          "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-          "title_en": "Verified AI just had its greatest month.",
-          "title_original": "Verified AI just had its greatest month.",
-          "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T23:31:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-          "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-          "title_en": "Verified AI just had its greatest month.",
-          "title_original": "Verified AI just had its greatest month.",
-          "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T23:31:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T23:31:32Z",
-      "latest_at": "2026-10-27T23:31:32Z",
-      "primary_item": {
-        "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-        "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-        "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-        "title_en": "Verified AI just had its greatest month.",
-        "title_original": "Verified AI just had its greatest month.",
-        "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -1201,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9338,
+        "recency": 0.9211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,88 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
-      }
-    },
-    {
-      "story_id": "story_1208d46c9897",
-      "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T16:51:22Z",
-      "latest_at": "2026-10-27T16:51:22Z",
-      "primary_item": {
-        "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-        "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -1363,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9968,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1397,7 +1429,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -1445,15 +1477,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.719,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1478,7 +1510,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
+      }
+    },
+    {
+      "story_id": "story_c4e8d42776c3",
+      "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程 / The New Security Agenda",
+      "url": "https://www.a16z.news/p/the-new-security-agenda",
+      "primary_url": "https://www.a16z.news/p/the-new-security-agenda",
+      "source": "a16z：News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ffd0e7ea39b5030ae0c0b61a4038989d0ec6589",
+          "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程 / The New Security Agenda",
+          "title_zh": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
+          "title_en": "The New Security Agenda",
+          "title_original": "The New Security Agenda",
+          "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.a16z.news/p/the-new-security-agenda",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:00:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "a16z：News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5ffd0e7ea39b5030ae0c0b61a4038989d0ec6589",
+          "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程 / The New Security Agenda",
+          "title_zh": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
+          "title_en": "The New Security Agenda",
+          "title_original": "The New Security Agenda",
+          "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.a16z.news/p/the-new-security-agenda",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:00:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T16:00:31Z",
+      "latest_at": "2026-10-28T16:00:31Z",
+      "primary_item": {
+        "id": "5ffd0e7ea39b5030ae0c0b61a4038989d0ec6589",
+        "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程 / The New Security Agenda",
+        "title_zh": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
+        "title_en": "The New Security Agenda",
+        "title_original": "The New Security Agenda",
+        "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。",
+        "recommend_reason_zh": null,
+        "url": "https://www.a16z.news/p/the-new-security-agenda",
+        "source": "a16z：News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     },
     {
@@ -1526,15 +1639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9885,
+        "recency": 0.9751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1561,89 +1674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
-      }
-    },
-    {
-      "story_id": "story_3a9c6235b650",
-      "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "primary_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_zh": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-          "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_original": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T01:15:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_zh": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-          "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_original": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T01:15:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8038,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T01:15:28Z",
-      "latest_at": "2026-10-28T01:15:28Z",
-      "primary_item": {
-        "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-        "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "title_zh": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-        "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "title_original": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:24:02.327498Z"
+        "scored_at": "2026-10-28T17:20:54.594891Z"
       }
     }
   ]
