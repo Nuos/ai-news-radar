@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 17:19:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:24:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI</title>
+<link>https://openai.com/index/updated-model-spec</link>
+<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software</title>
 <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
@@ -16,12 +24,36 @@
 <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
 </item>
 <item>
+<title>Webhook IP ranges added to the Meta API</title>
+<link>https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 29 Oct 2026 17:14:38 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment</title>
+<link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+<description>OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
+<category>官方更新</category>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
 <title>404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning</title>
 <link>https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning</link>
 <guid isPermaLink="true">https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning</guid>
 <description>404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。（404 Media（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 14:29:06 +0000</pubDate>
+</item>
+<item>
+<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+<link>https://openai.com/index/ropes-gray-ai-diligence</link>
+<guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI</title>
@@ -72,12 +104,12 @@
 <pubDate>Thu, 29 Oct 2026 14:36:22 +0000</pubDate>
 </item>
 <item>
-<title>The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
-<description>The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。（The Verge：AI（RSS））</description>
+<title>腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench / Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</title>
+<link>https://x.com/TencentHunyuan/status/2115851165904814283</link>
+<guid isPermaLink="true">https://x.com/TencentHunyuan/status/2115851165904814283</guid>
+<description>腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。（X：腾讯混元 (@TencentHunyuan)）</description>
 <category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 17:00:03 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
@@ -86,6 +118,14 @@
 <description>Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。（IT之家·人工智能）</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
+</item>
+<item>
+<title>The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
+<description>The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
 <title>专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU</title>
@@ -126,46 +166,6 @@
 <description>Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
-</item>
-<item>
-<title>Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity</title>
-<link>https://www.wheresyoured.at/exit-liquidity</link>
-<guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity</guid>
-<description>Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。（Ed Zitron 长文 / Where’s Your Ed At（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM</title>
-<link>https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm</guid>
-<description>OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.</title>
-<link>https://x.com/sundarpichai/status/2115535455156642066</link>
-<guid isPermaLink="true">https://x.com/sundarpichai/status/2115535455156642066</guid>
-<description>Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。（X：Sundar Pichai (@sundarpichai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 20:05:31 +0000</pubDate>
-</item>
-<item>
-<title>宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备 / Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-<link>https://huggingface.co/blog/announcing-project-protostar</link>
-<guid isPermaLink="true">https://huggingface.co/blog/announcing-project-protostar</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>vLLM 发布 Mistral Large 4 Day 0 支持 / Day 0 support for Mistral Large 4 on vLLM</title>
-<link>https://vllm.ai/blog/2026-10-29-mistral-large-4</link>
-<guid isPermaLink="true">https://vllm.ai/blog/2026-10-29-mistral-large-4</guid>
-<description>vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。（vLLM 官方博客（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

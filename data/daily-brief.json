@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-29T17:19:36.951258Z",
+  "generated_at": "2026-10-29T18:24:34.574513Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c461d6d5cb69",
+      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "primary_url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "title_en": "An updated Model Spec for more capable and beneficial AI",
+          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "title_en": "An updated Model Spec for more capable and beneficial AI",
+          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T17:00:00Z",
+      "latest_at": "2026-10-29T17:00:00Z",
+      "primary_item": {
+        "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+        "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+        "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+        "title_en": "An updated Model Spec for more capable and beneficial AI",
+        "title_original": "An updated Model Spec for more capable and beneficial AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T18:41:09.996451Z"
+      }
+    },
     {
       "story_id": "story_46b030e91541",
       "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9479,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
+      }
+    },
+    {
+      "story_id": "story_23fe0ac1dfc4",
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "primary_url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+          "title": "Webhook IP ranges added to the Meta API",
+          "title_zh": null,
+          "title_en": "Webhook IP ranges added to the Meta API",
+          "title_original": "Webhook IP ranges added to the Meta API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T17:14:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+          "title": "Webhook IP ranges added to the Meta API",
+          "title_zh": null,
+          "title_en": "Webhook IP ranges added to the Meta API",
+          "title_original": "Webhook IP ranges added to the Meta API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T17:14:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T17:14:38Z",
+      "latest_at": "2026-10-29T17:14:38Z",
+      "primary_item": {
+        "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+        "title": "Webhook IP ranges added to the Meta API",
+        "title_zh": null,
+        "title_en": "Webhook IP ranges added to the Meta API",
+        "title_original": "Webhook IP ranges added to the Meta API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T18:41:09.996451Z"
+      }
+    },
+    {
+      "story_id": "story_023d6c3fddb5",
+      "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "primary_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "649c65d7067143cf79872e2a10f7fc648defcf20",
+          "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+          "title_zh": "OpenAI 详解如何检测前沿模型失准行为",
+          "title_en": "How we detect frontier model misalignment",
+          "title_original": "How we detect frontier model misalignment",
+          "summary": "OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "649c65d7067143cf79872e2a10f7fc648defcf20",
+          "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+          "title_zh": "OpenAI 详解如何检测前沿模型失准行为",
+          "title_en": "How we detect frontier model misalignment",
+          "title_original": "How we detect frontier model misalignment",
+          "summary": "OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8729,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T09:00:00Z",
+      "latest_at": "2026-10-29T09:00:00Z",
+      "primary_item": {
+        "id": "649c65d7067143cf79872e2a10f7fc648defcf20",
+        "title": "OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment",
+        "title_zh": "OpenAI 详解如何检测前沿模型失准行为",
+        "title_en": "How we detect frontier model misalignment",
+        "title_original": "How we detect frontier model misalignment",
+        "summary": "OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -110,8 +358,8 @@
         },
         {
           "id": "051ff645629b74978dbe881478916824d79301f7",
-          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
           "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
           "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
           "summary": null,
@@ -145,8 +393,8 @@
         },
         {
           "id": "051ff645629b74978dbe881478916824d79301f7",
-          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
           "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
           "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
           "summary": null,
@@ -160,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +443,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
+      }
+    },
+    {
+      "story_id": "story_dbc9e49de220",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "primary_url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "title_zh": null,
+          "title_en": "How Ropes & Gray is developing AI for transactional diligence",
+          "title_original": "How Ropes & Gray is developing AI for transactional diligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "title_zh": null,
+          "title_en": "How Ropes & Gray is developing AI for transactional diligence",
+          "title_original": "How Ropes & Gray is developing AI for transactional diligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8481,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T07:00:00Z",
+      "latest_at": "2026-10-29T07:00:00Z",
+      "primary_item": {
+        "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "title_zh": null,
+        "title_en": "How Ropes & Gray is developing AI for transactional diligence",
+        "title_original": "How Ropes & Gray is developing AI for transactional diligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -243,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -325,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7786,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -408,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -490,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.8892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -572,15 +903,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7786,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -607,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -655,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,63 +1020,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
-      "story_id": "story_57da17898958",
-      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_cbdb79d81793",
+      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench / Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+      "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+      "primary_url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "title_en": "Anthropic’s business plan: Build God or die trying",
-          "title_original": "Anthropic’s business plan: Build God or die trying",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "id": "e6151e776427ad923564dde0616e34230f779a77",
+          "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench / Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+          "title_zh": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+          "title_en": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+          "title_original": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+          "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T13:30:00Z"
+          "published_at": "2026-10-29T17:00:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "X：腾讯混元 (@TencentHunyuan)"
       ],
       "items": [
         {
-          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "title_en": "Anthropic’s business plan: Build God or die trying",
-          "title_original": "Anthropic’s business plan: Build God or die trying",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "id": "e6151e776427ad923564dde0616e34230f779a77",
+          "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench / Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+          "title_zh": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+          "title_en": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+          "title_original": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+          "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T13:30:00Z"
+          "published_at": "2026-10-29T17:00:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9462,
+        "recency": 0.9799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -753,25 +1084,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T13:30:00Z",
-      "latest_at": "2026-10-29T13:30:00Z",
+      "earliest_at": "2026-10-29T17:00:03Z",
+      "latest_at": "2026-10-29T17:00:03Z",
       "primary_item": {
-        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-        "title_en": "Anthropic’s business plan: Build God or die trying",
-        "title_original": "Anthropic’s business plan: Build God or die trying",
-        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+        "id": "e6151e776427ad923564dde0616e34230f779a77",
+        "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench / Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+        "title_zh": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+        "title_en": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+        "title_original": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
+        "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。",
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-        "source": "The Verge：AI（RSS）",
+        "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -819,21 +1150,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7629,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T22:35:25.040000Z",
       "latest_at": "2026-10-28T22:35:25.040000Z",
@@ -853,7 +1183,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
+      }
+    },
+    {
+      "story_id": "story_57da17898958",
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9316,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T13:30:00Z",
+      "latest_at": "2026-10-29T13:30:00Z",
+      "primary_item": {
+        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+        "title_en": "Anthropic’s business plan: Build God or die trying",
+        "title_original": "Anthropic’s business plan: Build God or die trying",
+        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -901,21 +1313,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.904,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-29T10:20:27.134074Z",
       "latest_at": "2026-10-29T10:20:27.134074Z",
@@ -935,7 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -983,15 +1394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,7 +1427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -1064,15 +1475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8519,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,7 +1508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -1145,15 +1556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9491,
+        "recency": 0.9344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,7 +1590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     },
     {
@@ -1227,15 +1638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,414 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
-      }
-    },
-    {
-      "story_id": "story_0c6c651de454",
-      "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
-      "url": "https://www.wheresyoured.at/exit-liquidity",
-      "primary_url": "https://www.wheresyoured.at/exit-liquidity",
-      "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
-          "title_zh": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-          "title_en": "Exit Liquidity",
-          "title_original": "Exit Liquidity",
-          "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wheresyoured.at/exit-liquidity",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:51:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
-          "title_zh": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-          "title_en": "Exit Liquidity",
-          "title_original": "Exit Liquidity",
-          "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wheresyoured.at/exit-liquidity",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:51:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T17:51:00Z",
-      "latest_at": "2026-10-28T17:51:00Z",
-      "primary_item": {
-        "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-        "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
-        "title_zh": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-        "title_en": "Exit Liquidity",
-        "title_original": "Exit Liquidity",
-        "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
-        "recommend_reason_zh": null,
-        "url": "https://www.wheresyoured.at/exit-liquidity",
-        "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
-      }
-    },
-    {
-      "story_id": "story_42d8d4c2ff21",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-      "primary_url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "title_en": "How to Extract Tables from a PDF with an LLM",
-          "title_original": "How to Extract Tables from a PDF with an LLM",
-          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "title_en": "How to Extract Tables from a PDF with an LLM",
-          "title_original": "How to Extract Tables from a PDF with an LLM",
-          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7786,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-        "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-        "title_en": "How to Extract Tables from a PDF with an LLM",
-        "title_original": "How to Extract Tables from a PDF with an LLM",
-        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
-      }
-    },
-    {
-      "story_id": "story_3a2e7aa6d2f5",
-      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-      "url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "primary_url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-          "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-          "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-          "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2115535455156642066",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T20:05:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "items": [
-        {
-          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-          "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-          "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-          "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2115535455156642066",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T20:05:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7359,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T20:05:31Z",
-      "latest_at": "2026-10-28T20:05:31Z",
-      "primary_item": {
-        "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-        "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-        "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-        "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-        "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sundarpichai/status/2115535455156642066",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
-      }
-    },
-    {
-      "story_id": "story_9628ce64bb0f",
-      "title": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备 / Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "primary_url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "771f958eac92e2204203dd7a68a507b881e2026f",
-          "title": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备 / Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "title_zh": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备",
-          "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "title_original": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/announcing-project-protostar",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "771f958eac92e2204203dd7a68a507b881e2026f",
-          "title": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备 / Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "title_zh": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备",
-          "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "title_original": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/announcing-project-protostar",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7786,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "771f958eac92e2204203dd7a68a507b881e2026f",
-        "title": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备 / Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-        "title_zh": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备",
-        "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-        "title_original": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/announcing-project-protostar",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
-      }
-    },
-    {
-      "story_id": "story_c395daf83aca",
-      "title": "vLLM 发布 Mistral Large 4 Day 0 支持 / Day 0 support for Mistral Large 4 on vLLM",
-      "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
-      "primary_url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
-      "source": "vLLM 官方博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2edf377ba1de7223580ba7c38ac308cc5a7a0b50",
-          "title": "vLLM 发布 Mistral Large 4 Day 0 支持 / Day 0 support for Mistral Large 4 on vLLM",
-          "title_zh": "vLLM 发布 Mistral Large 4 Day 0 支持",
-          "title_en": "Day 0 support for Mistral Large 4 on vLLM",
-          "title_original": "Day 0 support for Mistral Large 4 on vLLM",
-          "summary": "vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。",
-          "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
-          "source": "vLLM 官方博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "vLLM 官方博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2edf377ba1de7223580ba7c38ac308cc5a7a0b50",
-          "title": "vLLM 发布 Mistral Large 4 Day 0 支持 / Day 0 support for Mistral Large 4 on vLLM",
-          "title_zh": "vLLM 发布 Mistral Large 4 Day 0 支持",
-          "title_en": "Day 0 support for Mistral Large 4 on vLLM",
-          "title_original": "Day 0 support for Mistral Large 4 on vLLM",
-          "summary": "vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。",
-          "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
-          "source": "vLLM 官方博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7786,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "2edf377ba1de7223580ba7c38ac308cc5a7a0b50",
-        "title": "vLLM 发布 Mistral Large 4 Day 0 支持 / Day 0 support for Mistral Large 4 on vLLM",
-        "title_zh": "vLLM 发布 Mistral Large 4 Day 0 支持",
-        "title_en": "Day 0 support for Mistral Large 4 on vLLM",
-        "title_original": "Day 0 support for Mistral Large 4 on vLLM",
-        "summary": "vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。",
-        "recommend_reason_zh": null,
-        "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
-        "source": "vLLM 官方博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T17:33:54.342951Z"
+        "scored_at": "2026-10-29T18:41:09.996451Z"
       }
     }
   ]
