@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:18:28.728623Z",
+  "generated_at": "2026-10-29T20:20:50.002684Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9672,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9211,
+        "recency": 0.9074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9706,
+        "recency": 0.9562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
+      }
+    },
+    {
+      "story_id": "story_07aef458424a",
+      "title": "Codex CLI 0.166.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
+          "title": "Codex CLI 0.166.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.166.0",
+          "title_original": "Codex CLI 0.166.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
+          "title": "Codex CLI 0.166.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.166.0",
+          "title_original": "Codex CLI 0.166.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
+        "title": "Codex CLI 0.166.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.166.0",
+        "title_original": "Codex CLI 0.166.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -408,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,12 +526,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
       "story_id": "story_dbc9e49de220",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "title": "Ropes & Gray 如何开发用于交易尽职调查的人工智能 / How Ropes & Gray is developing AI for transactional diligence",
       "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "primary_url": "https://openai.com/index/ropes-gray-ai-diligence",
       "source": "OpenAI News",
@@ -456,8 +539,8 @@
       "sources": [
         {
           "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
-          "title": "How Ropes & Gray is developing AI for transactional diligence",
-          "title_zh": null,
+          "title": "Ropes & Gray 如何开发用于交易尽职调查的人工智能 / How Ropes & Gray is developing AI for transactional diligence",
+          "title_zh": "Ropes & Gray 如何开发用于交易尽职调查的人工智能",
           "title_en": "How Ropes & Gray is developing AI for transactional diligence",
           "title_original": "How Ropes & Gray is developing AI for transactional diligence",
           "summary": null,
@@ -476,8 +559,8 @@
       "items": [
         {
           "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
-          "title": "How Ropes & Gray is developing AI for transactional diligence",
-          "title_zh": null,
+          "title": "Ropes & Gray 如何开发用于交易尽职调查的人工智能 / How Ropes & Gray is developing AI for transactional diligence",
+          "title_zh": "Ropes & Gray 如何开发用于交易尽职调查的人工智能",
           "title_en": "How Ropes & Gray is developing AI for transactional diligence",
           "title_original": "How Ropes & Gray is developing AI for transactional diligence",
           "summary": null,
@@ -491,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8247,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,8 +595,8 @@
       "latest_at": "2026-10-29T07:00:00Z",
       "primary_item": {
         "id": "a6c6ea76283b2d65f476d02e152b2a48a39e0140",
-        "title": "How Ropes & Gray is developing AI for transactional diligence",
-        "title_zh": null,
+        "title": "Ropes & Gray 如何开发用于交易尽职调查的人工智能 / How Ropes & Gray is developing AI for transactional diligence",
+        "title_zh": "Ropes & Gray 如何开发用于交易尽职调查的人工智能",
         "title_en": "How Ropes & Gray is developing AI for transactional diligence",
         "title_original": "How Ropes & Gray is developing AI for transactional diligence",
         "summary": null,
@@ -526,7 +609,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
+      }
+    },
+    {
+      "story_id": "story_b913f52d487d",
+      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+      "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "primary_url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "source": "Timothy B. Lee：Understanding AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+          "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "title_en": "Anthropic’s financials are surprisingly strong",
+          "title_original": "Anthropic’s financials are surprisingly strong",
+          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+          "recommend_reason_zh": null,
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T19:10:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Timothy B. Lee：Understanding AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+          "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "title_en": "Anthropic’s financials are surprisingly strong",
+          "title_original": "Anthropic’s financials are surprisingly strong",
+          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+          "recommend_reason_zh": null,
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T19:10:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T19:10:41Z",
+      "latest_at": "2026-10-29T19:10:41Z",
+      "primary_item": {
+        "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+        "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+        "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+        "title_en": "Anthropic’s financials are surprisingly strong",
+        "title_original": "Anthropic’s financials are surprisingly strong",
+        "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+        "recommend_reason_zh": null,
+        "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+        "source": "Timothy B. Lee：Understanding AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -574,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9262,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -656,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7567,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -691,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -739,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -821,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8777,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -903,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7567,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -938,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -986,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9344,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1184,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -1067,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9672,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,7 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -1148,15 +1313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7414,
+        "recency": 0.7304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1181,7 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -1229,15 +1394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,7 +1428,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -1311,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,88 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
-      }
-    },
-    {
-      "story_id": "story_7bfb05411041",
-      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-      "url": "https://x.com/GeminiApp/status/2115845164824711247",
-      "primary_url": "https://x.com/GeminiApp/status/2115845164824711247",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
-          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2115845164824711247",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:36:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
-          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2115845164824711247",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:36:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9617,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T16:36:12Z",
-      "latest_at": "2026-10-29T16:36:12Z",
-      "primary_item": {
-        "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
-        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-        "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-        "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-        "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-        "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GeminiApp/status/2115845164824711247",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
@@ -1473,15 +1557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8279,
+        "recency": 0.8155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1506,170 +1590,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     },
     {
-      "story_id": "story_ae566d8a584d",
-      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-      "primary_url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_7bfb05411041",
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "primary_url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "source": "X：Gemini (@GeminiApp)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
-          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T13:42:38Z"
+          "published_at": "2026-10-29T16:36:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "X：Gemini (@GeminiApp)"
       ],
       "items": [
         {
-          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
-          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T13:42:38Z"
+          "published_at": "2026-10-29T16:36:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T13:42:38Z",
-      "latest_at": "2026-10-29T13:42:38Z",
-      "primary_item": {
-        "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
-        "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-        "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
-      }
-    },
-    {
-      "story_id": "story_e724b903804d",
-      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-      "url": "https://x.com/thsottiaux/status/2115850175868727621",
-      "primary_url": "https://x.com/thsottiaux/status/2115850175868727621",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
-          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_en": null,
-          "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2115850175868727621",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:56:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
-          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_en": null,
-          "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2115850175868727621",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:56:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T16:56:07Z",
-      "latest_at": "2026-10-29T16:56:07Z",
+      "earliest_at": "2026-10-29T16:36:12Z",
+      "latest_at": "2026-10-29T16:36:12Z",
       "primary_item": {
-        "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
-        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "title_en": null,
-        "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+        "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+        "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2115850175868727621",
-        "source": "X：Tibo (@thsottiaux)",
+        "url": "https://x.com/GeminiApp/status/2115845164824711247",
+        "source": "X：Gemini (@GeminiApp)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:52.917768Z"
+        "scored_at": "2026-10-29T20:28:21.770551Z"
       }
     }
   ]
