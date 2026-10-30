@@ -1,11 +1,318 @@
 {
-  "generated_at": "2026-10-30T17:18:49.422541Z",
+  "generated_at": "2026-10-30T18:20:38.946696Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_3b4867ca19cb",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "545d3ac79fdabc689e437c9228407971cdff4698",
+          "title": "nemotron-halloween",
+          "title_zh": null,
+          "title_en": "nemotron-halloween",
+          "title_original": "nemotron-halloween",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-30T17:57:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "545d3ac79fdabc689e437c9228407971cdff4698",
+          "title": "nemotron-halloween",
+          "title_zh": null,
+          "title_en": "nemotron-halloween",
+          "title_original": "nemotron-halloween",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-30T17:57:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T17:57:24Z",
+      "latest_at": "2026-10-30T17:57:24Z",
+      "primary_item": {
+        "id": "545d3ac79fdabc689e437c9228407971cdff4698",
+        "title": "nemotron-halloween",
+        "title_zh": null,
+        "title_en": "nemotron-halloween",
+        "title_original": "nemotron-halloween",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_54217e411546",
+      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
+          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T14:50:37.797000Z"
+        },
+        {
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50306008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T16:13:02Z"
+        },
+        {
+          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
+          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
+          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost concerns",
+          "title_original": "US tech stocks see sharp falls over AI cost concerns",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-30T15:01:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "Hacker News：AI 热帖",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
+          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T14:50:37.797000Z"
+        },
+        {
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50306008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T16:13:02Z"
+        },
+        {
+          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
+          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
+          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost concerns",
+          "title_original": "US tech stocks see sharp falls over AI cost concerns",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-30T15:01:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9507,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T14:50:37.797000Z",
+      "latest_at": "2026-10-30T16:13:02Z",
+      "primary_item": {
+        "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
+        "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
+        "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+        "title_en": "US tech stocks see sharp falls over AI cost fears",
+        "title_original": "US tech stocks see sharp falls over AI cost fears",
+        "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_312cc63926ac",
+      "title": "让网站更容易表达人工智能训练偏好 / Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "primary_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f446c8c8846a6b9d148cea6957a711c7eaaa1ba",
+          "title": "让网站更容易表达人工智能训练偏好 / Making it easier for websites to express AI training preferences",
+          "title_zh": "让网站更容易表达人工智能训练偏好",
+          "title_en": "Making it easier for websites to express AI training preferences",
+          "title_original": "Making it easier for websites to express AI training preferences",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-30T09:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1f446c8c8846a6b9d148cea6957a711c7eaaa1ba",
+          "title": "让网站更容易表达人工智能训练偏好 / Making it easier for websites to express AI training preferences",
+          "title_zh": "让网站更容易表达人工智能训练偏好",
+          "title_en": "Making it easier for websites to express AI training preferences",
+          "title_original": "Making it easier for websites to express AI training preferences",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-30T09:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8801,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T09:30:00Z",
+      "latest_at": "2026-10-30T09:30:00Z",
+      "primary_item": {
+        "id": "1f446c8c8846a6b9d148cea6957a711c7eaaa1ba",
+        "title": "让网站更容易表达人工智能训练偏好 / Making it easier for websites to express AI training preferences",
+        "title_zh": "让网站更容易表达人工智能训练偏好",
+        "title_en": "Making it easier for websites to express AI training preferences",
+        "title_original": "Making it easier for websites to express AI training preferences",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
       "story_id": "story_db3a166bf759",
-      "title": "Community safety report and new protections for teens",
+      "title": "社区安全报告和针对青少年的新保护 / Community safety report and new protections for teens",
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "primary_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI News",
@@ -13,8 +320,8 @@
       "sources": [
         {
           "id": "e64d1b71652a88b748ea67e41f98e62058ef68c4",
-          "title": "Community safety report and new protections for teens",
-          "title_zh": null,
+          "title": "社区安全报告和针对青少年的新保护 / Community safety report and new protections for teens",
+          "title_zh": "社区安全报告和针对青少年的新保护",
           "title_en": "Community safety report and new protections for teens",
           "title_original": "Community safety report and new protections for teens",
           "summary": null,
@@ -33,8 +340,8 @@
       "items": [
         {
           "id": "e64d1b71652a88b748ea67e41f98e62058ef68c4",
-          "title": "Community safety report and new protections for teens",
-          "title_zh": null,
+          "title": "社区安全报告和针对青少年的新保护 / Community safety report and new protections for teens",
+          "title_zh": "社区安全报告和针对青少年的新保护",
           "title_en": "Community safety report and new protections for teens",
           "title_original": "Community safety report and new protections for teens",
           "summary": null,
@@ -48,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8869,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +376,8 @@
       "latest_at": "2026-10-30T09:00:00Z",
       "primary_item": {
         "id": "e64d1b71652a88b748ea67e41f98e62058ef68c4",
-        "title": "Community safety report and new protections for teens",
-        "title_zh": null,
+        "title": "社区安全报告和针对青少年的新保护 / Community safety report and new protections for teens",
+        "title_zh": "社区安全报告和针对青少年的新保护",
         "title_en": "Community safety report and new protections for teens",
         "title_original": "Community safety report and new protections for teens",
         "summary": null,
@@ -83,7 +390,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_7fc9b68d12a5",
+      "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
+      "primary_url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "00bb94c58d3aa1f9348e39ae2b949c5b71c996fd",
+          "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "title_zh": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
+          "title_en": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "title_original": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T17:15:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "00bb94c58d3aa1f9348e39ae2b949c5b71c996fd",
+          "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "title_zh": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
+          "title_en": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "title_original": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T17:15:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9844,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T17:15:24Z",
+      "latest_at": "2026-10-30T17:15:24Z",
+      "primary_item": {
+        "id": "00bb94c58d3aa1f9348e39ae2b949c5b71c996fd",
+        "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+        "title_zh": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
+        "title_en": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+        "title_original": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+        "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -131,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -213,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.994,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -295,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9282,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +718,414 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_3151219826f8",
+      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+      "url": "https://www.platformer.news/thursday-newsletter-6",
+      "primary_url": "https://www.platformer.news/thursday-newsletter-6",
+      "source": "Platformer（热点 RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+          "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+          "title_en": "What Google and Reddit's bad days have in common",
+          "title_original": "What Google and Reddit's bad days have in common",
+          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+          "recommend_reason_zh": null,
+          "url": "https://www.platformer.news/thursday-newsletter-6",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T00:51:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Platformer（热点 RSS）"
+      ],
+      "items": [
+        {
+          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+          "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+          "title_en": "What Google and Reddit's bad days have in common",
+          "title_original": "What Google and Reddit's bad days have in common",
+          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+          "recommend_reason_zh": null,
+          "url": "https://www.platformer.news/thursday-newsletter-6",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T00:51:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7768,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T00:51:00Z",
+      "latest_at": "2026-10-30T00:51:00Z",
+      "primary_item": {
+        "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+        "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+        "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+        "title_en": "What Google and Reddit's bad days have in common",
+        "title_original": "What Google and Reddit's bad days have in common",
+        "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+        "recommend_reason_zh": null,
+        "url": "https://www.platformer.news/thursday-newsletter-6",
+        "source": "Platformer（热点 RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_0b44a8cbb1bb",
+      "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制 / Ultrathink",
+      "url": "https://x.com/adocomplete/status/2116224220539883992",
+      "primary_url": "https://x.com/adocomplete/status/2116224220539883992",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b4e926babecf4cfdcd6973688570d188c28335d1",
+          "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制 / Ultrathink",
+          "title_zh": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+          "title_en": "Ultrathink",
+          "title_original": "Ultrathink",
+          "summary": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/adocomplete/status/2116224220539883992",
+          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T17:42:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
+      ],
+      "items": [
+        {
+          "id": "b4e926babecf4cfdcd6973688570d188c28335d1",
+          "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制 / Ultrathink",
+          "title_zh": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+          "title_en": "Ultrathink",
+          "title_original": "Ultrathink",
+          "summary": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/adocomplete/status/2116224220539883992",
+          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T17:42:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T17:42:26Z",
+      "latest_at": "2026-10-30T17:42:26Z",
+      "primary_item": {
+        "id": "b4e926babecf4cfdcd6973688570d188c28335d1",
+        "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制 / Ultrathink",
+        "title_zh": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+        "title_en": "Ultrathink",
+        "title_original": "Ultrathink",
+        "summary": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/adocomplete/status/2116224220539883992",
+        "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_c443cc9a8196",
+      "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+      "url": "https://www.aibase.com/news/31995",
+      "primary_url": "https://www.aibase.com/news/31995",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
+          "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "title_zh": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "title_en": null,
+          "title_original": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T10:20:53.642634Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
+          "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "title_zh": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "title_en": null,
+          "title_original": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T10:20:53.642634Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.891,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T10:20:53.642634Z",
+      "latest_at": "2026-10-30T10:20:53.642634Z",
+      "primary_item": {
+        "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
+        "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+        "title_zh": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+        "title_en": null,
+        "title_original": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31995",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_a29e7487a23f",
+      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.764,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T23:42:22Z",
+      "latest_at": "2026-10-29T23:42:22Z",
+      "primary_item": {
+        "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+        "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+        "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
+      }
+    },
+    {
+      "story_id": "story_b913f52d487d",
+      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+      "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "primary_url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "source": "Timothy B. Lee：Understanding AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+          "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "title_en": "Anthropic’s financials are surprisingly strong",
+          "title_original": "Anthropic’s financials are surprisingly strong",
+          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+          "recommend_reason_zh": null,
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T19:10:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Timothy B. Lee：Understanding AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+          "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "title_en": "Anthropic’s financials are surprisingly strong",
+          "title_original": "Anthropic’s financials are surprisingly strong",
+          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+          "recommend_reason_zh": null,
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T19:10:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7157,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T19:10:41Z",
+      "latest_at": "2026-10-29T19:10:41Z",
+      "primary_item": {
+        "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+        "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
+        "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+        "title_en": "Anthropic’s financials are surprisingly strong",
+        "title_original": "Anthropic’s financials are surprisingly strong",
+        "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+        "recommend_reason_zh": null,
+        "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+        "source": "Timothy B. Lee：Understanding AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -406,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7511,
+        "recency": 0.7401,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -441,333 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_3151219826f8",
-      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
-      "url": "https://www.platformer.news/thursday-newsletter-6",
-      "primary_url": "https://www.platformer.news/thursday-newsletter-6",
-      "source": "Platformer（热点 RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
-          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
-          "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-          "title_en": "What Google and Reddit's bad days have in common",
-          "title_original": "What Google and Reddit's bad days have in common",
-          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
-          "recommend_reason_zh": null,
-          "url": "https://www.platformer.news/thursday-newsletter-6",
-          "source": "Platformer（热点 RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T00:51:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Platformer（热点 RSS）"
-      ],
-      "items": [
-        {
-          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
-          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
-          "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-          "title_en": "What Google and Reddit's bad days have in common",
-          "title_original": "What Google and Reddit's bad days have in common",
-          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
-          "recommend_reason_zh": null,
-          "url": "https://www.platformer.news/thursday-newsletter-6",
-          "source": "Platformer（热点 RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T00:51:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T00:51:00Z",
-      "latest_at": "2026-10-30T00:51:00Z",
-      "primary_item": {
-        "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
-        "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
-        "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-        "title_en": "What Google and Reddit's bad days have in common",
-        "title_original": "What Google and Reddit's bad days have in common",
-        "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
-        "recommend_reason_zh": null,
-        "url": "https://www.platformer.news/thursday-newsletter-6",
-        "source": "Platformer（热点 RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_c443cc9a8196",
-      "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-      "url": "https://www.aibase.com/news/31995",
-      "primary_url": "https://www.aibase.com/news/31995",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
-          "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-          "title_zh": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-          "title_en": null,
-          "title_original": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T10:20:53.642634Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
-          "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-          "title_zh": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-          "title_en": null,
-          "title_original": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T10:20:53.642634Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9043,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T10:20:53.642634Z",
-      "latest_at": "2026-10-30T10:20:53.642634Z",
-      "primary_item": {
-        "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
-        "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-        "title_zh": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-        "title_en": null,
-        "title_original": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31995",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_a29e7487a23f",
-      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
-          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T23:42:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
-          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T23:42:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7755,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T23:42:22Z",
-      "latest_at": "2026-10-29T23:42:22Z",
-      "primary_item": {
-        "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
-        "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-        "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_b913f52d487d",
-      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
-      "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-      "primary_url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-      "source": "Timothy B. Lee：Understanding AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
-          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
-          "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-          "title_en": "Anthropic’s financials are surprisingly strong",
-          "title_original": "Anthropic’s financials are surprisingly strong",
-          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-          "recommend_reason_zh": null,
-          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-          "source": "Timothy B. Lee：Understanding AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T19:10:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Timothy B. Lee：Understanding AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
-          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
-          "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-          "title_en": "Anthropic’s financials are surprisingly strong",
-          "title_original": "Anthropic’s financials are surprisingly strong",
-          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-          "recommend_reason_zh": null,
-          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-          "source": "Timothy B. Lee：Understanding AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T19:10:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T19:10:41Z",
-      "latest_at": "2026-10-29T19:10:41Z",
-      "primary_item": {
-        "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
-        "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong",
-        "title_zh": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-        "title_en": "Anthropic’s financials are surprisingly strong",
-        "title_original": "Anthropic’s financials are surprisingly strong",
-        "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-        "recommend_reason_zh": null,
-        "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-        "source": "Timothy B. Lee：Understanding AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -815,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,7 +1319,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -897,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9373,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -930,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -978,15 +1448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7788,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1011,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -1059,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8261,
+        "recency": 0.8139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,7 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -1140,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8714,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     },
     {
@@ -1221,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1254,412 +1724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_0087c066e962",
-      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T20:08:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T20:08:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7366,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T20:08:31Z",
-      "latest_at": "2026-10-29T20:08:31Z",
-      "primary_item": {
-        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_5016c807e767",
-      "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-      "url": "https://www.aibase.com/news/31991",
-      "primary_url": "https://www.aibase.com/news/31991",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "836d362bed2eee885778174ba8d118127a6a839b",
-          "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-          "title_zh": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-          "title_en": null,
-          "title_original": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31991",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T08:25:14.389295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "836d362bed2eee885778174ba8d118127a6a839b",
-          "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-          "title_zh": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-          "title_en": null,
-          "title_original": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31991",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T08:25:14.389295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T08:25:14.389295Z",
-      "latest_at": "2026-10-30T08:25:14.389295Z",
-      "primary_item": {
-        "id": "836d362bed2eee885778174ba8d118127a6a839b",
-        "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-        "title_zh": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-        "title_en": null,
-        "title_original": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31991",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_7cd5d815224a",
-      "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-      "url": "https://www.aibase.com/news/31992",
-      "primary_url": "https://www.aibase.com/news/31992",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
-          "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "title_zh": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "title_en": null,
-          "title_original": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T08:25:14.389295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
-          "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "title_zh": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "title_en": null,
-          "title_original": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T08:25:14.389295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T08:25:14.389295Z",
-      "latest_at": "2026-10-30T08:25:14.389295Z",
-      "primary_item": {
-        "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
-        "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-        "title_zh": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-        "title_en": null,
-        "title_original": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31992",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_84ac9483c1ab",
-      "title": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-      "url": "https://www.aibase.com/news/31989",
-      "primary_url": "https://www.aibase.com/news/31989",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "03e104bd50d3982ce37c0956f1787721b216018d",
-          "title": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-          "title_zh": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-          "title_en": null,
-          "title_original": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31989",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T07:21:34.725839Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "03e104bd50d3982ce37c0956f1787721b216018d",
-          "title": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-          "title_zh": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-          "title_en": null,
-          "title_original": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31989",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T07:21:34.725839Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8661,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T07:21:34.725839Z",
-      "latest_at": "2026-10-30T07:21:34.725839Z",
-      "primary_item": {
-        "id": "03e104bd50d3982ce37c0956f1787721b216018d",
-        "title": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-        "title_zh": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-        "title_en": null,
-        "title_original": "AI 学会\"睡觉\"：谷歌想治好大模型边学边忘的老毛病",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31989",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
-      }
-    },
-    {
-      "story_id": "story_d891b5932706",
-      "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-      "url": "https://www.aibase.com/news/31990",
-      "primary_url": "https://www.aibase.com/news/31990",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
-          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "title_zh": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "title_en": null,
-          "title_original": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31990",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T07:21:34.725839Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
-          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "title_zh": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "title_en": null,
-          "title_original": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31990",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T07:21:34.725839Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8661,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T07:21:34.725839Z",
-      "latest_at": "2026-10-30T07:21:34.725839Z",
-      "primary_item": {
-        "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
-        "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-        "title_zh": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-        "title_en": null,
-        "title_original": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31990",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T17:31:00.568725Z"
+        "scored_at": "2026-10-30T18:21:32.544795Z"
       }
     }
   ]
