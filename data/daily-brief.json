@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-30T16:21:34.481818Z",
+  "generated_at": "2026-10-30T17:18:49.422541Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c461d6d5cb69",
-      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "primary_url": "https://openai.com/index/updated-model-spec",
+      "story_id": "story_db3a166bf759",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "primary_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
-          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "id": "e64d1b71652a88b748ea67e41f98e62058ef68c4",
+          "title": "Community safety report and new protections for teens",
+          "title_zh": null,
+          "title_en": "Community safety report and new protections for teens",
+          "title_original": "Community safety report and new protections for teens",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/updated-model-spec",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-29T17:00:00Z"
+          "published_at": "2026-10-30T09:00:00Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
-          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "id": "e64d1b71652a88b748ea67e41f98e62058ef68c4",
+          "title": "Community safety report and new protections for teens",
+          "title_zh": null,
+          "title_en": "Community safety report and new protections for teens",
+          "title_original": "Community safety report and new protections for teens",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/updated-model-spec",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-29T17:00:00Z"
+          "published_at": "2026-10-30T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7137,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T17:00:00Z",
-      "latest_at": "2026-10-29T17:00:00Z",
+      "earliest_at": "2026-10-30T09:00:00Z",
+      "latest_at": "2026-10-30T09:00:00Z",
       "primary_item": {
-        "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
-        "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-        "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-        "title_en": "An updated Model Spec for more capable and beneficial AI",
-        "title_original": "An updated Model Spec for more capable and beneficial AI",
+        "id": "e64d1b71652a88b748ea67e41f98e62058ef68c4",
+        "title": "Community safety report and new protections for teens",
+        "title_zh": null,
+        "title_en": "Community safety report and new protections for teens",
+        "title_original": "Community safety report and new protections for teens",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/updated-model-spec",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
-      }
-    },
-    {
-      "story_id": "story_23fe0ac1dfc4",
-      "title": "添加到 Meta API 的 Webhook IP 范围 / Webhook IP ranges added to the Meta API",
-      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-      "primary_url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
-          "title": "添加到 Meta API 的 Webhook IP 范围 / Webhook IP ranges added to the Meta API",
-          "title_zh": "添加到 Meta API 的 Webhook IP 范围",
-          "title_en": "Webhook IP ranges added to the Meta API",
-          "title_original": "Webhook IP ranges added to the Meta API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T17:14:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
-          "title": "添加到 Meta API 的 Webhook IP 范围 / Webhook IP ranges added to the Meta API",
-          "title_zh": "添加到 Meta API 的 Webhook IP 范围",
-          "title_en": "Webhook IP ranges added to the Meta API",
-          "title_original": "Webhook IP ranges added to the Meta API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T17:14:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T17:14:38Z",
-      "latest_at": "2026-10-29T17:14:38Z",
-      "primary_item": {
-        "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
-        "title": "添加到 Meta API 的 Webhook IP 范围 / Webhook IP ranges added to the Meta API",
-        "title_zh": "添加到 Meta API 的 Webhook IP 范围",
-        "title_en": "Webhook IP ranges added to the Meta API",
-        "title_original": "Webhook IP ranges added to the Meta API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +165,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
+      }
+    },
+    {
+      "story_id": "story_ad0e0ba20073",
+      "title": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款 / DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "35865f4b971c9cd132d2a4ac7fccddfcd54dc258",
+          "title": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款 / DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+          "title_zh": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款",
+          "title_en": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+          "title_original": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+          "summary": "美国司法部起诉五人，启动首次针对“幽灵学生”的大规模联邦打击，诈骗者窃取美国公民身份冒充大学生骗取学生贷款，并已从关联肯尼亚人的网络没收超过 75 万美元加密货币。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T16:53:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "35865f4b971c9cd132d2a4ac7fccddfcd54dc258",
+          "title": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款 / DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+          "title_zh": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款",
+          "title_en": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+          "title_original": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+          "summary": "美国司法部起诉五人，启动首次针对“幽灵学生”的大规模联邦打击，诈骗者窃取美国公民身份冒充大学生骗取学生贷款，并已从关联肯尼亚人的网络没收超过 75 万美元加密货币。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T16:53:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.994,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T16:53:49Z",
+      "latest_at": "2026-10-30T16:53:49Z",
+      "primary_item": {
+        "id": "35865f4b971c9cd132d2a4ac7fccddfcd54dc258",
+        "title": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款 / DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+        "title_zh": "美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款",
+        "title_en": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+        "title_original": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+        "summary": "美国司法部起诉五人，启动首次针对“幽灵学生”的大规模联邦打击，诈骗者窃取美国公民身份冒充大学生骗取学生贷款，并已从关联肯尼亚人的网络没收超过 75 万美元加密货币。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -296,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9552,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -407,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -442,7 +441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -490,15 +489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -572,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -654,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7862,
+        "recency": 0.7755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,7 +686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -735,15 +734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7365,
+        "recency": 0.7264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,7 +767,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -816,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -898,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,7 +930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -979,15 +978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7896,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,7 +1011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1060,15 +1059,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,7 +1092,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1141,15 +1140,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8834,
+        "recency": 0.8714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1174,7 +1173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1222,21 +1221,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.904,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T09:22:16.760937Z",
       "latest_at": "2026-10-30T09:22:16.760937Z",
@@ -1256,118 +1254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
-      }
-    },
-    {
-      "story_id": "story_e724b903804d",
-      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-      "url": "https://x.com/thsottiaux/status/2115850175868727621",
-      "primary_url": "https://x.com/thsottiaux/status/2115850175868727621",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
-          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_en": null,
-          "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2115850175868727621",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:56:07Z"
-        },
-        {
-          "id": "ccbaa7fa040c2380579fa57f6312a4392384b76a",
-          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍 / Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
-          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_en": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
-          "title_original": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2115850175868727621",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-29T16:56:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
-          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_en": null,
-          "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2115850175868727621",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:56:07Z"
-        },
-        {
-          "id": "ccbaa7fa040c2380579fa57f6312a4392384b76a",
-          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍 / Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
-          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-          "title_en": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
-          "title_original": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2115850175868727621",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-29T16:56:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7169,
-      "importance": 0.7169,
-      "importance_score": 0.7169,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T16:56:07Z",
-      "latest_at": "2026-10-29T16:56:07Z",
-      "primary_item": {
-        "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
-        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "title_en": null,
-        "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2115850175868727621",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1415,15 +1302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7468,
+        "recency": 0.7366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1448,7 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1496,15 +1383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1529,7 +1416,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1577,15 +1464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1610,7 +1497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     },
     {
@@ -1658,15 +1545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1691,7 +1578,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T16:22:26.748936Z"
+        "scored_at": "2026-10-30T17:31:00.568725Z"
+      }
+    },
+    {
+      "story_id": "story_d891b5932706",
+      "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+      "url": "https://www.aibase.com/news/31990",
+      "primary_url": "https://www.aibase.com/news/31990",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
+          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "title_zh": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "title_en": null,
+          "title_original": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31990",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T07:21:34.725839Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
+          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "title_zh": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "title_en": null,
+          "title_original": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31990",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T07:21:34.725839Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8661,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T07:21:34.725839Z",
+      "latest_at": "2026-10-30T07:21:34.725839Z",
+      "primary_item": {
+        "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
+        "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+        "title_zh": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+        "title_en": null,
+        "title_original": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31990",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T17:31:00.568725Z"
       }
     }
   ]
