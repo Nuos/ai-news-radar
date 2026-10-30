@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:18:43.500717Z",
+  "generated_at": "2026-10-30T00:45:08.712632Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8694,
+        "recency": 0.8515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9129,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9161,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +249,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
-      "story_id": "story_07aef458424a",
-      "title": "Codex CLI 0.166.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e149b8747c2d",
+      "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "primary_url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
-          "title": "Codex CLI 0.166.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.166.0",
-          "title_original": "Codex CLI 0.166.0",
+          "id": "633678a738689d7a094363583249dc3fa4d37e17",
+          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
+          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "summary": "404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z"
+        },
+        {
+          "id": "f4579d3e1db2bcd5c78a835ce1fc4f6f5b95808f",
+          "title": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_zh": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_en": null,
+          "title_original": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-29T23:49:53.582000Z"
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
+          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "404 Media（RSS）",
+        "Hacker News · 24h最热",
+        "www.404media.co"
       ],
       "items": [
         {
-          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
-          "title": "Codex CLI 0.166.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.166.0",
-          "title_original": "Codex CLI 0.166.0",
+          "id": "633678a738689d7a094363583249dc3fa4d37e17",
+          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
+          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "summary": "404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z"
+        },
+        {
+          "id": "f4579d3e1db2bcd5c78a835ce1fc4f6f5b95808f",
+          "title": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_zh": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_en": null,
+          "title_original": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-29T23:49:53.582000Z"
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
+          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7142,
-        "story_heat": 0.0
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8607,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
+      "earliest_at": "2026-10-29T14:21:49Z",
+      "latest_at": "2026-10-29T23:49:53.582000Z",
       "primary_item": {
-        "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
-        "title": "Codex CLI 0.166.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.166.0",
-        "title_original": "Codex CLI 0.166.0",
-        "summary": null,
+        "id": "633678a738689d7a094363583249dc3fa4d37e17",
+        "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+        "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
+        "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+        "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+        "summary": "404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。",
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -380,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,119 +472,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
-      "story_id": "story_e149b8747c2d",
-      "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-      "primary_url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-      "source": "404 Media（RSS）",
+      "story_id": "story_a29e7487a23f",
+      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "633678a738689d7a094363583249dc3fa4d37e17",
-          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
-          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "summary": "404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。",
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
           "recommend_reason_zh": null,
-          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-          "source": "404 Media（RSS）",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T14:21:49Z"
-        },
-        {
-          "id": "051ff645629b74978dbe881478916824d79301f7",
-          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
-          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-29T14:29:06Z"
+          "published_at": "2026-10-29T23:42:22Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "404 Media（RSS）",
-        "Hacker News · 24h最热"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "633678a738689d7a094363583249dc3fa4d37e17",
-          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
-          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "summary": "404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。",
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
           "recommend_reason_zh": null,
-          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-          "source": "404 Media（RSS）",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T14:21:49Z"
-        },
-        {
-          "id": "051ff645629b74978dbe881478916824d79301f7",
-          "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
-          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-29T14:29:06Z"
+          "published_at": "2026-10-29T23:42:22Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
-        "story_heat": 0.25
+        "recency": 0.985,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T14:21:49Z",
-      "latest_at": "2026-10-29T14:29:06Z",
+      "earliest_at": "2026-10-29T23:42:22Z",
+      "latest_at": "2026-10-29T23:42:22Z",
       "primary_item": {
-        "id": "633678a738689d7a094363583249dc3fa4d37e17",
-        "title": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-        "title_zh": "404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工",
-        "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-        "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-        "summary": "404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。",
+        "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+        "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+        "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
         "recommend_reason_zh": null,
-        "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-        "source": "404 Media（RSS）",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -574,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7901,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -657,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,90 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
-      }
-    },
-    {
-      "story_id": "story_dd4d49cee6e1",
-      "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "primary_url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
-          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
-          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-        "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
-        "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/anydecisionmodel",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -822,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8562,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,89 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
-      }
-    },
-    {
-      "story_id": "story_0087c066e962",
-      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T20:08:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T20:08:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9553,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T20:08:31Z",
-      "latest_at": "2026-10-29T20:08:31Z",
-      "primary_item": {
-        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -986,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.8619,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1068,15 +931,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8284,
+        "recency": 0.8114,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1102,90 +965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
-      }
-    },
-    {
-      "story_id": "story_90039c49e70a",
-      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "primary_url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-          "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-          "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-          "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-          "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-        "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-        "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/mistral-large4",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1233,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,7 +1046,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
+      }
+    },
+    {
+      "story_id": "story_0087c066e962",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9356,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T20:08:31Z",
+      "latest_at": "2026-10-29T20:08:31Z",
+      "primary_item": {
+        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1314,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8819,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1347,7 +1209,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1395,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1290,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1476,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8679,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1510,7 +1372,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1558,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1591,7 +1453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     },
     {
@@ -1639,15 +1501,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.7653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,7 +1534,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:32:09.324687Z"
+        "scored_at": "2026-10-30T00:59:35.041312Z"
+      }
+    },
+    {
+      "story_id": "story_7bfb05411041",
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "primary_url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:36:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:36:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.889,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:36:12Z",
+      "latest_at": "2026-10-29T16:36:12Z",
+      "primary_item": {
+        "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+        "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GeminiApp/status/2115845164824711247",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T00:59:35.041312Z"
+      }
+    },
+    {
+      "story_id": "story_ae566d8a584d",
+      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+      "primary_url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:42:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:42:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8526,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T13:42:38Z",
+      "latest_at": "2026-10-29T13:42:38Z",
+      "primary_item": {
+        "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+        "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+        "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+        "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+        "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+        "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T00:59:35.041312Z"
       }
     }
   ]
