@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:18:20.726168Z",
+  "generated_at": "2026-10-31T15:18:11.377208Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7454,
+        "recency": 0.7347,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,148 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
-      }
-    },
-    {
-      "story_id": "story_54217e411546",
-      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z"
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z"
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News：AI 热帖",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z"
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z"
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7126,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T14:50:37.797000Z",
-      "latest_at": "2026-10-30T16:13:02Z",
-      "primary_item": {
-        "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-        "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-        "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-        "title_en": "US tech stocks see sharp falls over AI cost fears",
-        "title_original": "US tech stocks see sharp falls over AI cost fears",
-        "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -272,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8001,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -354,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8141,
+        "recency": 0.8025,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -436,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7822,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -518,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8545,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -600,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.7273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,7 +492,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -681,15 +540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7341,
+        "recency": 0.7236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,7 +573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -762,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,7 +654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -843,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -877,7 +736,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -925,15 +784,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8035,
+        "recency": 0.792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,7 +817,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1035,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6232,
-      "importance": 0.6232,
-      "importance_score": 0.6232,
+      "score": 0.6212,
+      "importance": 0.6212,
+      "importance_score": 0.6212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7887,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1068,7 +927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1144,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5704,
-      "importance": 0.5704,
-      "importance_score": 0.5704,
+      "score": 0.5685,
+      "importance": 0.5685,
+      "importance_score": 0.5685,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7497,
+        "recency": 0.739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1177,7 +1036,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1254,15 +1113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9873,
+        "recency": 0.9732,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1287,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1364,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.854,
+        "recency": 0.8418,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,7 +1256,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1474,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9748,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1507,7 +1366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1584,15 +1443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9466,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1694,15 +1553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.74,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1727,7 +1586,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1804,15 +1663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7396,
+        "recency": 0.729,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1837,7 +1696,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     },
     {
@@ -1943,15 +1802,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7233,
+        "recency": 0.7129,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1976,7 +1835,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T14:19:14.822621Z"
+        "scored_at": "2026-10-31T15:19:08.691059Z"
+      }
+    },
+    {
+      "story_id": "story_54217e411546",
+      "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-30T16:13:02Z"
+        },
+        {
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50306008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T16:13:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-30T16:13:02Z"
+        },
+        {
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50306008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T16:13:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7165,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-30T16:13:02Z",
+      "latest_at": "2026-10-30T16:13:02Z",
+      "primary_item": {
+        "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+        "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+        "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+        "title_en": "US tech stocks see sharp falls over AI cost fears",
+        "title_original": "US tech stocks see sharp falls over AI cost fears",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T15:19:08.691059Z"
       }
     }
   ]
