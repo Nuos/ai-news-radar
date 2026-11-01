@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T21:18:32.742867Z",
+  "generated_at": "2026-11-01T22:18:19.783110Z",
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 4,
   "items": [
     {
       "story_id": "story_9c74356d951f",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5705,
-      "importance": 0.5705,
-      "importance_score": 0.5705,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9984,
+        "recency": 0.9842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,7 +139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T21:19:19.716550Z"
+        "scored_at": "2026-11-01T22:19:13.719291Z"
       }
     },
     {
@@ -245,15 +245,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9533,
+        "recency": 0.9396,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -278,146 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T21:19:19.716550Z"
-      }
-    },
-    {
-      "story_id": "story_d3473ed57e42",
-      "title": "ChatGPT 和 Codex 的使用限制将合并",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "source": "help.openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f2b0bcbd6cc4254a62f3f7ae5c06cca10b5b0522",
-          "title": "ChatGPT 和 Codex 的使用限制将合并",
-          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
-          "title_en": null,
-          "title_original": "ChatGPT 和 Codex 的使用限制将合并",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "help.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-01T12:27:13.631000Z"
-        },
-        {
-          "id": "c9660661e9a92fdc9e988ed247b516734e60ada8",
-          "title": "ChatGPT 和 Codex 的使用限制将合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T21:49:07Z"
-        },
-        {
-          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
-          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 使用限制合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:49:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "help.openai.com"
-      ],
-      "items": [
-        {
-          "id": "f2b0bcbd6cc4254a62f3f7ae5c06cca10b5b0522",
-          "title": "ChatGPT 和 Codex 的使用限制将合并",
-          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
-          "title_en": null,
-          "title_original": "ChatGPT 和 Codex 的使用限制将合并",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "help.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-01T12:27:13.631000Z"
-        },
-        {
-          "id": "c9660661e9a92fdc9e988ed247b516734e60ada8",
-          "title": "ChatGPT 和 Codex 的使用限制将合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T21:49:07Z"
-        },
-        {
-          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
-          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 使用限制合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:49:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.88,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T21:49:07Z",
-      "latest_at": "2026-11-01T12:27:13.631000Z",
-      "primary_item": {
-        "id": "f2b0bcbd6cc4254a62f3f7ae5c06cca10b5b0522",
-        "title": "ChatGPT 和 Codex 的使用限制将合并",
-        "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
-        "title_en": null,
-        "title_original": "ChatGPT 和 Codex 的使用限制将合并",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "source": "help.openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T21:19:19.716550Z"
+        "scored_at": "2026-11-01T22:19:13.719291Z"
       }
     },
     {
@@ -523,15 +384,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.88,
+        "recency": 0.8674,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -556,7 +417,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T21:19:19.716550Z"
+        "scored_at": "2026-11-01T22:19:13.719291Z"
       }
     },
     {
@@ -633,15 +494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7603,
+        "recency": 0.7494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -666,117 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T21:19:19.716550Z"
-      }
-    },
-    {
-      "story_id": "story_f4bfb4b46446",
-      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T21:50:13Z"
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T21:50:13Z"
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7125,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T21:50:13Z",
-      "latest_at": "2026-10-31T21:50:13Z",
-      "primary_item": {
-        "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
-        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-        "title_zh": "AI文本水印和质量损失",
-        "title_en": "AI text watermarking and quality loss",
-        "title_original": "AI text watermarking and quality loss",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T21:19:19.716550Z"
+        "scored_at": "2026-11-01T22:19:13.719291Z"
       }
     }
   ]
