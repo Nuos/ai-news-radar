@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:18:49.604113Z",
+  "generated_at": "2026-11-02T18:21:09.223925Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9671,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
+      }
+    },
+    {
+      "story_id": "story_0e2e48e223fc",
+      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in October 2026",
+          "title_original": "The latest AI news we announced in October 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in October 2026",
+          "title_original": "The latest AI news we announced in October 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9913,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T17:45:00Z",
+      "latest_at": "2026-11-02T17:45:00Z",
+      "primary_item": {
+        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+        "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in October 2026",
+        "title_original": "The latest AI news we announced in October 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9782,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
+      }
+    },
+    {
+      "story_id": "story_e38bf6a68f79",
+      "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+          "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
+          "title_en": "pull_request_target blocked by default December 2",
+          "title_original": "pull_request_target blocked by default December 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+          "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
+          "title_en": "pull_request_target blocked by default December 2",
+          "title_original": "pull_request_target blocked by default December 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:14:46Z",
+      "latest_at": "2026-11-02T15:14:46Z",
+      "primary_item": {
+        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+        "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+        "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
+        "title_en": "pull_request_target blocked by default December 2",
+        "title_original": "pull_request_target blocked by default December 2",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T18:22:08.252511Z"
+      }
+    },
+    {
+      "story_id": "story_b86e981c547a",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "primary_url": "https://openai.com/index/lifeval",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
+          "title": "LifeVal",
+          "title_zh": null,
+          "title_en": "LifeVal",
+          "title_original": "LifeVal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/lifeval",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
+          "title": "LifeVal",
+          "title_zh": null,
+          "title_en": "LifeVal",
+          "title_original": "LifeVal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/lifeval",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8737,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T09:00:00Z",
+      "latest_at": "2026-11-02T09:00:00Z",
+      "primary_item": {
+        "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
+        "title": "LifeVal",
+        "title_zh": null,
+        "title_en": "LifeVal",
+        "title_original": "LifeVal",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/lifeval",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -214,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8918,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -295,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,7 +577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -376,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8918,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -409,7 +658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -457,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8918,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -490,7 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -538,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8918,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -571,7 +820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -619,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,7 +901,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
+      }
+    },
+    {
+      "story_id": "story_129c28b7c7f8",
+      "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "primary_url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d26611e5ffe314a8074a8fdb77ce5ef17d1558a6",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
+          "title_en": "Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "title_original": "Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-02T17:06:10Z"
+        },
+        {
+          "id": "0f4091dbe6b6c9c15f864d23ea4d50cb7805fb74",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
+          "title_en": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "title_original": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-02T17:06:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "d26611e5ffe314a8074a8fdb77ce5ef17d1558a6",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
+          "title_en": "Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "title_original": "Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-02T17:06:10Z"
+        },
+        {
+          "id": "0f4091dbe6b6c9c15f864d23ea4d50cb7805fb74",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
+          "title_en": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "title_original": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-02T17:06:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6206,
+      "importance": 0.6206,
+      "importance_score": 0.6206,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.58,
+        "ai_relevance": 0.7,
+        "recency": 0.9821,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T17:06:10Z",
+      "latest_at": "2026-11-02T17:06:10Z",
+      "primary_item": {
+        "id": "d26611e5ffe314a8074a8fdb77ce5ef17d1558a6",
+        "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+        "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
+        "title_en": "Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+        "title_original": "Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -700,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,7 +1091,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -809,15 +1167,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7924,
+        "recency": 0.7806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,7 +1200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -948,15 +1306,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5675,
+      "importance": 0.5675,
+      "importance_score": 0.5675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -981,7 +1339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -1029,15 +1387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1062,7 +1420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -1088,7 +1446,7 @@
           "published_at": "2026-11-02T14:23:59.534000Z"
         },
         {
-          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
+          "id": "23bbde92d76c394651a3c10e419b5a9e84a38c4e",
           "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
           "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
           "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
@@ -1096,9 +1454,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-02T07:27:28Z"
         },
         {
@@ -1118,7 +1476,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "labs.cloudsecurityalliance.org"
       ],
@@ -1138,7 +1496,7 @@
           "published_at": "2026-11-02T14:23:59.534000Z"
         },
         {
-          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
+          "id": "23bbde92d76c394651a3c10e419b5a9e84a38c4e",
           "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
           "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
           "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
@@ -1146,9 +1504,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-02T07:27:28Z"
         },
         {
@@ -1168,15 +1526,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9588,
+        "recency": 0.9445,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1201,12 +1559,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
       "story_id": "story_db7736f72d56",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
       "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "primary_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "source": "Hacker News (黑客新闻)",
@@ -1214,8 +1572,8 @@
       "sources": [
         {
           "id": "bb19eed623eb99d3e42861d8fae8b5292409e46a",
-          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": null,
+          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
           "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "summary": null,
@@ -1228,8 +1586,8 @@
         },
         {
           "id": "4c6dd322601336f8df75b0a738840600a19ee558",
-          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": null,
+          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
           "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "summary": null,
@@ -1249,8 +1607,8 @@
       "items": [
         {
           "id": "bb19eed623eb99d3e42861d8fae8b5292409e46a",
-          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": null,
+          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
           "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "summary": null,
@@ -1263,8 +1621,8 @@
         },
         {
           "id": "4c6dd322601336f8df75b0a738840600a19ee558",
-          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": null,
+          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
           "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
           "summary": null,
@@ -1278,15 +1636,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9908,
+        "recency": 0.9761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1297,8 +1655,8 @@
       "latest_at": "2026-11-02T16:40:29Z",
       "primary_item": {
         "id": "bb19eed623eb99d3e42861d8fae8b5292409e46a",
-        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "title_zh": null,
+        "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
         "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
         "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
         "summary": null,
@@ -1311,7 +1669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
@@ -1388,15 +1746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.985,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1421,125 +1779,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     },
     {
-      "story_id": "story_354481b94d29",
-      "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-      "url": "https://www.aibase.com/news/32019",
-      "primary_url": "https://www.aibase.com/news/32019",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "897ccc99762a50f32baf04157e61fbce453e7073",
-          "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "title_zh": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "title_en": null,
-          "title_original": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32019",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:24:08.353204Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "897ccc99762a50f32baf04157e61fbce453e7073",
-          "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "title_zh": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "title_en": null,
-          "title_original": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32019",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:24:08.353204Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8792,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T08:24:08.353204Z",
-      "latest_at": "2026-11-02T08:24:08.353204Z",
-      "primary_item": {
-        "id": "897ccc99762a50f32baf04157e61fbce453e7073",
-        "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-        "title_zh": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-        "title_en": null,
-        "title_original": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32019",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
-      }
-    },
-    {
-      "story_id": "story_74850789ca98",
-      "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "primary_url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "story_id": "story_268519356f9a",
+      "title": "失业的科技工人被排除在旧金山的人工智能热潮之外 / Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "primary_url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "9f79c5bf0c69cb65f114069a59c6d1a7b8576707",
-          "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-          "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
-          "title_en": "Last night an AI agent performed brain surgery on a mouse",
-          "title_original": "Last night an AI agent performed brain surgery on a mouse",
+          "id": "e1565f13c8674717e1f8a872eb94dad1e22a2db3",
+          "title": "失业的科技工人被排除在旧金山的人工智能热潮之外 / Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_zh": "失业的科技工人被排除在旧金山的人工智能热潮之外",
+          "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_original": "Jobless tech workers are being left out of San Francisco's AI boom",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-02T12:50:59Z"
+          "published_at": "2026-11-02T14:40:05Z"
         },
         {
-          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
-          "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-          "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
-          "title_en": "Last night an AI agent performed brain surgery on a mouse",
-          "title_original": "Last night an AI agent performed brain surgery on a mouse",
+          "id": "1a2321370efdb3eb51ee479632ed8c6b2a26f6f9",
+          "title": "失业的科技工人被排除在旧金山的人工智能热潮之外 / Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_zh": "失业的科技工人被排除在旧金山的人工智能热潮之外",
+          "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_original": "Jobless tech workers are being left out of San Francisco's AI boom",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50336138",
+          "url": "https://news.ycombinator.com/item?id=50337454",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T12:50:59Z"
+          "published_at": "2026-11-02T14:40:05Z"
         }
       ],
       "source_count": 2,
@@ -1549,62 +1826,62 @@
       ],
       "items": [
         {
-          "id": "9f79c5bf0c69cb65f114069a59c6d1a7b8576707",
-          "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-          "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
-          "title_en": "Last night an AI agent performed brain surgery on a mouse",
-          "title_original": "Last night an AI agent performed brain surgery on a mouse",
+          "id": "e1565f13c8674717e1f8a872eb94dad1e22a2db3",
+          "title": "失业的科技工人被排除在旧金山的人工智能热潮之外 / Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_zh": "失业的科技工人被排除在旧金山的人工智能热潮之外",
+          "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_original": "Jobless tech workers are being left out of San Francisco's AI boom",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-02T12:50:59Z"
+          "published_at": "2026-11-02T14:40:05Z"
         },
         {
-          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
-          "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-          "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
-          "title_en": "Last night an AI agent performed brain surgery on a mouse",
-          "title_original": "Last night an AI agent performed brain surgery on a mouse",
+          "id": "1a2321370efdb3eb51ee479632ed8c6b2a26f6f9",
+          "title": "失业的科技工人被排除在旧金山的人工智能热潮之外 / Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_zh": "失业的科技工人被排除在旧金山的人工智能热潮之外",
+          "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
+          "title_original": "Jobless tech workers are being left out of San Francisco's AI boom",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50336138",
+          "url": "https://news.ycombinator.com/item?id=50337454",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T12:50:59Z"
+          "published_at": "2026-11-02T14:40:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9376,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T12:50:59Z",
-      "latest_at": "2026-11-02T12:50:59Z",
+      "earliest_at": "2026-11-02T14:40:05Z",
+      "latest_at": "2026-11-02T14:40:05Z",
       "primary_item": {
-        "id": "9f79c5bf0c69cb65f114069a59c6d1a7b8576707",
-        "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-        "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
-        "title_en": "Last night an AI agent performed brain surgery on a mouse",
-        "title_original": "Last night an AI agent performed brain surgery on a mouse",
+        "id": "e1565f13c8674717e1f8a872eb94dad1e22a2db3",
+        "title": "失业的科技工人被排除在旧金山的人工智能热潮之外 / Jobless tech workers are being left out of San Francisco's AI boom",
+        "title_zh": "失业的科技工人被排除在旧金山的人工智能热潮之外",
+        "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
+        "title_original": "Jobless tech workers are being left out of San Francisco's AI boom",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -1612,395 +1889,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
-      }
-    },
-    {
-      "story_id": "story_3b71146afc7c",
-      "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "title_en": null,
-          "title_original": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T00:37:42.544000Z"
-        },
-        {
-          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_original": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T22:10:45Z"
-        },
-        {
-          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
-          "title": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报”",
-          "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_original": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50330456",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T22:10:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "title_en": null,
-          "title_original": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T00:37:42.544000Z"
-        },
-        {
-          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_original": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T22:10:45Z"
-        },
-        {
-          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
-          "title": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报”",
-          "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "title_original": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50330456",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T22:10:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7859,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T22:10:45Z",
-      "latest_at": "2026-11-02T00:37:42.544000Z",
-      "primary_item": {
-        "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-        "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-        "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-        "title_en": null,
-        "title_original": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-        "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
-      }
-    },
-    {
-      "story_id": "story_9c74356d951f",
-      "title": "让质子的电荷发生反转的并不是人工智能",
-      "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-      "primary_url": "https://blog.raed.dev/posts/proton-loser-thinking",
-      "source": "blog.raed.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4ece4e05425ca1b263e55a44480ab86ce6228505",
-          "title": "让质子的电荷发生反转的并不是人工智能",
-          "title_zh": "让质子的电荷发生反转的并不是人工智能",
-          "title_en": null,
-          "title_original": "让质子的电荷发生反转的并不是人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-          "source": "blog.raed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-01T21:11:57.459000Z"
-        },
-        {
-          "id": "7dac68d483d7bef817c8630467c5a17e0d026f6a",
-          "title": "让质子的电荷发生反转的并不是人工智能 / It wasn't AI that flipped Proton's charge",
-          "title_zh": "让质子的电荷发生反转的并不是人工智能",
-          "title_en": "It wasn't AI that flipped Proton's charge",
-          "title_original": "It wasn't AI that flipped Proton's charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T18:53:55Z"
-        },
-        {
-          "id": "163de39b18a702f7b9d7b7e200753d2a0bb4f2c0",
-          "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
-          "title_zh": "不是人工智能推翻了质子的指控",
-          "title_en": "It wasn't AI that flipped Proton's charge",
-          "title_original": "It wasn't AI that flipped Proton's charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50328488",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T18:53:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.raed.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4ece4e05425ca1b263e55a44480ab86ce6228505",
-          "title": "让质子的电荷发生反转的并不是人工智能",
-          "title_zh": "让质子的电荷发生反转的并不是人工智能",
-          "title_en": null,
-          "title_original": "让质子的电荷发生反转的并不是人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-          "source": "blog.raed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-01T21:11:57.459000Z"
-        },
-        {
-          "id": "7dac68d483d7bef817c8630467c5a17e0d026f6a",
-          "title": "让质子的电荷发生反转的并不是人工智能 / It wasn't AI that flipped Proton's charge",
-          "title_zh": "让质子的电荷发生反转的并不是人工智能",
-          "title_en": "It wasn't AI that flipped Proton's charge",
-          "title_original": "It wasn't AI that flipped Proton's charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T18:53:55Z"
-        },
-        {
-          "id": "163de39b18a702f7b9d7b7e200753d2a0bb4f2c0",
-          "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
-          "title_zh": "不是人工智能推翻了质子的指控",
-          "title_en": "It wasn't AI that flipped Proton's charge",
-          "title_original": "It wasn't AI that flipped Proton's charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50328488",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T18:53:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7479,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T18:53:55Z",
-      "latest_at": "2026-11-01T21:11:57.459000Z",
-      "primary_item": {
-        "id": "4ece4e05425ca1b263e55a44480ab86ce6228505",
-        "title": "让质子的电荷发生反转的并不是人工智能",
-        "title_zh": "让质子的电荷发生反转的并不是人工智能",
-        "title_en": null,
-        "title_original": "让质子的电荷发生反转的并不是人工智能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-        "source": "blog.raed.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
-      }
-    },
-    {
-      "story_id": "story_282eda156641",
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "primary_url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b373419cc31cb3055ef21d0a20223b5f38ba7b3e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "title_zh": null,
-          "title_en": "GPT-Rosalind-6 System Card Addendum",
-          "title_original": "GPT-Rosalind-6 System Card Addendum",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T14:44:02Z"
-        },
-        {
-          "id": "6c9e348fa593f2e78246d1d842f40fe01842101e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "title_zh": null,
-          "title_en": "GPT-Rosalind-6 System Card Addendum",
-          "title_original": "GPT-Rosalind-6 System Card Addendum",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50337503",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T14:44:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b373419cc31cb3055ef21d0a20223b5f38ba7b3e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "title_zh": null,
-          "title_en": "GPT-Rosalind-6 System Card Addendum",
-          "title_original": "GPT-Rosalind-6 System Card Addendum",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T14:44:02Z"
-        },
-        {
-          "id": "6c9e348fa593f2e78246d1d842f40fe01842101e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "title_zh": null,
-          "title_en": "GPT-Rosalind-6 System Card Addendum",
-          "title_original": "GPT-Rosalind-6 System Card Addendum",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50337503",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T14:44:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9634,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T14:44:02Z",
-      "latest_at": "2026-11-02T14:44:02Z",
-      "primary_item": {
-        "id": "b373419cc31cb3055ef21d0a20223b5f38ba7b3e",
-        "title": "GPT-Rosalind-6 System Card Addendum",
-        "title_zh": null,
-        "title_en": "GPT-Rosalind-6 System Card Addendum",
-        "title_original": "GPT-Rosalind-6 System Card Addendum",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T17:34:33.892574Z"
+        "scored_at": "2026-11-02T18:22:08.252511Z"
       }
     }
   ]
