@@ -1,81 +1,111 @@
 {
-  "generated_at": "2026-11-03T04:20:19.726315Z",
+  "generated_at": "2026-11-03T05:18:47.298946Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f6a787bee313",
-      "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "story_id": "story_3762d45ec3c7",
+      "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "primary_url": "https://openai.com/index/scaling-git-at-openai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+          "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+          "title_zh": "OpenAI 中的 Git 扩展",
+          "title_en": "Scaling Git at OpenAI",
+          "title_original": "Scaling Git at OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "url": "https://openai.com/index/scaling-git-at-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z"
+          "published_at": "2026-11-02T15:30:00Z"
+        },
+        {
+          "id": "ae85c3ec84b0b472d3f9b45ba639ab069ac5bc3d",
+          "title": "OpenAI 中的 Git 扩展",
+          "title_zh": "OpenAI 中的 Git 扩展",
+          "title_en": null,
+          "title_original": "OpenAI 中的 Git 扩展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T04:44:37.385000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+          "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+          "title_zh": "OpenAI 中的 Git 扩展",
+          "title_en": "Scaling Git at OpenAI",
+          "title_original": "Scaling Git at OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "url": "https://openai.com/index/scaling-git-at-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z"
+          "published_at": "2026-11-02T15:30:00Z"
+        },
+        {
+          "id": "ae85c3ec84b0b472d3f9b45ba639ab069ac5bc3d",
+          "title": "OpenAI 中的 Git 扩展",
+          "title_zh": "OpenAI 中的 Git 扩展",
+          "title_en": null,
+          "title_original": "OpenAI 中的 Git 扩展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T04:44:37.385000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8613,
-        "story_heat": 0.0
+        "recency": 0.8192,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T18:00:00Z",
-      "latest_at": "2026-11-02T18:00:00Z",
+      "earliest_at": "2026-11-02T15:30:00Z",
+      "latest_at": "2026-11-03T04:44:37.385000Z",
       "primary_item": {
-        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-        "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-        "title_zh": "准备下一次安全冲刺以强化 OpenAI",
-        "title_en": "Preparing our next security sprint to harden OpenAI",
-        "title_original": "Preparing our next security sprint to harden OpenAI",
+        "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+        "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+        "title_zh": "OpenAI 中的 Git 扩展",
+        "title_en": "Scaling Git at OpenAI",
+        "title_original": "Scaling Git at OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "url": "https://openai.com/index/scaling-git-at-openai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -83,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -131,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8582,
+        "recency": 0.8462,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -214,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8342,
+        "recency": 0.8226,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,26 +279,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
-      "story_id": "story_5f8be3ab19ec",
-      "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "primary_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "story_id": "story_f6a787bee313",
+      "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-          "title_zh": "用更大的错误赏金奖励防御者",
-          "title_en": "Rewarding defenders with bigger bug bounties",
-          "title_original": "Rewarding defenders with bigger bug bounties",
+          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
+          "title_en": "Preparing our next security sprint to harden OpenAI",
+          "title_original": "Preparing our next security sprint to harden OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -281,14 +311,14 @@
       ],
       "items": [
         {
-          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-          "title_zh": "用更大的错误赏金奖励防御者",
-          "title_en": "Rewarding defenders with bigger bug bounties",
-          "title_original": "Rewarding defenders with bigger bug bounties",
+          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
+          "title_en": "Preparing our next security sprint to harden OpenAI",
+          "title_original": "Preparing our next security sprint to harden OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8613,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -317,14 +347,14 @@
       "earliest_at": "2026-11-02T18:00:00Z",
       "latest_at": "2026-11-02T18:00:00Z",
       "primary_item": {
-        "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-        "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-        "title_zh": "用更大的错误赏金奖励防御者",
-        "title_en": "Rewarding defenders with bigger bug bounties",
-        "title_original": "Rewarding defenders with bigger bug bounties",
+        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+        "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+        "title_zh": "准备下一次安全冲刺以强化 OpenAI",
+        "title_en": "Preparing our next security sprint to harden OpenAI",
+        "title_original": "Preparing our next security sprint to harden OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -332,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -380,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8277,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -463,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,30 +527,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
-      "story_id": "story_3762d45ec3c7",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "primary_url": "https://openai.com/index/scaling-git-at-openai",
+      "story_id": "story_5f8be3ab19ec",
+      "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "primary_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-          "title": "Scaling Git at OpenAI",
-          "title_zh": null,
-          "title_en": "Scaling Git at OpenAI",
-          "title_original": "Scaling Git at OpenAI",
+          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
+          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+          "title_zh": "用更大的错误赏金奖励防御者",
+          "title_en": "Rewarding defenders with bigger bug bounties",
+          "title_original": "Rewarding defenders with bigger bug bounties",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-git-at-openai",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:30:00Z"
+          "published_at": "2026-11-02T18:00:00Z"
         }
       ],
       "source_count": 1,
@@ -529,31 +559,31 @@
       ],
       "items": [
         {
-          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-          "title": "Scaling Git at OpenAI",
-          "title_zh": null,
-          "title_en": "Scaling Git at OpenAI",
-          "title_original": "Scaling Git at OpenAI",
+          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
+          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+          "title_zh": "用更大的错误赏金奖励防御者",
+          "title_en": "Rewarding defenders with bigger bug bounties",
+          "title_original": "Rewarding defenders with bigger bug bounties",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-git-at-openai",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:30:00Z"
+          "published_at": "2026-11-02T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8308,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,17 +592,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T15:30:00Z",
-      "latest_at": "2026-11-02T15:30:00Z",
+      "earliest_at": "2026-11-02T18:00:00Z",
+      "latest_at": "2026-11-02T18:00:00Z",
       "primary_item": {
-        "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-        "title": "Scaling Git at OpenAI",
-        "title_zh": null,
-        "title_en": "Scaling Git at OpenAI",
-        "title_original": "Scaling Git at OpenAI",
+        "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
+        "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+        "title_zh": "用更大的错误赏金奖励防御者",
+        "title_en": "Rewarding defenders with bigger bug bounties",
+        "title_original": "Rewarding defenders with bigger bug bounties",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scaling-git-at-openai",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -580,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -628,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -710,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8248,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -745,88 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
-      }
-    },
-    {
-      "story_id": "story_6f30c8d895dd",
-      "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-02T08:01:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-02T08:01:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T08:01:01Z",
-      "latest_at": "2026-11-02T08:01:01Z",
-      "primary_item": {
-        "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-        "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -874,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,7 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -956,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7563,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -991,7 +940,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1039,15 +988,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1121,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1203,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1313,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5968,
-      "importance": 0.5968,
-      "importance_score": 0.5968,
+      "score": 0.5947,
+      "importance": 0.5947,
+      "importance_score": 0.5947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.8502,
+        "recency": 0.8383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1346,7 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1394,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1377,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1534,15 +1483,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9328,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1567,7 +1516,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1673,15 +1622,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.5581,
+      "importance": 0.5581,
+      "importance_score": 0.5581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9424,
+        "recency": 0.9292,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1706,7 +1655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     },
     {
@@ -1783,15 +1732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5902,
-      "importance": 0.5902,
-      "importance_score": 0.5902,
+      "score": 0.588,
+      "importance": 0.588,
+      "importance_score": 0.588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8595,
+        "recency": 0.8475,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1816,7 +1765,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T04:21:11.348585Z"
+        "scored_at": "2026-11-03T05:29:13.677538Z"
+      }
+    },
+    {
+      "story_id": "story_a25a8d8e8b8e",
+      "title": "Anthropic 的增长势头刚刚趋于平缓",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "primary_url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "source": "www.regenerator1.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2e0829606cabf058fc2ffa32d4f8cd506af8b5d2",
+          "title": "Anthropic 的增长势头刚刚趋于平缓",
+          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
+          "title_en": null,
+          "title_original": "Anthropic 的增长势头刚刚趋于平缓",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+          "source": "www.regenerator1.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-02T23:57:43.658000Z"
+        },
+        {
+          "id": "414c04532caf55e53dcda6e1aacf0c471332bb26",
+          "title": "Anthropic 的增长势头刚刚趋于平缓 / Anthropic's growth just flattened",
+          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
+          "title_en": "Anthropic's growth just flattened",
+          "title_original": "Anthropic's growth just flattened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-02T22:33:20Z"
+        },
+        {
+          "id": "e49784e40fd11c493a5567360ab39d2f0919a719",
+          "title": "Anthropic 的增长刚刚趋于平缓 / Anthropic's growth just flattened",
+          "title_zh": "Anthropic 的增长刚刚趋于平缓",
+          "title_en": "Anthropic's growth just flattened",
+          "title_original": "Anthropic's growth just flattened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50344958",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T22:33:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.regenerator1.com"
+      ],
+      "items": [
+        {
+          "id": "2e0829606cabf058fc2ffa32d4f8cd506af8b5d2",
+          "title": "Anthropic 的增长势头刚刚趋于平缓",
+          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
+          "title_en": null,
+          "title_original": "Anthropic 的增长势头刚刚趋于平缓",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+          "source": "www.regenerator1.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-02T23:57:43.658000Z"
+        },
+        {
+          "id": "414c04532caf55e53dcda6e1aacf0c471332bb26",
+          "title": "Anthropic 的增长势头刚刚趋于平缓 / Anthropic's growth just flattened",
+          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
+          "title_en": "Anthropic's growth just flattened",
+          "title_original": "Anthropic's growth just flattened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-02T22:33:20Z"
+        },
+        {
+          "id": "e49784e40fd11c493a5567360ab39d2f0919a719",
+          "title": "Anthropic 的增长刚刚趋于平缓 / Anthropic's growth just flattened",
+          "title_zh": "Anthropic 的增长刚刚趋于平缓",
+          "title_en": "Anthropic's growth just flattened",
+          "title_original": "Anthropic's growth just flattened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50344958",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T22:33:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5574,
+      "importance": 0.5574,
+      "importance_score": 0.5574,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9256,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T22:33:20Z",
+      "latest_at": "2026-11-02T23:57:43.658000Z",
+      "primary_item": {
+        "id": "2e0829606cabf058fc2ffa32d4f8cd506af8b5d2",
+        "title": "Anthropic 的增长势头刚刚趋于平缓",
+        "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
+        "title_en": null,
+        "title_original": "Anthropic 的增长势头刚刚趋于平缓",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+        "source": "www.regenerator1.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T05:29:13.677538Z"
       }
     }
   ]
