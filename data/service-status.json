@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T02:22:49.145516Z",
+  "generated_at": "2026-11-03T03:19:59.222408Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "File upload errors in ChatGPT",
       "title_zh": "File upload errors in ChatGPT",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-11-03T00:46:58Z",
-      "updated_at": "2026-11-03T02:06:04Z",
-      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "updated_at": "2026-11-03T02:51:29Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
     }
