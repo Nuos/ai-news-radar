@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-11-04T19:18:35.205619Z",
+  "generated_at": "2026-11-04T20:18:21.259449Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a5ecfede95e9",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI to acquire Pierre Computer Company",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI to acquire Pierre Computer Company",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.8625,
+      "importance_score": 0.8625,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9196,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T15:21:21Z",
+      "primary_item": {
+        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": null,
+        "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:27:01.996120Z"
+      }
+    },
     {
       "story_id": "story_a1cac76551fa",
       "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
+      "score": 0.8537,
+      "importance": 0.8537,
+      "importance_score": 0.8537,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9789,
+        "recency": 0.965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,113 +196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
-      "story_id": "story_a5ecfede95e9",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_zh": null,
-          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T14:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_zh": null,
-          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T14:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9329,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T14:30:00Z",
-      "latest_at": "2026-11-04T14:30:00Z",
-      "primary_item": {
-        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "title_zh": null,
-        "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-to-acquire-pierre",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
-      }
-    },
-    {
-      "story_id": "story_e2a9defc33ad",
-      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "story_id": "story_bf5abd3d9223",
+      "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "primary_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
-          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
-          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_zh": null,
+          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
+          "published_at": "2026-11-04T19:10:40Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +228,31 @@
       ],
       "items": [
         {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
-          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
-          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_zh": null,
+          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
+          "published_at": "2026-11-04T19:10:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7626,
+        "recency": 0.9838,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +261,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T00:32:19Z",
-      "latest_at": "2026-11-04T00:32:19Z",
+      "earliest_at": "2026-11-04T19:10:40Z",
+      "latest_at": "2026-11-04T19:10:40Z",
       "primary_item": {
-        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-        "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
-        "title_en": "BYOK and enterprise custom models in the Copilot usage API",
-        "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+        "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+        "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+        "title_zh": null,
+        "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+        "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -249,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8371,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,30 +362,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
-      "story_id": "story_05cba21c67c5",
-      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "story_id": "story_e2a9defc33ad",
+      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "title_zh": "Dependabot版本更新支持代理包管理器",
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
+          "published_at": "2026-11-04T00:32:19Z"
         }
       ],
       "source_count": 1,
@@ -364,31 +394,31 @@
       ],
       "items": [
         {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "title_zh": "Dependabot版本更新支持代理包管理器",
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
+          "published_at": "2026-11-04T00:32:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7183,
+        "ai_relevance": 0.91,
+        "recency": 0.7517,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,17 +427,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T20:24:07Z",
-      "latest_at": "2026-11-03T20:24:07Z",
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
       "primary_item": {
-        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-        "title_zh": "Dependabot版本更新支持代理包管理器",
-        "title_en": "Dependabot version updates support Agent Package Manager",
-        "title_original": "Dependabot version updates support Agent Package Manager",
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+        "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+        "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+        "title_original": "BYOK and enterprise custom models in the Copilot usage API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -415,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -463,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +526,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
+      }
+    },
+    {
+      "story_id": "story_05cba21c67c5",
+      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "title_zh": "Dependabot版本更新支持代理包管理器",
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T20:24:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "title_zh": "Dependabot版本更新支持代理包管理器",
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T20:24:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7081,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
+      "primary_item": {
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+        "title_zh": "Dependabot版本更新支持代理包管理器",
+        "title_en": "Dependabot version updates support Agent Package Manager",
+        "title_original": "Dependabot version updates support Agent Package Manager",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -544,15 +657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -577,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -625,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -658,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -706,15 +819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -787,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -896,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5974,
-      "importance": 0.5974,
-      "importance_score": 0.5974,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8998,
+        "recency": 0.887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -929,7 +1042,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -977,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1010,7 +1123,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
+      }
+    },
+    {
+      "story_id": "story_d485cbc703f0",
+      "title": "大型语言模型可证明推理方面的进展",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "primary_url": "https://www.anthropic.com/research/provable-inference",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": null,
+          "title_original": "大型语言模型可证明推理方面的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Progress on provable inference for large language models",
+          "title_original": "Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Anthropic: Progress on provable inference for large language models",
+          "title_original": "Anthropic: Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": null,
+          "title_original": "大型语言模型可证明推理方面的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Progress on provable inference for large language models",
+          "title_original": "Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Anthropic: Progress on provable inference for large language models",
+          "title_original": "Anthropic: Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9903,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T07:57:06Z",
+      "latest_at": "2026-11-04T19:37:46.946000Z",
+      "primary_item": {
+        "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+        "title": "大型语言模型可证明推理方面的进展",
+        "title_zh": "大型语言模型可证明推理方面的进展",
+        "title_en": null,
+        "title_original": "大型语言模型可证明推理方面的进展",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -1058,15 +1310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,7 +1343,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -1197,15 +1449,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1230,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -1336,15 +1588,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1369,7 +1621,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -1475,15 +1727,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1508,7 +1760,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
+      }
+    },
+    {
+      "story_id": "story_d05b18658499",
+      "title": "腾讯 Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "primary_url": "https://hy.tencent.ai/research/hy4",
+      "source": "hy.tencent.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
+          "title": "腾讯 Hy4",
+          "title_zh": "腾讯 Hy4",
+          "title_en": null,
+          "title_original": "腾讯 Hy4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hy.tencent.ai/research/hy4",
+          "source": "hy.tencent.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T20:08:58.499000Z"
+        },
+        {
+          "id": "34a9db4d10bc5e8ee5a00a84d0efc137c67a3722",
+          "title": "腾讯 Hy4 / Tencent Hy4",
+          "title_zh": "腾讯 Hy4",
+          "title_en": "Tencent Hy4",
+          "title_original": "Tencent Hy4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hy.tencent.ai/research/hy4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:11:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hy.tencent.ai"
+      ],
+      "items": [
+        {
+          "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
+          "title": "腾讯 Hy4",
+          "title_zh": "腾讯 Hy4",
+          "title_en": null,
+          "title_original": "腾讯 Hy4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hy.tencent.ai/research/hy4",
+          "source": "hy.tencent.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T20:08:58.499000Z"
+        },
+        {
+          "id": "34a9db4d10bc5e8ee5a00a84d0efc137c67a3722",
+          "title": "腾讯 Hy4 / Tencent Hy4",
+          "title_zh": "腾讯 Hy4",
+          "title_en": "Tencent Hy4",
+          "title_original": "Tencent Hy4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hy.tencent.ai/research/hy4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:11:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T14:11:26Z",
+      "latest_at": "2026-11-04T20:08:58.499000Z",
+      "primary_item": {
+        "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
+        "title": "腾讯 Hy4",
+        "title_zh": "腾讯 Hy4",
+        "title_en": null,
+        "title_original": "腾讯 Hy4",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hy.tencent.ai/research/hy4",
+        "source": "hy.tencent.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     },
     {
@@ -1585,15 +1947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9744,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,337 +1980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
-      }
-    },
-    {
-      "story_id": "story_d485cbc703f0",
-      "title": "大型语言模型可证明推理的进展 / Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "primary_url": "https://www.anthropic.com/research/provable-inference",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "348d9e158e28595c981f0e9a280b0642db152915",
-          "title": "大型语言模型可证明推理的进展 / Progress on provable inference for large language models",
-          "title_zh": "大型语言模型可证明推理的进展",
-          "title_en": "Progress on provable inference for large language models",
-          "title_original": "Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T17:17:46Z"
-        },
-        {
-          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
-          "title": "Anthropic：大型语言模型可证明推理的进展 / Anthropic: Progress on provable inference for large language models",
-          "title_zh": "Anthropic：大型语言模型可证明推理的进展",
-          "title_en": "Anthropic: Progress on provable inference for large language models",
-          "title_original": "Anthropic: Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-04T07:57:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "348d9e158e28595c981f0e9a280b0642db152915",
-          "title": "大型语言模型可证明推理的进展 / Progress on provable inference for large language models",
-          "title_zh": "大型语言模型可证明推理的进展",
-          "title_en": "Progress on provable inference for large language models",
-          "title_original": "Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T17:17:46Z"
-        },
-        {
-          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
-          "title": "Anthropic：大型语言模型可证明推理的进展 / Anthropic: Progress on provable inference for large language models",
-          "title_zh": "Anthropic：大型语言模型可证明推理的进展",
-          "title_en": "Anthropic: Progress on provable inference for large language models",
-          "title_original": "Anthropic: Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-04T07:57:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9713,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T07:57:06Z",
-      "latest_at": "2026-11-04T17:17:46Z",
-      "primary_item": {
-        "id": "348d9e158e28595c981f0e9a280b0642db152915",
-        "title": "大型语言模型可证明推理的进展 / Progress on provable inference for large language models",
-        "title_zh": "大型语言模型可证明推理的进展",
-        "title_en": "Progress on provable inference for large language models",
-        "title_original": "Progress on provable inference for large language models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
-      }
-    },
-    {
-      "story_id": "story_a20fe5feb8fc",
-      "title": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元 / YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-      "primary_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0a0d8a768c3b3ae533167eb76fe32e8f1b0174db",
-          "title": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元 / YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_zh": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元",
-          "title_en": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_original": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T15:28:31Z"
-        },
-        {
-          "id": "431406337cada958de4f6307ed040acaed031a67",
-          "title": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元 / YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_zh": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元",
-          "title_en": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_original": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50366971",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T15:28:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0a0d8a768c3b3ae533167eb76fe32e8f1b0174db",
-          "title": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元 / YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_zh": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元",
-          "title_en": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_original": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T15:28:31Z"
-        },
-        {
-          "id": "431406337cada958de4f6307ed040acaed031a67",
-          "title": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元 / YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_zh": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元",
-          "title_en": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "title_original": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50366971",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T15:28:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9461,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T15:28:31Z",
-      "latest_at": "2026-11-04T15:28:31Z",
-      "primary_item": {
-        "id": "0a0d8a768c3b3ae533167eb76fe32e8f1b0174db",
-        "title": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元 / YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "title_zh": "YC 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元",
-        "title_en": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "title_original": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
-      }
-    },
-    {
-      "story_id": "story_e4cc0fd5206e",
-      "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "primary_url": "https://news.ycombinator.com/item?id=50363461",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "527420013f2664c149de05b7de7135de19cf1869",
-          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "title_en": null,
-          "title_original": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363461",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.113000Z"
-        },
-        {
-          "id": "99e1c8378b6bf3002726be8be11a80b9cb143933",
-          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外 / Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "title_original": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363461",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T10:10:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "527420013f2664c149de05b7de7135de19cf1869",
-          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "title_en": null,
-          "title_original": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363461",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.113000Z"
-        },
-        {
-          "id": "99e1c8378b6bf3002726be8be11a80b9cb143933",
-          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外 / Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-          "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "title_original": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363461",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T10:10:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9445,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T10:10:27Z",
-      "latest_at": "2026-11-04T15:21:22.113000Z",
-      "primary_item": {
-        "id": "527420013f2664c149de05b7de7135de19cf1869",
-        "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-        "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-        "title_en": null,
-        "title_original": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50363461",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T19:38:50.086156Z"
+        "scored_at": "2026-11-04T20:27:01.996120Z"
       }
     }
   ]
