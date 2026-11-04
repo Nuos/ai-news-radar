@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-04T14:19:48.546869Z",
+  "generated_at": "2026-11-04T15:19:08.126340Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a5ecfede95e9",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9882,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T14:30:00Z",
+      "primary_item": {
+        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": null,
+        "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T15:20:08.621856Z"
+      }
+    },
     {
       "story_id": "story_e2a9defc33ad",
       "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8194,
+        "recency": 0.8078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7376,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
+      }
+    },
+    {
+      "story_id": "story_909e1b342a31",
+      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8868,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T07:00:00Z",
+      "latest_at": "2026-11-04T07:00:00Z",
+      "primary_item": {
+        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -214,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7352,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -297,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7306,
+        "recency": 0.7202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -380,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7719,
+        "recency": 0.761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -463,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.9306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -545,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.724,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,172 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
-      }
-    },
-    {
-      "story_id": "story_46598a98a79d",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.716,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
-      "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-        "title_en": "GitHub Copilot is now available in JetBrains Air",
-        "title_original": "GitHub Copilot is now available in JetBrains Air",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
-      }
-    },
-    {
-      "story_id": "story_2cee1d071980",
-      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-      "url": "https://www.aibase.com/news/32089",
-      "primary_url": "https://www.aibase.com/news/32089",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "title_en": null,
-          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32089",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:19:57.872058Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "title_en": null,
-          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32089",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:19:57.872058Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T09:19:57.872058Z",
-      "latest_at": "2026-11-04T09:19:57.872058Z",
-      "primary_item": {
-        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-        "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-        "title_en": null,
-        "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32089",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -793,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7187,
+        "recency": 0.7085,
         "story_heat": 0.0
       },
       "category": "official",
@@ -828,7 +829,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
+      }
+    },
+    {
+      "story_id": "story_2cee1d071980",
+      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+      "url": "https://www.aibase.com/news/32089",
+      "primary_url": "https://www.aibase.com/news/32089",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_en": null,
+          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:19:57.872058Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_en": null,
+          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:19:57.872058Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9172,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T09:19:57.872058Z",
+      "latest_at": "2026-11-04T09:19:57.872058Z",
+      "primary_item": {
+        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "title_en": null,
+        "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32089",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -876,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,90 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
-      }
-    },
-    {
-      "story_id": "story_4f6706e957ed",
-      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7133,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T14:56:03Z",
-      "latest_at": "2026-11-03T14:56:03Z",
-      "primary_item": {
-        "id": "d614d57971cd1df8ae60519986a771e876042c89",
-        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1041,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1123,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,7 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1233,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6095,
-      "importance": 0.6095,
-      "importance_score": 0.6095,
+      "score": 0.6071,
+      "importance": 0.6071,
+      "importance_score": 0.6071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9669,
+        "recency": 0.9532,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1314,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1540,15 +1540,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5735,
-      "importance": 0.5735,
-      "importance_score": 0.5735,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7374,
+        "recency": 0.7269,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1573,7 +1573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1621,15 +1621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1655,7 +1655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
@@ -1790,15 +1790,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8557,
+        "recency": 0.8435,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1823,89 +1823,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     },
     {
-      "story_id": "story_b2062a31b869",
-      "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-      "url": "https://www.aibase.com/news/32083",
-      "primary_url": "https://www.aibase.com/news/32083",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6d3fb3ec56b2",
+      "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+      "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "primary_url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "0bf26dbbe0b2100ff61c8a57c77433150aa8a099",
-          "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_zh": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_en": null,
-          "title_original": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
+          "id": "e3540c1d59e31dc3a66a432dd08632b1a427400d",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32083",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T08:22:15.869452Z"
+          "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:10:14Z"
+        },
+        {
+          "id": "2042920561505bda360a1d749b9c1a863b7d8950",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50365760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T14:10:14Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "0bf26dbbe0b2100ff61c8a57c77433150aa8a099",
-          "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_zh": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_en": null,
-          "title_original": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
+          "id": "e3540c1d59e31dc3a66a432dd08632b1a427400d",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32083",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T08:22:15.869452Z"
+          "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:10:14Z"
+        },
+        {
+          "id": "2042920561505bda360a1d749b9c1a863b7d8950",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50365760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T14:10:14Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9175,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9836,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-04T08:22:15.869452Z",
-      "latest_at": "2026-11-04T08:22:15.869452Z",
+      "earliest_at": "2026-11-04T14:10:14Z",
+      "latest_at": "2026-11-04T14:10:14Z",
       "primary_item": {
-        "id": "0bf26dbbe0b2100ff61c8a57c77433150aa8a099",
-        "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-        "title_zh": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-        "title_en": null,
-        "title_original": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
+        "id": "e3540c1d59e31dc3a66a432dd08632b1a427400d",
+        "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+        "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+        "title_en": "Jaron Lanier on parallels between AI and social media",
+        "title_original": "Jaron Lanier on parallels between AI and social media",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32083",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T14:33:13.682388Z"
+        "scored_at": "2026-11-04T15:20:08.621856Z"
       }
     }
   ]
