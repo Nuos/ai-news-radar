@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:19:06.416673Z",
+  "generated_at": "2026-11-05T02:22:50.534164Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.926,
-      "importance": 0.926,
-      "importance_score": 0.926,
+      "score": 0.9236,
+      "importance": 0.9236,
+      "importance_score": 0.9236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8554,
+        "recency": 0.8423,
         "story_heat": 1.0
       },
       "category": "official",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8976,
+        "recency": 0.8839,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,7 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9151,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,12 +365,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
       "story_id": "story_f06268fdc285",
-      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+      "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI News",
@@ -378,8 +378,8 @@
       "sources": [
         {
           "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-          "title_zh": "减少一千条通往根的路径",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
           "title_en": "A thousand fewer paths to root",
           "title_original": "A thousand fewer paths to root",
           "summary": null,
@@ -391,9 +391,23 @@
           "published_at": "2026-11-04T08:00:00Z"
         },
         {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+          "title_en": null,
+          "title_original": "通往root的路径少了1000条简体中文（大陆）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
+        },
+        {
           "id": "8b44f78450231e957fe21af9ce06feb288767161",
-          "title": "Linux 中的本地提权漏洞 / Local privilege escalation vulnerabilities in Linux",
-          "title_zh": "Linux 中的本地提权漏洞",
+          "title": "通往root的路径少了1000条简体中文（大陆） / Local privilege escalation vulnerabilities in Linux",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
           "title_en": "Local privilege escalation vulnerabilities in Linux",
           "title_original": "Local privilege escalation vulnerabilities in Linux",
           "summary": null,
@@ -405,16 +419,17 @@
           "published_at": "2026-11-04T23:33:14Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
           "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-          "title_zh": "减少一千条通往根的路径",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
           "title_en": "A thousand fewer paths to root",
           "title_original": "A thousand fewer paths to root",
           "summary": null,
@@ -426,9 +441,23 @@
           "published_at": "2026-11-04T08:00:00Z"
         },
         {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+          "title_en": null,
+          "title_original": "通往root的路径少了1000条简体中文（大陆）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
+        },
+        {
           "id": "8b44f78450231e957fe21af9ce06feb288767161",
-          "title": "Linux 中的本地提权漏洞 / Local privilege escalation vulnerabilities in Linux",
-          "title_zh": "Linux 中的本地提权漏洞",
+          "title": "通往root的路径少了1000条简体中文（大陆） / Local privilege escalation vulnerabilities in Linux",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
           "title_en": "Local privilege escalation vulnerabilities in Linux",
           "title_original": "Local privilege escalation vulnerabilities in Linux",
           "summary": null,
@@ -440,18 +469,18 @@
           "published_at": "2026-11-04T23:33:14Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7787,
-        "story_heat": 0.25
+        "recency": 0.7669,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -461,11 +490,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-11-04T08:00:00Z",
-      "latest_at": "2026-11-04T23:33:14Z",
+      "latest_at": "2026-11-05T02:01:04.884000Z",
       "primary_item": {
         "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-        "title_zh": "减少一千条通往根的路径",
+        "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+        "title_zh": "通往root的路径少了1000条简体中文（大陆）",
         "title_en": "A thousand fewer paths to root",
         "title_original": "A thousand fewer paths to root",
         "summary": null,
@@ -478,7 +507,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -526,15 +555,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9272,
+        "recency": 0.913,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,30 +590,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_0e832117a16c",
-      "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-      "url": "https://www.aibase.com/news/32094",
-      "primary_url": "https://www.aibase.com/news/32094",
+      "story_id": "story_28626aa2ea8f",
+      "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+      "url": "https://www.aibase.com/news/32099",
+      "primary_url": "https://www.aibase.com/news/32099",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
-          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "id": "ecfaa7de7fa8d5fdd5340f0445ad4b00ba3c1030",
+          "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "title_zh": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
           "title_en": null,
-          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_original": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32094",
+          "url": "https://www.aibase.com/news/32099",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "source_count": 1,
@@ -593,18 +622,18 @@
       ],
       "items": [
         {
-          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
-          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "id": "ecfaa7de7fa8d5fdd5340f0445ad4b00ba3c1030",
+          "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "title_zh": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
           "title_en": null,
-          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_original": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32094",
+          "url": "https://www.aibase.com/news/32099",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "item_count": 1,
@@ -625,17 +654,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T01:19:06.416673Z",
-      "latest_at": "2026-11-05T01:19:06.416673Z",
+      "earliest_at": "2026-11-05T02:22:50.534164Z",
+      "latest_at": "2026-11-05T02:22:50.534164Z",
       "primary_item": {
-        "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
-        "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-        "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "id": "ecfaa7de7fa8d5fdd5340f0445ad4b00ba3c1030",
+        "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+        "title_zh": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
         "title_en": null,
-        "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "title_original": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32094",
+        "url": "https://www.aibase.com/news/32099",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -643,7 +672,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -691,15 +720,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7676,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -726,30 +755,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_8b70abe0bcf8",
-      "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-      "url": "https://www.aibase.com/news/32095",
-      "primary_url": "https://www.aibase.com/news/32095",
+      "story_id": "story_f1b3ff20dd40",
+      "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+      "url": "https://www.aibase.com/news/32100",
+      "primary_url": "https://www.aibase.com/news/32100",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
-          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "title_zh": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
           "title_en": null,
-          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_original": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32095",
+          "url": "https://www.aibase.com/news/32100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "source_count": 1,
@@ -758,18 +787,18 @@
       ],
       "items": [
         {
-          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
-          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "title_zh": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
           "title_en": null,
-          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_original": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32095",
+          "url": "https://www.aibase.com/news/32100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "item_count": 1,
@@ -790,17 +819,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T01:19:06.416673Z",
-      "latest_at": "2026-11-05T01:19:06.416673Z",
+      "earliest_at": "2026-11-05T02:22:50.534164Z",
+      "latest_at": "2026-11-05T02:22:50.534164Z",
       "primary_item": {
-        "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
-        "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-        "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+        "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+        "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+        "title_zh": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
         "title_en": null,
-        "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+        "title_original": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32095",
+        "url": "https://www.aibase.com/news/32100",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -808,30 +837,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_36c313c0fbf0",
-      "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-      "url": "https://www.aibase.com/news/32096",
-      "primary_url": "https://www.aibase.com/news/32096",
+      "story_id": "story_26c839e19089",
+      "title": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
+      "url": "https://www.aibase.com/news/32103",
+      "primary_url": "https://www.aibase.com/news/32103",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
-          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "id": "ef268ebbd1eac36d0d380c4e321e70f9e125792c",
+          "title": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
+          "title_zh": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
           "title_en": null,
-          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_original": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32096",
+          "url": "https://www.aibase.com/news/32103",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "source_count": 1,
@@ -840,18 +869,18 @@
       ],
       "items": [
         {
-          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
-          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "id": "ef268ebbd1eac36d0d380c4e321e70f9e125792c",
+          "title": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
+          "title_zh": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
           "title_en": null,
-          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_original": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32096",
+          "url": "https://www.aibase.com/news/32103",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "item_count": 1,
@@ -872,17 +901,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T01:19:06.416673Z",
-      "latest_at": "2026-11-05T01:19:06.416673Z",
+      "earliest_at": "2026-11-05T02:22:50.534164Z",
+      "latest_at": "2026-11-05T02:22:50.534164Z",
       "primary_item": {
-        "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
-        "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-        "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "id": "ef268ebbd1eac36d0d380c4e321e70f9e125792c",
+        "title": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
+        "title_zh": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
         "title_en": null,
-        "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "title_original": "美国中期选举变天：选民以压倒性票数叫停 AI 与数据中心狂飙，大型科技公司集体反思",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32096",
+        "url": "https://www.aibase.com/news/32103",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -890,30 +919,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_d511db0265a2",
-      "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-      "url": "https://www.aibase.com/news/32093",
-      "primary_url": "https://www.aibase.com/news/32093",
+      "story_id": "story_4f2575b95fa1",
+      "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+      "url": "https://www.aibase.com/news/32102",
+      "primary_url": "https://www.aibase.com/news/32102",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
-          "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-          "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "id": "d94f43e4c340e1344d11d93cbf910534aa2b01c6",
+          "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+          "title_zh": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
           "title_en": null,
-          "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "title_original": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32093",
+          "url": "https://www.aibase.com/news/32102",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "source_count": 1,
@@ -922,18 +951,18 @@
       ],
       "items": [
         {
-          "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
-          "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-          "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "id": "d94f43e4c340e1344d11d93cbf910534aa2b01c6",
+          "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+          "title_zh": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
           "title_en": null,
-          "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "title_original": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32093",
+          "url": "https://www.aibase.com/news/32102",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "item_count": 1,
@@ -954,17 +983,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T01:19:06.416673Z",
-      "latest_at": "2026-11-05T01:19:06.416673Z",
+      "earliest_at": "2026-11-05T02:22:50.534164Z",
+      "latest_at": "2026-11-05T02:22:50.534164Z",
       "primary_item": {
-        "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
-        "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-        "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+        "id": "d94f43e4c340e1344d11d93cbf910534aa2b01c6",
+        "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+        "title_zh": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
         "title_en": null,
-        "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+        "title_original": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32093",
+        "url": "https://www.aibase.com/news/32102",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -972,30 +1001,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_45491d707194",
-      "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-      "url": "https://www.aibase.com/news/32098",
-      "primary_url": "https://www.aibase.com/news/32098",
+      "story_id": "story_f968b08a4561",
+      "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+      "url": "https://www.aibase.com/news/32101",
+      "primary_url": "https://www.aibase.com/news/32101",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
-          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-          "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "id": "d68b049d904e7639ad73c9fe1f469b189067d237",
+          "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+          "title_zh": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
           "title_en": null,
-          "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "title_original": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32098",
+          "url": "https://www.aibase.com/news/32101",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "source_count": 1,
@@ -1004,18 +1033,18 @@
       ],
       "items": [
         {
-          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
-          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-          "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "id": "d68b049d904e7639ad73c9fe1f469b189067d237",
+          "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+          "title_zh": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
           "title_en": null,
-          "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "title_original": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32098",
+          "url": "https://www.aibase.com/news/32101",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T01:19:06.416673Z"
+          "published_at": "2026-11-05T02:22:50.534164Z"
         }
       ],
       "item_count": 1,
@@ -1036,17 +1065,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T01:19:06.416673Z",
-      "latest_at": "2026-11-05T01:19:06.416673Z",
+      "earliest_at": "2026-11-05T02:22:50.534164Z",
+      "latest_at": "2026-11-05T02:22:50.534164Z",
       "primary_item": {
-        "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
-        "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-        "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+        "id": "d68b049d904e7639ad73c9fe1f469b189067d237",
+        "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+        "title_zh": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
         "title_en": null,
-        "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+        "title_original": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32098",
+        "url": "https://www.aibase.com/news/32101",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1054,26 +1083,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_21cdaf9c2e2b",
-      "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-      "url": "https://www.aibase.com/news/32092",
-      "primary_url": "https://www.aibase.com/news/32092",
+      "story_id": "story_0e832117a16c",
+      "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+      "url": "https://www.aibase.com/news/32094",
+      "primary_url": "https://www.aibase.com/news/32094",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
-          "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-          "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "title_en": null,
-          "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32092",
+          "url": "https://www.aibase.com/news/32094",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1086,14 +1115,14 @@
       ],
       "items": [
         {
-          "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
-          "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-          "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "title_en": null,
-          "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32092",
+          "url": "https://www.aibase.com/news/32094",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1102,15 +1131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,14 +1150,14 @@
       "earliest_at": "2026-11-05T01:19:06.416673Z",
       "latest_at": "2026-11-05T01:19:06.416673Z",
       "primary_item": {
-        "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
-        "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-        "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+        "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
         "title_en": null,
-        "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32092",
+        "url": "https://www.aibase.com/news/32094",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1136,7 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -1212,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6156,
-      "importance": 0.6156,
-      "importance_score": 0.6156,
+      "score": 0.613,
+      "importance": 0.613,
+      "importance_score": 0.613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9313,
+        "recency": 0.9171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,26 +1274,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_7190e5d8e66f",
-      "title": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
-      "url": "https://www.aibase.com/news/32097",
-      "primary_url": "https://www.aibase.com/news/32097",
+      "story_id": "story_8b70abe0bcf8",
+      "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+      "url": "https://www.aibase.com/news/32095",
+      "primary_url": "https://www.aibase.com/news/32095",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "668dc70d2cd18342da168feceb6262e8fdf22992",
-          "title": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
-          "title_zh": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
+          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
+          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "title_en": null,
-          "title_original": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
+          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32097",
+          "url": "https://www.aibase.com/news/32095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1277,14 +1306,14 @@
       ],
       "items": [
         {
-          "id": "668dc70d2cd18342da168feceb6262e8fdf22992",
-          "title": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
-          "title_zh": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
+          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
+          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "title_en": null,
-          "title_original": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
+          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32097",
+          "url": "https://www.aibase.com/news/32095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1293,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,14 +1341,14 @@
       "earliest_at": "2026-11-05T01:19:06.416673Z",
       "latest_at": "2026-11-05T01:19:06.416673Z",
       "primary_item": {
-        "id": "668dc70d2cd18342da168feceb6262e8fdf22992",
-        "title": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
-        "title_zh": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
+        "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
+        "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+        "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
         "title_en": null,
-        "title_original": "谷歌AI政策遭反弹，DuckDuckGo以“可关闭AI”争夺教育搜索入口",
+        "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32097",
+        "url": "https://www.aibase.com/news/32095",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1327,7 +1356,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
+      }
+    },
+    {
+      "story_id": "story_136f6689901b",
+      "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "www.qualcomm.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": null,
+          "title_original": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.qualcomm.com"
+      ],
+      "items": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": null,
+          "title_original": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9909,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T19:55:14Z",
+      "latest_at": "2026-11-05T01:44:43.584000Z",
+      "primary_item": {
+        "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+        "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "title_en": null,
+        "title_original": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "source": "www.qualcomm.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -1433,15 +1601,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9682,
+        "recency": 0.9534,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1466,7 +1634,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
+      }
+    },
+    {
+      "story_id": "story_36c313c0fbf0",
+      "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+      "url": "https://www.aibase.com/news/32096",
+      "primary_url": "https://www.aibase.com/news/32096",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
+          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_en": null,
+          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32096",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T01:19:06.416673Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
+          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_en": null,
+          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32096",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T01:19:06.416673Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T01:19:06.416673Z",
+      "latest_at": "2026-11-05T01:19:06.416673Z",
+      "primary_item": {
+        "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
+        "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "title_en": null,
+        "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32096",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -1572,15 +1822,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5566,
-      "importance": 0.5566,
-      "importance_score": 0.5566,
+      "score": 0.5541,
+      "importance": 0.5541,
+      "importance_score": 0.5541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9211,
+        "recency": 0.9071,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1605,7 +1855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
@@ -1681,15 +1931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.584,
-      "importance": 0.584,
-      "importance_score": 0.584,
+      "score": 0.5817,
+      "importance": 0.5817,
+      "importance_score": 0.5817,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.825,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1714,395 +1964,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     },
     {
-      "story_id": "story_73761f466638",
-      "title": "人工智能正迫使我们偿还40年的技术债务",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "spectrum.ieee.org",
+      "story_id": "story_22367b7e8017",
+      "title": "图 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "primary_url": "https://openai.com/index/introducing-images-2-6",
+      "source": "openai.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "title_zh": "图 2.6",
           "title_en": null,
-          "title_original": "人工智能正迫使我们偿还40年的技术债务",
+          "title_original": "图 2.6",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z"
+          "published_at": "2026-11-05T02:17:02.236000Z"
         },
         {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "title_zh": "图 2.6",
+          "title_en": "Images 2.6",
+          "title_original": "Images 2.6",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "url": "https://openai.com/index/introducing-images-2-6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z"
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": null,
-          "title_original": "人工智能正迫使我们偿还40年的技术债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z"
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z"
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.866,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T11:52:17Z",
-      "latest_at": "2026-11-04T15:21:22.120000Z",
-      "primary_item": {
-        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-        "title": "人工智能正迫使我们偿还40年的技术债务",
-        "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-        "title_en": null,
-        "title_original": "人工智能正迫使我们偿还40年的技术债务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
-      }
-    },
-    {
-      "story_id": "story_c5e2969ff054",
-      "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": null,
-          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.116000Z"
-        },
-        {
-          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T10:23:34Z"
-        },
-        {
-          "id": "47c081f5fea85988c698b7127053ced9b2d74489",
-          "title": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:23:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": null,
-          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.116000Z"
-        },
-        {
-          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T10:23:34Z"
-        },
-        {
-          "id": "47c081f5fea85988c698b7127053ced9b2d74489",
-          "title": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:23:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.866,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T10:23:34Z",
-      "latest_at": "2026-11-04T15:21:22.116000Z",
-      "primary_item": {
-        "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-        "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "title_en": null,
-        "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
-      }
-    },
-    {
-      "story_id": "story_90365e95fff3",
-      "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "primary_url": "https://news.ycombinator.com/item?id=50366117",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2a963d6b8c4e4cfa2ff2aaa7b8ec7178b99d99e2",
-          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-          "title_en": null,
-          "title_original": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50366117",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T00:56:50.104000Z"
-        },
-        {
-          "id": "b80423db2b737463a71d99f4a1bfbc671ff62ef0",
-          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？ / Ask HN: What's your current AI agentic setup?",
-          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-          "title_en": "Ask HN: What's your current AI agentic setup?",
-          "title_original": "Ask HN: What's your current AI agentic setup?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50366117",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T14:37:22Z"
+          "published_at": "2026-11-04T23:35:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "news.ycombinator.com"
+        "openai.com"
       ],
       "items": [
         {
-          "id": "2a963d6b8c4e4cfa2ff2aaa7b8ec7178b99d99e2",
-          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "title_zh": "图 2.6",
           "title_en": null,
-          "title_original": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_original": "图 2.6",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50366117",
-          "source": "news.ycombinator.com",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-05T00:56:50.104000Z"
+          "published_at": "2026-11-05T02:17:02.236000Z"
         },
         {
-          "id": "b80423db2b737463a71d99f4a1bfbc671ff62ef0",
-          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？ / Ask HN: What's your current AI agentic setup?",
-          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-          "title_en": "Ask HN: What's your current AI agentic setup?",
-          "title_original": "Ask HN: What's your current AI agentic setup?",
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "title_zh": "图 2.6",
+          "title_en": "Images 2.6",
+          "title_original": "Images 2.6",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50366117",
+          "url": "https://openai.com/index/introducing-images-2-6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-04T14:37:22Z"
+          "published_at": "2026-11-04T23:35:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9947,
+        "recency": 0.9986,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-04T14:37:22Z",
-      "latest_at": "2026-11-05T00:56:50.104000Z",
+      "earliest_at": "2026-11-04T23:35:44Z",
+      "latest_at": "2026-11-05T02:17:02.236000Z",
       "primary_item": {
-        "id": "2a963d6b8c4e4cfa2ff2aaa7b8ec7178b99d99e2",
-        "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
-        "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+        "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+        "title": "图 2.6",
+        "title_zh": "图 2.6",
         "title_en": null,
-        "title_original": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+        "title_original": "图 2.6",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50366117",
-        "source": "news.ycombinator.com",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "source": "openai.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T01:20:01.645041Z"
+        "scored_at": "2026-11-05T02:24:07.079460Z"
       }
     }
   ]
