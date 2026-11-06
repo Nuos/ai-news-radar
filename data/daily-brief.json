@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:19:45.185572Z",
+  "generated_at": "2026-11-06T10:18:20.861697Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.874,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
+      }
+    },
+    {
+      "story_id": "story_88b16767209b",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_zh": null,
+          "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_original": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_zh": null,
+          "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_original": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8617,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-06T00:00:00Z",
+      "primary_item": {
+        "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+        "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "title_zh": null,
+        "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "title_original": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8249,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
-      }
-    },
-    {
-      "story_id": "story_3ce30504df16",
-      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.82,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T19:35:16Z",
-      "latest_at": "2026-11-05T19:35:16Z",
-      "primary_item": {
-        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-        "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.878,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7899,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
+      }
+    },
+    {
+      "story_id": "story_3ce30504df16",
+      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T19:35:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T19:35:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8085,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T19:35:16Z",
+      "latest_at": "2026-11-05T19:35:16Z",
+      "primary_item": {
+        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+        "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8758,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7899,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,30 +664,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
-      "story_id": "story_93bb7dd7b2ab",
-      "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-      "url": "https://www.aibase.com/news/32155",
-      "primary_url": "https://www.aibase.com/news/32155",
+      "story_id": "story_86e30e015aef",
+      "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+      "url": "https://www.aibase.com/news/32157",
+      "primary_url": "https://www.aibase.com/news/32157",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
-          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-          "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "id": "b6747e0f0a9806ebfafb9720c4f874eda8b0a570",
+          "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "title_zh": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
           "title_en": null,
-          "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_original": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32155",
+          "url": "https://www.aibase.com/news/32157",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T09:19:45.185572Z"
+          "published_at": "2026-11-06T10:18:20.861697Z"
         }
       ],
       "source_count": 1,
@@ -613,18 +696,18 @@
       ],
       "items": [
         {
-          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
-          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-          "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "id": "b6747e0f0a9806ebfafb9720c4f874eda8b0a570",
+          "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "title_zh": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
           "title_en": null,
-          "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_original": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32155",
+          "url": "https://www.aibase.com/news/32157",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T09:19:45.185572Z"
+          "published_at": "2026-11-06T10:18:20.861697Z"
         }
       ],
       "item_count": 1,
@@ -645,17 +728,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T09:19:45.185572Z",
-      "latest_at": "2026-11-06T09:19:45.185572Z",
+      "earliest_at": "2026-11-06T10:18:20.861697Z",
+      "latest_at": "2026-11-06T10:18:20.861697Z",
       "primary_item": {
-        "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
-        "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-        "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "id": "b6747e0f0a9806ebfafb9720c4f874eda8b0a570",
+        "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+        "title_zh": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
         "title_en": null,
-        "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "title_original": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32155",
+        "url": "https://www.aibase.com/news/32157",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -663,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -711,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7765,
+        "recency": 0.7656,
         "story_heat": 0.0
       },
       "category": "official",
@@ -746,7 +829,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
+      }
+    },
+    {
+      "story_id": "story_93bb7dd7b2ab",
+      "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+      "url": "https://www.aibase.com/news/32155",
+      "primary_url": "https://www.aibase.com/news/32155",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_en": null,
+          "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32155",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T09:19:45.185572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_en": null,
+          "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32155",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T09:19:45.185572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T09:19:45.185572Z",
+      "latest_at": "2026-11-06T09:19:45.185572Z",
+      "primary_item": {
+        "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+        "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "title_en": null,
+        "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32155",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -794,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -876,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -958,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,89 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
-      }
-    },
-    {
-      "story_id": "story_1f214e02bb3b",
-      "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-      "url": "https://www.aibase.com/news/32148",
-      "primary_url": "https://www.aibase.com/news/32148",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_en": null,
-          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32148",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:19:44.897043Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_en": null,
-          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32148",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:19:44.897043Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T07:19:44.897043Z",
-      "latest_at": "2026-11-06T07:19:44.897043Z",
-      "primary_item": {
-        "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-        "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "title_en": null,
-        "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32148",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -1151,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6156,
-      "importance": 0.6156,
-      "importance_score": 0.6156,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8156,
+        "recency": 0.8041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1184,7 +1267,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
+      }
+    },
+    {
+      "story_id": "story_1f214e02bb3b",
+      "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+      "url": "https://www.aibase.com/news/32148",
+      "primary_url": "https://www.aibase.com/news/32148",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_en": null,
+          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32148",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T07:19:44.897043Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_en": null,
+          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32148",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T07:19:44.897043Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9579,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T07:19:44.897043Z",
+      "latest_at": "2026-11-06T07:19:44.897043Z",
+      "primary_item": {
+        "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+        "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "title_en": null,
+        "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32148",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -1232,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,89 +1431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
-      }
-    },
-    {
-      "story_id": "story_8cfe62ffa8a2",
-      "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-      "url": "https://www.aibase.com/news/32150",
-      "primary_url": "https://www.aibase.com/news/32150",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "title_en": null,
-          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:19:44.897043Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "title_en": null,
-          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:19:44.897043Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T07:19:44.897043Z",
-      "latest_at": "2026-11-06T07:19:44.897043Z",
-      "primary_item": {
-        "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-        "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "title_en": null,
-        "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32150",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -1424,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5736,
-      "importance": 0.5736,
-      "importance_score": 0.5736,
+      "score": 0.5717,
+      "importance": 0.5717,
+      "importance_score": 0.5717,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7674,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,7 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
@@ -1563,15 +1646,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9052,
+        "recency": 0.8925,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1596,26 +1679,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     },
     {
-      "story_id": "story_ccf4b964b478",
-      "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-      "url": "https://www.aibase.com/news/32151",
-      "primary_url": "https://www.aibase.com/news/32151",
+      "story_id": "story_8cfe62ffa8a2",
+      "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+      "url": "https://www.aibase.com/news/32150",
+      "primary_url": "https://www.aibase.com/news/32150",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4af014a5a48e73079d3e119009a8c13aa39c1b24",
-          "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-          "title_zh": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
+          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
+          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "title_en": null,
-          "title_original": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
+          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32151",
+          "url": "https://www.aibase.com/news/32150",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1628,14 +1711,14 @@
       ],
       "items": [
         {
-          "id": "4af014a5a48e73079d3e119009a8c13aa39c1b24",
-          "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-          "title_zh": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
+          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
+          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "title_en": null,
-          "title_original": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
+          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32151",
+          "url": "https://www.aibase.com/news/32150",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1644,15 +1727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1663,14 +1746,14 @@
       "earliest_at": "2026-11-06T07:19:44.897043Z",
       "latest_at": "2026-11-06T07:19:44.897043Z",
       "primary_item": {
-        "id": "4af014a5a48e73079d3e119009a8c13aa39c1b24",
-        "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-        "title_zh": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
+        "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
+        "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+        "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
         "title_en": null,
-        "title_original": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
+        "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32151",
+        "url": "https://www.aibase.com/news/32150",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1678,146 +1761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
-      }
-    },
-    {
-      "story_id": "story_c4922604118b",
-      "title": "Claude Code 会将您的电子邮件地址发送给网站",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "primary_url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2da002b468c172a85675773d324c2f0199a23ccb",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": null,
-          "title_original": "Claude Code 会将您的电子邮件地址发送给网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T23:17:07.742000Z"
-        },
-        {
-          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T22:17:15Z"
-        },
-        {
-          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50385272",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T22:17:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2da002b468c172a85675773d324c2f0199a23ccb",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": null,
-          "title_original": "Claude Code 会将您的电子邮件地址发送给网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T23:17:07.742000Z"
-        },
-        {
-          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T22:17:15Z"
-        },
-        {
-          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50385272",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T22:17:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.865,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T22:17:15Z",
-      "latest_at": "2026-11-05T23:17:07.742000Z",
-      "primary_item": {
-        "id": "2da002b468c172a85675773d324c2f0199a23ccb",
-        "title": "Claude Code 会将您的电子邮件地址发送给网站",
-        "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-        "title_en": null,
-        "title_original": "Claude Code 会将您的电子邮件地址发送给网站",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T09:20:35.422207Z"
+        "scored_at": "2026-11-06T10:30:42.649745Z"
       }
     }
   ]
