@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:18:31.132143Z",
+  "generated_at": "2026-11-06T18:21:42.956277Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
+      }
+    },
+    {
+      "story_id": "story_988830a31ba1",
+      "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "primary_url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
+          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞",
+          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
+          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞",
+          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.861,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T08:00:00Z",
+      "latest_at": "2026-11-06T08:00:00Z",
+      "primary_item": {
+        "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
+        "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞",
+        "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7788,
+        "recency": 0.7671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
-      }
-    },
-    {
-      "story_id": "story_65d1d501dd25",
-      "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "primary_url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "title_zh": "Cult.fit 通过 Codex 增强运营能力",
-          "title_en": "Cult.fit builds operational muscle with Codex",
-          "title_original": "Cult.fit builds operational muscle with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "title_zh": "Cult.fit 通过 Codex 增强运营能力",
-          "title_en": "Cult.fit builds operational muscle with Codex",
-          "title_original": "Cult.fit builds operational muscle with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7351,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T20:00:00Z",
-      "latest_at": "2026-11-05T20:00:00Z",
-      "primary_item": {
-        "id": "ba025fbad02a10169c191970e604d56009173d01",
-        "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-        "title_zh": "Cult.fit 通过 Codex 增强运营能力",
-        "title_en": "Cult.fit builds operational muscle with Codex",
-        "title_original": "Cult.fit builds operational muscle with Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7824,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7788,
+        "recency": 0.7671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
+      }
+    },
+    {
+      "story_id": "story_65d1d501dd25",
+      "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "primary_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ba025fbad02a10169c191970e604d56009173d01",
+          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
+          "title_zh": "Cult.fit 通过 Codex 增强运营能力",
+          "title_en": "Cult.fit builds operational muscle with Codex",
+          "title_original": "Cult.fit builds operational muscle with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ba025fbad02a10169c191970e604d56009173d01",
+          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
+          "title_zh": "Cult.fit 通过 Codex 增强运营能力",
+          "title_en": "Cult.fit builds operational muscle with Codex",
+          "title_original": "Cult.fit builds operational muscle with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.724,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T20:00:00Z",
+      "latest_at": "2026-11-05T20:00:00Z",
+      "primary_item": {
+        "id": "ba025fbad02a10169c191970e604d56009173d01",
+        "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
+        "title_zh": "Cult.fit 通过 Codex 增强运营能力",
+        "title_en": "Cult.fit builds operational muscle with Codex",
+        "title_original": "Cult.fit builds operational muscle with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/cultfit-builds-with-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7804,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7308,
+        "recency": 0.7197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -629,21 +712,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-06T10:18:20.861697Z",
       "latest_at": "2026-11-06T10:18:20.861697Z",
@@ -663,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -711,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -792,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -825,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -873,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -906,7 +988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -954,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -987,7 +1069,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -1064,15 +1146,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5996,
-      "importance": 0.5996,
-      "importance_score": 0.5996,
+      "score": 0.5976,
+      "importance": 0.5976,
+      "importance_score": 0.5976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7268,
+        "recency": 0.7158,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,7 +1179,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -1145,15 +1227,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,7 +1260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -1226,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1259,7 +1341,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -1365,15 +1447,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5548,
-      "importance": 0.5548,
-      "importance_score": 0.5548,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9113,
+        "recency": 0.8976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1398,44 +1480,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
-      "story_id": "story_f6e4abfea488",
-      "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "primary_url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "story_id": "story_8486e4743460",
+      "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+      "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "primary_url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2f7c3dffe6e105970c886ca22bd063cb9538d6ec",
-          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
-          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "id": "e4f5767186c73bbdb0a7ddfadd8d85d4cd9b731d",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+          "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T15:07:47Z"
+          "published_at": "2026-11-06T17:21:15Z"
         },
         {
-          "id": "8305b8466f16c43b06d205993b2c659d35c522da",
-          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
-          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "id": "bc3631509f3dd406c6e2a16bb2f7d108f6d1ee3d",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50393235",
+          "url": "https://news.ycombinator.com/item?id=50395318",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T15:07:47Z"
+          "published_at": "2026-11-06T17:21:15Z"
         }
       ],
       "source_count": 2,
@@ -1445,62 +1527,62 @@
       ],
       "items": [
         {
-          "id": "2f7c3dffe6e105970c886ca22bd063cb9538d6ec",
-          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
-          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "id": "e4f5767186c73bbdb0a7ddfadd8d85d4cd9b731d",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+          "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T15:07:47Z"
+          "published_at": "2026-11-06T17:21:15Z"
         },
         {
-          "id": "8305b8466f16c43b06d205993b2c659d35c522da",
-          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
-          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "id": "bc3631509f3dd406c6e2a16bb2f7d108f6d1ee3d",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50393235",
+          "url": "https://news.ycombinator.com/item?id=50395318",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T15:07:47Z"
+          "published_at": "2026-11-06T17:21:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.969,
+        "recency": 0.9856,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T15:07:47Z",
-      "latest_at": "2026-11-06T15:07:47Z",
+      "earliest_at": "2026-11-06T17:21:15Z",
+      "latest_at": "2026-11-06T17:21:15Z",
       "primary_item": {
-        "id": "2f7c3dffe6e105970c886ca22bd063cb9538d6ec",
-        "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-        "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
-        "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-        "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+        "id": "e4f5767186c73bbdb0a7ddfadd8d85d4cd9b731d",
+        "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+        "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+        "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+        "title_original": "Anthropic IPO valuation talks drop to $1.3T",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+        "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1508,7 +1590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -1614,15 +1696,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8067,
+        "recency": 0.7945,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1647,7 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     },
     {
@@ -1695,15 +1777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1728,146 +1810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
-      }
-    },
-    {
-      "story_id": "story_c4922604118b",
-      "title": "Claude Code 会将您的电子邮件地址发送给网站",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "primary_url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2da002b468c172a85675773d324c2f0199a23ccb",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": null,
-          "title_original": "Claude Code 会将您的电子邮件地址发送给网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T23:17:07.742000Z"
-        },
-        {
-          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T22:17:15Z"
-        },
-        {
-          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50385272",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T22:17:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2da002b468c172a85675773d324c2f0199a23ccb",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": null,
-          "title_original": "Claude Code 会将您的电子邮件地址发送给网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T23:17:07.742000Z"
-        },
-        {
-          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-          "title": "Claude Code 会将您的电子邮件地址发送给网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T22:17:15Z"
-        },
-        {
-          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50385272",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T22:17:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7708,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T22:17:15Z",
-      "latest_at": "2026-11-05T23:17:07.742000Z",
-      "primary_item": {
-        "id": "2da002b468c172a85675773d324c2f0199a23ccb",
-        "title": "Claude Code 会将您的电子邮件地址发送给网站",
-        "title_zh": "Claude Code 会将您的电子邮件地址发送给网站",
-        "title_en": null,
-        "title_original": "Claude Code 会将您的电子邮件地址发送给网站",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T17:22:26.463748Z"
+        "scored_at": "2026-11-06T18:23:03.326245Z"
       }
     }
   ]
