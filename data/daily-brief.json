@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:18:27.163526Z",
+  "generated_at": "2026-11-06T20:18:32.495419Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -107,10 +107,25 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-06T08:00:00Z"
+        },
+        {
+          "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
+          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
+          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T19:41:59Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "OpenAI News"
       ],
       "items": [
@@ -127,29 +142,44 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-06T08:00:00Z"
+        },
+        {
+          "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
+          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
+          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T19:41:59Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8493,
-        "story_heat": 0.0
+        "recency": 0.8372,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-06T08:00:00Z",
-      "latest_at": "2026-11-06T08:00:00Z",
+      "latest_at": "2026-11-06T19:41:59Z",
       "primary_item": {
         "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
         "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -166,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -214,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7567,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7602,
+        "recency": 0.7493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -380,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7567,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,30 +445,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
-      "story_id": "story_65d1d501dd25",
-      "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "primary_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "story_id": "story_9ee96f4ab67d",
+      "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "primary_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "title_zh": "Cult.fit 通过 Codex 增强运营能力",
-          "title_en": "Cult.fit builds operational muscle with Codex",
-          "title_original": "Cult.fit builds operational muscle with Codex",
+          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
+          "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+          "title_zh": "衡量人工智能代理如何处理日常湿实验室科学",
+          "title_en": "Measuring how AI agents handle everyday wet-lab science",
+          "title_original": "Measuring how AI agents handle everyday wet-lab science",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z"
+          "published_at": "2026-11-06T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -447,31 +477,31 @@
       ],
       "items": [
         {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "title_zh": "Cult.fit 通过 Codex 增强运营能力",
-          "title_en": "Cult.fit builds operational muscle with Codex",
-          "title_original": "Cult.fit builds operational muscle with Codex",
+          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
+          "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+          "title_zh": "衡量人工智能代理如何处理日常湿实验室科学",
+          "title_en": "Measuring how AI agents handle everyday wet-lab science",
+          "title_original": "Measuring how AI agents handle everyday wet-lab science",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z"
+          "published_at": "2026-11-06T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
+        "ai_relevance": 0.91,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,17 +510,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T20:00:00Z",
-      "latest_at": "2026-11-05T20:00:00Z",
+      "earliest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-06T00:00:00Z",
       "primary_item": {
-        "id": "ba025fbad02a10169c191970e604d56009173d01",
-        "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-        "title_zh": "Cult.fit 通过 Codex 增强运营能力",
-        "title_en": "Cult.fit builds operational muscle with Codex",
-        "title_original": "Cult.fit builds operational muscle with Codex",
+        "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
+        "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+        "title_zh": "衡量人工智能代理如何处理日常湿实验室科学",
+        "title_en": "Measuring how AI agents handle everyday wet-lab science",
+        "title_original": "Measuring how AI agents handle everyday wet-lab science",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -498,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -546,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7582,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,173 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
-      }
-    },
-    {
-      "story_id": "story_9ee96f4ab67d",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "primary_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "title_zh": null,
-          "title_en": "Measuring how AI agents handle everyday wet-lab science",
-          "title_original": "Measuring how AI agents handle everyday wet-lab science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "title_zh": null,
-          "title_en": "Measuring how AI agents handle everyday wet-lab science",
-          "title_original": "Measuring how AI agents handle everyday wet-lab science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7567,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
-      "primary_item": {
-        "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-        "title": "Measuring how AI agents handle everyday wet-lab science",
-        "title_zh": null,
-        "title_en": "Measuring how AI agents handle everyday wet-lab science",
-        "title_original": "Measuring how AI agents handle everyday wet-lab science",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
-      }
-    },
-    {
-      "story_id": "story_3ce30504df16",
-      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.71,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T19:35:16Z",
-      "latest_at": "2026-11-05T19:35:16Z",
-      "primary_item": {
-        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-        "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -795,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -876,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -957,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -1038,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -1119,15 +983,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,7 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -1179,8 +1043,8 @@
         },
         {
           "id": "0a640d0412560f1f9868bacd221052c7a6adaaa6",
-          "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "title_zh": null,
+          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+          "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
           "title_en": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
           "title_original": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
           "summary": null,
@@ -1213,8 +1077,8 @@
         },
         {
           "id": "0a640d0412560f1f9868bacd221052c7a6adaaa6",
-          "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "title_zh": null,
+          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+          "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
           "title_en": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
           "title_original": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
           "summary": null,
@@ -1228,15 +1092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6125,
-      "importance": 0.6125,
-      "importance_score": 0.6125,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9837,
+        "recency": 0.9696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1261,7 +1125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -1309,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1342,7 +1206,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -1390,15 +1254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1423,7 +1287,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
@@ -1529,15 +1393,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8854,
+        "recency": 0.8727,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1562,44 +1426,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
-      "story_id": "story_d0e6c867ebef",
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "primary_url": "https://arxiv.org/abs/2610.21375",
+      "story_id": "story_3ed9a0896b67",
+      "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+      "primary_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
-          "title": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": null,
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "id": "93224b31859272b4fe5ec2938ad075f18079be47",
+          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
+          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T18:03:33Z"
+          "published_at": "2026-11-06T18:04:06Z"
         },
         {
-          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
-          "title": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": null,
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "id": "2f65c6172047cfe51a0c3d587c8cd2388dc654ae",
+          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
+          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395919",
+          "url": "https://news.ycombinator.com/item?id=50395933",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T18:03:33Z"
+          "published_at": "2026-11-06T18:04:06Z"
         }
       ],
       "source_count": 2,
@@ -1609,62 +1473,62 @@
       ],
       "items": [
         {
-          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
-          "title": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": null,
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "id": "93224b31859272b4fe5ec2938ad075f18079be47",
+          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
+          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T18:03:33Z"
+          "published_at": "2026-11-06T18:04:06Z"
         },
         {
-          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
-          "title": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": null,
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "id": "2f65c6172047cfe51a0c3d587c8cd2388dc654ae",
+          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
+          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395919",
+          "url": "https://news.ycombinator.com/item?id=50395933",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T18:03:33Z"
+          "published_at": "2026-11-06T18:04:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9682,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T18:03:33Z",
-      "latest_at": "2026-11-06T18:03:33Z",
+      "earliest_at": "2026-11-06T18:04:06Z",
+      "latest_at": "2026-11-06T18:04:06Z",
       "primary_item": {
-        "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
-        "title": "Memorilla: Latent Semantic Memory for LLMs",
-        "title_zh": null,
-        "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-        "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+        "id": "93224b31859272b4fe5ec2938ad075f18079be47",
+        "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
+        "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2610.21375",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1672,44 +1536,154 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     },
     {
-      "story_id": "story_ec4e0f15f575",
-      "title": "Anthropic IPO 买家认为估值低至 1.1T 美元 / Anthropic IPO Buyers See Valuation as Low as $1.1T",
-      "url": "https://news.ycombinator.com/item?id=50394906",
-      "primary_url": "https://news.ycombinator.com/item?id=50394906",
+      "story_id": "story_8486e4743460",
+      "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+      "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "primary_url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "3f44ecbdf060114241e04e48ba3dfc015788c5ea",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T17:21:15Z"
+        },
+        {
+          "id": "bc3631509f3dd406c6e2a16bb2f7d108f6d1ee3d",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50395318",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T17:21:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3f44ecbdf060114241e04e48ba3dfc015788c5ea",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T17:21:15Z"
+        },
+        {
+          "id": "bc3631509f3dd406c6e2a16bb2f7d108f6d1ee3d",
+          "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+          "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+          "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+          "title_original": "Anthropic IPO valuation talks drop to $1.3T",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50395318",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T17:21:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9582,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T17:21:15Z",
+      "latest_at": "2026-11-06T17:21:15Z",
+      "primary_item": {
+        "id": "3f44ecbdf060114241e04e48ba3dfc015788c5ea",
+        "title": "Anthropic IPO 估值跌至 1.3T 美元 / Anthropic IPO valuation talks drop to $1.3T",
+        "title_zh": "Anthropic IPO 估值跌至 1.3T 美元",
+        "title_en": "Anthropic IPO valuation talks drop to $1.3T",
+        "title_original": "Anthropic IPO valuation talks drop to $1.3T",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T20:19:21.672688Z"
+      }
+    },
+    {
+      "story_id": "story_49598c5df049",
+      "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50393235",
+      "primary_url": "https://news.ycombinator.com/item?id=50393235",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5d1372b474a7cba86100ed17e2299c842b0fc060",
-          "title": "Anthropic IPO 买家认为估值低至 1.1T 美元 / Anthropic IPO Buyers See Valuation as Low as $1.1T",
-          "title_zh": "Anthropic IPO 买家认为估值低至 1.1T 美元",
-          "title_en": "Anthropic IPO Buyers See Valuation as Low as $1.1T",
-          "title_original": "Anthropic IPO Buyers See Valuation as Low as $1.1T",
+          "id": "8305b8466f16c43b06d205993b2c659d35c522da",
+          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
+          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50394906",
+          "url": "https://news.ycombinator.com/item?id=50393235",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T16:54:36Z"
+          "published_at": "2026-11-06T15:07:47Z"
         },
         {
-          "id": "e58410bd6dad1a57c5e4cc877d7136cab25c1cf1",
-          "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-          "title_zh": null,
-          "title_en": "Anthropic IPO buyers see valuation as low as $1.1T",
-          "title_original": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "id": "2f7c3dffe6e105970c886ca22bd063cb9538d6ec",
+          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
+          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "url": "https://github.com/zalando-incubator/agentic-identity-broker",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T16:54:36Z"
+          "published_at": "2026-11-06T15:07:47Z"
         }
       ],
       "source_count": 2,
@@ -1719,62 +1693,62 @@
       ],
       "items": [
         {
-          "id": "5d1372b474a7cba86100ed17e2299c842b0fc060",
-          "title": "Anthropic IPO 买家认为估值低至 1.1T 美元 / Anthropic IPO Buyers See Valuation as Low as $1.1T",
-          "title_zh": "Anthropic IPO 买家认为估值低至 1.1T 美元",
-          "title_en": "Anthropic IPO Buyers See Valuation as Low as $1.1T",
-          "title_original": "Anthropic IPO Buyers See Valuation as Low as $1.1T",
+          "id": "8305b8466f16c43b06d205993b2c659d35c522da",
+          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
+          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50394906",
+          "url": "https://news.ycombinator.com/item?id=50393235",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T16:54:36Z"
+          "published_at": "2026-11-06T15:07:47Z"
         },
         {
-          "id": "e58410bd6dad1a57c5e4cc877d7136cab25c1cf1",
-          "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-          "title_zh": null,
-          "title_en": "Anthropic IPO buyers see valuation as low as $1.1T",
-          "title_original": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "id": "2f7c3dffe6e105970c886ca22bd063cb9538d6ec",
+          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
+          "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "url": "https://github.com/zalando-incubator/agentic-identity-broker",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T16:54:36Z"
+          "published_at": "2026-11-06T15:07:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T16:54:36Z",
-      "latest_at": "2026-11-06T16:54:36Z",
+      "earliest_at": "2026-11-06T15:07:47Z",
+      "latest_at": "2026-11-06T15:07:47Z",
       "primary_item": {
-        "id": "5d1372b474a7cba86100ed17e2299c842b0fc060",
-        "title": "Anthropic IPO 买家认为估值低至 1.1T 美元 / Anthropic IPO Buyers See Valuation as Low as $1.1T",
-        "title_zh": "Anthropic IPO 买家认为估值低至 1.1T 美元",
-        "title_en": "Anthropic IPO Buyers See Valuation as Low as $1.1T",
-        "title_original": "Anthropic IPO Buyers See Valuation as Low as $1.1T",
+        "id": "8305b8466f16c43b06d205993b2c659d35c522da",
+        "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+        "title_zh": "Show HN：代理身份代理、AI 代理的 OAuth 委派",
+        "title_en": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+        "title_original": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50394906",
+        "url": "https://news.ycombinator.com/item?id=50393235",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1782,7 +1756,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T19:31:35.313286Z"
+        "scored_at": "2026-11-06T20:19:21.672688Z"
+      }
+    },
+    {
+      "story_id": "story_ef68c985f223",
+      "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "primary_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "source": "finance.yahoo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3f34c8fc73fa8c1f6bbb897d23863adfd585143c",
+          "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "title_zh": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "title_en": null,
+          "title_original": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T02:25:57.106000Z"
+        },
+        {
+          "id": "41e734574630658b4b3dc7f127357b5374c93040",
+          "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元 / Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_zh": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "title_en": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_original": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-05T23:09:57Z"
+        },
+        {
+          "id": "3643fa7f9bcf5017fe08565a5c511421970e791b",
+          "title": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B / Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_zh": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B",
+          "title_en": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_original": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50385870",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T23:09:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "finance.yahoo.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3f34c8fc73fa8c1f6bbb897d23863adfd585143c",
+          "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "title_zh": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "title_en": null,
+          "title_original": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T02:25:57.106000Z"
+        },
+        {
+          "id": "41e734574630658b4b3dc7f127357b5374c93040",
+          "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元 / Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_zh": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+          "title_en": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_original": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-05T23:09:57Z"
+        },
+        {
+          "id": "3643fa7f9bcf5017fe08565a5c511421970e791b",
+          "title": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B / Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_zh": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B",
+          "title_en": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "title_original": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50385870",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T23:09:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7725,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T23:09:57Z",
+      "latest_at": "2026-11-06T02:25:57.106000Z",
+      "primary_item": {
+        "id": "3f34c8fc73fa8c1f6bbb897d23863adfd585143c",
+        "title": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+        "title_zh": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+        "title_en": null,
+        "title_original": "古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "source": "finance.yahoo.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T20:19:21.672688Z"
       }
     }
   ]
