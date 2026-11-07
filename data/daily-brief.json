@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T20:18:24.559597Z",
+  "generated_at": "2026-11-07T21:18:35.101147Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_255b7fbabd28",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7508,
+        "recency": 0.74,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7274,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7277,
+        "recency": 0.7172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,173 +249,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
-      "story_id": "story_1dbaf2fbe183",
-      "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cc07ee07893a",
+      "title": "微软研究院“AI Frontiers”团队的解散",
+      "url": "https://hunch.net/?p=13764006",
+      "primary_url": "https://hunch.net/?p=13764006",
+      "source": "hunch.net",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
-          "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
-          "title_zh": "GitHub Copilot 每周发布 — 11 月 2 日",
-          "title_en": "GitHub Copilot weekly releases — November 2",
-          "title_original": "GitHub Copilot weekly releases — November 2",
+          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+          "title": "微软研究院“AI Frontiers”团队的解散",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": null,
+          "title_original": "微软研究院“AI Frontiers”团队的解散",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T21:00:26Z"
+          "url": "https://hunch.net/?p=13764006",
+          "source": "hunch.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T19:40:52.028000Z"
+        },
+        {
+          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The End of AI Frontiers",
+          "title_original": "The End of AI Frontiers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T18:04:07Z"
+        },
+        {
+          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T18:02:17Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hunch.net"
       ],
       "items": [
         {
-          "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
-          "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
-          "title_zh": "GitHub Copilot 每周发布 — 11 月 2 日",
-          "title_en": "GitHub Copilot weekly releases — November 2",
-          "title_original": "GitHub Copilot weekly releases — November 2",
+          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+          "title": "微软研究院“AI Frontiers”团队的解散",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": null,
+          "title_original": "微软研究院“AI Frontiers”团队的解散",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T21:00:26Z"
+          "url": "https://hunch.net/?p=13764006",
+          "source": "hunch.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T19:40:52.028000Z"
+        },
+        {
+          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The End of AI Frontiers",
+          "title_original": "The End of AI Frontiers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T18:04:07Z"
+        },
+        {
+          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T18:02:17Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7143,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9768,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-06T21:00:26Z",
-      "latest_at": "2026-11-06T21:00:26Z",
+      "earliest_at": "2026-11-07T18:02:17Z",
+      "latest_at": "2026-11-07T19:40:52.028000Z",
       "primary_item": {
-        "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
-        "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
-        "title_zh": "GitHub Copilot 每周发布 — 11 月 2 日",
-        "title_en": "GitHub Copilot weekly releases — November 2",
-        "title_original": "GitHub Copilot weekly releases — November 2",
+        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+        "title": "微软研究院“AI Frontiers”团队的解散",
+        "title_zh": "微软研究院“AI Frontiers”团队的解散",
+        "title_en": null,
+        "title_original": "微软研究院“AI Frontiers”团队的解散",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://hunch.net/?p=13764006",
+        "source": "hunch.net",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
-      }
-    },
-    {
-      "story_id": "story_e1651628c642",
-      "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-          "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-          "title_zh": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多",
-          "title_en": "@GitHub in Slack and Teams is generally available and more",
-          "title_original": "@GitHub in Slack and Teams is generally available and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T20:31:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-          "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-          "title_zh": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多",
-          "title_en": "@GitHub in Slack and Teams is generally available and more",
-          "title_original": "@GitHub in Slack and Teams is generally available and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T20:31:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T20:31:08Z",
-      "latest_at": "2026-11-06T20:31:08Z",
-      "primary_item": {
-        "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-        "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-        "title_zh": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多",
-        "title_en": "@GitHub in Slack and Teams is generally available and more",
-        "title_original": "@GitHub in Slack and Teams is generally available and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -520,15 +493,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5625,
+      "importance": 0.5625,
+      "importance_score": 0.5625,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9678,
+        "recency": 0.9539,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -553,117 +526,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
-      "story_id": "story_cc07ee07893a",
-      "title": "微软研究院“AI Frontiers”团队的解散",
-      "url": "https://hunch.net/?p=13764006",
-      "primary_url": "https://hunch.net/?p=13764006",
-      "source": "hunch.net",
+      "story_id": "story_e678eeaacb4b",
+      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "source": "maxxbench.unlap.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "title_en": null,
-          "title_original": "微软研究院“AI Frontiers”团队的解散",
+          "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "maxxbench.unlap.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
+          "published_at": "2026-11-07T20:43:55.325000Z"
         },
         {
-          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
-          "title_en": "The end of Microsoft Research's AI Frontiers group",
-          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_original": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
+          "published_at": "2026-11-07T17:19:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hunch.net"
+        "maxxbench.unlap.ai"
       ],
       "items": [
         {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "title_en": null,
-          "title_original": "微软研究院“AI Frontiers”团队的解散",
+          "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "maxxbench.unlap.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
+          "published_at": "2026-11-07T20:43:55.325000Z"
         },
         {
-          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
-          "title_en": "The end of Microsoft Research's AI Frontiers group",
-          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_original": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
+          "published_at": "2026-11-07T17:19:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.991,
+        "recency": 0.9917,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T18:02:17Z",
-      "latest_at": "2026-11-07T19:40:52.028000Z",
+      "earliest_at": "2026-11-07T17:19:00Z",
+      "latest_at": "2026-11-07T20:43:55.325000Z",
       "primary_item": {
-        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-        "title": "微软研究院“AI Frontiers”团队的解散",
-        "title_zh": "微软研究院“AI Frontiers”团队的解散",
+        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+        "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
         "title_en": null,
-        "title_original": "微软研究院“AI Frontiers”团队的解散",
+        "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://hunch.net/?p=13764006",
-        "source": "hunch.net",
+        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+        "source": "maxxbench.unlap.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -740,15 +713,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9426,
+        "recency": 0.929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -773,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -850,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8865,
+        "recency": 0.8738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,146 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
-      }
-    },
-    {
-      "story_id": "story_69f30db5a74d",
-      "title": "人工智能正在极大地加速人工智能研究",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "primary_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "www.planned-obsolescence.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "53a5769058469f2c5f75021643659032056787d7",
-          "title": "人工智能正在极大地加速人工智能研究",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": null,
-          "title_original": "人工智能正在极大地加速人工智能研究",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "www.planned-obsolescence.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:23.304000Z"
-        },
-        {
-          "id": "0a6b3248052b7a34e08065c78e9940170558aec2",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T20:27:23Z"
-        },
-        {
-          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50397994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:27:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.planned-obsolescence.org"
-      ],
-      "items": [
-        {
-          "id": "53a5769058469f2c5f75021643659032056787d7",
-          "title": "人工智能正在极大地加速人工智能研究",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": null,
-          "title_original": "人工智能正在极大地加速人工智能研究",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "www.planned-obsolescence.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:23.304000Z"
-        },
-        {
-          "id": "0a6b3248052b7a34e08065c78e9940170558aec2",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T20:27:23Z"
-        },
-        {
-          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50397994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:27:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7345,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T20:27:23Z",
-      "latest_at": "2026-11-06T22:56:23.304000Z",
-      "primary_item": {
-        "id": "53a5769058469f2c5f75021643659032056787d7",
-        "title": "人工智能正在极大地加速人工智能研究",
-        "title_zh": "人工智能正在极大地加速人工智能研究",
-        "title_en": null,
-        "title_original": "人工智能正在极大地加速人工智能研究",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-        "source": "www.planned-obsolescence.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -1099,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7714,
+        "recency": 0.7603,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,7 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -1209,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9298,
+        "recency": 0.9164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1242,117 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
-      }
-    },
-    {
-      "story_id": "story_f62bf524a233",
-      "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-      "url": "https://news.ycombinator.com/item?id=50398010",
-      "primary_url": "https://news.ycombinator.com/item?id=50398010",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50398010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:28:24Z"
-        },
-        {
-          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketchagent.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:28:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50398010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:28:24Z"
-        },
-        {
-          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketchagent.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:28:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7088,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T20:28:24Z",
-      "latest_at": "2026-11-06T20:28:24Z",
-      "primary_item": {
-        "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-        "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-        "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50398010",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     },
     {
@@ -1429,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4978,
-      "importance": 0.4978,
-      "importance_score": 0.4978,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7335,
+        "recency": 0.723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,7 +1186,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T20:19:18.919147Z"
+        "scored_at": "2026-11-07T21:19:25.966561Z"
       }
     }
   ]
