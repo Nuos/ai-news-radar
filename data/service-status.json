@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T15:17:59.418629Z",
+  "generated_at": "2026-11-08T16:18:23.952907Z",
   "ok": true,
   "active_count": 2,
   "providers": [
@@ -16,13 +16,13 @@
     {
       "id": "01M6XVDCKRT3PSB0YP8J30GTD5",
       "provider": "OpenAI",
-      "title": "Image generation experiencing elevated error rates",
-      "title_zh": "Image generation experiencing elevated error rates",
-      "status": "identified",
+      "title": "Elevated errors with image generation",
+      "title_zh": "Elevated errors with image generation",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-11-08T15:11:15Z",
-      "updated_at": "2026-11-08T15:11:15Z",
-      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "updated_at": "2026-11-08T15:43:50Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5"
     },
