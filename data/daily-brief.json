@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T18:18:39.372375Z",
+  "generated_at": "2026-11-08T19:18:01.333343Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_55b8a01511e9",
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9073,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-08T11:34:35Z",
       "latest_at": "2026-11-08T11:34:35Z",
@@ -82,154 +81,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
+        "scored_at": "2026-11-08T19:18:54.906961Z"
       }
     },
     {
-      "story_id": "story_a586ef3b42a3",
-      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "url": "https://news.ycombinator.com/item?id=50414021",
-      "primary_url": "https://news.ycombinator.com/item?id=50414021",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50414021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
-        {
-          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T15:19:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50414021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
-        {
-          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T15:19:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9579,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T15:19:51Z",
-      "latest_at": "2026-11-08T15:19:51Z",
-      "primary_item": {
-        "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-        "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-        "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-        "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50414021",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
-      }
-    },
-    {
-      "story_id": "story_11c5bedf092a",
-      "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "story_id": "story_90bf1aae532f",
+      "title": "高盛正在从其银行家和交易员那里撤回Claude代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正在从其银行家和交易员那里撤回Claude代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": "高盛正在从其银行家和交易员那里撤回Claude代码",
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T14:49:23Z"
+          "published_at": "2026-11-08T18:16:07Z"
         },
         {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛正在从其银行家和交易员那里撤回Claude代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": "高盛正在从其银行家和交易员那里撤回Claude代码",
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50413822",
+          "url": "https://news.ycombinator.com/item?id=50415628",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
+          "published_at": "2026-11-08T18:16:07Z"
         }
       ],
       "source_count": 2,
@@ -239,62 +128,62 @@
       ],
       "items": [
         {
-          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正在从其银行家和交易员那里撤回Claude代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": "高盛正在从其银行家和交易员那里撤回Claude代码",
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T14:49:23Z"
+          "published_at": "2026-11-08T18:16:07Z"
         },
         {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛正在从其银行家和交易员那里撤回Claude代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": "高盛正在从其银行家和交易员那里撤回Claude代码",
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50413822",
+          "url": "https://news.ycombinator.com/item?id=50415628",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
+          "published_at": "2026-11-08T18:16:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9509,
+        "recency": 0.9852,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T14:49:23Z",
-      "latest_at": "2026-11-08T14:49:23Z",
+      "earliest_at": "2026-11-08T18:16:07Z",
+      "latest_at": "2026-11-08T18:16:07Z",
       "primary_item": {
-        "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-        "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-        "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-        "title_en": "OpenAI raises $11B at a $1.25T valuation",
-        "title_original": "OpenAI raises $11B at a $1.25T valuation",
+        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+        "title": "高盛正在从其银行家和交易员那里撤回Claude代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title_zh": "高盛正在从其银行家和交易员那里撤回Claude代码",
+        "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -302,44 +191,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
+        "scored_at": "2026-11-08T19:18:54.906961Z"
       }
     },
     {
-      "story_id": "story_44b10c0b36c9",
-      "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "story_id": "story_4decd34607c2",
+      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-          "title_zh": "我不会在我的编码中使用LLM",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
+          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z"
+          "published_at": "2026-11-08T15:19:51Z"
         },
         {
-          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
-          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-          "title_zh": "我不会在我的编码中使用LLM",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50412591",
+          "url": "https://news.ycombinator.com/item?id=50414021",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T12:14:10Z"
+          "published_at": "2026-11-08T15:19:51Z"
         }
       ],
       "source_count": 2,
@@ -349,62 +238,62 @@
       ],
       "items": [
         {
-          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-          "title_zh": "我不会在我的编码中使用LLM",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
+          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z"
+          "published_at": "2026-11-08T15:19:51Z"
         },
         {
-          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
-          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-          "title_zh": "我不会在我的编码中使用LLM",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50412591",
+          "url": "https://news.ycombinator.com/item?id=50414021",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T12:14:10Z"
+          "published_at": "2026-11-08T15:19:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.916,
+        "recency": 0.9443,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T12:14:10Z",
-      "latest_at": "2026-11-08T12:14:10Z",
+      "earliest_at": "2026-11-08T15:19:51Z",
+      "latest_at": "2026-11-08T15:19:51Z",
       "primary_item": {
-        "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-        "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-        "title_zh": "我不会在我的编码中使用LLM",
-        "title_en": "I will not be using LLMs in my coding",
-        "title_original": "I will not be using LLMs in my coding",
+        "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+        "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -412,7 +301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
+        "scored_at": "2026-11-08T19:18:54.906961Z"
       }
     },
     {
@@ -518,15 +407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7689,
+        "recency": 0.758,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -551,7 +440,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
+        "scored_at": "2026-11-08T19:18:54.906961Z"
+      }
+    },
+    {
+      "story_id": "story_11c5bedf092a",
+      "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9374,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:49:23Z",
+      "latest_at": "2026-11-08T14:49:23Z",
+      "primary_item": {
+        "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+        "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+        "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+        "title_en": "OpenAI raises $11B at a $1.25T valuation",
+        "title_original": "OpenAI raises $11B at a $1.25T valuation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T19:18:54.906961Z"
+      }
+    },
+    {
+      "story_id": "story_44b10c0b36c9",
+      "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        },
+        {
+          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50412591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        },
+        {
+          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50412591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.903,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T12:14:10Z",
+      "latest_at": "2026-11-08T12:14:10Z",
+      "primary_item": {
+        "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+        "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+        "title_zh": "我不会在我的编码中使用LLM",
+        "title_en": "I will not be using LLMs in my coding",
+        "title_original": "I will not be using LLMs in my coding",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T19:18:54.906961Z"
       }
     },
     {
@@ -628,15 +737,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8916,
+        "recency": 0.879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -661,7 +770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
+        "scored_at": "2026-11-08T19:18:54.906961Z"
       }
     },
     {
@@ -738,15 +847,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8039,
+        "recency": 0.7925,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -771,7 +880,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:19:33.364432Z"
+        "scored_at": "2026-11-08T19:18:54.906961Z"
       }
     }
   ]
