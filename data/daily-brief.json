@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T17:18:05.910646Z",
+  "generated_at": "2026-11-08T18:18:39.372375Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_55b8a01511e9",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9206,
+        "recency": 0.9073,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,31 +82,17 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
+        "scored_at": "2026-11-08T18:19:33.364432Z"
       }
     },
     {
-      "story_id": "story_4decd34607c2",
+      "story_id": "story_a586ef3b42a3",
       "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "url": "https://news.ycombinator.com/item?id=50414021",
+      "primary_url": "https://news.ycombinator.com/item?id=50414021",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
-        {
-          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
         {
           "id": "cc0841b99a64136605260a310d986b8891ec5b06",
           "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
@@ -119,29 +105,29 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
+        },
+        {
+          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-08T15:19:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
-        {
-          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
-          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
         {
           "id": "cc0841b99a64136605260a310d986b8891ec5b06",
           "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
@@ -155,19 +141,33 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-08T15:19:51Z"
+        },
+        {
+          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
+          "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T15:19:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9719,
+        "recency": 0.9579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -177,14 +177,124 @@
       "earliest_at": "2026-11-08T15:19:51Z",
       "latest_at": "2026-11-08T15:19:51Z",
       "primary_item": {
-        "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+        "id": "cc0841b99a64136605260a310d986b8891ec5b06",
         "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
         "title_zh": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略",
         "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
         "title_original": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "url": "https://news.ycombinator.com/item?id=50414021",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T18:19:33.364432Z"
+      }
+    },
+    {
+      "story_id": "story_11c5bedf092a",
+      "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9509,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:49:23Z",
+      "latest_at": "2026-11-08T14:49:23Z",
+      "primary_item": {
+        "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+        "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+        "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
+        "title_en": "OpenAI raises $11B at a $1.25T valuation",
+        "title_original": "OpenAI raises $11B at a $1.25T valuation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -192,7 +302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
+        "scored_at": "2026-11-08T18:19:33.364432Z"
       }
     },
     {
@@ -269,15 +379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9295,
+        "recency": 0.916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -302,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
+        "scored_at": "2026-11-08T18:19:33.364432Z"
       }
     },
     {
@@ -408,15 +518,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7802,
+        "recency": 0.7689,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -441,337 +551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
-      }
-    },
-    {
-      "story_id": "story_11c5bedf092a",
-      "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T14:49:23Z"
-        },
-        {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50413822",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T14:49:23Z"
-        },
-        {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50413822",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9648,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T14:49:23Z",
-      "latest_at": "2026-11-08T14:49:23Z",
-      "primary_item": {
-        "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-        "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-        "title_zh": "OpenAI 以 1.25T 估值筹集 11B 美元",
-        "title_en": "OpenAI raises $11B at a $1.25T valuation",
-        "title_original": "OpenAI raises $11B at a $1.25T valuation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
-      }
-    },
-    {
-      "story_id": "story_e678eeaacb4b",
-      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "source": "maxxbench.unlap.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "title_en": null,
-          "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "a0bde15171cc69f632ce03ed1951075cf752c650",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "title_original": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:19:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "maxxbench.unlap.ai"
-      ],
-      "items": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "title_en": null,
-          "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "a0bde15171cc69f632ce03ed1951075cf752c650",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "title_original": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:19:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.743,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T17:19:00Z",
-      "latest_at": "2026-11-07T20:43:55.325000Z",
-      "primary_item": {
-        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-        "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-        "title_en": null,
-        "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-        "source": "maxxbench.unlap.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
-      }
-    },
-    {
-      "story_id": "story_cc07ee07893a",
-      "title": "微软研究院“AI Frontiers”团队的解散",
-      "url": "https://hunch.net/?p=13764006",
-      "primary_url": "https://hunch.net/?p=13764006",
-      "source": "hunch.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
-          "title_en": null,
-          "title_original": "微软研究院“AI Frontiers”团队的解散",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
-        },
-        {
-          "id": "fc23bb84f0786b35843c4d908b3b149fd5a2a720",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
-          "title_en": "The end of Microsoft Research's AI Frontiers group",
-          "title_original": "The end of Microsoft Research's AI Frontiers group",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hunch.net"
-      ],
-      "items": [
-        {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
-          "title_en": null,
-          "title_original": "微软研究院“AI Frontiers”团队的解散",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
-        },
-        {
-          "id": "fc23bb84f0786b35843c4d908b3b149fd5a2a720",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "title_zh": "微软研究院“AI Frontiers”团队的解散",
-          "title_en": "The end of Microsoft Research's AI Frontiers group",
-          "title_original": "The end of Microsoft Research's AI Frontiers group",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7318,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T18:02:17Z",
-      "latest_at": "2026-11-07T19:40:52.028000Z",
-      "primary_item": {
-        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-        "title": "微软研究院“AI Frontiers”团队的解散",
-        "title_zh": "微软研究院“AI Frontiers”团队的解散",
-        "title_en": null,
-        "title_original": "微软研究院“AI Frontiers”团队的解散",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hunch.net/?p=13764006",
-        "source": "hunch.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
+        "scored_at": "2026-11-08T18:19:33.364432Z"
       }
     },
     {
@@ -848,15 +628,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9047,
+        "recency": 0.8916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,145 +661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
-      }
-    },
-    {
-      "story_id": "story_a4b82eca9501",
-      "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-      "primary_url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
-          "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "534ec052b6c26339eb31448ba00c6fa201d6f785",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
-          "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
-          "title_zh": "微软研究院人工智能前沿小组的终结",
-          "title_en": "The end of Microsoft Research's AI Frontiers group",
-          "title_original": "The end of Microsoft Research's AI Frontiers group",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
-          "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "534ec052b6c26339eb31448ba00c6fa201d6f785",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
-          "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
-          "title_zh": "微软研究院人工智能前沿小组的终结",
-          "title_en": "The end of Microsoft Research's AI Frontiers group",
-          "title_original": "The end of Microsoft Research's AI Frontiers group",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7147,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T18:02:17Z",
-      "latest_at": "2026-11-07T18:02:17Z",
-      "primary_item": {
-        "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-        "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-        "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
-        "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-        "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
+        "scored_at": "2026-11-08T18:19:33.364432Z"
       }
     },
     {
@@ -1096,15 +738,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5126,
-      "importance": 0.5126,
-      "importance_score": 0.5126,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8157,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T17:18:59.002048Z"
+        "scored_at": "2026-11-08T18:19:33.364432Z"
       }
     }
   ]
