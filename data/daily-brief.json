@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:18:32.601797Z",
+  "generated_at": "2026-11-09T21:18:30.486935Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.857,
-      "importance": 0.857,
-      "importance_score": 0.857,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +83,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
       "story_id": "story_90c2f4d19eb5",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "source": "OpenAI News",
@@ -96,8 +96,8 @@
       "sources": [
         {
           "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "title_zh": null,
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
           "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
           "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
           "summary": null,
@@ -116,8 +116,8 @@
       "items": [
         {
           "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "title_zh": null,
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
           "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
           "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
           "summary": null,
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9813,
+        "recency": 0.9672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +152,8 @@
       "latest_at": "2026-11-09T19:00:00Z",
       "primary_item": {
         "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-        "title": "ChatGPT Enterprise now available in AWS Marketplace",
-        "title_zh": null,
+        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+        "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
         "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
         "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
         "summary": null,
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
+      }
+    },
+    {
+      "story_id": "story_545a875aa516",
+      "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_zh": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密",
+          "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_zh": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密",
+          "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8375,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T09:01:37Z",
+      "latest_at": "2026-11-09T09:01:37Z",
+      "primary_item": {
+        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+        "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+        "title_zh": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密",
+        "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8943,
+        "recency": 0.8815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,12 +332,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
       "story_id": "story_e554b8286c64",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
       "url": "https://openai.com/index/kuken",
       "primary_url": "https://openai.com/index/kuken",
       "source": "OpenAI News",
@@ -262,8 +345,8 @@
       "sources": [
         {
           "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": null,
+          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
           "title_en": "Kuken Industries searches 70 years of drawings in minutes",
           "title_original": "Kuken Industries searches 70 years of drawings in minutes",
           "summary": null,
@@ -282,8 +365,8 @@
       "items": [
         {
           "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": null,
+          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
           "title_en": "Kuken Industries searches 70 years of drawings in minutes",
           "title_original": "Kuken Industries searches 70 years of drawings in minutes",
           "summary": null,
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,8 +401,8 @@
       "latest_at": "2026-11-09T08:00:00Z",
       "primary_item": {
         "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-        "title": "Kuken Industries searches 70 years of drawings in minutes",
-        "title_zh": null,
+        "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+        "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
         "title_en": "Kuken Industries searches 70 years of drawings in minutes",
         "title_original": "Kuken Industries searches 70 years of drawings in minutes",
         "summary": null,
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -461,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -494,7 +577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -542,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,7 +658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -623,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,7 +739,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
+      }
+    },
+    {
+      "story_id": "story_c3edcb8060b0",
+      "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_zh": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号",
+          "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_original": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T19:00:00Z"
+        },
+        {
+          "id": "6368c442f9eb199789fa6f050f3f95e690522575",
+          "title": "Anthropic 推出新的Claude寓言和神话 5.2 型号 / Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_zh": "Anthropic 推出新的Claude寓言和神话 5.2 型号",
+          "title_en": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_original": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T20:20:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_zh": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号",
+          "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_original": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T19:00:00Z"
+        },
+        {
+          "id": "6368c442f9eb199789fa6f050f3f95e690522575",
+          "title": "Anthropic 推出新的Claude寓言和神话 5.2 型号 / Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_zh": "Anthropic 推出新的Claude寓言和神话 5.2 型号",
+          "title_en": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_original": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T20:20:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6345,
+      "importance": 0.6345,
+      "importance_score": 0.6345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9672,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T20:20:00Z",
+      "primary_item": {
+        "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+        "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "title_zh": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号",
+        "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "title_original": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -704,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,7 +930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -785,15 +978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8423,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,7 +1011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -894,15 +1087,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5773,
-      "importance": 0.5773,
-      "importance_score": 0.5773,
+      "score": 0.5749,
+      "importance": 0.5749,
+      "importance_score": 0.5749,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9086,
+        "recency": 0.8956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,7 +1120,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -1033,15 +1226,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9304,
+        "recency": 0.917,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1066,7 +1259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -1114,15 +1307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8175,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1147,7 +1340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -1253,15 +1446,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
+      "score": 0.5473,
+      "importance": 0.5473,
+      "importance_score": 0.5473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.882,
+        "recency": 0.8694,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1286,7 +1479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -1363,15 +1556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 0.9827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1396,7 +1589,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
+      }
+    },
+    {
+      "story_id": "story_1dd063f5f1d1",
+      "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T20:04:55Z"
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T20:04:55Z"
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9824,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T20:04:55Z",
+      "latest_at": "2026-11-09T20:04:55Z",
+      "primary_item": {
+        "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+        "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+        "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -1473,15 +1776,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9855,
+        "recency": 0.9714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1506,7 +1809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     },
     {
@@ -1612,15 +1915,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8013,
+        "recency": 0.7898,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1645,279 +1948,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
-      }
-    },
-    {
-      "story_id": "story_3861a4134a57",
-      "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "primary_url": "https://news.ycombinator.com/item?id=50422628",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": null,
-          "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T14:46:44.465000Z"
-        },
-        {
-          "id": "9909f4c830b53f7abbfb22b1198ce135e3351892",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器 / ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_original": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T08:17:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": null,
-          "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T14:46:44.465000Z"
-        },
-        {
-          "id": "9909f4c830b53f7abbfb22b1198ce135e3351892",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器 / ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_original": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T08:17:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9232,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T08:17:49Z",
-      "latest_at": "2026-11-09T14:46:44.465000Z",
-      "primary_item": {
-        "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-        "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "title_en": null,
-        "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50422628",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
-      }
-    },
-    {
-      "story_id": "story_f54dd1ec0e96",
-      "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-      "url": "https://www.aibase.com/news/32179",
-      "primary_url": "https://www.aibase.com/news/32179",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
-          "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_en": null,
-          "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T07:21:07.675163Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
-          "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_en": null,
-          "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T07:21:07.675163Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8294,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T07:21:07.675163Z",
-      "latest_at": "2026-11-09T07:21:07.675163Z",
-      "primary_item": {
-        "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
-        "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-        "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-        "title_en": null,
-        "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32179",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
-      }
-    },
-    {
-      "story_id": "story_c894cb3e0d85",
-      "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-      "url": "https://www.aibase.com/news/32178",
-      "primary_url": "https://www.aibase.com/news/32178",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_en": null,
-          "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:34:04.937649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_en": null,
-          "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:34:04.937649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.82,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T06:34:04.937649Z",
-      "latest_at": "2026-11-09T06:34:04.937649Z",
-      "primary_item": {
-        "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-        "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "title_en": null,
-        "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32178",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:32:05.284092Z"
+        "scored_at": "2026-11-09T21:19:26.076523Z"
       }
     }
   ]
