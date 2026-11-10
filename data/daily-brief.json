@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:18:56.456166Z",
+  "generated_at": "2026-11-10T21:18:06.804156Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9163,
-      "importance": 0.9163,
-      "importance_score": 0.9163,
+      "score": 0.9139,
+      "importance": 0.9139,
+      "importance_score": 0.9139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9404,
+        "recency": 0.9271,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
+      }
+    },
+    {
+      "story_id": "story_4fe19f6777ba",
+      "title": "Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Carbon in GitHub Copilot",
+          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:26:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Carbon in GitHub Copilot",
+          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:26:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9736,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:26:51Z",
+      "latest_at": "2026-11-10T19:26:51Z",
+      "primary_item": {
+        "id": "1bd788375c49e28109adc857f73168083f54024c",
+        "title": "Gemini 4 Carbon in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Carbon in GitHub Copilot",
+        "title_original": "Gemini 4 Carbon in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -219,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9812,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -331,15 +414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8251,
+        "recency": 0.8134,
         "story_heat": 0.25
       },
       "category": "official",
@@ -367,90 +450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
-      }
-    },
-    {
-      "story_id": "story_a195268bb47c",
-      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-          "title_en": "C++ language server now auto-configures MSBuild builds",
-          "title_original": "C++ language server now auto-configures MSBuild builds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T17:04:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-          "title_en": "C++ language server now auto-configures MSBuild builds",
-          "title_original": "C++ language server now auto-configures MSBuild builds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T17:04:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9542,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T17:04:10Z",
-      "latest_at": "2026-11-10T17:04:10Z",
-      "primary_item": {
-        "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-        "title_en": "C++ language server now auto-configures MSBuild builds",
-        "title_original": "C++ language server now auto-configures MSBuild builds",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -498,15 +498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7457,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -533,7 +533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -581,15 +581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8997,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -616,7 +616,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
+      }
+    },
+    {
+      "story_id": "story_a195268bb47c",
+      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+          "title_en": "C++ language server now auto-configures MSBuild builds",
+          "title_original": "C++ language server now auto-configures MSBuild builds",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T17:04:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+          "title_en": "C++ language server now auto-configures MSBuild builds",
+          "title_original": "C++ language server now auto-configures MSBuild builds",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T17:04:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9407,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T17:04:10Z",
+      "latest_at": "2026-11-10T17:04:10Z",
+      "primary_item": {
+        "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+        "title_en": "C++ language server now auto-configures MSBuild builds",
+        "title_original": "C++ language server now auto-configures MSBuild builds",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -664,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8616,
+        "recency": 0.8494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -699,90 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
-      }
-    },
-    {
-      "story_id": "story_85ca9aabc1af",
-      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-          "title_en": "Dependabot alerts will pause on inactive repositories",
-          "title_original": "Dependabot alerts will pause on inactive repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-          "title_en": "Dependabot alerts will pause on inactive repositories",
-          "title_original": "Dependabot alerts will pause on inactive repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9173,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T14:20:05Z",
-      "latest_at": "2026-11-10T14:20:05Z",
-      "primary_item": {
-        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-        "title_en": "Dependabot alerts will pause on inactive repositories",
-        "title_original": "Dependabot alerts will pause on inactive repositories",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -830,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8874,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -865,7 +865,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -913,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7457,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -948,7 +948,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -996,15 +996,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8868,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1031,7 +1031,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
+      }
+    },
+    {
+      "story_id": "story_85ca9aabc1af",
+      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9043,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:20:05Z",
+      "latest_at": "2026-11-10T14:20:05Z",
+      "primary_item": {
+        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+        "title_en": "Dependabot alerts will pause on inactive repositories",
+        "title_original": "Dependabot alerts will pause on inactive repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1079,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9128,
+        "recency": 0.8999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1114,90 +1197,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
-      }
-    },
-    {
-      "story_id": "story_c32b15c99510",
-      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "title_zh": "信息更丰富的 GitHub 仪表板",
-          "title_en": "A more informative GitHub dashboard",
-          "title_original": "A more informative GitHub dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "title_zh": "信息更丰富的 GitHub 仪表板",
-          "title_en": "A more informative GitHub dashboard",
-          "title_original": "A more informative GitHub dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8688,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:34:35Z",
-      "latest_at": "2026-11-10T10:34:35Z",
-      "primary_item": {
-        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-        "title_zh": "信息更丰富的 GitHub 仪表板",
-        "title_en": "A more informative GitHub dashboard",
-        "title_original": "A more informative GitHub dashboard",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1245,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1278,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1326,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8492,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1361,30 +1361,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
-      "story_id": "story_0d33e0222f17",
-      "title": "Gemini 4 Carbon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+      "story_id": "story_c32b15c99510",
+      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9bef9bf30f7090d83bd98d8cf0ec885fbaa0138d",
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Carbon in GitHub Copilot",
-          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+          "title_zh": "信息更丰富的 GitHub 仪表板",
+          "title_en": "A more informative GitHub dashboard",
+          "title_original": "A more informative GitHub dashboard",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T02:26:51Z"
+          "published_at": "2026-11-10T10:34:35Z"
         }
       ],
       "source_count": 1,
@@ -1393,31 +1393,31 @@
       ],
       "items": [
         {
-          "id": "9bef9bf30f7090d83bd98d8cf0ec885fbaa0138d",
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Carbon in GitHub Copilot",
-          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+          "title_zh": "信息更丰富的 GitHub 仪表板",
+          "title_en": "A more informative GitHub dashboard",
+          "title_original": "A more informative GitHub dashboard",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T02:26:51Z"
+          "published_at": "2026-11-10T10:34:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7726,
+        "ai_relevance": 0.87,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1426,17 +1426,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:26:51Z",
-      "latest_at": "2026-11-10T02:26:51Z",
+      "earliest_at": "2026-11-10T10:34:35Z",
+      "latest_at": "2026-11-10T10:34:35Z",
       "primary_item": {
-        "id": "9bef9bf30f7090d83bd98d8cf0ec885fbaa0138d",
-        "title": "Gemini 4 Carbon in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 4 Carbon in GitHub Copilot",
-        "title_original": "Gemini 4 Carbon in GitHub Copilot",
+        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+        "title_zh": "信息更丰富的 GitHub 仪表板",
+        "title_en": "A more informative GitHub dashboard",
+        "title_original": "A more informative GitHub dashboard",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1444,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1492,15 +1492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1525,7 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1573,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1606,7 +1606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1654,15 +1654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1687,7 +1687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     },
     {
@@ -1735,15 +1735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1768,7 +1768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:20:03.279077Z"
+        "scored_at": "2026-11-10T21:19:22.555407Z"
       }
     }
   ]
