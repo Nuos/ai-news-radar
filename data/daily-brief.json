@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:18:43.808207Z",
+  "generated_at": "2026-11-10T15:18:20.038784Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8546,
-      "importance": 0.8546,
-      "importance_score": 0.8546,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9812,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9672,
+        "recency": 0.9534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
+      }
+    },
+    {
+      "story_id": "story_85ca9aabc1af",
+      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:20:05Z",
+      "latest_at": "2026-11-10T14:20:05Z",
+      "primary_item": {
+        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+        "title_en": "Dependabot alerts will pause on inactive repositories",
+        "title_original": "Dependabot alerts will pause on inactive repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9677,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,30 +332,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
-      "story_id": "story_2b2972b2424d",
-      "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "story_id": "story_bb4a3375cbda",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "primary_url": "https://huggingface.co/blog/decision",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
-          "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "title_zh": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集",
-          "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "title_original": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "id": "2aa75c357740c94768091126824fe0a964128bf5",
+          "title": "Decision Models in Hugging Face",
+          "title_zh": null,
+          "title_en": "Decision Models in Hugging Face",
+          "title_original": "Decision Models in Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "url": "https://huggingface.co/blog/decision",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T15:05:57Z"
+          "published_at": "2026-11-10T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -281,31 +364,31 @@
       ],
       "items": [
         {
-          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
-          "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "title_zh": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集",
-          "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "title_original": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "id": "2aa75c357740c94768091126824fe0a964128bf5",
+          "title": "Decision Models in Hugging Face",
+          "title_zh": null,
+          "title_en": "Decision Models in Hugging Face",
+          "title_original": "Decision Models in Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "url": "https://huggingface.co/blog/decision",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T15:05:57Z"
+          "published_at": "2026-11-10T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7152,
+        "ai_relevance": 0.95,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,17 +397,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T15:05:57Z",
-      "latest_at": "2026-11-09T15:05:57Z",
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
       "primary_item": {
-        "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
-        "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-        "title_zh": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集",
-        "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-        "title_original": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "id": "2aa75c357740c94768091126824fe0a964128bf5",
+        "title": "Decision Models in Hugging Face",
+        "title_zh": null,
+        "title_en": "Decision Models in Hugging Face",
+        "title_original": "Decision Models in Hugging Face",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "url": "https://huggingface.co/blog/decision",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9955,
+        "recency": 0.9813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,90 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
-      }
-    },
-    {
-      "story_id": "story_2b2aad2325b1",
-      "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
-          "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
-          "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
-          "title_en": "Claude Fable 5.2 in GitHub Copilot",
-          "title_original": "Claude Fable 5.2 in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T16:46:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
-          "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
-          "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
-          "title_en": "Claude Fable 5.2 in GitHub Copilot",
-          "title_original": "Claude Fable 5.2 in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T16:46:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7327,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T16:46:43Z",
-      "latest_at": "2026-11-09T16:46:43Z",
-      "primary_item": {
-        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
-        "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
-        "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
-        "title_en": "Claude Fable 5.2 in GitHub Copilot",
-        "title_original": "Claude Fable 5.2 in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9262,
+        "recency": 0.913,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +581,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
+      }
+    },
+    {
+      "story_id": "story_985828f507bf",
+      "title": "Gemini Robotics 2.5 加速现实世界的通用灵活性 / Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "primary_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+          "title": "Gemini Robotics 2.5 加速现实世界的通用灵活性 / Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "title_original": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:51:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+          "title": "Gemini Robotics 2.5 加速现实世界的通用灵活性 / Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "title_original": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:51:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.7552,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T19:51:47Z",
+      "latest_at": "2026-11-09T19:51:47Z",
+      "primary_item": {
+        "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+        "title": "Gemini Robotics 2.5 加速现实世界的通用灵活性 / Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+        "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "title_original": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T15:19:13.298979Z"
+      }
+    },
+    {
+      "story_id": "story_2b2aad2325b1",
+      "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
+          "title_en": "Claude Fable 5.2 in GitHub Copilot",
+          "title_original": "Claude Fable 5.2 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
+          "title_en": "Claude Fable 5.2 in GitHub Copilot",
+          "title_original": "Claude Fable 5.2 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7223,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T16:46:43Z",
+      "latest_at": "2026-11-09T16:46:43Z",
+      "primary_item": {
+        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+        "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+        "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
+        "title_en": "Claude Fable 5.2 in GitHub Copilot",
+        "title_original": "Claude Fable 5.2 in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T15:19:13.298979Z"
+      }
+    },
+    {
+      "story_id": "story_1a75130aba91",
+      "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "primary_url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
+          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+          "title_zh": "前沿工作：人工智能对自由职业的影响",
+          "title_en": "Work at the Frontier: AI’s effect on freelance work",
+          "title_original": "Work at the Frontier: AI’s effect on freelance work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
+          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+          "title_zh": "前沿工作：人工智能对自由职业的影响",
+          "title_en": "Work at the Frontier: AI’s effect on freelance work",
+          "title_original": "Work at the Frontier: AI’s effect on freelance work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T07:00:00Z",
+      "latest_at": "2026-11-10T07:00:00Z",
+      "primary_item": {
+        "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
+        "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+        "title_zh": "前沿工作：人工智能对自由职业的影响",
+        "title_en": "Work at the Frontier: AI’s effect on freelance work",
+        "title_original": "Work at the Frontier: AI’s effect on freelance work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -629,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,90 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
-      }
-    },
-    {
-      "story_id": "story_90c2f4d19eb5",
-      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
-          "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
-          "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
-          "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
-          "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7566,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T19:00:00Z",
-      "latest_at": "2026-11-09T19:00:00Z",
-      "primary_item": {
-        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-        "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
-        "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
-        "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -794,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +994,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
+      }
+    },
+    {
+      "story_id": "story_90c2f4d19eb5",
+      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
+          "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
+          "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7459,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T19:00:00Z",
+      "primary_item": {
+        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+        "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
+        "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+        "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -876,15 +1125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -958,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.9174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -1040,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.9174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -1122,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -1233,15 +1482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5966,
-      "importance": 0.5966,
-      "importance_score": 0.5966,
+      "score": 0.5947,
+      "importance": 0.5947,
+      "importance_score": 0.5947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.7566,
+        "recency": 0.7459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
@@ -1314,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,477 +1597,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     },
     {
-      "story_id": "story_a1b279a255b4",
-      "title": "AI 的使用会导致代码库变得脆弱",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-      "primary_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-      "source": "evanxmerz.com",
+      "story_id": "story_1a8527489634",
+      "title": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "primary_url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "source": "www.notion.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d55cfe19a882c9f2336819b6688b08eaab62ba61",
-          "title": "AI 的使用会导致代码库变得脆弱",
-          "title_zh": "AI 的使用会导致代码库变得脆弱",
+          "id": "f6253f8a0d3af1ef76e9ac101e4ab96251359006",
+          "title": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+          "title_zh": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
           "title_en": null,
-          "title_original": "AI 的使用会导致代码库变得脆弱",
+          "title_original": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-          "source": "evanxmerz.com",
+          "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+          "source": "www.notion.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-10T12:50:42.750000Z"
+          "published_at": "2026-11-10T14:42:03.129000Z"
         },
         {
-          "id": "cfd6066bc14ed5f1423c5cfe81722aeadf70c41b",
-          "title": "AI 的使用会导致代码库变得脆弱 / AI usage generates a fragile codebase",
-          "title_zh": "AI 的使用会导致代码库变得脆弱",
-          "title_en": "AI usage generates a fragile codebase",
-          "title_original": "AI usage generates a fragile codebase",
+          "id": "6e08f46f255d06521956d29e1c471b6d89792abb",
+          "title": "Fireworks AI 数据泄露事件波及 Notion 及其客户 / Fireworks AI security breach impacts Notion and their customers",
+          "title_zh": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+          "title_en": "Fireworks AI security breach impacts Notion and their customers",
+          "title_original": "Fireworks AI security breach impacts Notion and their customers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T10:25:58Z"
-        },
-        {
-          "id": "a47b58467b536e2935e77464a6b4da7bc3afb2be",
-          "title": "人工智能的使用会产生脆弱的代码库 / AI usage generates a fragile codebase",
-          "title_zh": "人工智能的使用会产生脆弱的代码库",
-          "title_en": "AI usage generates a fragile codebase",
-          "title_original": "AI usage generates a fragile codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50438318",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-10T10:25:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "evanxmerz.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d55cfe19a882c9f2336819b6688b08eaab62ba61",
-          "title": "AI 的使用会导致代码库变得脆弱",
-          "title_zh": "AI 的使用会导致代码库变得脆弱",
-          "title_en": null,
-          "title_original": "AI 的使用会导致代码库变得脆弱",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-          "source": "evanxmerz.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-10T12:50:42.750000Z"
-        },
-        {
-          "id": "cfd6066bc14ed5f1423c5cfe81722aeadf70c41b",
-          "title": "AI 的使用会导致代码库变得脆弱 / AI usage generates a fragile codebase",
-          "title_zh": "AI 的使用会导致代码库变得脆弱",
-          "title_en": "AI usage generates a fragile codebase",
-          "title_original": "AI usage generates a fragile codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T10:25:58Z"
-        },
-        {
-          "id": "a47b58467b536e2935e77464a6b4da7bc3afb2be",
-          "title": "人工智能的使用会产生脆弱的代码库 / AI usage generates a fragile codebase",
-          "title_zh": "人工智能的使用会产生脆弱的代码库",
-          "title_en": "AI usage generates a fragile codebase",
-          "title_original": "AI usage generates a fragile codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50438318",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-10T10:25:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.979,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-10T10:25:58Z",
-      "latest_at": "2026-11-10T12:50:42.750000Z",
-      "primary_item": {
-        "id": "d55cfe19a882c9f2336819b6688b08eaab62ba61",
-        "title": "AI 的使用会导致代码库变得脆弱",
-        "title_zh": "AI 的使用会导致代码库变得脆弱",
-        "title_en": null,
-        "title_original": "AI 的使用会导致代码库变得脆弱",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-        "source": "evanxmerz.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
-      }
-    },
-    {
-      "story_id": "story_c869b754b004",
-      "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "www.cnbc.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "title_en": null,
-          "title_original": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "www.cnbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-10T06:58:50.689000Z"
-        },
-        {
-          "id": "3d8f24c74b796a3ad6b004c3536fca11b2de5630",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T03:20:06Z"
-        },
-        {
-          "id": "f5fb61091a926ffd6345e016e005682dde81a8f1",
-          "title": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_zh": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
-          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50435660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-10T03:20:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.cnbc.com"
-      ],
-      "items": [
-        {
-          "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "title_en": null,
-          "title_original": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "www.cnbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-10T06:58:50.689000Z"
-        },
-        {
-          "id": "3d8f24c74b796a3ad6b004c3536fca11b2de5630",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T03:20:06Z"
-        },
-        {
-          "id": "f5fb61091a926ffd6345e016e005682dde81a8f1",
-          "title": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_zh": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
-          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50435660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-10T03:20:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5527,
-      "importance": 0.5527,
-      "importance_score": 0.5527,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8995,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-10T03:20:06Z",
-      "latest_at": "2026-11-10T06:58:50.689000Z",
-      "primary_item": {
-        "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
-        "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-        "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-        "title_en": null,
-        "title_original": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-        "source": "www.cnbc.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
-      }
-    },
-    {
-      "story_id": "story_0db60f76c3db",
-      "title": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB / Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-      "url": "https://neuracryption.com/research",
-      "primary_url": "https://neuracryption.com/research",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "42609b387ea136bd90dd44ced5b23e1daa0637d8",
-          "title": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB / Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_zh": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB",
-          "title_en": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_original": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://neuracryption.com/research",
+          "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-10T13:51:51Z"
+          "published_at": "2026-11-10T07:19:38Z"
         },
         {
-          "id": "6188a3bb78c1d28d29977ce2a054655e6aa7d81a",
-          "title": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB / Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_zh": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB",
-          "title_en": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_original": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+          "id": "50a7397148c19207c920afcdee8613b03f9abd5b",
+          "title": "Fireworks AI 安全漏洞影响了 Notion 及其客户 / Fireworks AI security breach impacts Notion and their customers",
+          "title_zh": "Fireworks AI 安全漏洞影响了 Notion 及其客户",
+          "title_en": "Fireworks AI security breach impacts Notion and their customers",
+          "title_original": "Fireworks AI security breach impacts Notion and their customers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50440359",
+          "url": "https://news.ycombinator.com/item?id=50437106",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-10T13:51:51Z"
+          "published_at": "2026-11-10T07:19:38Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews"
+        "hackernews",
+        "www.notion.com"
       ],
       "items": [
         {
-          "id": "42609b387ea136bd90dd44ced5b23e1daa0637d8",
-          "title": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB / Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_zh": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB",
-          "title_en": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_original": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+          "id": "f6253f8a0d3af1ef76e9ac101e4ab96251359006",
+          "title": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+          "title_zh": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+          "title_en": null,
+          "title_original": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://neuracryption.com/research",
+          "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+          "source": "www.notion.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-10T14:42:03.129000Z"
+        },
+        {
+          "id": "6e08f46f255d06521956d29e1c471b6d89792abb",
+          "title": "Fireworks AI 数据泄露事件波及 Notion 及其客户 / Fireworks AI security breach impacts Notion and their customers",
+          "title_zh": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+          "title_en": "Fireworks AI security breach impacts Notion and their customers",
+          "title_original": "Fireworks AI security breach impacts Notion and their customers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-10T13:51:51Z"
+          "published_at": "2026-11-10T07:19:38Z"
         },
         {
-          "id": "6188a3bb78c1d28d29977ce2a054655e6aa7d81a",
-          "title": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB / Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_zh": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB",
-          "title_en": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-          "title_original": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+          "id": "50a7397148c19207c920afcdee8613b03f9abd5b",
+          "title": "Fireworks AI 安全漏洞影响了 Notion 及其客户 / Fireworks AI security breach impacts Notion and their customers",
+          "title_zh": "Fireworks AI 安全漏洞影响了 Notion 及其客户",
+          "title_en": "Fireworks AI security breach impacts Notion and their customers",
+          "title_original": "Fireworks AI security breach impacts Notion and their customers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50440359",
+          "url": "https://news.ycombinator.com/item?id=50437106",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-10T13:51:51Z"
+          "published_at": "2026-11-10T07:19:38Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9936,
-        "story_heat": 0.25
+        "recency": 0.9913,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-10T13:51:51Z",
-      "latest_at": "2026-11-10T13:51:51Z",
+      "earliest_at": "2026-11-10T07:19:38Z",
+      "latest_at": "2026-11-10T14:42:03.129000Z",
       "primary_item": {
-        "id": "42609b387ea136bd90dd44ced5b23e1daa0637d8",
-        "title": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB / Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-        "title_zh": "一键将任何 LLM 压缩 3 倍，几乎无损，内存不足 50 MB",
-        "title_en": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-        "title_original": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://neuracryption.com/research",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
-      }
-    },
-    {
-      "story_id": "story_a3162ac30937",
-      "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-      "url": "https://www.aibase.com/news/32210",
-      "primary_url": "https://www.aibase.com/news/32210",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
-          "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "title_zh": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "title_en": null,
-          "title_original": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T08:22:51.288314Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
-          "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "title_zh": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "title_en": null,
-          "title_original": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T08:22:51.288314Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9179,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T08:22:51.288314Z",
-      "latest_at": "2026-11-10T08:22:51.288314Z",
-      "primary_item": {
-        "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
-        "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-        "title_zh": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
+        "id": "f6253f8a0d3af1ef76e9ac101e4ab96251359006",
+        "title": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
+        "title_zh": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
         "title_en": null,
-        "title_original": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
+        "title_original": "Fireworks AI 数据泄露事件波及 Notion 及其客户",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32210",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+        "source": "www.notion.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T14:21:11.324133Z"
+        "scored_at": "2026-11-10T15:19:13.298979Z"
       }
     }
   ]
