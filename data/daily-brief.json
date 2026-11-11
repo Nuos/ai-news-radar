@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:18:35.754749Z",
+  "generated_at": "2026-11-11T06:26:39.562369Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8957,
-      "importance": 0.8957,
-      "importance_score": 0.8957,
+      "score": 0.8932,
+      "importance": 0.8932,
+      "importance_score": 0.8932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8259,
+        "recency": 0.8125,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,12 +171,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_3712fd9f7ee1",
+      "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+          "title_en": "ChatGPT Plus for veterans and servicemembers",
+          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+          "title_en": "ChatGPT Plus for veterans and servicemembers",
+          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T06:26:39.562369Z",
+      "latest_at": "2026-11-11T06:26:39.562369Z",
+      "primary_item": {
+        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+        "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+        "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+        "title_en": "ChatGPT Plus for veterans and servicemembers",
+        "title_original": "ChatGPT Plus for veterans and servicemembers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
       "story_id": "story_3f407db2138d",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "primary_url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face Blog",
@@ -184,8 +267,8 @@
       "sources": [
         {
           "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": null,
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
           "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
           "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
           "summary": null,
@@ -204,8 +287,8 @@
       "items": [
         {
           "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": null,
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
           "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
           "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
           "summary": null,
@@ -219,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9958,
+        "recency": 0.9797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -240,8 +323,8 @@
       "latest_at": "2026-11-11T05:01:16Z",
       "primary_item": {
         "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_zh": null,
+        "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
         "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
         "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
         "summary": null,
@@ -254,7 +337,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_5a2a32fd903d",
+      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9134,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
+      "primary_item": {
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+        "title_en": "GitHub App support for Enterprise Copilot seat management",
+        "title_original": "GitHub App support for Enterprise Copilot seat management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_14497aca7fb0",
+      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8477,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:00:00Z",
+      "latest_at": "2026-11-10T19:00:00Z",
+      "primary_item": {
+        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+        "title_en": "Gemini Intelligence: New features, on more devices",
+        "title_original": "Gemini Intelligence: New features, on more devices",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
@@ -319,8 +568,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T05:18:35.754749Z",
-      "latest_at": "2026-11-11T05:18:35.754749Z",
+      "earliest_at": "2026-11-11T06:26:39.562369Z",
+      "latest_at": "2026-11-11T06:26:39.562369Z",
       "primary_item": {
         "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
         "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
@@ -337,30 +586,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
-      "story_id": "story_5a2a32fd903d",
-      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "story_id": "story_4fe19f6777ba",
+      "title": "Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Carbon in GitHub Copilot",
+          "title_original": "Gemini 4 Carbon in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
+          "published_at": "2026-11-10T19:26:51Z"
         }
       ],
       "source_count": 1,
@@ -369,31 +618,31 @@
       ],
       "items": [
         {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Carbon in GitHub Copilot",
+          "title_original": "Gemini 4 Carbon in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
+          "published_at": "2026-11-10T19:26:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9285,
+        "ai_relevance": 0.95,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -402,17 +651,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T00:10:31Z",
-      "latest_at": "2026-11-11T00:10:31Z",
+      "earliest_at": "2026-11-10T19:26:51Z",
+      "latest_at": "2026-11-10T19:26:51Z",
       "primary_item": {
-        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-        "title_en": "GitHub App support for Enterprise Copilot seat management",
-        "title_original": "GitHub App support for Enterprise Copilot seat management",
+        "id": "1bd788375c49e28109adc857f73168083f54024c",
+        "title": "Gemini 4 Carbon in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Carbon in GitHub Copilot",
+        "title_original": "Gemini 4 Carbon in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -420,30 +669,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
-      "story_id": "story_14497aca7fb0",
-      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "story_id": "story_0faab021d272",
+      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z"
+          "published_at": "2026-11-10T13:00:00Z"
         }
       ],
       "source_count": 1,
@@ -452,31 +701,31 @@
       ],
       "items": [
         {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z"
+          "published_at": "2026-11-10T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8617,
+        "ai_relevance": 0.94,
+        "recency": 0.7773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,17 +734,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T19:00:00Z",
-      "latest_at": "2026-11-10T19:00:00Z",
+      "earliest_at": "2026-11-10T13:00:00Z",
+      "latest_at": "2026-11-10T13:00:00Z",
       "primary_item": {
-        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-        "title_en": "Gemini Intelligence: New features, on more devices",
-        "title_original": "Gemini Intelligence: New features, on more devices",
+        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+        "title_en": "Google Cloud launches Gemini for healthcare.",
+        "title_original": "Google Cloud launches Gemini for healthcare.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -503,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
@@ -580,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7567,
+        "recency": 0.7444,
         "story_heat": 0.25
       },
       "category": "official",
@@ -616,173 +865,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_4fe19f6777ba",
-      "title": "Gemini 4 Carbon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1bd788375c49e28109adc857f73168083f54024c",
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Carbon in GitHub Copilot",
-          "title_original": "Gemini 4 Carbon in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T19:26:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1bd788375c49e28109adc857f73168083f54024c",
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Carbon in GitHub Copilot",
-          "title_original": "Gemini 4 Carbon in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T19:26:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8673,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T19:26:51Z",
-      "latest_at": "2026-11-10T19:26:51Z",
-      "primary_item": {
-        "id": "1bd788375c49e28109adc857f73168083f54024c",
-        "title": "Gemini 4 Carbon in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 4 Carbon in GitHub Copilot",
-        "title_original": "Gemini 4 Carbon in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_0faab021d272",
-      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7902,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T13:00:00Z",
-      "latest_at": "2026-11-10T13:00:00Z",
-      "primary_item": {
-        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-        "title_en": "Google Cloud launches Gemini for healthcare.",
-        "title_original": "Google Cloud launches Gemini for healthcare.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
@@ -830,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7793,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -865,7 +948,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_ad7ce3b5bad5",
+      "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+      "url": "https://www.aibase.com/news/32242",
+      "primary_url": "https://www.aibase.com/news/32242",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_en": null,
+          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32242",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T06:26:39.562369Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_en": null,
+          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32242",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T06:26:39.562369Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T06:26:39.562369Z",
+      "latest_at": "2026-11-11T06:26:39.562369Z",
+      "primary_item": {
+        "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+        "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "title_en": null,
+        "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32242",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_a195268bb47c",
+      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+          "title_en": "C++ language server now auto-configures MSBuild builds",
+          "title_original": "C++ language server now auto-configures MSBuild builds",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T17:04:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+          "title_en": "C++ language server now auto-configures MSBuild builds",
+          "title_original": "C++ language server now auto-configures MSBuild builds",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T17:04:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8244,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T17:04:10Z",
+      "latest_at": "2026-11-10T17:04:10Z",
+      "primary_item": {
+        "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+        "title_en": "C++ language server now auto-configures MSBuild builds",
+        "title_original": "C++ language server now auto-configures MSBuild builds",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_37612d93c538",
+      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
+          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
+          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7886,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:00:00Z",
+      "latest_at": "2026-11-10T14:00:00Z",
+      "primary_item": {
+        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
+        "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
+      }
+    },
+    {
+      "story_id": "story_140bcdf11c76",
+      "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+      "url": "https://www.aibase.com/news/32244",
+      "primary_url": "https://www.aibase.com/news/32244",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "148b27c223e615de5112499a12f3af2a553332c4",
+          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_en": null,
+          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32244",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T06:26:39.562369Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "148b27c223e615de5112499a12f3af2a553332c4",
+          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_en": null,
+          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32244",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T06:26:39.562369Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T06:26:39.562369Z",
+      "latest_at": "2026-11-11T06:26:39.562369Z",
+      "primary_item": {
+        "id": "148b27c223e615de5112499a12f3af2a553332c4",
+        "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "title_en": null,
+        "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32244",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
@@ -942,15 +1355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7246,
+        "recency": 0.7128,
         "story_heat": 0.25
       },
       "category": "official",
@@ -978,420 +1391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_28559f1f8df0",
-      "title": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-      "url": "https://www.aibase.com/news/32240",
-      "primary_url": "https://www.aibase.com/news/32240",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "79bf5c4400e1e608adee438e5d42c4b1669a6fa0",
-          "title": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-          "title_zh": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-          "title_en": null,
-          "title_original": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32240",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T04:20:13.652624Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "79bf5c4400e1e608adee438e5d42c4b1669a6fa0",
-          "title": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-          "title_zh": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-          "title_en": null,
-          "title_original": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32240",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T04:20:13.652624Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9861,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T04:20:13.652624Z",
-      "latest_at": "2026-11-11T04:20:13.652624Z",
-      "primary_item": {
-        "id": "79bf5c4400e1e608adee438e5d42c4b1669a6fa0",
-        "title": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-        "title_zh": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-        "title_en": null,
-        "title_original": "Anthropic 办公套件升级：会议助手、智能表格齐发，全面杀入传统协同巨头腹地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32240",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_a195268bb47c",
-      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-          "title_en": "C++ language server now auto-configures MSBuild builds",
-          "title_original": "C++ language server now auto-configures MSBuild builds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T17:04:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-          "title_en": "C++ language server now auto-configures MSBuild builds",
-          "title_original": "C++ language server now auto-configures MSBuild builds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T17:04:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.838,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T17:04:10Z",
-      "latest_at": "2026-11-10T17:04:10Z",
-      "primary_item": {
-        "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-        "title_en": "C++ language server now auto-configures MSBuild builds",
-        "title_original": "C++ language server now auto-configures MSBuild builds",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_37612d93c538",
-      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8016,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T14:00:00Z",
-      "latest_at": "2026-11-10T14:00:00Z",
-      "primary_item": {
-        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-        "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_cc0d63d7a2dc",
-      "title": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-      "url": "https://www.aibase.com/news/32241",
-      "primary_url": "https://www.aibase.com/news/32241",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98789c4f2a02ea1274cca90c34a50290d9b09939",
-          "title": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-          "title_zh": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-          "title_en": null,
-          "title_original": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T04:20:13.652624Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98789c4f2a02ea1274cca90c34a50290d9b09939",
-          "title": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-          "title_zh": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-          "title_en": null,
-          "title_original": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T04:20:13.652624Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9861,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T04:20:13.652624Z",
-      "latest_at": "2026-11-11T04:20:13.652624Z",
-      "primary_item": {
-        "id": "98789c4f2a02ea1274cca90c34a50290d9b09939",
-        "title": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-        "title_zh": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-        "title_en": null,
-        "title_original": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32241",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
-      }
-    },
-    {
-      "story_id": "story_3f106a4856f1",
-      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7788,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:00:00Z",
-      "latest_at": "2026-11-10T12:00:00Z",
-      "primary_item": {
-        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-        "title_zh": "帮助护理人员在日常生活中使用人工智能",
-        "title_en": "Helping caregivers use AI in everyday life",
-        "title_original": "Helping caregivers use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
@@ -1439,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8055,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1474,30 +1474,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
-      "story_id": "story_4f7ab0720435",
-      "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-      "url": "https://www.aibase.com/news/32237",
-      "primary_url": "https://www.aibase.com/news/32237",
+      "story_id": "story_6b50fabc4fab",
+      "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+      "url": "https://www.aibase.com/news/32243",
+      "primary_url": "https://www.aibase.com/news/32243",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "id": "782fa871de57efe38bbe7952348af6eae5568931",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "title_zh": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
           "title_en": null,
-          "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "title_original": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32237",
+          "url": "https://www.aibase.com/news/32243",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T03:20:23.436782Z"
+          "published_at": "2026-11-11T06:26:39.562369Z"
         }
       ],
       "source_count": 1,
@@ -1506,31 +1506,31 @@
       ],
       "items": [
         {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "id": "782fa871de57efe38bbe7952348af6eae5568931",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "title_zh": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
           "title_en": null,
-          "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "title_original": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32237",
+          "url": "https://www.aibase.com/news/32243",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T03:20:23.436782Z"
+          "published_at": "2026-11-11T06:26:39.562369Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,17 +1538,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T03:20:23.436782Z",
-      "latest_at": "2026-11-11T03:20:23.436782Z",
+      "earliest_at": "2026-11-11T06:26:39.562369Z",
+      "latest_at": "2026-11-11T06:26:39.562369Z",
       "primary_item": {
-        "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-        "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-        "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+        "id": "782fa871de57efe38bbe7952348af6eae5568931",
+        "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+        "title_zh": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
         "title_en": null,
-        "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+        "title_original": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32237",
+        "url": "https://www.aibase.com/news/32243",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1556,30 +1556,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
-      "story_id": "story_49d62ed9dc89",
-      "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "story_id": "story_3f106a4856f1",
+      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "title_zh": "缩小人工智能在教育指导方面的差距",
-          "title_en": "Closing the AI guidance gap in education",
-          "title_original": "Closing the AI guidance gap in education",
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "title_zh": "帮助护理人员在日常生活中使用人工智能",
+          "title_en": "Helping caregivers use AI in everyday life",
+          "title_original": "Helping caregivers use AI in everyday life",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z"
+          "published_at": "2026-11-10T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1588,31 +1588,31 @@
       ],
       "items": [
         {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "title_zh": "缩小人工智能在教育指导方面的差距",
-          "title_en": "Closing the AI guidance gap in education",
-          "title_original": "Closing the AI guidance gap in education",
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "title_zh": "帮助护理人员在日常生活中使用人工智能",
+          "title_en": "Helping caregivers use AI in everyday life",
+          "title_original": "Helping caregivers use AI in everyday life",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z"
+          "published_at": "2026-11-10T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1621,17 +1621,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T09:00:00Z",
-      "latest_at": "2026-11-10T09:00:00Z",
+      "earliest_at": "2026-11-10T12:00:00Z",
+      "latest_at": "2026-11-10T12:00:00Z",
       "primary_item": {
-        "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-        "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-        "title_zh": "缩小人工智能在教育指导方面的差距",
-        "title_en": "Closing the AI guidance gap in education",
-        "title_original": "Closing the AI guidance gap in education",
+        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+        "title_zh": "帮助护理人员在日常生活中使用人工智能",
+        "title_en": "Helping caregivers use AI in everyday life",
+        "title_original": "Helping caregivers use AI in everyday life",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1639,7 +1639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
@@ -1687,15 +1687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.763,
+        "recency": 0.7506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1722,30 +1722,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     },
     {
-      "story_id": "story_76c3485adf20",
-      "title": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
-      "url": "https://www.aibase.com/news/32238",
-      "primary_url": "https://www.aibase.com/news/32238",
+      "story_id": "story_7738b6848735",
+      "title": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
+      "url": "https://www.aibase.com/news/32245",
+      "primary_url": "https://www.aibase.com/news/32245",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0d92ec73fb41ba31e0ec69a00b09a4c36f85e832",
-          "title": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
-          "title_zh": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
+          "id": "e33628b302f1650af7cffca15c91b7cfae8f8df7",
+          "title": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
+          "title_zh": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
           "title_en": null,
-          "title_original": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
+          "title_original": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32238",
+          "url": "https://www.aibase.com/news/32245",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T03:20:23.436782Z"
+          "published_at": "2026-11-11T06:26:39.562369Z"
         }
       ],
       "source_count": 1,
@@ -1754,31 +1754,31 @@
       ],
       "items": [
         {
-          "id": "0d92ec73fb41ba31e0ec69a00b09a4c36f85e832",
-          "title": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
-          "title_zh": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
+          "id": "e33628b302f1650af7cffca15c91b7cfae8f8df7",
+          "title": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
+          "title_zh": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
           "title_en": null,
-          "title_original": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
+          "title_original": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32238",
+          "url": "https://www.aibase.com/news/32245",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T03:20:23.436782Z"
+          "published_at": "2026-11-11T06:26:39.562369Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1786,17 +1786,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T03:20:23.436782Z",
-      "latest_at": "2026-11-11T03:20:23.436782Z",
+      "earliest_at": "2026-11-11T06:26:39.562369Z",
+      "latest_at": "2026-11-11T06:26:39.562369Z",
       "primary_item": {
-        "id": "0d92ec73fb41ba31e0ec69a00b09a4c36f85e832",
-        "title": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
-        "title_zh": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
+        "id": "e33628b302f1650af7cffca15c91b7cfae8f8df7",
+        "title": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
+        "title_zh": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
         "title_en": null,
-        "title_original": "Reddit测试AI购物功能Reviews，可自动汇总产品评价与购买链接",
+        "title_original": "OpenAI 正面宣战谷歌地图：推出 ChatGPT 企业信息主页，12 亿月活流量正式切入本地商业搜索",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32238",
+        "url": "https://www.aibase.com/news/32245",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1804,7 +1804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T05:31:50.213573Z"
+        "scored_at": "2026-11-11T06:27:30.585504Z"
       }
     }
   ]
