@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:37:09.571958Z",
+  "generated_at": "2026-11-11T01:18:18.327222Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9061,
-      "importance": 0.9061,
-      "importance_score": 0.9061,
+      "score": 0.9045,
+      "importance": 0.9045,
+      "importance_score": 0.9045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8838,
+        "recency": 0.8751,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
+      }
+    },
+    {
+      "story_id": "story_8f1b2af00c00",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "title_zh": null,
+          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "title_zh": null,
+          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T01:18:18.327222Z",
+      "latest_at": "2026-11-11T01:18:18.327222Z",
+      "primary_item": {
+        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "title_zh": null,
+        "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+        "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -219,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9936,
+        "recency": 0.9838,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +337,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
+      }
+    },
+    {
+      "story_id": "story_14497aca7fb0",
+      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.913,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:00:00Z",
+      "latest_at": "2026-11-10T19:00:00Z",
+      "primary_item": {
+        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+        "title_en": "Gemini Intelligence: New features, on more devices",
+        "title_original": "Gemini Intelligence: New features, on more devices",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -331,15 +497,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8097,
+        "recency": 0.8017,
         "story_heat": 0.25
       },
       "category": "official",
@@ -367,90 +533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
-      }
-    },
-    {
-      "story_id": "story_14497aca7fb0",
-      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9221,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T19:00:00Z",
-      "latest_at": "2026-11-10T19:00:00Z",
-      "primary_item": {
-        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-        "title_en": "Gemini Intelligence: New features, on more devices",
-        "title_original": "Gemini Intelligence: New features, on more devices",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -498,15 +581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.928,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "official",
@@ -533,7 +616,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
+      }
+    },
+    {
+      "story_id": "story_0faab021d272",
+      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8372,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T13:00:00Z",
+      "latest_at": "2026-11-10T13:00:00Z",
+      "primary_item": {
+        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+        "title_en": "Google Cloud launches Gemini for healthcare.",
+        "title_original": "Google Cloud launches Gemini for healthcare.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T01:26:52.643408Z"
+      }
+    },
+    {
+      "story_id": "story_2e54774fc9b4",
+      "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
+          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:02:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
+          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:02:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8257,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T12:02:28Z",
+      "latest_at": "2026-11-10T12:02:28Z",
+      "primary_item": {
+        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+        "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
+        "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -610,15 +859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7754,
+        "recency": 0.7677,
         "story_heat": 0.25
       },
       "category": "official",
@@ -646,173 +895,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
-      "story_id": "story_0faab021d272",
-      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f80fa3b57944",
+      "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+      "url": "https://www.aibase.com/news/32221",
+      "primary_url": "https://www.aibase.com/news/32221",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "title_en": null,
+          "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z"
+          "url": "https://www.aibase.com/news/32221",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "title_en": null,
+          "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z"
+          "url": "https://www.aibase.com/news/32221",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8455,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T13:00:00Z",
-      "latest_at": "2026-11-10T13:00:00Z",
+      "earliest_at": "2026-11-11T01:18:18.327222Z",
+      "latest_at": "2026-11-11T01:18:18.327222Z",
       "primary_item": {
-        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-        "title_en": "Google Cloud launches Gemini for healthcare.",
-        "title_original": "Google Cloud launches Gemini for healthcare.",
+        "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+        "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+        "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+        "title_en": null,
+        "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32221",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
-      }
-    },
-    {
-      "story_id": "story_2e54774fc9b4",
-      "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8339,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:02:28Z",
-      "latest_at": "2026-11-10T12:02:28Z",
-      "primary_item": {
-        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-        "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-        "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -860,15 +1025,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8967,
+        "recency": 0.8879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -895,90 +1060,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
-      }
-    },
-    {
-      "story_id": "story_3f106a4856f1",
-      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8334,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:00:00Z",
-      "latest_at": "2026-11-10T12:00:00Z",
-      "primary_item": {
-        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-        "title_zh": "帮助护理人员在日常生活中使用人工智能",
-        "title_en": "Helping caregivers use AI in everyday life",
-        "title_original": "Helping caregivers use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -1026,15 +1108,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8578,
+        "recency": 0.8494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1061,30 +1143,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
-      "story_id": "story_6db52dd49110",
-      "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-      "url": "https://www.aibase.com/news/32219",
-      "primary_url": "https://www.aibase.com/news/32219",
+      "story_id": "story_9cf1ad966860",
+      "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+      "url": "https://www.aibase.com/news/32220",
+      "primary_url": "https://www.aibase.com/news/32220",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f8a947b7993728e743ba6c4c108130bf5132dc6c",
-          "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-          "title_zh": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "id": "4c2ab921a287345ea14655841147ba234ee9992d",
+          "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+          "title_zh": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
           "title_en": null,
-          "title_original": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "title_original": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32219",
+          "url": "https://www.aibase.com/news/32220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T10:18:59.014309Z"
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "source_count": 1,
@@ -1093,48 +1175,49 @@
       ],
       "items": [
         {
-          "id": "f8a947b7993728e743ba6c4c108130bf5132dc6c",
-          "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-          "title_zh": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "id": "4c2ab921a287345ea14655841147ba234ee9992d",
+          "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+          "title_zh": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
           "title_en": null,
-          "title_original": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "title_original": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32219",
+          "url": "https://www.aibase.com/news/32220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T10:18:59.014309Z"
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-10T10:18:59.014309Z",
-      "latest_at": "2026-11-10T10:18:59.014309Z",
+      "earliest_at": "2026-11-11T01:18:18.327222Z",
+      "latest_at": "2026-11-11T01:18:18.327222Z",
       "primary_item": {
-        "id": "f8a947b7993728e743ba6c4c108130bf5132dc6c",
-        "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-        "title_zh": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+        "id": "4c2ab921a287345ea14655841147ba234ee9992d",
+        "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+        "title_zh": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
         "title_en": null,
-        "title_original": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+        "title_original": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32219",
+        "url": "https://www.aibase.com/news/32220",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1142,7 +1225,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
+      }
+    },
+    {
+      "story_id": "story_3f106a4856f1",
+      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "title_zh": "帮助护理人员在日常生活中使用人工智能",
+          "title_en": "Helping caregivers use AI in everyday life",
+          "title_original": "Helping caregivers use AI in everyday life",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "title_zh": "帮助护理人员在日常生活中使用人工智能",
+          "title_en": "Helping caregivers use AI in everyday life",
+          "title_original": "Helping caregivers use AI in everyday life",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8252,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T12:00:00Z",
+      "latest_at": "2026-11-10T12:00:00Z",
+      "primary_item": {
+        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+        "title_zh": "帮助护理人员在日常生活中使用人工智能",
+        "title_en": "Helping caregivers use AI in everyday life",
+        "title_original": "Helping caregivers use AI in everyday life",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -1190,15 +1356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.862,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1225,7 +1391,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
+      }
+    },
+    {
+      "story_id": "story_7cb9357f09ed",
+      "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+      "url": "https://www.aibase.com/news/32222",
+      "primary_url": "https://www.aibase.com/news/32222",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
+          "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "title_zh": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "title_en": null,
+          "title_original": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:18:18.327222Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
+          "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "title_zh": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "title_en": null,
+          "title_original": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:18:18.327222Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T01:18:18.327222Z",
+      "latest_at": "2026-11-11T01:18:18.327222Z",
+      "primary_item": {
+        "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
+        "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+        "title_zh": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+        "title_en": null,
+        "title_original": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32222",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -1273,15 +1521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7981,
+        "recency": 0.7902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1308,88 +1556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
-      }
-    },
-    {
-      "story_id": "story_6667c1eed7dc",
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-      "url": "https://www.aibase.com/news/32218",
-      "primary_url": "https://www.aibase.com/news/32218",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9d341a3080c6d38305ebcb6b4933fb2ff3395b87",
-          "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "title_zh": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "title_en": null,
-          "title_original": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32218",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T10:18:59.014309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9d341a3080c6d38305ebcb6b4933fb2ff3395b87",
-          "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "title_zh": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "title_en": null,
-          "title_original": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32218",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T10:18:59.014309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8134,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T10:18:59.014309Z",
-      "latest_at": "2026-11-10T10:18:59.014309Z",
-      "primary_item": {
-        "id": "9d341a3080c6d38305ebcb6b4933fb2ff3395b87",
-        "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-        "title_zh": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-        "title_en": null,
-        "title_original": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32218",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
@@ -1437,15 +1604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8165,
+        "recency": 0.8084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1472,30 +1639,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
-      "story_id": "story_c94b7c1340c5",
-      "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-      "url": "https://www.aibase.com/news/32217",
-      "primary_url": "https://www.aibase.com/news/32217",
+      "story_id": "story_ad8773d093d5",
+      "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+      "url": "https://www.aibase.com/news/32224",
+      "primary_url": "https://www.aibase.com/news/32224",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "778401b5ce808cdea00bb0fbe502a3dcb03b5ca6",
-          "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-          "title_zh": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "id": "0297adc893fde0ef1c84541d51b5487c2164cc53",
+          "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+          "title_zh": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
           "title_en": null,
-          "title_original": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "title_original": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32217",
+          "url": "https://www.aibase.com/news/32224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T10:18:59.014309Z"
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "source_count": 1,
@@ -1504,48 +1671,49 @@
       ],
       "items": [
         {
-          "id": "778401b5ce808cdea00bb0fbe502a3dcb03b5ca6",
-          "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-          "title_zh": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "id": "0297adc893fde0ef1c84541d51b5487c2164cc53",
+          "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+          "title_zh": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
           "title_en": null,
-          "title_original": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "title_original": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32217",
+          "url": "https://www.aibase.com/news/32224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T10:18:59.014309Z"
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-10T10:18:59.014309Z",
-      "latest_at": "2026-11-10T10:18:59.014309Z",
+      "earliest_at": "2026-11-11T01:18:18.327222Z",
+      "latest_at": "2026-11-11T01:18:18.327222Z",
       "primary_item": {
-        "id": "778401b5ce808cdea00bb0fbe502a3dcb03b5ca6",
-        "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-        "title_zh": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+        "id": "0297adc893fde0ef1c84541d51b5487c2164cc53",
+        "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+        "title_zh": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
         "title_en": null,
-        "title_original": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+        "title_original": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32217",
+        "url": "https://www.aibase.com/news/32224",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1553,30 +1721,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     },
     {
-      "story_id": "story_4d9c583c0950",
-      "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-      "url": "https://www.aibase.com/news/32216",
-      "primary_url": "https://www.aibase.com/news/32216",
+      "story_id": "story_c4552d4d2188",
+      "title": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
+      "url": "https://www.aibase.com/news/32223",
+      "primary_url": "https://www.aibase.com/news/32223",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6077482c0237ea60e4f10b1fca4eb941a66210f6",
-          "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "title_zh": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
+          "id": "fafd65cb3aa858b1b1de4c7dee4f35955b5f8550",
+          "title": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
+          "title_zh": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
           "title_en": null,
-          "title_original": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
+          "title_original": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32216",
+          "url": "https://www.aibase.com/news/32223",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T09:20:18.812360Z"
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "source_count": 1,
@@ -1585,48 +1753,49 @@
       ],
       "items": [
         {
-          "id": "6077482c0237ea60e4f10b1fca4eb941a66210f6",
-          "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "title_zh": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
+          "id": "fafd65cb3aa858b1b1de4c7dee4f35955b5f8550",
+          "title": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
+          "title_zh": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
           "title_en": null,
-          "title_original": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
+          "title_original": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32216",
+          "url": "https://www.aibase.com/news/32223",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T09:20:18.812360Z"
+          "published_at": "2026-11-11T01:18:18.327222Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.802,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-10T09:20:18.812360Z",
-      "latest_at": "2026-11-10T09:20:18.812360Z",
+      "earliest_at": "2026-11-11T01:18:18.327222Z",
+      "latest_at": "2026-11-11T01:18:18.327222Z",
       "primary_item": {
-        "id": "6077482c0237ea60e4f10b1fca4eb941a66210f6",
-        "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-        "title_zh": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
+        "id": "fafd65cb3aa858b1b1de4c7dee4f35955b5f8550",
+        "title": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
+        "title_zh": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
         "title_en": null,
-        "title_original": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
+        "title_original": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32216",
+        "url": "https://www.aibase.com/news/32223",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1634,169 +1803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
-      }
-    },
-    {
-      "story_id": "story_72387562b8c9",
-      "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-      "url": "https://www.aibase.com/news/32215",
-      "primary_url": "https://www.aibase.com/news/32215",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_zh": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_en": null,
-          "title_original": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T09:20:18.812360Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_zh": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_en": null,
-          "title_original": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T09:20:18.812360Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.802,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T09:20:18.812360Z",
-      "latest_at": "2026-11-10T09:20:18.812360Z",
-      "primary_item": {
-        "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-        "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "title_zh": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "title_en": null,
-        "title_original": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32215",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
-      }
-    },
-    {
-      "story_id": "story_48d2297e9c50",
-      "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-      "url": "https://www.aibase.com/news/32212",
-      "primary_url": "https://www.aibase.com/news/32212",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e8e838ceaf6c7bbc10dc93654291a56170a9144a",
-          "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-          "title_zh": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-          "title_en": null,
-          "title_original": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32212",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T08:22:51.288314Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e8e838ceaf6c7bbc10dc93654291a56170a9144a",
-          "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-          "title_zh": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-          "title_en": null,
-          "title_original": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32212",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T08:22:51.288314Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.791,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T08:22:51.288314Z",
-      "latest_at": "2026-11-10T08:22:51.288314Z",
-      "primary_item": {
-        "id": "e8e838ceaf6c7bbc10dc93654291a56170a9144a",
-        "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-        "title_zh": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-        "title_en": null,
-        "title_original": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32212",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T00:49:16.708828Z"
+        "scored_at": "2026-11-11T01:26:52.643408Z"
       }
     }
   ]
