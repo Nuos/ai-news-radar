@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T08:22:28.631082Z",
+  "generated_at": "2026-11-12T09:19:57.428118Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M76CW2D7FM7K7F8NJ4W0G08N",
+      "id": "01M77FAXVFV338GY7G9VRENRS5",
       "provider": "OpenAI",
-      "title": "Unable to start new Workspace Agent runs",
-      "title_zh": "Unable to start new Workspace Agent runs",
-      "status": "investigating",
-      "impact": "critical",
-      "started_at": "2026-11-11T22:50:17Z",
-      "updated_at": "2026-11-11T22:50:17Z",
-      "message": "We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.",
+      "title": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
+      "title_zh": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-11-12T08:52:35Z",
+      "updated_at": "2026-11-12T09:18:45Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
+      "url": "https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5"
     }
   ]
 }
