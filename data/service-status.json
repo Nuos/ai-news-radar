@@ -1,18 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T03:20:15.180533Z",
+  "generated_at": "2026-11-13T04:20:09.046680Z",
   "ok": true,
-  "active_count": 1,
+  "active_count": 2,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 1
+      "active_count": 2
     }
   ],
   "incidents": [
+    {
+      "id": "01M79GYA0GA772Y6D089AH5478",
+      "provider": "OpenAI",
+      "title": "Sites: Publishing failing",
+      "title_zh": "Sites: Publishing failing",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-11-13T03:59:08Z",
+      "updated_at": "2026-11-13T03:59:08Z",
+      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478"
+    },
     {
       "id": "01M78GAT3AK9P9W8Z230KHFVE8",
       "provider": "OpenAI",

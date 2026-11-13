@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 03:20:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 04:20:09 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Codex CLI 0.168.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
 <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
@@ -32,20 +40,20 @@
 <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Introducing Gemini 4 Hydrogen</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+</item>
+<item>
+<title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
@@ -72,12 +80,12 @@
 <pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
 </item>
 <item>
-<title>Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试</title>
-<link>https://www.aibase.com/news/32297</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32297</guid>
+<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
+<link>https://www.aibase.com/news/32305</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 03:20:15 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 04:20:09 +0000</pubDate>
 </item>
 <item>
 <title>Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex</title>
@@ -96,6 +104,22 @@
 <pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
+<title>微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单</title>
+<link>https://www.aibase.com/news/32306</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32306</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 04:20:09 +0000</pubDate>
+</item>
+<item>
+<title>Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试</title>
+<link>https://www.aibase.com/news/32297</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32297</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 03:20:15 +0000</pubDate>
+</item>
+<item>
 <title>ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写</title>
 <link>https://www.aibase.com/news/32303</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32303</guid>
@@ -110,6 +134,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 03:20:15 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
+<link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Thu, 12 Nov 2026 18:17:29 +0000</pubDate>
 </item>
 <item>
 <title>手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO</title>
@@ -128,44 +160,12 @@
 <pubDate>Fri, 13 Nov 2026 03:20:15 +0000</pubDate>
 </item>
 <item>
-<title>Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
-<link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</guid>
-<description>TechCrunch AI</description>
-<category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 18:17:29 +0000</pubDate>
-</item>
-<item>
-<title>科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务</title>
-<link>https://www.aibase.com/news/32302</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32302</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 03:20:15 +0000</pubDate>
-</item>
-<item>
-<title>谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级</title>
-<link>https://www.aibase.com/news/32298</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32298</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 03:20:15 +0000</pubDate>
-</item>
-<item>
-<title>人工智能正让苹果的应用审核流程成为合成器开发者的噩梦</title>
-<link>https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</link>
-<guid isPermaLink="true">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</guid>
-<description>synthanatomy.com</description>
+<title>Edge0-145B：在您的电脑上体验前沿人工智能功能</title>
+<link>https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</link>
+<guid isPermaLink="true">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</guid>
+<description>edge0.ai</description>
 <category>多源热议</category>
-<pubDate>Fri, 13 Nov 2026 02:14:41 +0000</pubDate>
-</item>
-<item>
-<title>中国前沿AI模型中留有受出口管制的GPU的“指纹”</title>
-<link>https://unemploymentlabs.com/checkpoint-forensics</link>
-<guid isPermaLink="true">https://unemploymentlabs.com/checkpoint-forensics</guid>
-<description>unemploymentlabs.com</description>
-<category>多源热议</category>
-<pubDate>Fri, 13 Nov 2026 00:06:45 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 03:49:59 +0000</pubDate>
 </item>
 </channel>
 </rss>

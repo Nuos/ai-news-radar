@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-13T03:20:15.180533Z",
+  "generated_at": "2026-11-13T04:20:09.046680Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c0e4bca0c953",
+      "title": "Codex CLI 0.168.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "Codex CLI 0.168.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.168.0",
+          "title_original": "Codex CLI 0.168.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "Codex CLI 0.168.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.168.0",
+          "title_original": "Codex CLI 0.168.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9393,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T00:00:00Z",
+      "latest_at": "2026-11-13T00:00:00Z",
+      "primary_item": {
+        "id": "aff218038415ee87812e41136d03188eae6f9248",
+        "title": "Codex CLI 0.168.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.168.0",
+        "title_original": "Codex CLI 0.168.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T04:21:05.421173Z"
+      }
+    },
     {
       "story_id": "story_b9fa2a337927",
       "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8882,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9381,
+        "recency": 0.9247,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8995,
+        "recency": 0.8866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
-      }
-    },
-    {
-      "story_id": "story_6df6ce89b479",
-      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8739,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
-      "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.874,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
+      }
+    },
+    {
+      "story_id": "story_6df6ce89b479",
+      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8613,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:00Z",
+      "latest_at": "2026-11-12T18:00:00Z",
+      "primary_item": {
+        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9125,
+        "recency": 0.8994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8013,
+        "recency": 0.7899,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -629,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8325,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,30 +747,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
-      "story_id": "story_b8da7db34743",
-      "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-      "url": "https://www.aibase.com/news/32297",
-      "primary_url": "https://www.aibase.com/news/32297",
+      "story_id": "story_3c29af12ae0f",
+      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+      "url": "https://www.aibase.com/news/32305",
+      "primary_url": "https://www.aibase.com/news/32305",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "title_en": null,
-          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32297",
+          "url": "https://www.aibase.com/news/32305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:20:15.180533Z"
+          "published_at": "2026-11-13T04:20:09.046680Z"
         }
       ],
       "source_count": 1,
@@ -696,18 +779,18 @@
       ],
       "items": [
         {
-          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "title_en": null,
-          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32297",
+          "url": "https://www.aibase.com/news/32305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:20:15.180533Z"
+          "published_at": "2026-11-13T04:20:09.046680Z"
         }
       ],
       "item_count": 1,
@@ -728,17 +811,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:20:15.180533Z",
-      "latest_at": "2026-11-13T03:20:15.180533Z",
+      "earliest_at": "2026-11-13T04:20:09.046680Z",
+      "latest_at": "2026-11-13T04:20:09.046680Z",
       "primary_item": {
-        "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-        "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-        "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
         "title_en": null,
-        "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32297",
+        "url": "https://www.aibase.com/news/32305",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -746,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -794,15 +877,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7729,
+        "recency": 0.7619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -829,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -877,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8323,
+        "recency": 0.8204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -912,7 +995,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
+      }
+    },
+    {
+      "story_id": "story_086f707d30d1",
+      "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+      "url": "https://www.aibase.com/news/32306",
+      "primary_url": "https://www.aibase.com/news/32306",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "title_en": null,
+          "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32306",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T04:20:09.046680Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "title_en": null,
+          "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32306",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T04:20:09.046680Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T04:20:09.046680Z",
+      "latest_at": "2026-11-13T04:20:09.046680Z",
+      "primary_item": {
+        "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+        "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "title_en": null,
+        "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32306",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T04:21:05.421173Z"
+      }
+    },
+    {
+      "story_id": "story_b8da7db34743",
+      "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+      "url": "https://www.aibase.com/news/32297",
+      "primary_url": "https://www.aibase.com/news/32297",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
+          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_en": null,
+          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32297",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T03:20:15.180533Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
+          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_en": null,
+          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32297",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T03:20:15.180533Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T03:20:15.180533Z",
+      "latest_at": "2026-11-13T03:20:15.180533Z",
+      "primary_item": {
+        "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
+        "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_en": null,
+        "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32297",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -960,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -1042,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,171 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
-      }
-    },
-    {
-      "story_id": "story_257548bf4fc0",
-      "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-      "url": "https://www.aibase.com/news/32300",
-      "primary_url": "https://www.aibase.com/news/32300",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
-          "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "title_en": null,
-          "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32300",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:20:15.180533Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
-          "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "title_en": null,
-          "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32300",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:20:15.180533Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T03:20:15.180533Z",
-      "latest_at": "2026-11-13T03:20:15.180533Z",
-      "primary_item": {
-        "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
-        "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-        "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-        "title_en": null,
-        "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32300",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
-      }
-    },
-    {
-      "story_id": "story_46f167fdbf82",
-      "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-      "url": "https://www.aibase.com/news/32304",
-      "primary_url": "https://www.aibase.com/news/32304",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_en": null,
-          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32304",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:20:15.180533Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_en": null,
-          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32304",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:20:15.180533Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T03:20:15.180533Z",
-      "latest_at": "2026-11-13T03:20:15.180533Z",
-      "primary_item": {
-        "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-        "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "title_en": null,
-        "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32304",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
@@ -1317,15 +1400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6377,
-      "importance": 0.6377,
-      "importance_score": 0.6377,
+      "score": 0.6354,
+      "importance": 0.6354,
+      "importance_score": 0.6354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.869,
+        "recency": 0.8565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,26 +1433,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
-      "story_id": "story_09cba17797a0",
-      "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
-      "url": "https://www.aibase.com/news/32302",
-      "primary_url": "https://www.aibase.com/news/32302",
+      "story_id": "story_257548bf4fc0",
+      "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+      "url": "https://www.aibase.com/news/32300",
+      "primary_url": "https://www.aibase.com/news/32300",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f0da1e7351ae5fdc9c7920cc8ac346fe7d0ee55d",
-          "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
-          "title_zh": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
+          "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
+          "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+          "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
           "title_en": null,
-          "title_original": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
+          "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32302",
+          "url": "https://www.aibase.com/news/32300",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1382,14 +1465,14 @@
       ],
       "items": [
         {
-          "id": "f0da1e7351ae5fdc9c7920cc8ac346fe7d0ee55d",
-          "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
-          "title_zh": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
+          "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
+          "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+          "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
           "title_en": null,
-          "title_original": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
+          "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32302",
+          "url": "https://www.aibase.com/news/32300",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1398,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,14 +1500,14 @@
       "earliest_at": "2026-11-13T03:20:15.180533Z",
       "latest_at": "2026-11-13T03:20:15.180533Z",
       "primary_item": {
-        "id": "f0da1e7351ae5fdc9c7920cc8ac346fe7d0ee55d",
-        "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
-        "title_zh": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
+        "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
+        "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+        "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
         "title_en": null,
-        "title_original": "科大讯飞星火语音基座大模型 SparkAudio 1.0 正式上线 API 服务",
+        "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32302",
+        "url": "https://www.aibase.com/news/32300",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1432,26 +1515,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
-      "story_id": "story_6c24a1c785a7",
-      "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-      "url": "https://www.aibase.com/news/32298",
-      "primary_url": "https://www.aibase.com/news/32298",
+      "story_id": "story_46f167fdbf82",
+      "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+      "url": "https://www.aibase.com/news/32304",
+      "primary_url": "https://www.aibase.com/news/32304",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d20b3753c4aa40a3a664d40d45db583147ed5f9e",
-          "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-          "title_zh": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
+          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
+          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
           "title_en": null,
-          "title_original": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
+          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32298",
+          "url": "https://www.aibase.com/news/32304",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1464,14 +1547,14 @@
       ],
       "items": [
         {
-          "id": "d20b3753c4aa40a3a664d40d45db583147ed5f9e",
-          "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-          "title_zh": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
+          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
+          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
           "title_en": null,
-          "title_original": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
+          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32298",
+          "url": "https://www.aibase.com/news/32304",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1480,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1499,14 +1582,14 @@
       "earliest_at": "2026-11-13T03:20:15.180533Z",
       "latest_at": "2026-11-13T03:20:15.180533Z",
       "primary_item": {
-        "id": "d20b3753c4aa40a3a664d40d45db583147ed5f9e",
-        "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-        "title_zh": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
+        "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
+        "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+        "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
         "title_en": null,
-        "title_original": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
+        "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32298",
+        "url": "https://www.aibase.com/news/32304",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1514,285 +1597,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     },
     {
-      "story_id": "story_7dea04634a3f",
-      "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "source": "synthanatomy.com",
+      "story_id": "story_867e3e1ea79d",
+      "title": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "edge0.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "id": "f89b7ced11c1a672a65b5c4521ff6d0fdceb98ee",
+          "title": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
+          "title_zh": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
           "title_en": null,
-          "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_original": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "synthanatomy.com",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "source": "edge0.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-13T02:14:41.035000Z"
+          "published_at": "2026-11-13T03:49:59.854000Z"
         },
         {
-          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "id": "234323da91c4f6078e03afb8414f91f767b615a7",
+          "title": "Edge0-145B：在您的电脑上体验前沿人工智能功能 / Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_zh": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
+          "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_original": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-12T23:06:17Z"
         },
         {
-          "id": "42aab307f2251f89fb6092215dd49118288ce466",
-          "title": "人工智能正在将苹果的应用程序审查流程变成合成开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正在将苹果的应用程序审查流程变成合成开发者的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "id": "4725ff375be54e03919b71e625c685626f6b8ef1",
+          "title": "Edge0-145B：您自己的计算机上的前沿人工智能功能 / Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_zh": "Edge0-145B：您自己的计算机上的前沿人工智能功能",
+          "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_original": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50474311",
+          "url": "https://news.ycombinator.com/item?id=50475713",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-12T23:06:17Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "synthanatomy.com"
+        "edge0.ai",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "id": "f89b7ced11c1a672a65b5c4521ff6d0fdceb98ee",
+          "title": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
+          "title_zh": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
           "title_en": null,
-          "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_original": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "synthanatomy.com",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "source": "edge0.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-13T02:14:41.035000Z"
+          "published_at": "2026-11-13T03:49:59.854000Z"
         },
         {
-          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "id": "234323da91c4f6078e03afb8414f91f767b615a7",
+          "title": "Edge0-145B：在您的电脑上体验前沿人工智能功能 / Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_zh": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
+          "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_original": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-12T23:06:17Z"
         },
         {
-          "id": "42aab307f2251f89fb6092215dd49118288ce466",
-          "title": "人工智能正在将苹果的应用程序审查流程变成合成开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正在将苹果的应用程序审查流程变成合成开发者的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "id": "4725ff375be54e03919b71e625c685626f6b8ef1",
+          "title": "Edge0-145B：您自己的计算机上的前沿人工智能功能 / Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_zh": "Edge0-145B：您自己的计算机上的前沿人工智能功能",
+          "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title_original": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50474311",
+          "url": "https://news.ycombinator.com/item?id=50475713",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-12T23:06:17Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9843,
+        "recency": 0.9928,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-12T21:09:49Z",
-      "latest_at": "2026-11-13T02:14:41.035000Z",
+      "earliest_at": "2026-11-12T23:06:17Z",
+      "latest_at": "2026-11-13T03:49:59.854000Z",
       "primary_item": {
-        "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-        "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-        "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+        "id": "f89b7ced11c1a672a65b5c4521ff6d0fdceb98ee",
+        "title": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
+        "title_zh": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
         "title_en": null,
-        "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+        "title_original": "Edge0-145B：在您的电脑上体验前沿人工智能功能",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-        "source": "synthanatomy.com",
+        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "source": "edge0.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
-      }
-    },
-    {
-      "story_id": "story_c103ac5eaacd",
-      "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "primary_url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "source": "unemploymentlabs.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "title_en": null,
-          "title_original": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "unemploymentlabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T00:06:45.255000Z"
-        },
-        {
-          "id": "6c312fc990ac4ab14722c951be8d91fc59de46bb",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹” / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-12T21:56:11Z"
-        },
-        {
-          "id": "89eb990eb3ff3e0192a1fcf799f96b1d115e5be0",
-          "title": "中国前沿人工智能模型带有出口管制GPU的指纹 / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_zh": "中国前沿人工智能模型带有出口管制GPU的指纹",
-          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50474883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T21:56:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "unemploymentlabs.com"
-      ],
-      "items": [
-        {
-          "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "title_en": null,
-          "title_original": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "unemploymentlabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T00:06:45.255000Z"
-        },
-        {
-          "id": "6c312fc990ac4ab14722c951be8d91fc59de46bb",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹” / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-12T21:56:11Z"
-        },
-        {
-          "id": "89eb990eb3ff3e0192a1fcf799f96b1d115e5be0",
-          "title": "中国前沿人工智能模型带有出口管制GPU的指纹 / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_zh": "中国前沿人工智能模型带有出口管制GPU的指纹",
-          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50474883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T21:56:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9545,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T21:56:11Z",
-      "latest_at": "2026-11-13T00:06:45.255000Z",
-      "primary_item": {
-        "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
-        "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-        "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-        "title_en": null,
-        "title_original": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://unemploymentlabs.com/checkpoint-forensics",
-        "source": "unemploymentlabs.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:21:05.529851Z"
+        "scored_at": "2026-11-13T04:21:05.421173Z"
       }
     }
   ]
