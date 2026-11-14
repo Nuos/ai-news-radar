@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T21:18:13.804863Z",
+  "generated_at": "2026-11-14T22:18:13.350809Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_1d42fa256bab",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6123,
-      "importance": 0.6123,
-      "importance_score": 0.6123,
+      "score": 0.6099,
+      "importance": 0.6099,
+      "importance_score": 0.6099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.913,
+        "recency": 0.8999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -190,7 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -296,15 +296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.568,
+      "importance": 0.568,
+      "importance_score": 0.568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.999,
+        "recency": 0.9847,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -329,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -464,15 +464,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5699,
-      "importance": 0.5699,
-      "importance_score": 0.5699,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.856,
+        "recency": 0.8437,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -497,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -523,7 +523,7 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
           "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
@@ -531,9 +531,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -553,7 +553,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "developer.nvidia.com",
         "hackernews"
       ],
@@ -573,7 +573,7 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
           "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
@@ -581,9 +581,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -603,15 +603,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9764,
+        "recency": 0.9624,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -636,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -713,15 +713,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9514,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -746,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -823,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9017,
+        "recency": 0.8888,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -856,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -933,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8585,
+        "recency": 0.8462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -966,7 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -1043,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.856,
+        "recency": 0.8437,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -1153,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
+      "score": 0.4956,
+      "importance": 0.4956,
+      "importance_score": 0.4956,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7317,
+        "recency": 0.7212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1186,7 +1186,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     },
     {
@@ -1292,15 +1292,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7402,
+        "recency": 0.7296,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1325,117 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
-      }
-    },
-    {
-      "story_id": "story_0fa4acecf30f",
-      "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7c6a511b253b63fbc96b61d5f4e36e68f8128f3d",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-          "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵",
-          "title_en": "FAA expands AI advice to manage air traffic congestion across US airspace",
-          "title_original": "FAA expands AI advice to manage air traffic congestion across US airspace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:37:24Z"
-        },
-        {
-          "id": "5f548674a9edec30da07310eadc2ceee2f1499b8",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵",
-          "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "title_original": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T21:20:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "7c6a511b253b63fbc96b61d5f4e36e68f8128f3d",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-          "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵",
-          "title_en": "FAA expands AI advice to manage air traffic congestion across US airspace",
-          "title_original": "FAA expands AI advice to manage air traffic congestion across US airspace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:37:24Z"
-        },
-        {
-          "id": "5f548674a9edec30da07310eadc2ceee2f1499b8",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵",
-          "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "title_original": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T21:20:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7207,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T21:20:47Z",
-      "latest_at": "2026-11-13T22:37:24Z",
-      "primary_item": {
-        "id": "7c6a511b253b63fbc96b61d5f4e36e68f8128f3d",
-        "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-        "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵",
-        "title_en": "FAA expands AI advice to manage air traffic congestion across US airspace",
-        "title_original": "FAA expands AI advice to manage air traffic congestion across US airspace",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:18:59.407009Z"
+        "scored_at": "2026-11-14T22:25:54.800153Z"
       }
     }
   ]
