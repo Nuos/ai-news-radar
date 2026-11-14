@@ -1,111 +1,81 @@
 {
-  "generated_at": "2026-11-14T13:18:20.003982Z",
+  "generated_at": "2026-11-14T14:18:12.702171Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "story_id": "story_010ac45cd0c9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        },
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
-          "title_zh": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序",
-          "title_en": "Llama.cpp hits v1.0 with a native app for macOS",
-          "title_original": "Llama.cpp hits v1.0 with a native app for macOS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:05:37Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        },
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
-          "title_zh": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序",
-          "title_en": "Llama.cpp hits v1.0 with a native app for macOS",
-          "title_original": "Llama.cpp hits v1.0 with a native app for macOS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:05:37Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7152,
-        "story_heat": 0.25
+        "ai_relevance": 0.98,
+        "recency": 0.746,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-14T02:05:37Z",
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
       "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -113,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -161,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7611,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -244,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7246,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,173 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
-      }
-    },
-    {
-      "story_id": "story_010ac45cd0c9",
-      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7568,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:00:39Z",
-      "latest_at": "2026-11-13T18:00:39Z",
-      "primary_item": {
-        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
-      }
-    },
-    {
-      "story_id": "story_6462d932fa5b",
-      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T20:40:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T20:40:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7864,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T20:40:05Z",
-      "latest_at": "2026-11-13T20:40:05Z",
-      "primary_item": {
-        "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-        "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -493,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7463,
+        "recency": 0.7356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
+      }
+    },
+    {
+      "story_id": "story_6462d932fa5b",
+      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T20:40:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T20:40:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7752,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T20:40:05Z",
+      "latest_at": "2026-11-13T20:40:05Z",
+      "primary_item": {
+        "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+        "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -576,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -658,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7617,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -693,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -770,15 +657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6127,
+      "importance": 0.6127,
+      "importance_score": 0.6127,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7641,
+        "recency": 0.7532,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -803,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -909,15 +796,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8308,
+        "recency": 0.8189,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -942,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1019,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9636,
+        "recency": 0.9499,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1129,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1268,15 +1155,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7891,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1301,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1407,15 +1294,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7913,
+        "recency": 0.78,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1440,7 +1327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1546,15 +1433,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7732,
+        "recency": 0.7622,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1579,7 +1466,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1685,15 +1572,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7644,
+        "recency": 0.7534,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1718,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1824,15 +1711,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7558,
+        "recency": 0.745,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1857,7 +1744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -1934,15 +1821,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8603,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1967,7 +1854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -2044,15 +1931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8576,
+        "recency": 0.8453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2077,7 +1964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     },
     {
@@ -2154,15 +2041,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5004,
-      "importance": 0.5004,
-      "importance_score": 0.5004,
+      "score": 0.4984,
+      "importance": 0.4984,
+      "importance_score": 0.4984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7476,
+        "recency": 0.7369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2184,10 +2071,120 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T14:19:03.858125Z"
+      }
+    },
+    {
+      "story_id": "story_f3f7b37cb792",
+      "title": "Doc-foundry – AI编写安全检测规则，然后证明它们有效 / Doc-foundry – AI writes Security detection rules, then proves they work",
+      "url": "https://news.ycombinator.com/item?id=50491753",
+      "primary_url": "https://news.ycombinator.com/item?id=50491753",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a694bfd418ac1dcfc58c0c5edd29d29869b6b905",
+          "title": "Doc-foundry – AI编写安全检测规则，然后证明它们有效 / Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_zh": "Doc-foundry – AI编写安全检测规则，然后证明它们有效",
+          "title_en": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_original": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50491753",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T23:40:12Z"
+        },
+        {
+          "id": "96fc348db8714f15d9590c8a1b27b0060d32d907",
+          "title": "Doc-foundry – AI编写安全检测规则，然后证明它们有效 / Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_zh": "Doc-foundry – AI编写安全检测规则，然后证明它们有效",
+          "title_en": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_original": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mjha-arya/DOC-foundry",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T23:40:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a694bfd418ac1dcfc58c0c5edd29d29869b6b905",
+          "title": "Doc-foundry – AI编写安全检测规则，然后证明它们有效 / Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_zh": "Doc-foundry – AI编写安全检测规则，然后证明它们有效",
+          "title_en": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_original": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50491753",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T23:40:12Z"
+        },
+        {
+          "id": "96fc348db8714f15d9590c8a1b27b0060d32d907",
+          "title": "Doc-foundry – AI编写安全检测规则，然后证明它们有效 / Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_zh": "Doc-foundry – AI编写安全检测规则，然后证明它们有效",
+          "title_en": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "title_original": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mjha-arya/DOC-foundry",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T23:40:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8095,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T23:40:12Z",
+      "latest_at": "2026-11-13T23:40:12Z",
+      "primary_item": {
+        "id": "a694bfd418ac1dcfc58c0c5edd29d29869b6b905",
+        "title": "Doc-foundry – AI编写安全检测规则，然后证明它们有效 / Doc-foundry – AI writes Security detection rules, then proves they work",
+        "title_zh": "Doc-foundry – AI编写安全检测规则，然后证明它们有效",
+        "title_en": "Doc-foundry – AI writes Security detection rules, then proves they work",
+        "title_original": "Doc-foundry – AI writes Security detection rules, then proves they work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50491753",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T13:20:02.574923Z"
+        "scored_at": "2026-11-14T14:19:03.858125Z"
       }
     }
   ]
