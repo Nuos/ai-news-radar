@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T03:19:02.154133Z",
+  "generated_at": "2026-11-14T04:19:37.599357Z",
   "ok": true,
-  "active_count": 1,
+  "active_count": 2,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 1
+      "active_count": 2
     }
   ],
   "incidents": [
@@ -25,6 +25,19 @@
       "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery. Delays in cost data are still expected.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0"
+    },
+    {
+      "id": "01M7C40W0N5MZHNW0YM09QV962",
+      "provider": "OpenAI",
+      "title": "Elevated errors with ChatGPT billing and Ads billing",
+      "title_zh": "Elevated errors with ChatGPT billing and Ads billing",
+      "status": "monitoring",
+      "impact": "none",
+      "started_at": "2026-11-14T04:11:04Z",
+      "updated_at": "2026-11-14T04:11:04Z",
+      "message": "We are monitoring recovery from errors affecting ChatGPT billing, including checkout, and Ads invoice retrieval.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962"
     }
   ]
 }
