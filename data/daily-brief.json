@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:18:41.745076Z",
+  "generated_at": "2026-11-14T00:36:07.940221Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9263,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9315,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,119 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
-      }
-    },
-    {
-      "story_id": "story_c0e4bca0c953",
-      "title": "Codex CLI 0.168.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "Codex CLI 0.168.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.168.0",
-          "title_original": "Codex CLI 0.168.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "Codex CLI 0.169.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.0",
-          "title_original": "Codex CLI 0.169.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "Codex CLI 0.168.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.168.0",
-          "title_original": "Codex CLI 0.168.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "Codex CLI 0.169.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.0",
-          "title_original": "Codex CLI 0.169.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7142,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T00:00:00Z",
-      "latest_at": "2026-11-13T00:00:00Z",
-      "primary_item": {
-        "id": "aff218038415ee87812e41136d03188eae6f9248",
-        "title": "Codex CLI 0.168.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.168.0",
-        "title_original": "Codex CLI 0.168.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -326,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8869,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -409,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9625,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -492,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9135,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
+      }
+    },
+    {
+      "story_id": "story_9a507b7582fa",
+      "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "primary_url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
+          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
+          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7868,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:00:00Z",
+      "latest_at": "2026-11-13T08:00:00Z",
+      "primary_item": {
+        "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+        "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+        "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
+        "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -575,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9323,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "official",
@@ -610,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -658,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8753,
+        "recency": 0.8592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -693,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -741,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -822,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8539,
+        "recency": 0.8382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -905,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -986,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8173,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1096,15 +1067,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6454,
-      "importance": 0.6454,
-      "importance_score": 0.6454,
+      "score": 0.6423,
+      "importance": 0.6423,
+      "importance_score": 0.6423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9352,
+        "recency": 0.918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,7 +1100,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1177,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8173,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1210,7 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1258,15 +1229,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8173,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1291,7 +1262,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1339,15 +1310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8059,
+        "recency": 0.791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1372,7 +1343,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1478,15 +1449,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9798,
+        "recency": 0.9617,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1511,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1617,15 +1588,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9685,
+        "recency": 0.9506,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1650,7 +1621,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1756,15 +1727,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.558,
+      "importance": 0.558,
+      "importance_score": 0.558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9289,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1789,7 +1760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     },
     {
@@ -1895,15 +1866,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9355,
+        "recency": 0.9182,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1928,7 +1899,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T23:29:52.662227Z"
+        "scored_at": "2026-11-14T00:37:01.717092Z"
       }
     }
   ]
