@@ -1,81 +1,111 @@
 {
-  "generated_at": "2026-11-14T12:21:14.401748Z",
+  "generated_at": "2026-11-14T13:18:20.003982Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_010ac45cd0c9",
-      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
+          "published_at": "2026-11-13T14:05:22Z"
+        },
+        {
+          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
+          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
+          "title_zh": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序",
+          "title_en": "Llama.cpp hits v1.0 with a native app for macOS",
+          "title_original": "Llama.cpp hits v1.0 with a native app for macOS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:05:37Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News · 24h最热",
         "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
+          "published_at": "2026-11-13T14:05:22Z"
+        },
+        {
+          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
+          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
+          "title_zh": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序",
+          "title_en": "Llama.cpp hits v1.0 with a native app for macOS",
+          "title_original": "Llama.cpp hits v1.0 with a native app for macOS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:05:37Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7673,
-        "story_heat": 0.0
+        "ai_relevance": 0.95,
+        "recency": 0.7152,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T18:00:39Z",
-      "latest_at": "2026-11-13T18:00:39Z",
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-14T02:05:37Z",
       "primary_item": {
-        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -83,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -131,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7716,
+        "recency": 0.7611,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -214,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7346,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,30 +279,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
-      "story_id": "story_65948bc08832",
-      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "primary_url": "https://huggingface.co/blog/allenai/xybench",
+      "story_id": "story_010ac45cd0c9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "title_zh": "XYBench：帮助解决问题背后的问题",
-          "title_en": "XYBench: Helping with the problem behind the question",
-          "title_original": "XYBench: Helping with the problem behind the question",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/xybench",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
       "source_count": 1,
@@ -281,31 +311,31 @@
       ],
       "items": [
         {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "title_zh": "XYBench：帮助解决问题背后的问题",
-          "title_en": "XYBench: Helping with the problem behind the question",
-          "title_original": "XYBench: Helping with the problem behind the question",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/xybench",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7566,
+        "ai_relevance": 0.98,
+        "recency": 0.7568,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,17 +344,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T17:02:35Z",
-      "latest_at": "2026-11-13T17:02:35Z",
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
       "primary_item": {
-        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-        "title_zh": "XYBench：帮助解决问题背后的问题",
-        "title_en": "XYBench: Helping with the problem behind the question",
-        "title_original": "XYBench: Helping with the problem behind the question",
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/xybench",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -332,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -380,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7973,
+        "recency": 0.7864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +445,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
+      }
+    },
+    {
+      "story_id": "story_65948bc08832",
+      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T17:02:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T17:02:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7463,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
+      "primary_item": {
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+        "title_zh": "XYBench：帮助解决问题背后的问题",
+        "title_en": "XYBench: Helping with the problem behind the question",
+        "title_original": "XYBench: Helping with the problem behind the question",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -463,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -545,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7722,
+        "recency": 0.7617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,173 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
-      }
-    },
-    {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7251,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-13T14:05:22Z",
-      "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
-      }
-    },
-    {
-      "story_id": "story_83023b0bea9d",
-      "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-          "title_en": "Manage AI Scan for repositories using the REST API",
-          "title_original": "Manage AI Scan for repositories using the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-          "title_en": "Manage AI Scan for repositories using the REST API",
-          "title_original": "Manage AI Scan for repositories using the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T12:22:41Z",
-      "latest_at": "2026-11-13T12:22:41Z",
-      "primary_item": {
-        "id": "80ac462642d08ac454ccc85158579adc912e472c",
-        "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-        "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-        "title_en": "Manage AI Scan for repositories using the REST API",
-        "title_original": "Manage AI Scan for repositories using the REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -823,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6165,
-      "importance": 0.6165,
-      "importance_score": 0.6165,
+      "score": 0.6146,
+      "importance": 0.6146,
+      "importance_score": 0.6146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7747,
+        "recency": 0.7641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -856,7 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -962,15 +909,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8423,
+        "recency": 0.8308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -995,7 +942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1072,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.977,
+        "recency": 0.9636,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1105,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1182,15 +1129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9741,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,7 +1162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1321,15 +1268,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8116,
+        "recency": 0.8005,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1354,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1460,15 +1407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8023,
+        "recency": 0.7913,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1493,7 +1440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1599,15 +1546,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7839,
+        "recency": 0.7732,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1632,7 +1579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1738,15 +1685,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7749,
+        "recency": 0.7644,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1771,7 +1718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1877,15 +1824,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7662,
+        "recency": 0.7558,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1910,7 +1857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -1987,15 +1934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8722,
+        "recency": 0.8603,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2020,7 +1967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     },
     {
@@ -2097,15 +2044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8694,
+        "recency": 0.8576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2130,7 +2077,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T12:22:17.198748Z"
+        "scored_at": "2026-11-14T13:20:02.574923Z"
+      }
+    },
+    {
+      "story_id": "story_ab76632d1e30",
+      "title": "日规。 Git for Postgres 数据，专为代理构建 / Gnomon. Git for Postgres data, built for agents",
+      "url": "https://github.com/bitsinfra/gnomon",
+      "primary_url": "https://github.com/bitsinfra/gnomon",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1c12c999f5d96f70b603ca8f6d212b6c5e953b38",
+          "title": "日规。 Git for Postgres 数据，专为代理构建 / Gnomon. Git for Postgres data, built for agents",
+          "title_zh": "日规。 Git for Postgres 数据，专为代理构建",
+          "title_en": "Gnomon. Git for Postgres data, built for agents",
+          "title_original": "Gnomon. Git for Postgres data, built for agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/bitsinfra/gnomon",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T17:09:52Z"
+        },
+        {
+          "id": "766a4e25dc7b76418b4a99f811b8d83e4b59d345",
+          "title": "日规。 Git for Postgres 数据，专为代理构建 / Gnomon. Git for Postgres data, built for agents",
+          "title_zh": "日规。 Git for Postgres 数据，专为代理构建",
+          "title_en": "Gnomon. Git for Postgres data, built for agents",
+          "title_original": "Gnomon. Git for Postgres data, built for agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50486480",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:09:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c12c999f5d96f70b603ca8f6d212b6c5e953b38",
+          "title": "日规。 Git for Postgres 数据，专为代理构建 / Gnomon. Git for Postgres data, built for agents",
+          "title_zh": "日规。 Git for Postgres 数据，专为代理构建",
+          "title_en": "Gnomon. Git for Postgres data, built for agents",
+          "title_original": "Gnomon. Git for Postgres data, built for agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/bitsinfra/gnomon",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T17:09:52Z"
+        },
+        {
+          "id": "766a4e25dc7b76418b4a99f811b8d83e4b59d345",
+          "title": "日规。 Git for Postgres 数据，专为代理构建 / Gnomon. Git for Postgres data, built for agents",
+          "title_zh": "日规。 Git for Postgres 数据，专为代理构建",
+          "title_en": "Gnomon. Git for Postgres data, built for agents",
+          "title_original": "Gnomon. Git for Postgres data, built for agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50486480",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:09:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7476,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T17:09:52Z",
+      "latest_at": "2026-11-13T17:09:52Z",
+      "primary_item": {
+        "id": "1c12c999f5d96f70b603ca8f6d212b6c5e953b38",
+        "title": "日规。 Git for Postgres 数据，专为代理构建 / Gnomon. Git for Postgres data, built for agents",
+        "title_zh": "日规。 Git for Postgres 数据，专为代理构建",
+        "title_en": "Gnomon. Git for Postgres data, built for agents",
+        "title_original": "Gnomon. Git for Postgres data, built for agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/bitsinfra/gnomon",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T13:20:02.574923Z"
       }
     }
   ]
