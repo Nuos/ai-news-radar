@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T14:18:13.172882Z",
+  "generated_at": "2026-11-15T15:18:29.038393Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 6,
   "items": [
     {
       "story_id": "story_ac1cd00bb907",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.8442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,153 +81,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
+        "scored_at": "2026-11-15T15:19:17.016769Z"
       }
     },
     {
-      "story_id": "story_da2163dae89b",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T15:00:00Z"
-        },
-        {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-14T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T15:00:00Z"
-        },
-        {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-14T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5765,
-      "importance": 0.5765,
-      "importance_score": 0.5765,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7143,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T15:00:00Z",
-      "latest_at": "2026-11-14T15:00:00Z",
-      "primary_item": {
-        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "title_zh": null,
-        "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
-      }
-    },
-    {
-      "story_id": "story_c965105b93e9",
-      "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "story_id": "story_95b2150900ef",
+      "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "id": "f800e40bc86297f866a9f3c9869c6c1a950634c7",
+          "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+          "title_zh": "所有人工智能生成的代码都应该是开源的",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-15T12:14:06Z"
+          "published_at": "2026-11-15T14:46:58Z"
         },
         {
-          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "id": "dc98f8e3d0c0c7a854095219b5d90d25076f02fe",
+          "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+          "title_zh": "所有人工智能生成的代码都应该是开源的",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50506376",
+          "url": "https://news.ycombinator.com/item?id=50507303",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-15T12:14:06Z"
+          "published_at": "2026-11-15T14:46:58Z"
         }
       ],
       "source_count": 2,
@@ -237,62 +128,62 @@
       ],
       "items": [
         {
-          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "id": "f800e40bc86297f866a9f3c9869c6c1a950634c7",
+          "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+          "title_zh": "所有人工智能生成的代码都应该是开源的",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-15T12:14:06Z"
+          "published_at": "2026-11-15T14:46:58Z"
         },
         {
-          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "id": "dc98f8e3d0c0c7a854095219b5d90d25076f02fe",
+          "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+          "title_zh": "所有人工智能生成的代码都应该是开源的",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50506376",
+          "url": "https://news.ycombinator.com/item?id=50507303",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-15T12:14:06Z"
+          "published_at": "2026-11-15T14:46:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9706,
+        "recency": 0.9924,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T12:14:06Z",
-      "latest_at": "2026-11-15T12:14:06Z",
+      "earliest_at": "2026-11-15T14:46:58Z",
+      "latest_at": "2026-11-15T14:46:58Z",
       "primary_item": {
-        "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-        "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-        "title_zh": "了解现代LLM中的位置嵌入",
-        "title_en": "Understanding Positional Embeddings in Modern LLMs",
-        "title_original": "Understanding Positional Embeddings in Modern LLMs",
+        "id": "f800e40bc86297f866a9f3c9869c6c1a950634c7",
+        "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+        "title_zh": "所有人工智能生成的代码都应该是开源的",
+        "title_en": "All AI-generated code should be Open Source",
+        "title_original": "All AI-generated code should be Open Source",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -300,7 +191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
+        "scored_at": "2026-11-15T15:19:17.016769Z"
       }
     },
     {
@@ -377,15 +268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9213,
+        "recency": 0.9081,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -410,146 +301,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
+        "scored_at": "2026-11-15T15:19:17.016769Z"
       }
     },
     {
-      "story_id": "story_3ff6db276ba5",
-      "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3e25872cf7b5",
+      "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "513621aef39494027890f805c1c1ad382b301e15",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": null,
-          "title_original": "Show HN: DeepSeek V3，约200行纯Jax代码",
+          "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T21:13:58.862000Z"
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T04:09:11Z"
         },
         {
-          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T15:04:15Z"
-        },
-        {
-          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497589",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T15:04:15Z"
+          "published_at": "2026-11-15T04:09:11Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "513621aef39494027890f805c1c1ad382b301e15",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": null,
-          "title_original": "Show HN: DeepSeek V3，约200行纯Jax代码",
+          "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T21:13:58.862000Z"
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T04:09:11Z"
         },
         {
-          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T15:04:15Z"
-        },
-        {
-          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497589",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T15:04:15Z"
+          "published_at": "2026-11-15T04:09:11Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7815,
-        "story_heat": 0.5
+        "recency": 0.8512,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T15:04:15Z",
-      "latest_at": "2026-11-14T21:13:58.862000Z",
+      "earliest_at": "2026-11-15T04:09:11Z",
+      "latest_at": "2026-11-15T04:09:11Z",
       "primary_item": {
-        "id": "513621aef39494027890f805c1c1ad382b301e15",
-        "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-        "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-        "title_en": null,
-        "title_original": "Show HN: DeepSeek V3，约200行纯Jax代码",
+        "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
+        "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+        "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
+        "scored_at": "2026-11-15T15:19:17.016769Z"
+      }
+    },
+    {
+      "story_id": "story_c965105b93e9",
+      "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z"
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:14:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z"
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:14:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9566,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T12:14:06Z",
+      "latest_at": "2026-11-15T12:14:06Z",
+      "primary_item": {
+        "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+        "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+        "title_zh": "了解现代LLM中的位置嵌入",
+        "title_en": "Understanding Positional Embeddings in Modern LLMs",
+        "title_original": "Understanding Positional Embeddings in Modern LLMs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T15:19:17.016769Z"
       }
     },
     {
@@ -626,15 +598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7443,
+        "recency": 0.7336,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -659,117 +631,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
-      }
-    },
-    {
-      "story_id": "story_3e25872cf7b5",
-      "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
-          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
-          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T04:09:11Z"
-        },
-        {
-          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
-          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
-          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50503930",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T04:09:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
-          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
-          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T04:09:11Z"
-        },
-        {
-          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
-          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
-          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50503930",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T04:09:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8637,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T04:09:11Z",
-      "latest_at": "2026-11-15T04:09:11Z",
-      "primary_item": {
-        "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
-        "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-        "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
-        "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-        "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T14:19:04.792483Z"
+        "scored_at": "2026-11-15T15:19:17.016769Z"
       }
     }
   ]
