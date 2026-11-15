@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:18:10.270640Z",
+  "generated_at": "2026-11-15T17:18:08.744389Z",
   "window_hours": 24,
   "total_items": 6,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8322,
+        "recency": 0.8203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T16:18:58.557948Z"
+        "scored_at": "2026-11-15T17:18:59.255976Z"
+      }
+    },
+    {
+      "story_id": "story_c965105b93e9",
+      "title": "理解现代大型语言模型中的位置嵌入",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "magazine.sebastianraschka.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+          "title": "理解现代大型语言模型中的位置嵌入",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": null,
+          "title_original": "理解现代大型语言模型中的位置嵌入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "magazine.sebastianraschka.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:51:36.376000Z"
+        },
+        {
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z"
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:14:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "magazine.sebastianraschka.com"
+      ],
+      "items": [
+        {
+          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+          "title": "理解现代大型语言模型中的位置嵌入",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": null,
+          "title_original": "理解现代大型语言模型中的位置嵌入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "magazine.sebastianraschka.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:51:36.376000Z"
+        },
+        {
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z"
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:14:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9936,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T12:14:06Z",
+      "latest_at": "2026-11-15T16:51:36.376000Z",
+      "primary_item": {
+        "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+        "title": "理解现代大型语言模型中的位置嵌入",
+        "title_zh": "理解现代大型语言模型中的位置嵌入",
+        "title_en": null,
+        "title_original": "理解现代大型语言模型中的位置嵌入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "magazine.sebastianraschka.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T17:18:59.255976Z"
       }
     },
     {
@@ -187,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9823,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -220,117 +359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T16:18:58.557948Z"
-      }
-    },
-    {
-      "story_id": "story_c965105b93e9",
-      "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T12:14:06Z"
-        },
-        {
-          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50506376",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T12:14:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T12:14:06Z"
-        },
-        {
-          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
-          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-          "title_zh": "了解现代LLM中的位置嵌入",
-          "title_en": "Understanding Positional Embeddings in Modern LLMs",
-          "title_original": "Understanding Positional Embeddings in Modern LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50506376",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T12:14:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9429,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T12:14:06Z",
-      "latest_at": "2026-11-15T12:14:06Z",
-      "primary_item": {
-        "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
-        "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
-        "title_zh": "了解现代LLM中的位置嵌入",
-        "title_en": "Understanding Positional Embeddings in Modern LLMs",
-        "title_original": "Understanding Positional Embeddings in Modern LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T16:18:58.557948Z"
+        "scored_at": "2026-11-15T17:18:59.255976Z"
       }
     },
     {
@@ -407,15 +436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8951,
+        "recency": 0.8823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -440,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T16:18:58.557948Z"
+        "scored_at": "2026-11-15T17:18:59.255976Z"
       }
     },
     {
@@ -517,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8391,
+        "recency": 0.8271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -550,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T16:18:58.557948Z"
+        "scored_at": "2026-11-15T17:18:59.255976Z"
       }
     },
     {
@@ -627,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7231,
+        "recency": 0.7128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -660,7 +689,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T16:18:58.557948Z"
+        "scored_at": "2026-11-15T17:18:59.255976Z"
       }
     }
   ]
