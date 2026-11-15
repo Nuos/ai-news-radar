@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:18:08.744389Z",
+  "generated_at": "2026-11-15T18:19:01.273659Z",
   "window_hours": 24,
   "total_items": 6,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8203,
+        "recency": 0.8083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T17:18:59.255976Z"
+        "scored_at": "2026-11-15T18:20:01.436933Z"
       }
     },
     {
@@ -187,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9936,
+        "recency": 0.9792,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -220,7 +220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T17:18:59.255976Z"
+        "scored_at": "2026-11-15T18:20:01.436933Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5676,
-      "importance": 0.5676,
-      "importance_score": 0.5676,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.968,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -359,7 +359,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T17:18:59.255976Z"
+        "scored_at": "2026-11-15T18:20:01.436933Z"
+      }
+    },
+    {
+      "story_id": "story_985a2766aaa2",
+      "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "primary_url": "https://github.com/db-branch/db-branch",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1692168853adce8835fbc48634ed29222243f65c",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/db-branch/db-branch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T13:50:51Z"
+        },
+        {
+          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506940",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:50:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1692168853adce8835fbc48634ed29222243f65c",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/db-branch/db-branch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T13:50:51Z"
+        },
+        {
+          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506940",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:50:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9375,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T13:50:51Z",
+      "latest_at": "2026-11-15T13:50:51Z",
+      "primary_item": {
+        "id": "1692168853adce8835fbc48634ed29222243f65c",
+        "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+        "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/db-branch/db-branch",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T18:20:01.436933Z"
       }
     },
     {
@@ -436,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8823,
+        "recency": 0.8694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -469,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T17:18:59.255976Z"
+        "scored_at": "2026-11-15T18:20:01.436933Z"
       }
     },
     {
@@ -546,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5125,
+      "importance": 0.5125,
+      "importance_score": 0.5125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8271,
+        "recency": 0.815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -579,117 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T17:18:59.255976Z"
-      }
-    },
-    {
-      "story_id": "story_f9e25c7e35e5",
-      "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T17:51:13Z"
-        },
-        {
-          "id": "a867cb383a49c730c5b25ab61cff9769068489d1",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50499114",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T17:51:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T17:51:13Z"
-        },
-        {
-          "id": "a867cb383a49c730c5b25ab61cff9769068489d1",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50499114",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T17:51:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7128,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T17:51:13Z",
-      "latest_at": "2026-11-14T17:51:13Z",
-      "primary_item": {
-        "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-        "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-        "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T17:18:59.255976Z"
+        "scored_at": "2026-11-15T18:20:01.436933Z"
       }
     }
   ]
