@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T20:18:10.689447Z",
+  "generated_at": "2026-11-15T21:18:10.810758Z",
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_ac1cd00bb907",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7855,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T20:18:58.348088Z"
+        "scored_at": "2026-11-15T21:18:59.533465Z"
       }
     },
     {
@@ -187,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5621,
-      "importance": 0.5621,
-      "importance_score": 0.5621,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9515,
+        "recency": 0.9379,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -220,7 +220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T20:18:58.348088Z"
+        "scored_at": "2026-11-15T21:18:59.533465Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9406,
+        "recency": 0.9271,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -359,44 +359,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T20:18:58.348088Z"
+        "scored_at": "2026-11-15T21:18:59.533465Z"
       }
     },
     {
-      "story_id": "story_985a2766aaa2",
-      "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "primary_url": "https://github.com/db-branch/db-branch",
+      "story_id": "story_125fbb949e3e",
+      "title": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
+      "primary_url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1692168853adce8835fbc48634ed29222243f65c",
-          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
-          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "id": "26e0a02d4520b7f3ac73d1eed45809f58528a902",
+          "title": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_zh": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标",
+          "title_en": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_original": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/db-branch/db-branch",
+          "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-15T13:50:51Z"
+          "published_at": "2026-11-15T19:39:46Z"
         },
         {
-          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
-          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
-          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "id": "e3250a7002bca52ea73dff849411f3dbd8047b66",
+          "title": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_zh": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标",
+          "title_en": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_original": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50506940",
+          "url": "https://news.ycombinator.com/item?id=50509953",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-15T13:50:51Z"
+          "published_at": "2026-11-15T19:39:46Z"
         }
       ],
       "source_count": 2,
@@ -406,62 +406,62 @@
       ],
       "items": [
         {
-          "id": "1692168853adce8835fbc48634ed29222243f65c",
-          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
-          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "id": "26e0a02d4520b7f3ac73d1eed45809f58528a902",
+          "title": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_zh": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标",
+          "title_en": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_original": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/db-branch/db-branch",
+          "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-15T13:50:51Z"
+          "published_at": "2026-11-15T19:39:46Z"
         },
         {
-          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
-          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
-          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "id": "e3250a7002bca52ea73dff849411f3dbd8047b66",
+          "title": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_zh": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标",
+          "title_en": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "title_original": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50506940",
+          "url": "https://news.ycombinator.com/item?id=50509953",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-15T13:50:51Z"
+          "published_at": "2026-11-15T19:39:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.911,
+        "recency": 0.9766,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T13:50:51Z",
-      "latest_at": "2026-11-15T13:50:51Z",
+      "earliest_at": "2026-11-15T19:39:46Z",
+      "latest_at": "2026-11-15T19:39:46Z",
       "primary_item": {
-        "id": "1692168853adce8835fbc48634ed29222243f65c",
-        "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-        "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
-        "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-        "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "id": "26e0a02d4520b7f3ac73d1eed45809f58528a902",
+        "title": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+        "title_zh": "家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标",
+        "title_en": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+        "title_original": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/db-branch/db-branch",
+        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -469,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T20:18:58.348088Z"
+        "scored_at": "2026-11-15T21:18:59.533465Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8449,
+        "recency": 0.8328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -579,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T20:18:58.348088Z"
+        "scored_at": "2026-11-15T21:18:59.533465Z"
       }
     },
     {
@@ -656,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.792,
+        "recency": 0.7806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -689,7 +689,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T20:18:58.348088Z"
+        "scored_at": "2026-11-15T21:18:59.533465Z"
+      }
+    },
+    {
+      "story_id": "story_985a2766aaa2",
+      "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "primary_url": "https://github.com/db-branch/db-branch",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1692168853adce8835fbc48634ed29222243f65c",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/db-branch/db-branch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T13:50:51Z"
+        },
+        {
+          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506940",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:50:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1692168853adce8835fbc48634ed29222243f65c",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/db-branch/db-branch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T13:50:51Z"
+        },
+        {
+          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506940",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:50:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T13:50:51Z",
+      "latest_at": "2026-11-15T13:50:51Z",
+      "primary_item": {
+        "id": "1692168853adce8835fbc48634ed29222243f65c",
+        "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+        "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/db-branch/db-branch",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T21:18:59.533465Z"
       }
     }
   ]
