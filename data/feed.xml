@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 14:19:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 15:18:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
@@ -14,6 +14,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
+</item>
+<item>
+<title>Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.170.0</title>
@@ -44,6 +52,14 @@
 <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
 <guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
 <description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+<link>https://huggingface.co/blog/rumble-2-flash</link>
+<guid isPermaLink="true">https://huggingface.co/blog/rumble-2-flash</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
@@ -112,12 +128,12 @@
 <pubDate>Wed, 18 Nov 2026 09:19:42 +0000</pubDate>
 </item>
 <item>
-<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
+<title>JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
 <title>马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力</title>
@@ -128,12 +144,12 @@
 <pubDate>Wed, 18 Nov 2026 09:19:42 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</guid>
+<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试</title>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 18 Nov 2026 08:22:30 +0000</pubDate>
 </item>
 <item>
-<title>JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
+<title>通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365</title>
+<link>https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
-</item>
-<item>
-<title>Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面</title>
-<link>https://www.aibase.com/news/32378</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32378</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 08:22:30 +0000</pubDate>
-</item>
-<item>
-<title>Claude 是在大规模蛋白质序列数据上进行训练的</title>
-<link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences</link>
-<guid isPermaLink="true">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences</guid>
-<description>xinmingtu.cn</description>
-<category>多源热议</category>
-<pubDate>Wed, 18 Nov 2026 13:39:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

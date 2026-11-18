@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:19:34.405986Z",
+  "generated_at": "2026-11-18T15:18:31.816608Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8637,
-      "importance": 0.8637,
-      "importance_score": 0.8637,
+      "score": 0.8618,
+      "importance": 0.8618,
+      "importance_score": 0.8618,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7429,
+        "recency": 0.7325,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
+      }
+    },
+    {
+      "story_id": "story_0f2a2904d331",
+      "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "primary_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+          "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_zh": "Streamhouse 中的时间序列模型：新领域和用例",
+          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T15:00:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+          "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_zh": "Streamhouse 中的时间序列模型：新领域和用例",
+          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T15:00:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9956,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T15:00:23Z",
+      "latest_at": "2026-11-18T15:00:23Z",
+      "primary_item": {
+        "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+        "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_zh": "Streamhouse 中的时间序列模型：新领域和用例",
+        "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -190,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8131,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -273,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7713,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -356,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7349,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -439,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8131,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +557,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
+      }
+    },
+    {
+      "story_id": "story_3a3e9fb28354",
+      "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "primary_url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e0dafb3a74526ff2bf6d42919ecdde2a053e537",
+          "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_zh": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型",
+          "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_original": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5e0dafb3a74526ff2bf6d42919ecdde2a053e537",
+          "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_zh": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型",
+          "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_original": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8017,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "5e0dafb3a74526ff2bf6d42919ecdde2a053e537",
+        "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "title_zh": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型",
+        "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "title_original": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/rumble-2-flash",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -522,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7465,
+        "recency": 0.736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -557,7 +723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -605,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -639,7 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -687,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7457,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -770,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,7 +970,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -852,15 +1018,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.746,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,7 +1053,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -935,15 +1101,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +1135,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -1017,15 +1183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7463,
+        "recency": 0.7358,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1052,7 +1218,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -1100,15 +1266,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,337 +1300,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
-      }
-    },
-    {
-      "story_id": "story_9c01c6018d4d",
-      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7459,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:01:45Z",
-      "latest_at": "2026-11-17T18:01:45Z",
-      "primary_item": {
-        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
-      }
-    },
-    {
-      "story_id": "story_953229cbf22b",
-      "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-      "url": "https://www.aibase.com/news/32386",
-      "primary_url": "https://www.aibase.com/news/32386",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
-          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_en": null,
-          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32386",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T09:19:42.932009Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
-          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_en": null,
-          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32386",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T09:19:42.932009Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T09:19:42.932009Z",
-      "latest_at": "2026-11-18T09:19:42.932009Z",
-      "primary_item": {
-        "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
-        "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-        "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-        "title_en": null,
-        "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32386",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
-      }
-    },
-    {
-      "story_id": "story_656e809f1ddf",
-      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7457,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
-      "primary_item": {
-        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
-      }
-    },
-    {
-      "story_id": "story_c1c5a37b0566",
-      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-      "url": "https://www.aibase.com/news/32379",
-      "primary_url": "https://www.aibase.com/news/32379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
-          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "title_en": null,
-          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T08:22:30.720139Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
-          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "title_en": null,
-          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T08:22:30.720139Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9177,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T08:22:30.720139Z",
-      "latest_at": "2026-11-18T08:22:30.720139Z",
-      "primary_item": {
-        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
-        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-        "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-        "title_en": null,
-        "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32379",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
@@ -1512,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1547,26 +1383,191 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
-      "story_id": "story_7ab530951193",
-      "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-      "url": "https://www.aibase.com/news/32378",
-      "primary_url": "https://www.aibase.com/news/32378",
+      "story_id": "story_953229cbf22b",
+      "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+      "url": "https://www.aibase.com/news/32386",
+      "primary_url": "https://www.aibase.com/news/32386",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
-          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
+          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
           "title_en": null,
-          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32378",
+          "url": "https://www.aibase.com/news/32386",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:19:42.932009Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
+          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+          "title_en": null,
+          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32386",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:19:42.932009Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9173,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:19:42.932009Z",
+      "latest_at": "2026-11-18T09:19:42.932009Z",
+      "primary_item": {
+        "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
+        "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+        "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+        "title_en": null,
+        "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32386",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:19:26.882339Z"
+      }
+    },
+    {
+      "story_id": "story_9c01c6018d4d",
+      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:01:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:01:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7354,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:01:45Z",
+      "latest_at": "2026-11-17T18:01:45Z",
+      "primary_item": {
+        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:19:26.882339Z"
+      }
+    },
+    {
+      "story_id": "story_c1c5a37b0566",
+      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+      "url": "https://www.aibase.com/news/32379",
+      "primary_url": "https://www.aibase.com/news/32379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32379",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1579,14 +1580,14 @@
       ],
       "items": [
         {
-          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
-          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
           "title_en": null,
-          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32378",
+          "url": "https://www.aibase.com/news/32379",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1595,15 +1596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1614,14 +1615,14 @@
       "earliest_at": "2026-11-18T08:22:30.720139Z",
       "latest_at": "2026-11-18T08:22:30.720139Z",
       "primary_item": {
-        "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
-        "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-        "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
         "title_en": null,
-        "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+        "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32378",
+        "url": "https://www.aibase.com/news/32379",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1629,146 +1630,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     },
     {
-      "story_id": "story_16a8f42e4b70",
-      "title": "Claude 是在大规模蛋白质序列数据上进行训练的",
-      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-      "primary_url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-      "source": "xinmingtu.cn",
-      "source_name": "Buzzing",
+      "story_id": "story_3b115a9684d2",
+      "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+      "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+      "primary_url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "755784ff97f3f994aa092bc3bd28be434a674a88",
-          "title": "Claude 是在大规模蛋白质序列数据上进行训练的",
-          "title_zh": "Claude 是在大规模蛋白质序列数据上进行训练的",
-          "title_en": null,
-          "title_original": "Claude 是在大规模蛋白质序列数据上进行训练的",
+          "id": "ca54700843ef108233ec9969a0891238ab62892a",
+          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
+          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-          "source": "xinmingtu.cn",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-18T13:39:00.759000Z"
-        },
-        {
-          "id": "e0cbe0a357ef3c965d665ba36ab95e9bab916181",
-          "title": "Claude 是在大规模蛋白质序列数据上进行训练的 / Claude was trained on protein sequences at scale",
-          "title_zh": "Claude 是在大规模蛋白质序列数据上进行训练的",
-          "title_en": "Claude was trained on protein sequences at scale",
-          "title_original": "Claude was trained on protein sequences at scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-18T03:47:43Z"
-        },
-        {
-          "id": "cf68eba1b02e60a1633aafeb239cde0f355fa176",
-          "title": "Claude接受过大规模蛋白质序列培训 / Claude was trained on protein sequences at scale",
-          "title_zh": "Claude接受过大规模蛋白质序列培训",
-          "title_en": "Claude was trained on protein sequences at scale",
-          "title_original": "Claude was trained on protein sequences at scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50541619",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-18T03:47:43Z"
+          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:59Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "xinmingtu.cn"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "755784ff97f3f994aa092bc3bd28be434a674a88",
-          "title": "Claude 是在大规模蛋白质序列数据上进行训练的",
-          "title_zh": "Claude 是在大规模蛋白质序列数据上进行训练的",
-          "title_en": null,
-          "title_original": "Claude 是在大规模蛋白质序列数据上进行训练的",
+          "id": "ca54700843ef108233ec9969a0891238ab62892a",
+          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
+          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-          "source": "xinmingtu.cn",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-18T13:39:00.759000Z"
-        },
-        {
-          "id": "e0cbe0a357ef3c965d665ba36ab95e9bab916181",
-          "title": "Claude 是在大规模蛋白质序列数据上进行训练的 / Claude was trained on protein sequences at scale",
-          "title_zh": "Claude 是在大规模蛋白质序列数据上进行训练的",
-          "title_en": "Claude was trained on protein sequences at scale",
-          "title_original": "Claude was trained on protein sequences at scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-18T03:47:43Z"
-        },
-        {
-          "id": "cf68eba1b02e60a1633aafeb239cde0f355fa176",
-          "title": "Claude接受过大规模蛋白质序列培训 / Claude was trained on protein sequences at scale",
-          "title_zh": "Claude接受过大规模蛋白质序列培训",
-          "title_en": "Claude was trained on protein sequences at scale",
-          "title_original": "Claude was trained on protein sequences at scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50541619",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-18T03:47:43Z"
+          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:59Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9903,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7353,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-18T03:47:43Z",
-      "latest_at": "2026-11-18T13:39:00.759000Z",
+      "earliest_at": "2026-11-17T18:00:59Z",
+      "latest_at": "2026-11-17T18:00:59Z",
       "primary_item": {
-        "id": "755784ff97f3f994aa092bc3bd28be434a674a88",
-        "title": "Claude 是在大规模蛋白质序列数据上进行训练的",
-        "title_zh": "Claude 是在大规模蛋白质序列数据上进行训练的",
-        "title_en": null,
-        "title_original": "Claude 是在大规模蛋白质序列数据上进行训练的",
+        "id": "ca54700843ef108233ec9969a0891238ab62892a",
+        "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+        "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
+        "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+        "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-        "source": "xinmingtu.cn",
-        "source_name": "Buzzing"
+        "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:22:24.843021Z"
+        "scored_at": "2026-11-18T15:19:26.882339Z"
       }
     }
   ]
