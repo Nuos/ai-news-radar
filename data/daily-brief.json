@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:21:17.074591Z",
+  "generated_at": "2026-11-18T04:19:48.061073Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8867,
-      "importance": 0.8867,
-      "importance_score": 0.8867,
+      "score": 0.8845,
+      "importance": 0.8845,
+      "importance_score": 0.8845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8705,
+        "recency": 0.8583,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
+      }
+    },
+    {
+      "story_id": "story_916b3373dca3",
+      "title": "Codex CLI 0.170.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9394,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+        "title": "Codex CLI 0.170.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.170.0",
+        "title_original": "Codex CLI 0.170.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -190,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9037,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -273,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8611,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -356,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8746,
+        "recency": 0.8624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -439,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7562,
+        "recency": 0.7456,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -522,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8738,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -557,30 +640,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
-      "story_id": "story_2750a132879a",
-      "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-      "url": "https://www.aibase.com/news/32372",
-      "primary_url": "https://www.aibase.com/news/32372",
+      "story_id": "story_3053d7bb272a",
+      "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+      "url": "https://www.aibase.com/news/32375",
+      "primary_url": "https://www.aibase.com/news/32375",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
+          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
           "title_en": null,
-          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32372",
+          "url": "https://www.aibase.com/news/32375",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T03:21:17.074591Z"
+          "published_at": "2026-11-18T04:19:48.061073Z"
         }
       ],
       "source_count": 1,
@@ -589,18 +672,18 @@
       ],
       "items": [
         {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
+          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
           "title_en": null,
-          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32372",
+          "url": "https://www.aibase.com/news/32375",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T03:21:17.074591Z"
+          "published_at": "2026-11-18T04:19:48.061073Z"
         }
       ],
       "item_count": 1,
@@ -621,17 +704,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T03:21:17.074591Z",
-      "latest_at": "2026-11-18T03:21:17.074591Z",
+      "earliest_at": "2026-11-18T04:19:48.061073Z",
+      "latest_at": "2026-11-18T04:19:48.061073Z",
       "primary_item": {
-        "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-        "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-        "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
+        "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+        "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
         "title_en": null,
-        "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32372",
+        "url": "https://www.aibase.com/news/32375",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -639,7 +722,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
+      }
+    },
+    {
+      "story_id": "story_15ceca82eaf2",
+      "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+      "url": "https://www.aibase.com/news/32376",
+      "primary_url": "https://www.aibase.com/news/32376",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
+          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "title_en": null,
+          "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T04:19:48.061073Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
+          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "title_en": null,
+          "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T04:19:48.061073Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T04:19:48.061073Z",
+      "latest_at": "2026-11-18T04:19:48.061073Z",
+      "primary_item": {
+        "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
+        "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+        "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+        "title_en": null,
+        "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32376",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -687,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8744,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,89 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
-      }
-    },
-    {
-      "story_id": "story_b82784b6441c",
-      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-      "url": "https://www.aibase.com/news/32373",
-      "primary_url": "https://www.aibase.com/news/32373",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_en": null,
-          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T03:21:17.074591Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_en": null,
-          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T03:21:17.074591Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T03:21:17.074591Z",
-      "latest_at": "2026-11-18T03:21:17.074591Z",
-      "primary_item": {
-        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "title_en": null,
-        "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32373",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -852,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8741,
+        "recency": 0.8619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,26 +970,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
-      "story_id": "story_7929613f9e33",
-      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-      "url": "https://www.aibase.com/news/32374",
-      "primary_url": "https://www.aibase.com/news/32374",
+      "story_id": "story_2750a132879a",
+      "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+      "url": "https://www.aibase.com/news/32372",
+      "primary_url": "https://www.aibase.com/news/32372",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
+          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
           "title_en": null,
-          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32374",
+          "url": "https://www.aibase.com/news/32372",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -919,14 +1002,14 @@
       ],
       "items": [
         {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
+          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
           "title_en": null,
-          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32374",
+          "url": "https://www.aibase.com/news/32372",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -935,15 +1018,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -954,14 +1037,14 @@
       "earliest_at": "2026-11-18T03:21:17.074591Z",
       "latest_at": "2026-11-18T03:21:17.074591Z",
       "primary_item": {
-        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-        "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
+        "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
         "title_en": null,
-        "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32374",
+        "url": "https://www.aibase.com/news/32372",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -969,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -1017,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8738,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1052,30 +1135,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
-      "story_id": "story_99a9ab2a5058",
-      "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-      "url": "https://www.aibase.com/news/32368",
-      "primary_url": "https://www.aibase.com/news/32368",
+      "story_id": "story_b82784b6441c",
+      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+      "url": "https://www.aibase.com/news/32373",
+      "primary_url": "https://www.aibase.com/news/32373",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e706587713054bad719dac00d9df6bb12895102",
-          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-          "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "title_en": null,
-          "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32368",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T02:23:18.982394Z"
+          "published_at": "2026-11-18T03:21:17.074591Z"
         }
       ],
       "source_count": 1,
@@ -1084,18 +1167,18 @@
       ],
       "items": [
         {
-          "id": "2e706587713054bad719dac00d9df6bb12895102",
-          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-          "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "title_en": null,
-          "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32368",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T02:23:18.982394Z"
+          "published_at": "2026-11-18T03:21:17.074591Z"
         }
       ],
       "item_count": 1,
@@ -1108,7 +1191,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1116,17 +1199,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T02:23:18.982394Z",
-      "latest_at": "2026-11-18T02:23:18.982394Z",
+      "earliest_at": "2026-11-18T03:21:17.074591Z",
+      "latest_at": "2026-11-18T03:21:17.074591Z",
       "primary_item": {
-        "id": "2e706587713054bad719dac00d9df6bb12895102",
-        "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-        "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+        "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
         "title_en": null,
-        "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+        "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32368",
+        "url": "https://www.aibase.com/news/32373",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1134,7 +1217,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -1182,15 +1265,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8738,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1217,30 +1300,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
-      "story_id": "story_ce8cf7981e96",
-      "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-      "url": "https://www.aibase.com/news/32369",
-      "primary_url": "https://www.aibase.com/news/32369",
+      "story_id": "story_7929613f9e33",
+      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+      "url": "https://www.aibase.com/news/32374",
+      "primary_url": "https://www.aibase.com/news/32374",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
-          "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-          "title_zh": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "title_en": null,
-          "title_original": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32369",
+          "url": "https://www.aibase.com/news/32374",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T02:23:18.982394Z"
+          "published_at": "2026-11-18T03:21:17.074591Z"
         }
       ],
       "source_count": 1,
@@ -1249,18 +1332,18 @@
       ],
       "items": [
         {
-          "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
-          "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-          "title_zh": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "title_en": null,
-          "title_original": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32369",
+          "url": "https://www.aibase.com/news/32374",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T02:23:18.982394Z"
+          "published_at": "2026-11-18T03:21:17.074591Z"
         }
       ],
       "item_count": 1,
@@ -1273,7 +1356,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1281,17 +1364,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T02:23:18.982394Z",
-      "latest_at": "2026-11-18T02:23:18.982394Z",
+      "earliest_at": "2026-11-18T03:21:17.074591Z",
+      "latest_at": "2026-11-18T03:21:17.074591Z",
       "primary_item": {
-        "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
-        "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-        "title_zh": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
         "title_en": null,
-        "title_original": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+        "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32369",
+        "url": "https://www.aibase.com/news/32374",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1299,7 +1382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -1347,15 +1430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.874,
+        "recency": 0.8618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1382,26 +1465,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
-      "story_id": "story_350058977332",
-      "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-      "url": "https://www.aibase.com/news/32371",
-      "primary_url": "https://www.aibase.com/news/32371",
+      "story_id": "story_99a9ab2a5058",
+      "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+      "url": "https://www.aibase.com/news/32368",
+      "primary_url": "https://www.aibase.com/news/32368",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ab993641f92b2e1a416afdf618f65007814de78c",
-          "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-          "title_zh": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
+          "id": "2e706587713054bad719dac00d9df6bb12895102",
+          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "title_en": null,
-          "title_original": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
+          "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32371",
+          "url": "https://www.aibase.com/news/32368",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1414,14 +1497,14 @@
       ],
       "items": [
         {
-          "id": "ab993641f92b2e1a416afdf618f65007814de78c",
-          "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-          "title_zh": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
+          "id": "2e706587713054bad719dac00d9df6bb12895102",
+          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "title_en": null,
-          "title_original": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
+          "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32371",
+          "url": "https://www.aibase.com/news/32368",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1430,15 +1513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1449,14 +1532,14 @@
       "earliest_at": "2026-11-18T02:23:18.982394Z",
       "latest_at": "2026-11-18T02:23:18.982394Z",
       "primary_item": {
-        "id": "ab993641f92b2e1a416afdf618f65007814de78c",
-        "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-        "title_zh": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
+        "id": "2e706587713054bad719dac00d9df6bb12895102",
+        "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+        "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
         "title_en": null,
-        "title_original": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
+        "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32371",
+        "url": "https://www.aibase.com/news/32368",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1464,7 +1547,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
@@ -1512,15 +1595,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8738,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1547,26 +1630,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     },
     {
-      "story_id": "story_96c7556ed3dc",
-      "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-      "url": "https://www.aibase.com/news/32370",
-      "primary_url": "https://www.aibase.com/news/32370",
+      "story_id": "story_ce8cf7981e96",
+      "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+      "url": "https://www.aibase.com/news/32369",
+      "primary_url": "https://www.aibase.com/news/32369",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "title_zh": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
+          "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
+          "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+          "title_zh": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
           "title_en": null,
-          "title_original": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
+          "title_original": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32370",
+          "url": "https://www.aibase.com/news/32369",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1579,14 +1662,14 @@
       ],
       "items": [
         {
-          "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "title_zh": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
+          "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
+          "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+          "title_zh": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
           "title_en": null,
-          "title_original": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
+          "title_original": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32370",
+          "url": "https://www.aibase.com/news/32369",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1595,15 +1678,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1614,14 +1697,14 @@
       "earliest_at": "2026-11-18T02:23:18.982394Z",
       "latest_at": "2026-11-18T02:23:18.982394Z",
       "primary_item": {
-        "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-        "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-        "title_zh": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
+        "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
+        "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
+        "title_zh": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
         "title_en": null,
-        "title_original": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
+        "title_original": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32370",
+        "url": "https://www.aibase.com/news/32369",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1629,146 +1712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
-      }
-    },
-    {
-      "story_id": "story_73075fb87a1f",
-      "title": "谷歌的AI回答功能导致搜索流量减少了40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026",
-      "primary_url": "https://revscope.co/blog/search-seo-geo-2026",
-      "source": "revscope.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ed9c4a06e8ef1b9112ace3e7144a51272c77fec8",
-          "title": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "title_zh": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "title_en": null,
-          "title_original": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://revscope.co/blog/search-seo-geo-2026",
-          "source": "revscope.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-18T02:46:55.378000Z"
-        },
-        {
-          "id": "a1bf690d6214e4ced7d797700a835f158def2224",
-          "title": "谷歌的AI回答功能导致搜索流量减少了40% / Google's AI answers reducing search traffic by 40%",
-          "title_zh": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "title_en": "Google's AI answers reducing search traffic by 40%",
-          "title_original": "Google's AI answers reducing search traffic by 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://revscope.co/blog/search-seo-geo-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-18T00:17:58Z"
-        },
-        {
-          "id": "c85640d630f4a796008cd9476c2131f35575dd1c",
-          "title": "Google 的 AI 答案将搜索流量减少 40% / Google's AI answers reducing search traffic by 40%",
-          "title_zh": "Google 的 AI 答案将搜索流量减少 40%",
-          "title_en": "Google's AI answers reducing search traffic by 40%",
-          "title_original": "Google's AI answers reducing search traffic by 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50540178",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-18T00:17:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "revscope.co"
-      ],
-      "items": [
-        {
-          "id": "ed9c4a06e8ef1b9112ace3e7144a51272c77fec8",
-          "title": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "title_zh": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "title_en": null,
-          "title_original": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://revscope.co/blog/search-seo-geo-2026",
-          "source": "revscope.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-18T02:46:55.378000Z"
-        },
-        {
-          "id": "a1bf690d6214e4ced7d797700a835f158def2224",
-          "title": "谷歌的AI回答功能导致搜索流量减少了40% / Google's AI answers reducing search traffic by 40%",
-          "title_zh": "谷歌的AI回答功能导致搜索流量减少了40%",
-          "title_en": "Google's AI answers reducing search traffic by 40%",
-          "title_original": "Google's AI answers reducing search traffic by 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://revscope.co/blog/search-seo-geo-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-18T00:17:58Z"
-        },
-        {
-          "id": "c85640d630f4a796008cd9476c2131f35575dd1c",
-          "title": "Google 的 AI 答案将搜索流量减少 40% / Google's AI answers reducing search traffic by 40%",
-          "title_zh": "Google 的 AI 答案将搜索流量减少 40%",
-          "title_en": "Google's AI answers reducing search traffic by 40%",
-          "title_original": "Google's AI answers reducing search traffic by 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50540178",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-18T00:17:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9918,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-18T00:17:58Z",
-      "latest_at": "2026-11-18T02:46:55.378000Z",
-      "primary_item": {
-        "id": "ed9c4a06e8ef1b9112ace3e7144a51272c77fec8",
-        "title": "谷歌的AI回答功能导致搜索流量减少了40%",
-        "title_zh": "谷歌的AI回答功能导致搜索流量减少了40%",
-        "title_en": null,
-        "title_original": "谷歌的AI回答功能导致搜索流量减少了40%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://revscope.co/blog/search-seo-geo-2026",
-        "source": "revscope.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T03:22:14.146063Z"
+        "scored_at": "2026-11-18T04:21:09.275580Z"
       }
     }
   ]
