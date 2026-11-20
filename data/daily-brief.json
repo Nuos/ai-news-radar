@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:18:43.948283Z",
+  "generated_at": "2026-11-20T20:18:48.348244Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9289,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
+      }
+    },
+    {
+      "story_id": "story_070a320473bf",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "primary_url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+          "title": "Combatting adversarial distillation",
+          "title_zh": null,
+          "title_en": "Combatting adversarial distillation",
+          "title_original": "Combatting adversarial distillation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+          "title": "Combatting adversarial distillation",
+          "title_zh": null,
+          "title_en": "Combatting adversarial distillation",
+          "title_original": "Combatting adversarial distillation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8616,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T10:00:00Z",
+      "latest_at": "2026-11-20T10:00:00Z",
+      "primary_item": {
+        "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+        "title": "Combatting adversarial distillation",
+        "title_zh": null,
+        "title_en": "Combatting adversarial distillation",
+        "title_original": "Combatting adversarial distillation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7566,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7566,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
+      }
+    },
+    {
+      "story_id": "story_4cb47a4337cf",
+      "title": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能 / Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "primary_url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a5c11918a234fb33203471958054421c3f53925",
+          "title": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能 / Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_zh": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能",
+          "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a5c11918a234fb33203471958054421c3f53925",
+          "title": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能 / Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_zh": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能",
+          "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7458,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "4a5c11918a234fb33203471958054421c3f53925",
+        "title": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能 / Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "title_zh": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能",
+        "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/inkling2mini",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -297,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7566,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -380,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7799,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -463,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -544,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7571,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "official",
@@ -579,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -627,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -708,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -741,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -789,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -822,7 +988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -870,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -903,7 +1069,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -951,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8411,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -984,7 +1150,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
+      }
+    },
+    {
+      "story_id": "story_c0f18f4c2f9b",
+      "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "primary_url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "source": "www.nbcnews.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": null,
+          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:44:01Z"
+        },
+        {
+          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50578794",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.nbcnews.com"
+      ],
+      "items": [
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": null,
+          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:44:01Z"
+        },
+        {
+          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50578794",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.569,
+      "importance": 0.569,
+      "importance_score": 0.569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.99,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T17:44:01Z",
+      "latest_at": "2026-11-20T19:36:57.777000Z",
+      "primary_item": {
+        "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+        "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+        "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+        "title_en": null,
+        "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+        "source": "www.nbcnews.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T20:20:02.714138Z"
+      }
+    },
+    {
+      "story_id": "story_a5b01830e540",
+      "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "primary_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "source": "www.motherjones.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "title_zh": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "title_en": null,
+          "title_original": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "www.motherjones.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.765000Z"
+        },
+        {
+          "id": "8852bcf4e318f4212a4f89acdcaa943cfc80f1c6",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_zh": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "title_en": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_original": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T16:59:27Z"
+        },
+        {
+          "id": "4871a63cd630f9eb6107ba5ccae6a56ca2a6a8f0",
+          "title": "谷歌员工告诉雇主不要惩罚不需要人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_zh": "谷歌员工告诉雇主不要惩罚不需要人工智能的学校",
+          "title_en": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_original": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50577901",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T16:59:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.motherjones.com"
+      ],
+      "items": [
+        {
+          "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "title_zh": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "title_en": null,
+          "title_original": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "www.motherjones.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.765000Z"
+        },
+        {
+          "id": "8852bcf4e318f4212a4f89acdcaa943cfc80f1c6",
+          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_zh": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+          "title_en": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_original": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T16:59:27Z"
+        },
+        {
+          "id": "4871a63cd630f9eb6107ba5ccae6a56ca2a6a8f0",
+          "title": "谷歌员工告诉雇主不要惩罚不需要人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_zh": "谷歌员工告诉雇主不要惩罚不需要人工智能的学校",
+          "title_en": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "title_original": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50577901",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T16:59:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.569,
+      "importance": 0.569,
+      "importance_score": 0.569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.99,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T16:59:27Z",
+      "latest_at": "2026-11-20T19:36:57.765000Z",
+      "primary_item": {
+        "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
+        "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+        "title_zh": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+        "title_en": null,
+        "title_original": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+        "source": "www.motherjones.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -1090,15 +1534,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5628,
-      "importance": 0.5628,
-      "importance_score": 0.5628,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9553,
+        "recency": 0.9416,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1123,7 +1567,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -1229,15 +1673,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.9272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1262,7 +1706,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -1310,15 +1754,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8411,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1343,7 +1787,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     },
     {
@@ -1449,15 +1893,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8948,
+        "recency": 0.8819,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1482,447 +1926,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
-      }
-    },
-    {
-      "story_id": "story_c0f18f4c2f9b",
-      "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-      "primary_url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:44:01Z"
-        },
-        {
-          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50578794",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T17:44:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:44:01Z"
-        },
-        {
-          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50578794",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T17:44:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9775,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T17:44:01Z",
-      "latest_at": "2026-11-20T17:44:01Z",
-      "primary_item": {
-        "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
-        "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-        "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-        "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-        "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
-      }
-    },
-    {
-      "story_id": "story_57636e4871f5",
-      "title": "Llms.txt 和 MCP 没有取得进展 / Llms.txt and MCP didn't move the needle",
-      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-      "primary_url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "dfa53cb3fed9d0596537d6a781b5bfa94820999d",
-          "title": "Llms.txt 和 MCP 没有取得进展 / Llms.txt and MCP didn't move the needle",
-          "title_zh": "Llms.txt 和 MCP 没有取得进展",
-          "title_en": "Llms.txt and MCP didn't move the needle",
-          "title_original": "Llms.txt and MCP didn't move the needle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T14:00:23Z"
-        },
-        {
-          "id": "ac5d89d77021b2fa2a3358b182b9585a669731f0",
-          "title": "Llms.txt 和 MCP 没有取得进展 / Llms.txt and MCP didn't move the needle",
-          "title_zh": "Llms.txt 和 MCP 没有取得进展",
-          "title_en": "Llms.txt and MCP didn't move the needle",
-          "title_original": "Llms.txt and MCP didn't move the needle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50574772",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T14:00:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dfa53cb3fed9d0596537d6a781b5bfa94820999d",
-          "title": "Llms.txt 和 MCP 没有取得进展 / Llms.txt and MCP didn't move the needle",
-          "title_zh": "Llms.txt 和 MCP 没有取得进展",
-          "title_en": "Llms.txt and MCP didn't move the needle",
-          "title_original": "Llms.txt and MCP didn't move the needle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T14:00:23Z"
-        },
-        {
-          "id": "ac5d89d77021b2fa2a3358b182b9585a669731f0",
-          "title": "Llms.txt 和 MCP 没有取得进展 / Llms.txt and MCP didn't move the needle",
-          "title_zh": "Llms.txt 和 MCP 没有取得进展",
-          "title_en": "Llms.txt and MCP didn't move the needle",
-          "title_original": "Llms.txt and MCP didn't move the needle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50574772",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T14:00:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9262,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T14:00:23Z",
-      "latest_at": "2026-11-20T14:00:23Z",
-      "primary_item": {
-        "id": "dfa53cb3fed9d0596537d6a781b5bfa94820999d",
-        "title": "Llms.txt 和 MCP 没有取得进展 / Llms.txt and MCP didn't move the needle",
-        "title_zh": "Llms.txt 和 MCP 没有取得进展",
-        "title_en": "Llms.txt and MCP didn't move the needle",
-        "title_original": "Llms.txt and MCP didn't move the needle",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
-      }
-    },
-    {
-      "story_id": "story_93fefdd1d817",
-      "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-      "url": "https://git-aarvin.github.io/mei",
-      "primary_url": "https://git-aarvin.github.io/mei",
-      "source": "git-aarvin.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": null,
-          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "git-aarvin.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T02:03:27.774000Z"
-        },
-        {
-          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T23:35:35Z"
-        },
-        {
-          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
-          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50568130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T23:35:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "git-aarvin.github.io",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": null,
-          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "git-aarvin.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T02:03:27.774000Z"
-        },
-        {
-          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T23:35:35Z"
-        },
-        {
-          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
-          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50568130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T23:35:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7795,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T23:35:35Z",
-      "latest_at": "2026-11-20T02:03:27.774000Z",
-      "primary_item": {
-        "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-        "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "title_en": null,
-        "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://git-aarvin.github.io/mei",
-        "source": "git-aarvin.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
-      }
-    },
-    {
-      "story_id": "story_7586f7d8647c",
-      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-      "url": "https://www.aibase.com/news/32436",
-      "primary_url": "https://www.aibase.com/news/32436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T07:19:45.866892Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T07:19:45.866892Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8411,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T07:19:45.866892Z",
-      "latest_at": "2026-11-20T07:19:45.866892Z",
-      "primary_item": {
-        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_en": null,
-        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T19:19:37.485451Z"
+        "scored_at": "2026-11-20T20:20:02.714138Z"
       }
     }
   ]
