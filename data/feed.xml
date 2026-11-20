@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 13:18:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 14:19:10 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.171.0</title>
@@ -14,6 +14,22 @@
 <description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+<link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+<guid isPermaLink="true">https://huggingface.co/blog/harness-adapters-at-scale</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host</title>
+<link>https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
 </item>
 <item>
 <title>在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API</title>
@@ -32,14 +48,6 @@
 <pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
-<title>Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available</title>
-<link>https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
-</item>
-<item>
 <title>沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</guid>
@@ -56,12 +64,12 @@
 <pubDate>Fri, 20 Nov 2026 10:18:49 +0000</pubDate>
 </item>
 <item>
-<title>红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available</title>
-<link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
+<title>Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available</title>
+<link>https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
 </item>
 <item>
 <title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
@@ -70,6 +78,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 20 Nov 2026 10:18:49 +0000</pubDate>
+</item>
+<item>
+<title>红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available</title>
+<link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
 <title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
@@ -136,14 +152,6 @@
 <pubDate>Fri, 20 Nov 2026 11:36:41 +0000</pubDate>
 </item>
 <item>
-<title>蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&amp;#8217;s AI server satellites in 2029</title>
-<link>https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Thu, 19 Nov 2026 13:53:38 +0000</pubDate>
-</item>
-<item>
 <title>政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]</title>
 <link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
@@ -158,14 +166,6 @@
 <description>www.reuters.com</description>
 <category>多源热议</category>
 <pubDate>Thu, 19 Nov 2026 18:19:45 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Neon 荣登《Models Engineering》指数榜首</title>
-<link>https://git-aarvin.github.io/mei</link>
-<guid isPermaLink="true">https://git-aarvin.github.io/mei</guid>
-<description>git-aarvin.github.io</description>
-<category>多源热议</category>
-<pubDate>Fri, 20 Nov 2026 02:03:27 +0000</pubDate>
 </item>
 </channel>
 </rss>

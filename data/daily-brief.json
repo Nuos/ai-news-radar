@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:18:42.530229Z",
+  "generated_at": "2026-11-20T14:19:10.050149Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8251,
+        "recency": 0.8132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
+      }
+    },
+    {
+      "story_id": "story_a7210f7c64d5",
+      "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "primary_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_zh": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本",
+          "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_original": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_zh": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本",
+          "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_original": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "25cde7d66733c018c6413fe35d399536536197d4",
+        "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "title_zh": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本",
+        "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "title_original": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:20:09.827037Z"
+      }
+    },
+    {
+      "story_id": "story_8bfa75615929",
+      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T02:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T02:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8382,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T02:06:01Z",
+      "latest_at": "2026-11-20T02:06:01Z",
+      "primary_item": {
+        "id": "4153f14f8744315b507c166df3e939c015d28122",
+        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+        "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+        "title_en": "GitHub Desktop now supports multiple accounts per host",
+        "title_original": "GitHub Desktop now supports multiple accounts per host",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -131,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7566,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -214,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8256,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
-      }
-    },
-    {
-      "story_id": "story_99c3c3718f01",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.766,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7458,
+        "recency": 0.735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,30 +580,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
-      "story_id": "story_98815cd1b0b3",
-      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "story_id": "story_99c3c3718f01",
+      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
+          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "source_count": 1,
@@ -529,31 +612,31 @@
       ],
       "items": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
+          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7656,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,17 +645,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
+      "earliest_at": "2026-11-19T18:50:57Z",
+      "latest_at": "2026-11-19T18:50:57Z",
       "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-        "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-        "title_en": "Red Hat Enterprise Linux runner images now generally available",
-        "title_original": "Red Hat Enterprise Linux runner images now generally available",
+        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+        "title_zh": "Azure DevOps 的企业实时迁移全面可用",
+        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -628,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +745,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
+      }
+    },
+    {
+      "story_id": "story_98815cd1b0b3",
+      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
+          "title_en": "Red Hat Enterprise Linux runner images now generally available",
+          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
+          "title_en": "Red Hat Enterprise Linux runner images now generally available",
+          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7545,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T18:48:46Z",
+      "latest_at": "2026-11-19T18:48:46Z",
+      "primary_item": {
+        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+        "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
+        "title_en": "Red Hat Enterprise Linux runner images now generally available",
+        "title_original": "Red Hat Enterprise Linux runner images now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -710,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -792,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.9177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -874,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.9177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -985,15 +1151,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6155,
-      "importance": 0.6155,
-      "importance_score": 0.6155,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7457,
+        "recency": 0.7349,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,7 +1184,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -1066,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9172,
+        "recency": 0.904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -1263,15 +1429,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5761,
-      "importance": 0.5761,
-      "importance_score": 0.5761,
+      "score": 0.5741,
+      "importance": 0.5741,
+      "importance_score": 0.5741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7515,
+        "recency": 0.7406,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1296,7 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -1344,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9172,
+        "recency": 0.904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,7 +1544,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -1484,15 +1650,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9757,
+        "recency": 0.9616,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1517,116 +1683,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
-      }
-    },
-    {
-      "story_id": "story_2ccb223f037c",
-      "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "primary_url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e515e6812147526ce34913aa88af16aa313b391d",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T13:53:38Z"
-        },
-        {
-          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T13:53:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "e515e6812147526ce34913aa88af16aa313b391d",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T13:53:38Z"
-        },
-        {
-          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T13:53:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7131,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T13:53:38Z",
-      "latest_at": "2026-11-19T13:53:38Z",
-      "primary_item": {
-        "id": "e515e6812147526ce34913aa88af16aa313b391d",
-        "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-        "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -1732,15 +1789,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9177,
+        "recency": 0.9045,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1765,7 +1822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     },
     {
@@ -1819,7 +1876,7 @@
           "published_at": "2026-11-19T17:02:40Z"
         },
         {
-          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
+          "id": "7b9eb01979613b46d47cffcacba7beeb43a62aec",
           "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
           "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
           "title_en": "Anthropic’s Nasdaq debut",
@@ -1827,15 +1884,16 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-19T17:02:40Z"
         }
       ],
       "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.reuters.com"
       ],
@@ -1883,7 +1941,7 @@
           "published_at": "2026-11-19T17:02:40Z"
         },
         {
-          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
+          "id": "7b9eb01979613b46d47cffcacba7beeb43a62aec",
           "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
           "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
           "title_en": "Anthropic’s Nasdaq debut",
@@ -1891,23 +1949,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-19T17:02:40Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5526,
-      "importance": 0.5526,
-      "importance_score": 0.5526,
+      "score": 0.5507,
+      "importance": 0.5507,
+      "importance_score": 0.5507,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7602,
+        "recency": 0.7493,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1932,146 +1990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
-      }
-    },
-    {
-      "story_id": "story_93fefdd1d817",
-      "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-      "url": "https://git-aarvin.github.io/mei",
-      "primary_url": "https://git-aarvin.github.io/mei",
-      "source": "git-aarvin.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": null,
-          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "git-aarvin.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T02:03:27.774000Z"
-        },
-        {
-          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T23:35:35Z"
-        },
-        {
-          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
-          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50568130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T23:35:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "git-aarvin.github.io",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": null,
-          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "git-aarvin.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T02:03:27.774000Z"
-        },
-        {
-          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T23:35:35Z"
-        },
-        {
-          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
-          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50568130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T23:35:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.85,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T23:35:35Z",
-      "latest_at": "2026-11-20T02:03:27.774000Z",
-      "primary_item": {
-        "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-        "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "title_en": null,
-        "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://git-aarvin.github.io/mei",
-        "source": "git-aarvin.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T13:20:09.546014Z"
+        "scored_at": "2026-11-20T14:20:09.827037Z"
       }
     }
   ]
