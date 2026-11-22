@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T12:22:04.158097Z",
+  "generated_at": "2026-11-22T13:18:03.067777Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_b2d08d09cf5f",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,7 +139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -245,15 +245,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.979,
+        "recency": 0.9659,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -278,44 +278,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
-      "story_id": "story_cc041fce03a3",
-      "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-      "url": "https://arxiv.org/abs/2606.14068",
-      "primary_url": "https://arxiv.org/abs/2606.14068",
+      "story_id": "story_1129c6bc014c",
+      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "primary_url": "https://simonwillison.net/2026/Nov/21/muru",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "30761964b8b8782366bf4f31cc60d35c0fb0e4dd",
-          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
-          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2606.14068",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T09:18:36Z"
+          "published_at": "2026-11-22T09:57:01Z"
         },
         {
-          "id": "b5fa9c5068533196f112b027b70daa0967d0fbc1",
-          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
-          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50597743",
+          "url": "https://news.ycombinator.com/item?id=50597959",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T09:18:36Z"
+          "published_at": "2026-11-22T09:57:01Z"
         }
       ],
       "source_count": 2,
@@ -325,62 +325,62 @@
       ],
       "items": [
         {
-          "id": "30761964b8b8782366bf4f31cc60d35c0fb0e4dd",
-          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
-          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2606.14068",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T09:18:36Z"
+          "published_at": "2026-11-22T09:57:01Z"
         },
         {
-          "id": "b5fa9c5068533196f112b027b70daa0967d0fbc1",
-          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
-          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50597743",
+          "url": "https://news.ycombinator.com/item?id=50597959",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T09:18:36Z"
+          "published_at": "2026-11-22T09:57:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9568,
+        "recency": 0.9528,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T09:18:36Z",
-      "latest_at": "2026-11-22T09:18:36Z",
+      "earliest_at": "2026-11-22T09:57:01Z",
+      "latest_at": "2026-11-22T09:57:01Z",
       "primary_item": {
-        "id": "30761964b8b8782366bf4f31cc60d35c0fb0e4dd",
-        "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-        "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
-        "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-        "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
+        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+        "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2606.14068",
+        "url": "https://simonwillison.net/2026/Nov/21/muru",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -388,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -465,15 +465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9317,
+        "recency": 0.9192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -575,15 +575,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9069,
+        "recency": 0.8947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -685,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9016,
+        "recency": 0.8895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -718,7 +718,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
+      }
+    },
+    {
+      "story_id": "story_cc041fce03a3",
+      "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "url": "https://arxiv.org/abs/2606.14068",
+      "primary_url": "https://arxiv.org/abs/2606.14068",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "30761964b8b8782366bf4f31cc60d35c0fb0e4dd",
+          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
+          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2606.14068",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T09:18:36Z"
+        },
+        {
+          "id": "b5fa9c5068533196f112b027b70daa0967d0fbc1",
+          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
+          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50597743",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T09:18:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "30761964b8b8782366bf4f31cc60d35c0fb0e4dd",
+          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
+          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2606.14068",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T09:18:36Z"
+        },
+        {
+          "id": "b5fa9c5068533196f112b027b70daa0967d0fbc1",
+          "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
+          "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50597743",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T09:18:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.944,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T09:18:36Z",
+      "latest_at": "2026-11-22T09:18:36Z",
+      "primary_item": {
+        "id": "30761964b8b8782366bf4f31cc60d35c0fb0e4dd",
+        "title": "对男性更严厉？评估冲突中性别不对称道德框架的LLM / Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "title_zh": "对男性更严厉？评估冲突中性别不对称道德框架的LLM",
+        "title_en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "title_original": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2606.14068",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -795,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.8633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -905,15 +1015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -938,7 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     },
     {
@@ -1015,15 +1125,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8265,
+        "recency": 0.8154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1048,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T12:23:19.480200Z"
+        "scored_at": "2026-11-22T13:19:01.720752Z"
       }
     }
   ]
