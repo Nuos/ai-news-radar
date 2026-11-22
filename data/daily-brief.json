@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T06:25:32.533609Z",
+  "generated_at": "2026-11-22T07:18:31.973757Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "items": [
     {
       "story_id": "story_37d59c42c05f",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9881,
+        "recency": 0.9756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -110,7 +110,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T06:26:38.752920Z"
+        "scored_at": "2026-11-22T07:19:18.760846Z"
+      }
+    },
+    {
+      "story_id": "story_5bed5655c58f",
+      "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T05:11:43Z"
+        },
+        {
+          "id": "cefa3207114b8c3cd735c7f8723bc844fceaaf61",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50596511",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T05:11:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T05:11:43Z"
+        },
+        {
+          "id": "cefa3207114b8c3cd735c7f8723bc844fceaaf61",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50596511",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T05:11:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9699,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T05:11:43Z",
+      "latest_at": "2026-11-22T05:11:43Z",
+      "primary_item": {
+        "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+        "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+        "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+        "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+        "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T07:19:18.760846Z"
       }
     },
     {
@@ -187,15 +297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9534,
+        "recency": 0.9414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -220,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T06:26:38.752920Z"
+        "scored_at": "2026-11-22T07:19:18.760846Z"
       }
     },
     {
@@ -228,11 +338,11 @@
       "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
       "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
       "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "77e96e967a49832a0041fb0cb604948e2049a8bf",
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
           "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
           "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
           "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
@@ -240,9 +350,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-22T03:06:35Z"
         },
         {
@@ -262,12 +372,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "77e96e967a49832a0041fb0cb604948e2049a8bf",
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
           "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
           "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
           "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
@@ -275,9 +385,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-22T03:06:35Z"
         },
         {
@@ -297,15 +407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9532,
+        "recency": 0.9412,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -315,7 +425,7 @@
       "earliest_at": "2026-11-22T03:06:35Z",
       "latest_at": "2026-11-22T03:06:35Z",
       "primary_item": {
-        "id": "77e96e967a49832a0041fb0cb604948e2049a8bf",
+        "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
         "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
         "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
         "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
@@ -323,14 +433,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T06:26:38.752920Z"
+        "scored_at": "2026-11-22T07:19:18.760846Z"
       }
     },
     {
@@ -407,15 +517,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9006,
+        "recency": 0.8891,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -440,7 +550,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T06:26:38.752920Z"
+        "scored_at": "2026-11-22T07:19:18.760846Z"
       }
     },
     {
@@ -517,15 +627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8702,
+        "recency": 0.8591,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -550,7 +660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T06:26:38.752920Z"
+        "scored_at": "2026-11-22T07:19:18.760846Z"
       }
     }
   ]
