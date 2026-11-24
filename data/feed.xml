@@ -5,8 +5,16 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 16:20:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 17:18:09 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+<link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+</item>
 <item>
 <title>Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.</title>
 <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</link>
@@ -14,6 +22,14 @@
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com</title>
+<link>https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI and Cisco introduce Shirudo</title>
@@ -48,12 +64,12 @@
 <pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
 </item>
 <item>
-<title>通过代理和形式验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification</title>
-<link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
-<guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+<title>腾讯混元发布并开源Hy MT3</title>
+<link>https://www.aibase.com/news/32503</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32503</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 10:18:24 +0000</pubDate>
 </item>
 <item>
 <title>秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack</title>
@@ -62,22 +78,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 18:32:59 +0000</pubDate>
-</item>
-<item>
-<title>更适合您的 Google 搜索 / A more tailored Google Search that’s uniquely yours</title>
-<link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元发布并开源Hy MT3</title>
-<link>https://www.aibase.com/news/32503</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32503</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 10:18:24 +0000</pubDate>
 </item>
 <item>
 <title>百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆</title>
@@ -136,6 +136,14 @@
 <pubDate>Tue, 24 Nov 2026 14:28:51 +0000</pubDate>
 </item>
 <item>
+<title>Tidal 禁止 AI 生成的音乐</title>
+<link>https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</link>
+<guid isPermaLink="true">https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</guid>
+<description>variety.com</description>
+<category>多源热议</category>
+<pubDate>Tue, 24 Nov 2026 17:08:49 +0000</pubDate>
+</item>
+<item>
 <title>LLM 代理是为其母公司工作的，而不是为你工作的</title>
 <link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</link>
 <guid isPermaLink="true">https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</guid>
@@ -152,20 +160,12 @@
 <pubDate>Tue, 24 Nov 2026 06:28:07 +0000</pubDate>
 </item>
 <item>
-<title>告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力</title>
-<link>https://www.aibase.com/news/32496</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32496</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:28:07 +0000</pubDate>
-</item>
-<item>
-<title>人工智能中的杰文斯悖论：更便宜的代币无法支付资本支出 / Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex</title>
-<link>https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex</link>
-<guid isPermaLink="true">https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex</guid>
-<description>Hacker News · 24h最热</description>
+<title>Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</title>
+<link>https://jobs.ashbyhq.com/weave-os</link>
+<guid isPermaLink="true">https://jobs.ashbyhq.com/weave-os</guid>
+<description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 09:39:50 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 17:00:55 +0000</pubDate>
 </item>
 </channel>
 </rss>
