@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-11-24T00:35:27.133459Z",
+  "generated_at": "2026-11-24T01:19:23.045193Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_50849ba4d70a",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "primary_url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "title_zh": null,
+          "title_en": "OpenAI and Cisco introduce Shirudo",
+          "title_original": "OpenAI and Cisco introduce Shirudo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T21:20:00Z"
+        },
+        {
+          "id": "99028839716403f809f4ac0f46cec51f90006bdf",
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title_zh": null,
+          "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-23T21:30:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "title_zh": null,
+          "title_en": "OpenAI and Cisco introduce Shirudo",
+          "title_original": "OpenAI and Cisco introduce Shirudo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T21:20:00Z"
+        },
+        {
+          "id": "99028839716403f809f4ac0f46cec51f90006bdf",
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title_zh": null,
+          "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-23T21:30:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8669,
+      "importance": 0.8669,
+      "importance_score": 0.8669,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.944,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T21:20:00Z",
+      "latest_at": "2026-11-23T21:30:41Z",
+      "primary_item": {
+        "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "title_zh": null,
+        "title_en": "OpenAI and Cisco introduce Shirudo",
+        "title_original": "OpenAI and Cisco introduce Shirudo",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-shirudo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T01:29:14.742486Z"
+      }
+    },
     {
       "story_id": "story_163fbb440649",
       "title": "Codex CLI 0.172.0",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8645,
-      "importance": 0.8645,
-      "importance_score": 0.8645,
+      "score": 0.8626,
+      "importance": 0.8626,
+      "importance_score": 0.8626,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9915,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9006,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
-      }
-    },
-    {
-      "story_id": "story_50849ba4d70a",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "primary_url": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "title_zh": null,
-          "title_en": "OpenAI and Cisco introduce Shirudo",
-          "title_original": "OpenAI and Cisco introduce Shirudo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T21:20:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "title_zh": null,
-          "title_en": "OpenAI and Cisco introduce Shirudo",
-          "title_original": "OpenAI and Cisco introduce Shirudo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T21:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.954,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T21:20:00Z",
-      "latest_at": "2026-11-23T21:20:00Z",
-      "primary_item": {
-        "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-        "title": "OpenAI and Cisco introduce Shirudo",
-        "title_zh": null,
-        "title_en": "OpenAI and Cisco introduce Shirudo",
-        "title_original": "OpenAI and Cisco introduce Shirudo",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-shirudo",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9443,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -380,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8962,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -463,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8961,
+        "recency": 0.8867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -546,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9165,
+        "recency": 0.9068,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -629,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.787,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,7 +694,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
+      }
+    },
+    {
+      "story_id": "story_bc6aadb50411",
+      "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+      "url": "https://www.aibase.com/news/32482",
+      "primary_url": "https://www.aibase.com/news/32482",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
+          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "title_en": null,
+          "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T01:19:23.045193Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
+          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "title_en": null,
+          "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T01:19:23.045193Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T01:19:23.045193Z",
+      "latest_at": "2026-11-24T01:19:23.045193Z",
+      "primary_item": {
+        "id": "859b25e77f61497cea86cd3642089506835cd7cf",
+        "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "title_en": null,
+        "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32482",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -712,15 +824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8767,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -747,7 +859,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -795,15 +907,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.787,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -830,30 +942,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
-      "story_id": "story_03c1988edf68",
-      "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-      "url": "https://www.aibase.com/news/32479",
-      "primary_url": "https://www.aibase.com/news/32479",
+      "story_id": "story_683829515245",
+      "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+      "url": "https://www.aibase.com/news/32481",
+      "primary_url": "https://www.aibase.com/news/32481",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "title_zh": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
           "title_en": null,
-          "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "title_original": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32479",
+          "url": "https://www.aibase.com/news/32481",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T10:19:27.412128Z"
+          "published_at": "2026-11-24T01:19:23.045193Z"
         }
       ],
       "source_count": 1,
@@ -862,48 +974,49 @@
       ],
       "items": [
         {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "title_zh": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
           "title_en": null,
-          "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "title_original": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32479",
+          "url": "https://www.aibase.com/news/32481",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T10:19:27.412128Z"
+          "published_at": "2026-11-24T01:19:23.045193Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-23T10:19:27.412128Z",
-      "latest_at": "2026-11-23T10:19:27.412128Z",
+      "earliest_at": "2026-11-24T01:19:23.045193Z",
+      "latest_at": "2026-11-24T01:19:23.045193Z",
       "primary_item": {
-        "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-        "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-        "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+        "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+        "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+        "title_zh": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
         "title_en": null,
-        "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+        "title_original": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32479",
+        "url": "https://www.aibase.com/news/32481",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -911,7 +1024,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -959,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8158,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -994,26 +1107,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
-      "story_id": "story_aac0fa1eb929",
-      "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-      "url": "https://www.aibase.com/news/32480",
-      "primary_url": "https://www.aibase.com/news/32480",
+      "story_id": "story_03c1988edf68",
+      "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+      "url": "https://www.aibase.com/news/32479",
+      "primary_url": "https://www.aibase.com/news/32479",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-          "title_zh": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
+          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
           "title_en": null,
-          "title_original": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32480",
+          "url": "https://www.aibase.com/news/32479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1026,14 +1139,14 @@
       ],
       "items": [
         {
-          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-          "title_zh": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
+          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+          "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
           "title_en": null,
-          "title_original": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32480",
+          "url": "https://www.aibase.com/news/32479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1042,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,14 +1173,14 @@
       "earliest_at": "2026-11-23T10:19:27.412128Z",
       "latest_at": "2026-11-23T10:19:27.412128Z",
       "primary_item": {
-        "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-        "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-        "title_zh": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+        "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
+        "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+        "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
         "title_en": null,
-        "title_original": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+        "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32480",
+        "url": "https://www.aibase.com/news/32479",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1075,88 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
-      }
-    },
-    {
-      "story_id": "story_e3b3d999fb3a",
-      "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-      "url": "https://www.aibase.com/news/32477",
-      "primary_url": "https://www.aibase.com/news/32477",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "title_zh": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "title_en": null,
-          "title_original": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T09:24:15.867520Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "title_zh": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "title_en": null,
-          "title_original": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T09:24:15.867520Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8031,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T09:24:15.867520Z",
-      "latest_at": "2026-11-23T09:24:15.867520Z",
-      "primary_item": {
-        "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-        "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-        "title_zh": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-        "title_en": null,
-        "title_original": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32477",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -1233,15 +1265,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6674,
-      "importance": 0.6674,
-      "importance_score": 0.6674,
+      "score": 0.6655,
+      "importance": 0.6655,
+      "importance_score": 0.6655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9646,
+        "recency": 0.9545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1267,7 +1299,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
+      }
+    },
+    {
+      "story_id": "story_aac0fa1eb929",
+      "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+      "url": "https://www.aibase.com/news/32480",
+      "primary_url": "https://www.aibase.com/news/32480",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
+          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "title_zh": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "title_en": null,
+          "title_original": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32480",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T10:19:27.412128Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
+          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "title_zh": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "title_en": null,
+          "title_original": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32480",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T10:19:27.412128Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8053,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-23T10:19:27.412128Z",
+      "latest_at": "2026-11-23T10:19:27.412128Z",
+      "primary_item": {
+        "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
+        "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+        "title_zh": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+        "title_en": null,
+        "title_original": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32480",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T01:29:14.742486Z"
+      }
+    },
+    {
+      "story_id": "story_e3b3d999fb3a",
+      "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+      "url": "https://www.aibase.com/news/32477",
+      "primary_url": "https://www.aibase.com/news/32477",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
+          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "title_zh": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "title_en": null,
+          "title_original": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32477",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T09:24:15.867520Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
+          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "title_zh": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "title_en": null,
+          "title_original": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32477",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T09:24:15.867520Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7946,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-23T09:24:15.867520Z",
+      "latest_at": "2026-11-23T09:24:15.867520Z",
+      "primary_item": {
+        "id": "c24ae4325f31c09636c53104e259e9ded470d681",
+        "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+        "title_zh": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+        "title_en": null,
+        "title_original": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32477",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -1315,15 +1509,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8031,
+        "recency": 0.7946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,7 +1542,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -1396,15 +1590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7918,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1429,169 +1623,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
-      }
-    },
-    {
-      "story_id": "story_eaadccb9623c",
-      "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-      "url": "https://www.aibase.com/news/32475",
-      "primary_url": "https://www.aibase.com/news/32475",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
-          "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "title_zh": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "title_en": null,
-          "title_original": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32475",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:25:39.048110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
-          "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "title_zh": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "title_en": null,
-          "title_original": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32475",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:25:39.048110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7918,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T08:25:39.048110Z",
-      "latest_at": "2026-11-23T08:25:39.048110Z",
-      "primary_item": {
-        "id": "3bad28831d325f4df9604d9b4aef585f4012eebc",
-        "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-        "title_zh": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-        "title_en": null,
-        "title_original": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32475",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
-      }
-    },
-    {
-      "story_id": "story_ef12dbc5c60d",
-      "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-      "url": "https://www.aibase.com/news/32471",
-      "primary_url": "https://www.aibase.com/news/32471",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
-          "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "title_zh": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "title_en": null,
-          "title_original": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:25:39.048110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
-          "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "title_zh": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "title_en": null,
-          "title_original": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:25:39.048110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7918,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T08:25:39.048110Z",
-      "latest_at": "2026-11-23T08:25:39.048110Z",
-      "primary_item": {
-        "id": "28725864c661645c9a36a80b6a7d44093531c2d1",
-        "title": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-        "title_zh": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-        "title_en": null,
-        "title_original": "“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32471",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     },
     {
@@ -1668,15 +1700,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9789,
+        "recency": 0.9686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1701,7 +1733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T00:36:34.772255Z"
+        "scored_at": "2026-11-24T01:29:14.742486Z"
       }
     }
   ]
