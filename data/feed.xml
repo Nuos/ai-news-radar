@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 18:20:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 19:18:09 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
@@ -48,6 +48,14 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories</title>
+<link>https://openai.com/index/ifood</link>
+<guid isPermaLink="true">https://openai.com/index/ifood</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview</title>
 <link>https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</guid>
@@ -62,14 +70,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 10:18:24 +0000</pubDate>
-</item>
-<item>
-<title>秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack</title>
-<link>https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 18:32:59 +0000</pubDate>
 </item>
 <item>
 <title>百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆</title>
@@ -104,17 +104,17 @@
 <pubDate>Mon, 23 Nov 2026 23:39:44 +0000</pubDate>
 </item>
 <item>
+<title>麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”</title>
+<link>https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist</link>
+<guid isPermaLink="true">https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist</guid>
+<description>novaramedia.com</description>
+<category>多源热议</category>
+<pubDate>Tue, 24 Nov 2026 18:45:00 +0000</pubDate>
+</item>
+<item>
 <title>修补提速也是一种风险：微软总裁警告“完美风暴”还会再来</title>
 <link>https://www.aibase.com/news/32497</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32497</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 07:20:10 +0000</pubDate>
-</item>
-<item>
-<title>探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同</title>
-<link>https://www.aibase.com/news/32499</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32499</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 07:20:10 +0000</pubDate>
@@ -126,6 +126,14 @@
 <description>www.bloomberg.com</description>
 <category>多源热议</category>
 <pubDate>Tue, 24 Nov 2026 14:28:51 +0000</pubDate>
+</item>
+<item>
+<title>探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同</title>
+<link>https://www.aibase.com/news/32499</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32499</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 07:20:10 +0000</pubDate>
 </item>
 <item>
 <title>Tidal 禁止 AI 生成的音乐</title>
@@ -152,20 +160,12 @@
 <pubDate>Tue, 24 Nov 2026 13:40:57 +0000</pubDate>
 </item>
 <item>
-<title>麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'</title>
-<link>https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist</link>
-<guid isPermaLink="true">https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist</guid>
-<description>Hacker News (黑客新闻)</description>
+<title>OpenAI 透露他们在 Anthropic 之前解决了 VP ≠ VNP / OpenAI Reveals they solved VP ≠ VNP before Anthropic</title>
+<link>https://news.ycombinator.com/item?id=50632756</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=50632756</guid>
+<description>hackernews</description>
 <category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 17:10:45 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic的股价低于其IPO发行价</title>
-<link>https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa</link>
-<guid isPermaLink="true">https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa</guid>
-<description>www.msn.com</description>
-<category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 16:21:08 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 18:55:12 +0000</pubDate>
 </item>
 </channel>
 </rss>
