@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-11-24T23:18:16.990023Z",
+  "generated_at": "2026-11-25T00:38:41.092824Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_94d1586a7d4f",
+      "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T13:00:00Z"
+        },
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T13:00:00Z"
+        },
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8571,
+      "importance": 0.8571,
+      "importance_score": 0.8571,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8452,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:00:00Z",
+      "latest_at": "2026-11-24T23:32:43.781000Z",
+      "primary_item": {
+        "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+        "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T00:39:35.813520Z"
+      }
+    },
     {
       "story_id": "story_c2e19fb7f5b4",
       "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9073,
+        "recency": 0.8899,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
-      }
-    },
-    {
-      "story_id": "story_94d1586a7d4f",
-      "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
-          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
-          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8617,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T13:00:00Z",
-      "latest_at": "2026-11-24T13:00:00Z",
-      "primary_item": {
-        "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-        "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
-        "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -214,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8999,
+        "recency": 0.8826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9088,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,90 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
-      }
-    },
-    {
-      "story_id": "story_163fbb440649",
-      "title": "Codex CLI 0.172.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "Codex CLI 0.172.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.172.0",
-          "title_original": "Codex CLI 0.172.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "Codex CLI 0.172.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.172.0",
-          "title_original": "Codex CLI 0.172.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-        "title": "Codex CLI 0.172.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.172.0",
-        "title_original": "Codex CLI 0.172.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -463,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,90 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
-      }
-    },
-    {
-      "story_id": "story_5565a9b5f458",
-      "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
-      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "primary_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d8f67b8fdef8cc970ab209b5f58bfaad7c3388f7",
-          "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
-          "title_zh": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜",
-          "title_en": "Clay helps sales teams win with Codex and ChatGPT",
-          "title_original": "Clay helps sales teams win with Codex and ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d8f67b8fdef8cc970ab209b5f58bfaad7c3388f7",
-          "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
-          "title_zh": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜",
-          "title_en": "Clay helps sales teams win with Codex and ChatGPT",
-          "title_original": "Clay helps sales teams win with Codex and ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "d8f67b8fdef8cc970ab209b5f58bfaad7c3388f7",
-        "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
-        "title_zh": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜",
-        "title_en": "Clay helps sales teams win with Codex and ChatGPT",
-        "title_original": "Clay helps sales teams win with Codex and ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -629,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,90 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
-      }
-    },
-    {
-      "story_id": "story_b0f72f7fca51",
-      "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "primary_url": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
-          "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-          "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
-          "title_en": "How Intentful uses dots to make more time for growth",
-          "title_original": "How Intentful uses dots to make more time for growth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/intentful-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
-          "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-          "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
-          "title_en": "How Intentful uses dots to make more time for growth",
-          "title_original": "How Intentful uses dots to make more time for growth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/intentful-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
-        "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-        "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
-        "title_en": "How Intentful uses dots to make more time for growth",
-        "title_original": "How Intentful uses dots to make more time for growth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/intentful-dots",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -793,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,90 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
-      }
-    },
-    {
-      "story_id": "story_fe54bd764bcb",
-      "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-      "url": "https://openai.com/business/customer-stories/ifood",
-      "primary_url": "https://openai.com/business/customer-stories/ifood",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fc26d1c0005bd618257f207d84acab0ed93e99b5",
-          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
-          "title_en": "How iFood scales coding agents across 15,000 repositories",
-          "title_original": "How iFood scales coding agents across 15,000 repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/ifood",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fc26d1c0005bd618257f207d84acab0ed93e99b5",
-          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
-          "title_en": "How iFood scales coding agents across 15,000 repositories",
-          "title_original": "How iFood scales coding agents across 15,000 repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/ifood",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "fc26d1c0005bd618257f207d84acab0ed93e99b5",
-        "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-        "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
-        "title_en": "How iFood scales coding agents across 15,000 repositories",
-        "title_original": "How iFood scales coding agents across 15,000 repositories",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/ifood",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -957,15 +655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8061,
+        "recency": 0.7907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1038,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7941,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1119,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7941,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1315,15 +1013,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6093,
-      "importance": 0.6093,
-      "importance_score": 0.6093,
+      "score": 0.6061,
+      "importance": 0.6061,
+      "importance_score": 0.6061,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9363,
+        "recency": 0.9184,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1348,7 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1539,15 +1237,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5993,
-      "importance": 0.5993,
-      "importance_score": 0.5993,
+      "score": 0.5962,
+      "importance": 0.5962,
+      "importance_score": 0.5962,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8804,
+        "recency": 0.8635,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1572,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1620,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7941,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1653,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1759,15 +1457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9582,
+        "recency": 0.9398,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1792,7 +1490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1898,15 +1596,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5523,
+      "importance": 0.5523,
+      "importance_score": 0.5523,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9149,
+        "recency": 0.8974,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1931,7 +1629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     },
     {
@@ -1979,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7842,
+        "recency": 0.7691,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2012,7 +1710,476 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T23:19:17.567739Z"
+        "scored_at": "2026-11-25T00:39:35.813520Z"
+      }
+    },
+    {
+      "story_id": "story_415acf837f45",
+      "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "primary_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "source": "michaelharley.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": null,
+          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "michaelharley.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T13:40:57.654000Z"
+        },
+        {
+          "id": "3d599aab23e42e2b58a9534a4192d3dc002158d2",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T12:40:15Z"
+        },
+        {
+          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
+          "title": "LLM 代理人为他们的母公司工作，而不是为您工作 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理人为他们的母公司工作，而不是为您工作",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50627340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T12:40:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "michaelharley.net"
+      ],
+      "items": [
+        {
+          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": null,
+          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "michaelharley.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T13:40:57.654000Z"
+        },
+        {
+          "id": "3d599aab23e42e2b58a9534a4192d3dc002158d2",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T12:40:15Z"
+        },
+        {
+          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
+          "title": "LLM 代理人为他们的母公司工作，而不是为您工作 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理人为他们的母公司工作，而不是为您工作",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50627340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T12:40:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8536,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T12:40:15Z",
+      "latest_at": "2026-11-24T13:40:57.654000Z",
+      "primary_item": {
+        "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+        "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "title_en": null,
+        "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+        "source": "michaelharley.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T00:39:35.813520Z"
+      }
+    },
+    {
+      "story_id": "story_817d9436c9d3",
+      "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "primary_url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "57e0268c9794e6a0ef2657dc83436662271451b2",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": null,
+          "title_original": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:04:55.975000Z"
+        },
+        {
+          "id": "a1c443b23f351d141815e21803ced0fd3868c9f1",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？ / Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_original": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T16:45:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "57e0268c9794e6a0ef2657dc83436662271451b2",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": null,
+          "title_original": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:04:55.975000Z"
+        },
+        {
+          "id": "a1c443b23f351d141815e21803ced0fd3868c9f1",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？ / Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_original": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T16:45:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9362,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T16:45:44Z",
+      "latest_at": "2026-11-24T20:04:55.975000Z",
+      "primary_item": {
+        "id": "57e0268c9794e6a0ef2657dc83436662271451b2",
+        "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+        "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+        "title_en": null,
+        "title_original": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T00:39:35.813520Z"
+      }
+    },
+    {
+      "story_id": "story_bb5fe44a7643",
+      "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+      "url": "https://protocolis.co/paper",
+      "primary_url": "https://protocolis.co/paper",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4c9dbf142ee50db0433f28ee483f45c4b9a29209",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://protocolis.co/paper",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T19:12:02Z"
+        },
+        {
+          "id": "ccf4525f6e45cb65e1452109e3e066a0a01aa066",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50632998",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T19:12:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4c9dbf142ee50db0433f28ee483f45c4b9a29209",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://protocolis.co/paper",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T19:12:02Z"
+        },
+        {
+          "id": "ccf4525f6e45cb65e1452109e3e066a0a01aa066",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50632998",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T19:12:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T19:12:02Z",
+      "latest_at": "2026-11-24T19:12:02Z",
+      "primary_item": {
+        "id": "4c9dbf142ee50db0433f28ee483f45c4b9a29209",
+        "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+        "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+        "title_en": "Compiling web applications into verified operations for AI agents",
+        "title_original": "Compiling web applications into verified operations for AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://protocolis.co/paper",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T00:39:35.813520Z"
+      }
+    },
+    {
+      "story_id": "story_623f64f60bd6",
+      "title": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "primary_url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_zh": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师",
+          "title_en": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_original": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T17:00:55Z"
+        },
+        {
+          "id": "c0908ec61e883e9fc90114b7319bd9850c972153",
+          "title": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_zh": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师",
+          "title_en": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_original": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50631041",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T17:00:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_zh": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师",
+          "title_en": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_original": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T17:00:55Z"
+        },
+        {
+          "id": "c0908ec61e883e9fc90114b7319bd9850c972153",
+          "title": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_zh": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师",
+          "title_en": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title_original": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50631041",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T17:00:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8957,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T17:00:55Z",
+      "latest_at": "2026-11-24T17:00:55Z",
+      "primary_item": {
+        "id": "18b52778464e88fa85742d37d1831981202beda2",
+        "title": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "title_zh": "Weave (YC W25) 招聘 ML、AI、产品及设计工程师",
+        "title_en": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "title_original": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jobs.ashbyhq.com/weave-os",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T00:39:35.813520Z"
       }
     }
   ]
