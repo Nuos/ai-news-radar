@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 01:19:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 02:23:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization</title>
@@ -40,6 +40,46 @@
 <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险</title>
+<link>https://www.aibase.com/news/32537</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32537</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 02:23:20 +0000</pubDate>
+</item>
+<item>
+<title>Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位</title>
+<link>https://www.aibase.com/news/32538</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32538</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 02:23:20 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看</title>
+<link>https://www.aibase.com/news/32535</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32535</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 02:23:20 +0000</pubDate>
+</item>
+<item>
+<title>SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租</title>
+<link>https://www.aibase.com/news/32536</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32536</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 02:23:20 +0000</pubDate>
+</item>
+<item>
+<title>亚马逊与Meta谈判，考虑开放Muse AI代理购物</title>
+<link>https://www.aibase.com/news/32539</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32539</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 02:23:20 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限</title>
 <link>https://www.aibase.com/news/32533</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32533</guid>
@@ -56,38 +96,6 @@
 <pubDate>Thu, 26 Nov 2026 01:19:11 +0000</pubDate>
 </item>
 <item>
-<title>谷歌为 Gemini 推出新隐私设置：聊天记录可独立保留，是否用于 AI 训练由用户说了算</title>
-<link>https://www.aibase.com/news/32531</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32531</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 10:19:55 +0000</pubDate>
-</item>
-<item>
-<title>谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练</title>
-<link>https://www.aibase.com/news/32532</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32532</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 10:19:55 +0000</pubDate>
-</item>
-<item>
-<title>小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加</title>
-<link>https://www.aibase.com/news/32528</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32528</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 09:20:47 +0000</pubDate>
-</item>
-<item>
-<title>小鹏IRON人形机器人计划2027年二季度发布，1月启动硬件量产</title>
-<link>https://www.aibase.com/news/32530</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32530</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 09:20:47 +0000</pubDate>
-</item>
-<item>
 <title>根据LLM评估的重要性排名的数学领域顶级未解问题</title>
 <link>https://www.proofatlas.ai/open-problems</link>
 <guid isPermaLink="true">https://www.proofatlas.ai/open-problems</guid>
@@ -102,14 +110,6 @@
 <description>github.com</description>
 <category>多源热议</category>
 <pubDate>Wed, 25 Nov 2026 22:55:35 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉</title>
-<link>https://www.aibase.com/news/32527</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32527</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 08:23:28 +0000</pubDate>
 </item>
 <item>
 <title>《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features</title>
@@ -136,12 +136,12 @@
 <pubDate>Wed, 25 Nov 2026 06:27:43 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI、Anthropic 内部讨论"停训"：前沿模型强到不敢发，员工担忧安全风险失控</title>
-<link>https://www.aibase.com/news/32526</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32526</guid>
+<title>谷歌为 Gemini 推出新隐私设置：聊天记录可独立保留，是否用于 AI 训练由用户说了算</title>
+<link>https://www.aibase.com/news/32531</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32531</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 07:20:27 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 10:19:55 +0000</pubDate>
 </item>
 <item>
 <title>[VPS] 受够了 Anthropic</title>
@@ -152,20 +152,20 @@
 <pubDate>Wed, 25 Nov 2026 11:16:15 +0000</pubDate>
 </item>
 <item>
-<title>亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座</title>
-<link>https://www.aibase.com/news/32524</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32524</guid>
+<title>谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练</title>
+<link>https://www.aibase.com/news/32532</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32532</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 07:20:27 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 10:19:55 +0000</pubDate>
 </item>
 <item>
-<title>直接管理60人!黄仁勋为何不愿为英伟达制定接班计划</title>
-<link>https://www.aibase.com/news/32525</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32525</guid>
+<title>小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加</title>
+<link>https://www.aibase.com/news/32528</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32528</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 07:20:27 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 09:20:47 +0000</pubDate>
 </item>
 </channel>
 </rss>
