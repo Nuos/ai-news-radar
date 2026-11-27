@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:20:21.801936Z",
+  "generated_at": "2026-11-27T10:19:07.215592Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7308,
+        "recency": 0.7205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
+      }
+    },
+    {
+      "story_id": "story_f707740900a2",
+      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+      "url": "https://www.aibase.com/news/32580",
+      "primary_url": "https://www.aibase.com/news/32580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T10:19:07.215592Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T10:19:07.215592Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T10:19:07.215592Z",
+      "latest_at": "2026-11-27T10:19:07.215592Z",
+      "primary_item": {
+        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_en": null,
+        "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -131,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -213,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -295,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -377,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -459,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -541,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,89 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
-      }
-    },
-    {
-      "story_id": "story_8f35bb437032",
-      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-      "url": "https://www.aibase.com/news/32573",
-      "primary_url": "https://www.aibase.com/news/32573",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:23:06.888465Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:23:06.888465Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9863,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:23:06.888465Z",
-      "latest_at": "2026-11-27T08:23:06.888465Z",
-      "primary_item": {
-        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_en": null,
-        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32573",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -763,15 +763,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5687,
-      "importance": 0.5687,
-      "importance_score": 0.5687,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9885,
+        "recency": 0.9746,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -796,30 +796,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
-      "story_id": "story_29d98f0448ca",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
+      "story_id": "story_8f35bb437032",
+      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+      "url": "https://www.aibase.com/news/32573",
+      "primary_url": "https://www.aibase.com/news/32573",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
+          "url": "https://www.aibase.com/news/32573",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T07:20:41.805993Z"
+          "published_at": "2026-11-27T08:23:06.888465Z"
         }
       ],
       "source_count": 1,
@@ -828,31 +828,31 @@
       ],
       "items": [
         {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
+          "url": "https://www.aibase.com/news/32573",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T07:20:41.805993Z"
+          "published_at": "2026-11-27T08:23:06.888465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -860,17 +860,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T07:20:41.805993Z",
-      "latest_at": "2026-11-27T07:20:41.805993Z",
+      "earliest_at": "2026-11-27T08:23:06.888465Z",
+      "latest_at": "2026-11-27T08:23:06.888465Z",
       "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
         "title_en": null,
-        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32571",
+        "url": "https://www.aibase.com/news/32573",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -878,7 +878,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -984,15 +984,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.867,
+        "recency": 0.8549,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1017,146 +1017,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
-      "story_id": "story_dd12e46887a8",
-      "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-      "primary_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-      "source": "techstackups.com",
-      "source_name": "Buzzing",
+      "story_id": "story_fb08618e010b",
+      "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": null,
-          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "techstackups.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T19:27:56.609000Z"
-        },
-        {
-          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-26T09:44:23Z"
+          "published_at": "2026-11-27T08:28:08Z"
         },
         {
-          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
-          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50653477",
+          "url": "https://news.ycombinator.com/item?id=50664325",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T09:44:23Z"
+          "published_at": "2026-11-27T08:28:08Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews",
-        "techstackups.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": null,
-          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "techstackups.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T19:27:56.609000Z"
-        },
-        {
-          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-26T09:44:23Z"
+          "published_at": "2026-11-27T08:28:08Z"
         },
         {
-          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
-          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50653477",
+          "url": "https://news.ycombinator.com/item?id=50664325",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T09:44:23Z"
+          "published_at": "2026-11-27T08:28:08Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8184,
-        "story_heat": 0.5
+        "recency": 0.9736,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T09:44:23Z",
-      "latest_at": "2026-11-26T19:27:56.609000Z",
+      "earliest_at": "2026-11-27T08:28:08Z",
+      "latest_at": "2026-11-27T08:28:08Z",
       "primary_item": {
-        "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-        "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-        "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-        "title_en": null,
-        "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+        "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+        "title_zh": "Claude 破坏 SOTA ML 研究任务",
+        "title_en": "Claude sabotaging SOTA ML research tasks",
+        "title_original": "Claude sabotaging SOTA ML research tasks",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-        "source": "techstackups.com",
-        "source_name": "Buzzing"
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -1262,15 +1233,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8059,
+        "recency": 0.7946,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1295,140 +1266,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
-      "story_id": "story_68e86bf40941",
-      "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z"
-        },
-        {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z"
-        },
-        {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9384,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T04:56:18Z",
-      "latest_at": "2026-11-27T04:56:18Z",
-      "primary_item": {
-        "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-        "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-        "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-        "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-        "title_original": "\"What's Claude's Fursona?\" and Other Questions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
-      }
-    },
-    {
-      "story_id": "story_100780690ce0",
-      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-      "url": "https://www.aibase.com/news/32569",
-      "primary_url": "https://www.aibase.com/news/32569",
+      "story_id": "story_29d98f0448ca",
+      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+      "url": "https://www.aibase.com/news/32571",
+      "primary_url": "https://www.aibase.com/news/32571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
+          "url": "https://www.aibase.com/news/32571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T06:28:26.404696Z"
+          "published_at": "2026-11-27T07:20:41.805993Z"
         }
       ],
       "source_count": 1,
@@ -1437,31 +1298,31 @@
       ],
       "items": [
         {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
+          "url": "https://www.aibase.com/news/32571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T06:28:26.404696Z"
+          "published_at": "2026-11-27T07:20:41.805993Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1469,17 +1330,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T06:28:26.404696Z",
-      "latest_at": "2026-11-27T06:28:26.404696Z",
+      "earliest_at": "2026-11-27T07:20:41.805993Z",
+      "latest_at": "2026-11-27T07:20:41.805993Z",
       "primary_item": {
-        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "title_en": null,
-        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32569",
+        "url": "https://www.aibase.com/news/32571",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1487,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -1564,15 +1425,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5123,
-      "importance": 0.5123,
-      "importance_score": 0.5123,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8139,
+        "recency": 0.8025,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1597,7 +1458,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
+      }
+    },
+    {
+      "story_id": "story_68e86bf40941",
+      "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T04:56:18Z"
+        },
+        {
+          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50662933",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T04:56:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T04:56:18Z"
+        },
+        {
+          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50662933",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T04:56:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9252,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T04:56:18Z",
+      "latest_at": "2026-11-27T04:56:18Z",
+      "primary_item": {
+        "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+        "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+        "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+        "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+        "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T10:22:52.345821Z"
+      }
+    },
+    {
+      "story_id": "story_100780690ce0",
+      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+      "url": "https://www.aibase.com/news/32569",
+      "primary_url": "https://www.aibase.com/news/32569",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_en": null,
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:28:26.404696Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_en": null,
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:28:26.404696Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.946,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T06:28:26.404696Z",
+      "latest_at": "2026-11-27T06:28:26.404696Z",
+      "primary_item": {
+        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_en": null,
+        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32569",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -1674,15 +1727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9091,
+        "recency": 0.8963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1707,7 +1760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -1755,15 +1808,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1789,7 +1842,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     },
     {
@@ -1866,15 +1919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8745,
+        "recency": 0.8622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1899,89 +1952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
-      }
-    },
-    {
-      "story_id": "story_2d7dd76db7c7",
-      "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-      "url": "https://www.aibase.com/news/32567",
-      "primary_url": "https://www.aibase.com/news/32567",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "title_zh": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "title_en": null,
-          "title_original": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:21:19.421648Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "title_zh": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "title_en": null,
-          "title_original": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:21:19.421648Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9306,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:21:19.421648Z",
-      "latest_at": "2026-11-27T04:21:19.421648Z",
-      "primary_item": {
-        "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-        "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-        "title_zh": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-        "title_en": null,
-        "title_original": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32567",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:24:09.339481Z"
+        "scored_at": "2026-11-27T10:22:52.345821Z"
       }
     }
   ]
