@@ -5,7 +5,7 @@
 <link>https://nuos.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 03:21:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 04:21:19 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://nuos.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -22,6 +22,22 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？</title>
+<link>https://www.aibase.com/news/32567</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32567</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 04:21:19 +0000</pubDate>
+</item>
+<item>
+<title>通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的</title>
+<link>https://www.aibase.com/news/32568</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32568</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 04:21:19 +0000</pubDate>
 </item>
 <item>
 <title>微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”</title>
@@ -64,22 +80,6 @@
 <pubDate>Fri, 27 Nov 2026 02:23:33 +0000</pubDate>
 </item>
 <item>
-<title>路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力</title>
-<link>https://www.aibase.com/news/32563</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32563</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 02:23:33 +0000</pubDate>
-</item>
-<item>
-<title>AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手</title>
-<link>https://www.aibase.com/news/32560</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32560</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 01:19:10 +0000</pubDate>
-</item>
-<item>
 <title>AI 让自主托管重新变得有趣</title>
 <link>https://janlukas.blog/posts/ai-self-hosting</link>
 <guid isPermaLink="true">https://janlukas.blog/posts/ai-self-hosting</guid>
@@ -96,12 +96,12 @@
 <pubDate>Thu, 26 Nov 2026 21:19:40 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重</title>
-<link>https://www.aibase.com/news/32558</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32558</guid>
+<title>路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力</title>
+<link>https://www.aibase.com/news/32563</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32563</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 01:19:10 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 02:23:33 +0000</pubDate>
 </item>
 <item>
 <title>谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件</title>
@@ -136,17 +136,9 @@
 <pubDate>Thu, 26 Nov 2026 19:44:31 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%</title>
-<link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-<guid isPermaLink="true">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
-<description>twitter.com</description>
-<category>多源热议</category>
-<pubDate>Thu, 26 Nov 2026 06:07:38 +0000</pubDate>
-</item>
-<item>
-<title>​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%</title>
-<link>https://www.aibase.com/news/32559</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32559</guid>
+<title>AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手</title>
+<link>https://www.aibase.com/news/32560</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32560</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 27 Nov 2026 01:19:10 +0000</pubDate>
@@ -166,6 +158,14 @@
 <description>hackernews</description>
 <category>值得关注</category>
 <pubDate>Thu, 26 Nov 2026 19:04:50 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重</title>
+<link>https://www.aibase.com/news/32558</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32558</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 01:19:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
