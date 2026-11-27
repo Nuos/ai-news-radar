@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:19:10.183399Z",
+  "generated_at": "2026-11-27T02:23:33.323513Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8205,
+        "recency": 0.8079,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7467,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,335 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
+      }
+    },
+    {
+      "story_id": "story_d64538dcce5d",
+      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+      "url": "https://www.aibase.com/news/32564",
+      "primary_url": "https://www.aibase.com/news/32564",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_en": null,
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_en": null,
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T02:23:33.323513Z",
+      "latest_at": "2026-11-27T02:23:33.323513Z",
+      "primary_item": {
+        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_en": null,
+        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32564",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T02:27:28.857117Z"
+      }
+    },
+    {
+      "story_id": "story_643bb822f95d",
+      "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+      "url": "https://www.aibase.com/news/32561",
+      "primary_url": "https://www.aibase.com/news/32561",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
+          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "title_zh": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "title_en": null,
+          "title_original": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32561",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
+          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "title_zh": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "title_en": null,
+          "title_original": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32561",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T02:23:33.323513Z",
+      "latest_at": "2026-11-27T02:23:33.323513Z",
+      "primary_item": {
+        "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
+        "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+        "title_zh": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+        "title_en": null,
+        "title_original": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32561",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T02:27:28.857117Z"
+      }
+    },
+    {
+      "story_id": "story_d2f0b1c1d7f9",
+      "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+      "url": "https://www.aibase.com/news/32562",
+      "primary_url": "https://www.aibase.com/news/32562",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
+          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "title_zh": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "title_en": null,
+          "title_original": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
+          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "title_zh": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "title_en": null,
+          "title_original": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T02:23:33.323513Z",
+      "latest_at": "2026-11-27T02:23:33.323513Z",
+      "primary_item": {
+        "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
+        "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+        "title_zh": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+        "title_en": null,
+        "title_original": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32562",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T02:27:28.857117Z"
+      }
+    },
+    {
+      "story_id": "story_5c0c8dfddfb6",
+      "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+      "url": "https://www.aibase.com/news/32563",
+      "primary_url": "https://www.aibase.com/news/32563",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
+          "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "title_zh": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "title_en": null,
+          "title_original": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32563",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
+          "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "title_zh": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "title_en": null,
+          "title_original": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32563",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:23:33.323513Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T02:23:33.323513Z",
+      "latest_at": "2026-11-27T02:23:33.323513Z",
+      "primary_item": {
+        "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
+        "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+        "title_zh": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+        "title_en": null,
+        "title_original": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32563",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -214,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -296,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -378,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,251 +740,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
-      }
-    },
-    {
-      "story_id": "story_6059b9c8ecf7",
-      "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-      "url": "https://www.aibase.com/news/32557",
-      "primary_url": "https://www.aibase.com/news/32557",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
-          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-          "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-          "title_en": null,
-          "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32557",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T01:19:10.183399Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
-          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-          "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-          "title_en": null,
-          "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32557",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T01:19:10.183399Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T01:19:10.183399Z",
-      "latest_at": "2026-11-27T01:19:10.183399Z",
-      "primary_item": {
-        "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
-        "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-        "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-        "title_en": null,
-        "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32557",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
-      }
-    },
-    {
-      "story_id": "story_fe2660f2bc12",
-      "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-      "url": "https://www.aibase.com/news/32556",
-      "primary_url": "https://www.aibase.com/news/32556",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "title_zh": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "title_en": null,
-          "title_original": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T10:19:29.007545Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "title_zh": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "title_en": null,
-          "title_original": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T10:19:29.007545Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8053,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T10:19:29.007545Z",
-      "latest_at": "2026-11-26T10:19:29.007545Z",
-      "primary_item": {
-        "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-        "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-        "title_zh": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-        "title_en": null,
-        "title_original": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32556",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
-      }
-    },
-    {
-      "story_id": "story_c75eda73f1b0",
-      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-      "url": "https://www.aibase.com/news/32554",
-      "primary_url": "https://www.aibase.com/news/32554",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_en": null,
-          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:20:36.038344Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_en": null,
-          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:20:36.038344Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.794,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T09:20:36.038344Z",
-      "latest_at": "2026-11-26T09:20:36.038344Z",
-      "primary_item": {
-        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "title_en": null,
-        "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32554",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -762,15 +846,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.566,
-      "importance": 0.566,
-      "importance_score": 0.566,
+      "score": 0.5633,
+      "importance": 0.5633,
+      "importance_score": 0.5633,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9735,
+        "recency": 0.9585,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -795,7 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -901,15 +985,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5581,
+      "importance": 0.5581,
+      "importance_score": 0.5581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9295,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -934,7 +1018,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
+      }
+    },
+    {
+      "story_id": "story_6059b9c8ecf7",
+      "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+      "url": "https://www.aibase.com/news/32557",
+      "primary_url": "https://www.aibase.com/news/32557",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_en": null,
+          "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32557",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T01:19:10.183399Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_en": null,
+          "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32557",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T01:19:10.183399Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T01:19:10.183399Z",
+      "latest_at": "2026-11-27T01:19:10.183399Z",
+      "primary_item": {
+        "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+        "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "title_en": null,
+        "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32557",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -1040,15 +1206,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9189,
+        "recency": 0.9048,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1073,7 +1239,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -1179,15 +1345,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9049,
+        "recency": 0.891,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1212,125 +1378,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
-      "story_id": "story_8467615e6b8b",
-      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-      "url": "https://www.aibase.com/news/32555",
-      "primary_url": "https://www.aibase.com/news/32555",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_en": null,
-          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:20:36.038344Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_en": null,
-          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:20:36.038344Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.794,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T09:20:36.038344Z",
-      "latest_at": "2026-11-26T09:20:36.038344Z",
-      "primary_item": {
-        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "title_en": null,
-        "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32555",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
-      }
-    },
-    {
-      "story_id": "story_6110b13e34ce",
-      "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
-      "url": "https://news.ycombinator.com/item?id=50658910",
-      "primary_url": "https://news.ycombinator.com/item?id=50658910",
+      "story_id": "story_af489d01740e",
+      "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://news.ycombinator.com/item?id=50661218",
+      "primary_url": "https://news.ycombinator.com/item?id=50661218",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "806629a613815ea9acd3da67dd878a58d9f30995",
-          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
-          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
-          "title_en": "Top-cited AI scientists at four US companies compared",
-          "title_original": "Top-cited AI scientists at four US companies compared",
+          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50658910",
+          "url": "https://news.ycombinator.com/item?id=50661218",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T19:44:31Z"
+          "published_at": "2026-11-27T00:03:18Z"
         },
         {
-          "id": "a055e2013493ba9d410f1bbad34761fdde401991",
-          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
-          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
-          "title_en": "Top-cited AI scientists at four US companies compared",
-          "title_original": "Top-cited AI scientists at four US companies compared",
+          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-26T19:44:31Z"
+          "published_at": "2026-11-27T00:03:18Z"
         }
       ],
       "source_count": 2,
@@ -1340,62 +1425,62 @@
       ],
       "items": [
         {
-          "id": "806629a613815ea9acd3da67dd878a58d9f30995",
-          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
-          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
-          "title_en": "Top-cited AI scientists at four US companies compared",
-          "title_original": "Top-cited AI scientists at four US companies compared",
+          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50658910",
+          "url": "https://news.ycombinator.com/item?id=50661218",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T19:44:31Z"
+          "published_at": "2026-11-27T00:03:18Z"
         },
         {
-          "id": "a055e2013493ba9d410f1bbad34761fdde401991",
-          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
-          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
-          "title_en": "Top-cited AI scientists at four US companies compared",
-          "title_original": "Top-cited AI scientists at four US companies compared",
+          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-26T19:44:31Z"
+          "published_at": "2026-11-27T00:03:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9226,
+        "recency": 0.9668,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T19:44:31Z",
-      "latest_at": "2026-11-26T19:44:31Z",
+      "earliest_at": "2026-11-27T00:03:18Z",
+      "latest_at": "2026-11-27T00:03:18Z",
       "primary_item": {
-        "id": "806629a613815ea9acd3da67dd878a58d9f30995",
-        "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
-        "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
-        "title_en": "Top-cited AI scientists at four US companies compared",
-        "title_original": "Top-cited AI scientists at four US companies compared",
+        "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+        "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+        "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+        "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50658910",
+        "url": "https://news.ycombinator.com/item?id=50661218",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1403,7 +1488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -1509,15 +1594,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7579,
+        "recency": 0.7463,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1542,88 +1627,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
-      }
-    },
-    {
-      "story_id": "story_03c37be88a43",
-      "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-      "url": "https://www.aibase.com/news/32553",
-      "primary_url": "https://www.aibase.com/news/32553",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "title_zh": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "title_en": null,
-          "title_original": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T08:23:21.391853Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "title_zh": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "title_en": null,
-          "title_original": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T08:23:21.391853Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7831,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T08:23:21.391853Z",
-      "latest_at": "2026-11-26T08:23:21.391853Z",
-      "primary_item": {
-        "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-        "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-        "title_zh": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-        "title_en": null,
-        "title_original": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32553",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
@@ -1700,15 +1704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8281,
+        "recency": 0.8154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1733,30 +1737,140 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
-      "story_id": "story_5fd0e2e1a6ae",
-      "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-      "url": "https://www.aibase.com/news/32551",
-      "primary_url": "https://www.aibase.com/news/32551",
+      "story_id": "story_6110b13e34ce",
+      "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+      "url": "https://news.ycombinator.com/item?id=50658910",
+      "primary_url": "https://news.ycombinator.com/item?id=50658910",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "806629a613815ea9acd3da67dd878a58d9f30995",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50658910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T19:44:31Z"
+        },
+        {
+          "id": "a055e2013493ba9d410f1bbad34761fdde401991",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T19:44:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "806629a613815ea9acd3da67dd878a58d9f30995",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50658910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T19:44:31Z"
+        },
+        {
+          "id": "a055e2013493ba9d410f1bbad34761fdde401991",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T19:44:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9084,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T19:44:31Z",
+      "latest_at": "2026-11-26T19:44:31Z",
+      "primary_item": {
+        "id": "806629a613815ea9acd3da67dd878a58d9f30995",
+        "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+        "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+        "title_en": "Top-cited AI scientists at four US companies compared",
+        "title_original": "Top-cited AI scientists at four US companies compared",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50658910",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T02:27:28.857117Z"
+      }
+    },
+    {
+      "story_id": "story_fe2660f2bc12",
+      "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+      "url": "https://www.aibase.com/news/32556",
+      "primary_url": "https://www.aibase.com/news/32556",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
-          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-          "title_zh": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "title_zh": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
           "title_en": null,
-          "title_original": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "title_original": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32551",
+          "url": "https://www.aibase.com/news/32556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T08:23:21.391853Z"
+          "published_at": "2026-11-26T10:19:29.007545Z"
         }
       ],
       "source_count": 1,
@@ -1765,48 +1879,48 @@
       ],
       "items": [
         {
-          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
-          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-          "title_zh": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "title_zh": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
           "title_en": null,
-          "title_original": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "title_original": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32551",
+          "url": "https://www.aibase.com/news/32556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T08:23:21.391853Z"
+          "published_at": "2026-11-26T10:19:29.007545Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-26T08:23:21.391853Z",
-      "latest_at": "2026-11-26T08:23:21.391853Z",
+      "earliest_at": "2026-11-26T10:19:29.007545Z",
+      "latest_at": "2026-11-26T10:19:29.007545Z",
       "primary_item": {
-        "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
-        "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-        "title_zh": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+        "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+        "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+        "title_zh": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
         "title_en": null,
-        "title_original": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+        "title_original": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32551",
+        "url": "https://www.aibase.com/news/32556",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1814,30 +1928,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     },
     {
-      "story_id": "story_f056c8e011c8",
-      "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-      "url": "https://www.aibase.com/news/32550",
-      "primary_url": "https://www.aibase.com/news/32550",
+      "story_id": "story_c75eda73f1b0",
+      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+      "url": "https://www.aibase.com/news/32554",
+      "primary_url": "https://www.aibase.com/news/32554",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
-          "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32550",
+          "url": "https://www.aibase.com/news/32554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T08:23:21.391853Z"
+          "published_at": "2026-11-26T09:20:36.038344Z"
         }
       ],
       "source_count": 1,
@@ -1846,48 +1960,48 @@
       ],
       "items": [
         {
-          "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
-          "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32550",
+          "url": "https://www.aibase.com/news/32554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T08:23:21.391853Z"
+          "published_at": "2026-11-26T09:20:36.038344Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-26T08:23:21.391853Z",
-      "latest_at": "2026-11-26T08:23:21.391853Z",
+      "earliest_at": "2026-11-26T09:20:36.038344Z",
+      "latest_at": "2026-11-26T09:20:36.038344Z",
       "primary_item": {
-        "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
-        "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-        "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
         "title_en": null,
-        "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+        "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32550",
+        "url": "https://www.aibase.com/news/32554",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1895,88 +2009,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
-      }
-    },
-    {
-      "story_id": "story_8d9adf05ae74",
-      "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-      "url": "https://www.aibase.com/news/32549",
-      "primary_url": "https://www.aibase.com/news/32549",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "title_en": null,
-          "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T07:20:29.305399Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "title_en": null,
-          "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T07:20:29.305399Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7714,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T07:20:29.305399Z",
-      "latest_at": "2026-11-26T07:20:29.305399Z",
-      "primary_item": {
-        "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-        "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-        "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-        "title_en": null,
-        "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32549",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T01:23:05.073007Z"
+        "scored_at": "2026-11-27T02:27:28.857117Z"
       }
     }
   ]
