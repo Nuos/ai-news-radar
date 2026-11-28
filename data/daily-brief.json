@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-28T13:18:19.711279Z",
+  "generated_at": "2026-11-28T14:18:17.180516Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_b4315fb505b4",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.881,
+        "recency": 0.8684,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,7 +139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -216,15 +216,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9806,
+        "recency": 0.9666,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -249,7 +249,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
+      }
+    },
+    {
+      "story_id": "story_36099ce1165f",
+      "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "f6b4dbc387773f91c2b909a26c886912a5db35b0",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-28T10:37:40Z"
+        },
+        {
+          "id": "a952eb8d2a216a209065a534f55d6f8882b98302",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50676390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T10:37:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f6b4dbc387773f91c2b909a26c886912a5db35b0",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-28T10:37:40Z"
+        },
+        {
+          "id": "a952eb8d2a216a209065a534f55d6f8882b98302",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50676390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T10:37:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9483,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T10:37:40Z",
+      "latest_at": "2026-11-28T10:37:40Z",
+      "primary_item": {
+        "id": "f6b4dbc387773f91c2b909a26c886912a5db35b0",
+        "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+        "title_zh": "Claude代码破坏：初步基准测试",
+        "title_en": "Claude Code sabotage: preliminary benchmarking",
+        "title_original": "Claude Code sabotage: preliminary benchmarking",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -355,15 +465,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8001,
+        "recency": 0.7887,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -388,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -494,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7552,
+        "recency": 0.7444,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -527,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -604,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
+      "score": 0.5013,
+      "importance": 0.5013,
+      "importance_score": 0.5013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7639,
+        "recency": 0.753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -637,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -714,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8733,
+        "recency": 0.8608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,7 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -824,15 +934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7832,
+        "recency": 0.772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,7 +967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -934,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7677,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -967,7 +1077,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     },
     {
@@ -1044,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7239,
+        "recency": 0.7135,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1077,7 +1187,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T13:22:07.848125Z"
+        "scored_at": "2026-11-28T14:22:03.424042Z"
       }
     }
   ]
