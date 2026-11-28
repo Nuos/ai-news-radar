@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-28T12:22:41.722382Z",
+  "generated_at": "2026-11-28T13:18:19.711279Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_b4315fb505b4",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
+      "score": 0.5494,
+      "importance": 0.5494,
+      "importance_score": 0.5494,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8929,
+        "recency": 0.881,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,7 +139,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
+      }
+    },
+    {
+      "story_id": "story_2fe9b77dee4d",
+      "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f95907298469721541f72b14a848f684b1649395",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T11:57:04Z"
+        },
+        {
+          "id": "7f1d8ec8fabba4848138f1a532ab3062b56ddafe",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50676752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T11:57:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f95907298469721541f72b14a848f684b1649395",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T11:57:04Z"
+        },
+        {
+          "id": "7f1d8ec8fabba4848138f1a532ab3062b56ddafe",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50676752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T11:57:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T11:57:04Z",
+      "latest_at": "2026-11-28T11:57:04Z",
+      "primary_item": {
+        "id": "f95907298469721541f72b14a848f684b1649395",
+        "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+        "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     },
     {
@@ -245,15 +355,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8109,
+        "recency": 0.8001,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -278,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     },
     {
@@ -384,15 +494,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7654,
+        "recency": 0.7552,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -417,117 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
-      }
-    },
-    {
-      "story_id": "story_e0f2525a61f5",
-      "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
-      "url": "https://twitter.com/jakozloski/status/2126281598517576049",
-      "primary_url": "https://twitter.com/jakozloski/status/2126281598517576049",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "4e09185139332bb8521dedadb3acc6f88ce044be",
-          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
-          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
-          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
-          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jakozloski/status/2126281598517576049",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-28T03:55:15Z"
-        },
-        {
-          "id": "f039cadb8e4e255c90e523c6f6c41f3155b0de3d",
-          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
-          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
-          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
-          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50674489",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-28T03:55:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4e09185139332bb8521dedadb3acc6f88ce044be",
-          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
-          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
-          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
-          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jakozloski/status/2126281598517576049",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-28T03:55:15Z"
-        },
-        {
-          "id": "f039cadb8e4e255c90e523c6f6c41f3155b0de3d",
-          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
-          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
-          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
-          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50674489",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-28T03:55:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.885,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-28T03:55:15Z",
-      "latest_at": "2026-11-28T03:55:15Z",
-      "primary_item": {
-        "id": "4e09185139332bb8521dedadb3acc6f88ce044be",
-        "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
-        "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
-        "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
-        "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://twitter.com/jakozloski/status/2126281598517576049",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7742,
+        "recency": 0.7639,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -637,7 +637,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
+      }
+    },
+    {
+      "story_id": "story_e0f2525a61f5",
+      "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
+      "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+      "primary_url": "https://twitter.com/jakozloski/status/2126281598517576049",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4e09185139332bb8521dedadb3acc6f88ce044be",
+          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
+          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
+          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
+          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T03:55:15Z"
+        },
+        {
+          "id": "f039cadb8e4e255c90e523c6f6c41f3155b0de3d",
+          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
+          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
+          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
+          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50674489",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T03:55:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4e09185139332bb8521dedadb3acc6f88ce044be",
+          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
+          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
+          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
+          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T03:55:15Z"
+        },
+        {
+          "id": "f039cadb8e4e255c90e523c6f6c41f3155b0de3d",
+          "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
+          "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
+          "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
+          "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50674489",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T03:55:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8733,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T03:55:15Z",
+      "latest_at": "2026-11-28T03:55:15Z",
+      "primary_item": {
+        "id": "4e09185139332bb8521dedadb3acc6f88ce044be",
+        "title": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则 / Claude silently added rules to ignore users skintone preferences in our app",
+        "title_zh": "Claude默默地在我们的应用程序中添加了忽略用户肤色偏好的规则",
+        "title_en": "Claude silently added rules to ignore users skintone preferences in our app",
+        "title_original": "Claude silently added rules to ignore users skintone preferences in our app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     },
     {
@@ -714,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7938,
+        "recency": 0.7832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,7 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     },
     {
@@ -824,15 +934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.504,
+      "importance": 0.504,
+      "importance_score": 0.504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.778,
+        "recency": 0.7677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,7 +967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     },
     {
@@ -934,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.4961,
+      "importance": 0.4961,
+      "importance_score": 0.4961,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7337,
+        "recency": 0.7239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -967,7 +1077,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T12:26:33.483119Z"
+        "scored_at": "2026-11-28T13:22:07.848125Z"
       }
     }
   ]
